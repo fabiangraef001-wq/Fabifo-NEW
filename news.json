@@ -1,37 +1,179 @@
 {
-  "updated": "2026-08-02T06:00:00+00:00",
+  "updated": "2026-08-02T20:53+00:00",
   "ticker": {
-    "dax":       {"label": "DAX",        "value": 25650,  "unit": "Pkt.", "change_pct": 1.02,  "history": [24950, 24820, 24690, 24827, 25190, 25400, 25650]},
-    "nasdaq100": {"label": "Nasdaq 100", "value": 28160,  "unit": "Pkt.", "change_pct": 0.65,   "history": [27850, 28100, 27600, 27900, 28050, 27980, 28160]},
-    "sp500":     {"label": "S&P 500",    "value": 7432,   "unit": "Pkt.", "change_pct": 0.23,   "history": [7390, 7410, 7380, 7400, 7420, 7415, 7432]},
-    "brent":     {"label": "Brent-Öl",   "value": 91.4,   "unit": "$",    "change_pct": -5.58,  "history": [76.5, 79.2, 82.4, 100.1, 96.8, 91.38, 91.4]},
-    "gold":      {"label": "Gold",       "value": 3470,   "unit": "$",    "change_pct": 0.3,    "history": [3350, 3390, 3410, 3440, 3460, 3455, 3470]},
-    "eurusd":    {"label": "EUR/USD",    "value": 1.09,   "unit": "",     "change_pct": -0.1,   "history": [1.11, 1.10, 1.10, 1.095, 1.09, 1.088, 1.09]},
-    "fed_rate":  {"label": "Fed-Leitzins", "value": "3,50–3,75", "unit": "%", "change_pct": 0, "history": null},
-    "ecb_rate":  {"label": "EZB-Leitzins", "value": "2,40",       "unit": "%", "change_pct": 0, "history": null}
+    "dax": {
+      "label": "DAX",
+      "value": 25629.2,
+      "unit": "Pkt.",
+      "change_pct": 0.07,
+      "history": [
+        24763.1,
+        25099.0,
+        25361.0,
+        25464.0,
+        25460.5,
+        25612.0,
+        25629.2
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 28274.2,
+      "unit": "Pkt.",
+      "change_pct": 0.6,
+      "history": [
+        28454.8,
+        28128.3,
+        28039.2,
+        27763.1,
+        27192.3,
+        28106.3,
+        28274.2
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7489.7,
+      "unit": "Pkt.",
+      "change_pct": 0.7,
+      "history": [
+        7408.3,
+        7412.0,
+        7413.2,
+        7428.8,
+        7316.1,
+        7437.6,
+        7489.7
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 90.1,
+      "unit": "$",
+      "change_pct": 1.24,
+      "history": [
+        96.8,
+        88.4,
+        84.1,
+        90.7,
+        89.0,
+        90.1
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4107.0,
+      "unit": "$",
+      "change_pct": 0.17,
+      "history": [
+        4067.6,
+        4074.5,
+        4036.3,
+        4034.7,
+        4100.1,
+        4107.0
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1551,
+      "unit": "",
+      "change_pct": 0.23,
+      "history": [
+        1.1377,
+        1.1395,
+        1.1369,
+        1.1387,
+        1.1467,
+        1.1524,
+        1.1551
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
   },
   "hero": {
-    "eyebrow": "WOCHENTHEMA",
-    "title": "Nahost-Konflikt treibt den Ölpreis – Fed und Börsen bleiben in Alarmbereitschaft",
-    "text": "Der andauernde Konflikt zwischen den USA und dem Iran sorgt weiter für kräftige Ausschläge beim Ölpreis. Das hält die Inflationssorgen der US-Notenbank hoch: Die Fed beließ ihren Leitzins Ende Juli zum fünften Mal in Folge unverändert – allerdings mit den meisten Gegenstimmen für eine Zinserhöhung seit 2016. An den Börsen sorgt das für Nervosität, auch wenn DAX und Nasdaq sich zuletzt wieder in Richtung ihrer Rekordstände vorgetastet haben."
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
+    "text": "Etwa eine Woche ist der Terroranschlag auf den Christopher Street Day in Berlin her. Die Wut und Trauer ist groß. Die queere Community hat der Opfer der Tat gedacht. Auch vor dem Roten Rathaus versammelten sich Menschen im Gedenken."
   },
   "columns": {
     "de": [
-      {"source": "Tagesspiegel", "title": "Unruhe an der Spitze der Union", "text": "Kanzler Friedrich Merz ist im Sommerurlaub, doch der Ärger in der CDU über seinen Führungsstil hält an. Nach mehreren Personalquerelen wird in der Partei inzwischen offen über einen möglichen Kanzlerwechsel im Herbst spekuliert."},
-      {"source": "Tagesspiegel", "title": "Streit um die Rente spitzt sich zu", "text": "Mehrere CDU-Ministerpräsidenten stellen sich gegen die geplante Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren – und riskieren damit einen offenen Konflikt mit der eigenen Fraktionsspitze. Eine Einigung ist weiter nicht in Sicht."},
-      {"source": "Tagesspiegel", "title": "Sorge vor neuen Fluchtrouten", "text": "Nach einem Vorfall bei Ceuta wächst die Sorge vor mehr irregulären Einreisen. Fluchtrouten haben sich zunehmend nach Westen verlagert, was den Druck auf die deutsche Migrationspolitik erhöht."},
-      {"source": "ZEW / ifo", "title": "Konjunktur hellt sich vorsichtig auf", "text": "ZEW-Index und ifo-Geschäftsklima sind im Juli gestiegen. Maschinenbau, Chemie und Pharma melden eine Erholung – nur die Autoindustrie bleibt weiter unter Druck."}
+      {
+        "source": "Tagesschau",
+        "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
+        "text": "Etwa eine Woche ist der Terroranschlag auf den Christopher Street Day in Berlin her. Die Wut und Trauer ist groß. Die queere Community hat der Opfer der Tat gedacht. Auch vor dem Roten Rathaus versammelten sich Menschen im Gedenken."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Leben in Prag - zwischen Hitzeschutz und Klimaskepsis",
+        "text": "Tschechien leidet unter der zweiten Hitzewelle des Jahres. Und nach den Waldbränden in Südeuropa wächst auch dort die Sorge vor Feuern. In Prag wurden fast 40 Grad gemessen - doch die Politik tut sich weiterhin schwer, die neue Realität zu akzeptieren. Von M. von Lieben."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Rückkehr aus Ceuta: Ein Nachbarort im Ausnahmezustand",
+        "text": "In Ceuta normalisiert sich die Lage nach dem Massenandrang, ganz anders sieht es im Nachbarort Fnideq aus. Die Menschen kehren erschöpft dorthin zurück, wo alles begann. Eindrücke aus einer Stadt im Ausnahmezustand. Von Stefan Ehlert."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Niedrigwasser der Donau: Ungarn erlebt \"beispiellose Energiekrise\"",
+        "text": "Fast die Hälfte des benötigten Stroms fällt in Ungarn plötzlich weg. Wegen der anhaltenden Hitze muss das Atomkraftwerk Paks abgeschaltet werden. Premier Magyar spricht von einer \"beispiellosen Krise\". Von Clemens Verenkotte."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
+        "text": "Volle Strände, spielende Kinder - und jederzeit droht ein russischer Angriff. In Odessa liegen Sommerleichtigkeit und Kriegsgefahr dicht beieinander. Immer wieder ignorieren Menschen den Luftalarm, mit teils schlimmen Folgen. Von S. Laack."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Bas fordert Union zur Klärung bei \"Rente mit 63\" auf",
+        "text": "Soll die \"Rente mit 63\" weg - oder doch nicht? Darüber gibt es in der Union derzeit Diskussion. Nun fordert SPD-Chefin Bas den Koalitionspartner auf, sich zu positionieren. Die Sozialdemokraten seien bereit, das Rentenpaket aufzuschnüren."
+      }
     ],
     "intl": [
-      {"source": "t-online / dpa", "title": "Nahost-Konflikt bleibt ungelöst", "text": "Der seit Mai andauernde Krieg zwischen den USA/Israel und dem Iran belastet weiter die Weltmärkte. Die für den Öltransport zentrale Straße von Hormus bleibt zeitweise gesperrt, Huthi-Angriffe stören zusätzlich den Schiffsverkehr im Roten Meer. Ende Juli keimte nach mehreren ruhigen Nächten immerhin Hoffnung auf Entspannung auf."},
-      {"source": "t-online", "title": "Ölpreis bleibt Nervositätsbarometer", "text": "Je nach Nachrichtenlage schwankt der Ölpreis derzeit im zweistelligen Prozentbereich – zuletzt ging es nach ruhigeren Nächten um rund 5 % nach unten. Für Anleger bleibt er der wichtigste Frühindikator für neue Eskalationsstufen."},
-      {"source": "NZZ / Handelsblatt", "title": "Neue Zollrunde von Trump", "text": "Nach einer Niederlage vor dem Supreme Court hat Trump im Juli neue Importzölle gegen 60 Handelspartner verhängt, EU und China eingeschlossen. Zusätzlich läuft eine neue Untersuchung gegen die EU – ausgelöst auch durch eine EU-Kartellstrafe gegen Google."}
+      {
+        "source": "Tagesschau",
+        "title": "Philippinische Aktivisten trotzen Chinas Machtanspruch",
+        "text": "Pekings Küstenwache demonstriert im Südchinesischen Meer ihren Machtanspruch. Das bekommen auch Philippiner zu spüren, die sich per Schiff zu den von mehreren Staaten beanspruchten Spratly-Inseln aufgemacht haben. Ulrich Mendgen war mit an Bord."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine-Krieg: Moskau meldet 635 abgefangene Drohnen - mehrere Tote",
+        "text": "Die Ukraine wehrt sich gegen Russlands Angriffskrieg inzwischen verstärkt mit Attacken auf russisches Staatsgebiet. Erneut gerieten dabei offenbar eine Raffinerie und ein Militärplatz ins Visier. Russland und die Ukraine meldeten mehrere Tote."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine und Polen: Wie die Vergangenheit die Nachbarn spalten",
+        "text": "Zwischen Polen und Ukraine ist ein alter Streit über Massaker während des Zweiten Weltkriegs aufgeflammt. Vor Ort zeigt sich, warum das Thema weiter so heikel ist - und wie die Gräben überwunden werden können. Von Stephan Laack."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie Jordanien im Iran-Krieg zwischen die Fronten geriet",
+        "text": "Tourismus ist für Jordanien eine der wichtigsten Einnahmequellen. Doch mit dem Krieg ist vieles weggebrochen. Zuletzt wurde das Land immer öfter zum Angriffsziel - und in der Bevölkerung steigt der Frust über den Partner USA. Von Anne Armbrecht."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Migrationskrise in Ceuta: Wadephul fordert Schutz der EU-Außengrenzen",
+        "text": "Nach dem Andrang Zehntausender Migranten auf die spanische Exklave Ceuta herrscht in der EU Unruhe. Bundesaußenminister Wadephul spricht von einem \"absoluten Stresstest\". Grüne und SPD vermuten eine gezielte Provokation hinter dem Ereignis."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump sagt Angriffe auf Iran vorerst ab",
+        "text": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Verhandlungen, doch Iran widerspricht."
+      }
     ],
-    "markt": [
-      {"source": "LBBW Research", "title": "Fed hält still – aber uneiniger als sonst", "text": "Die US-Notenbank beließ den Leitzins Ende Juli zum fünften Mal in Folge bei 3,50–3,75 %. Drei Mitglieder stimmten für eine Zinserhöhung – so viele Gegenstimmen in diese Richtung gab es zuletzt 2016. Nächster Termin: 16. September."},
-      {"source": "XTB Marktanalyse", "title": "DAX tastet sich ans Rekordhoch heran", "text": "Nach drei schwächeren Wochen in Folge hat sich der DAX deutlich erholt und schloss zuletzt bei rund 25.650 Punkten – knapp unter seinem Allzeithoch. Bessere Konjunkturdaten und nachlassende Öl-Sorgen stützen die Erholung."},
-      {"source": "dpa-AFX", "title": "US-Tech-Saison mit gemischtem Bild", "text": "Die Quartalszahlen von Apple, Amazon, Microsoft und Meta bewegen aktuell die Nasdaq. Apple und Amazon übertrafen zuletzt die Erwartungen bei Umsatz und Gewinn, während Halbleiterwerte wegen China-Sorgen und hoher KI-Investitionen unter Druck stehen."},
-      {"source": "dpa-AFX", "title": "Ausreißer der Woche", "text": "Reddit und Roblox brachen nach enttäuschenden Nutzerzahlen um 22 bzw. 27 % ein. Nvidia zeigte sich dagegen vergleichsweise robust und legte moderat zu."}
-    ]
+    "markt": []
   }
 }
