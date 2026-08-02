@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T21:00+00:00",
+  "updated": "2026-08-02T22:52+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
@@ -62,23 +62,24 @@
     },
     "gold": {
       "label": "Gold",
-      "value": 4107.0,
+      "value": 4123.2,
       "unit": "$",
-      "change_pct": 0.17,
+      "change_pct": 1.83,
       "history": [
         4067.6,
         4074.5,
         4036.3,
         4034.7,
         4100.1,
-        4107.0
+        4049.1,
+        4123.2
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1553,
+      "value": 1.1555,
       "unit": "",
-      "change_pct": 0.25,
+      "change_pct": 0.27,
       "history": [
         1.1377,
         1.1395,
@@ -86,7 +87,7 @@
         1.1387,
         1.1467,
         1.1524,
-        1.1553
+        1.1555
       ]
     },
     "fed_rate": {
@@ -106,11 +107,16 @@
   },
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
-    "text": "Etwa eine Woche ist der Terroranschlag auf den Christopher Street Day in Berlin her. Die Wut und Trauer ist groß. Die queere Community hat der Opfer der Tat gedacht. Auch vor dem Roten Rathaus versammelten sich Menschen im Gedenken."
+    "title": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
+    "text": "Er will es noch mal wissen: Der 80-jährige Lula da Silva tritt erneut bei der Präsidentschaftswahl in Brasilien an. Er sei topfit, betonte er bei seiner Nominierung. Sein wichtigster Konkurrent steht bereits fest."
   },
   "columns": {
     "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
+        "text": "Er will es noch mal wissen: Der 80-jährige Lula da Silva tritt erneut bei der Präsidentschaftswahl in Brasilien an. Er sei topfit, betonte er bei seiner Nominierung. Sein wichtigster Konkurrent steht bereits fest."
+      },
       {
         "source": "Tagesschau",
         "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
@@ -135,14 +141,14 @@
         "source": "Tagesschau",
         "title": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
         "text": "Volle Strände, spielende Kinder - und jederzeit droht ein russischer Angriff. In Odessa liegen Sommerleichtigkeit und Kriegsgefahr dicht beieinander. Immer wieder ignorieren Menschen den Luftalarm, mit teils schlimmen Folgen. Von S. Laack."
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Bas fordert Union zur Klärung bei \"Rente mit 63\" auf",
-        "text": "Soll die \"Rente mit 63\" weg - oder doch nicht? Darüber gibt es in der Union derzeit Diskussion. Nun fordert SPD-Chefin Bas den Koalitionspartner auf, sich zu positionieren. Die Sozialdemokraten seien bereit, das Rentenpaket aufzuschnüren."
       }
     ],
     "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Israel äußert Bedenken zu Trumps Plan für Gaza-Entwaffnung",
+        "text": "Schon vor Tagen hatte US-Präsident Trump eine Einigung zur Entwaffnung des Gazastreifens verkündet. Jetzt gibt es eine offizielle Reaktion aus Israel: Man habe den USA \"ernsthafte Sicherheitsbedenken\" übermittelt."
+      },
       {
         "source": "Tagesschau",
         "title": "Philippinische Aktivisten trotzen Chinas Machtanspruch",
@@ -167,11 +173,6 @@
         "source": "Tagesschau",
         "title": "Migrationskrise in Ceuta: Wadephul fordert Schutz der EU-Außengrenzen",
         "text": "Nach dem Andrang Zehntausender Migranten auf die spanische Exklave Ceuta herrscht in der EU Unruhe. Bundesaußenminister Wadephul spricht von einem \"absoluten Stresstest\". Grüne und SPD vermuten eine gezielte Provokation hinter dem Ereignis."
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Trump sagt Angriffe auf Iran vorerst ab",
-        "text": "Das US-Militär stand Berichten zufolge kurz vor einer massiven Angriffswelle auf Ziele in Iran. Nun will Trump offenbar darauf verzichten. Angeblich gibt es Fortschritte bei den Verhandlungen, doch Iran widerspricht."
       }
     ],
     "markt": []
