@@ -95,4 +95,173 @@ def fetch_ticker():
             hist = yf.Ticker(meta["symbol"]).history(period="8d")["Close"].dropna()
             if len(hist) < 2:
                 raise ValueError("zu wenig Kursdaten zurueckbekommen")
-            values =
+            values = [round(float(v), 4 if v < 10 else 1) for v in hist.tolist()][-7:]
+            change_pct = round((values[-1] - values[-2]) / values[-2] * 100, 2)
+            result[key] = {
+                "label": meta["label"],
+                "value": values[-1],
+                "unit": meta["unit"],
+                "change_pct": change_pct,
+                "history": values,
+            }
+        except Exception as exc:
+            print(f"[warnung] Kurs '{key}' ({meta['symbol']}) nicht abrufbar: {exc}")
+    result.update(MANUAL_RATES)
+    return result
+
+
+def categorize(title):
+    t = title.lower()
+    if any(k in t for k in MARKT_KEYWORDS):
+        return "markt"
+    if any(k in t for k in INTL_KEYWORDS):
+        return "intl"
+    return "de"
+
+
+def fetch_news():
+    """Liest den Tagesschau-RSS-Feed und verteilt die Meldungen grob auf
+    Deutschland/International/Maerkte. Gibt (hero, columns) zurueck; hero ist
+    die erste gefundene Meldung insgesamt."""
+    columns = {"de": [], "intl": [], "markt": []}
+    hero = None
+
+    try:
+        feed = feedparser.parse(RSS_FEED_URL)
+        for entry in feed.entries:
+            title = (entry.get("title") or "").strip()
+            if not title:
+                continue
+            summary = re.sub("<[^<]+?>", "", entry.get("summary", "")).strip()
+            link = entry.get("link") or None
+
+            if hero is None:
+                hero = {"eyebrow": "TOP-MELDUNG", "title": title, "text": summary[:400], "link": link}
+
+            cat = categorize(title)
+            if len(columns[cat]) < MAX_ITEMS_PER_COLUMN:
+                columns[cat].append({"source": "Tagesschau", "title": title, "text": summary[:280], "link": link})
+
+            if all(len(v) >= MAX_ITEMS_PER_COLUMN for v in columns.values()):
+                break
+    except Exception as exc:
+        print(f"[warnung] Tagesschau-Feed nicht abrufbar: {exc}")
+
+    return hero, columns
+
+
+def fetch_eu_news():
+    """Liest die EU-Kommission-Pressemitteilungen. Eigene, dedizierte Quelle -
+    keine Stichwort-Heuristik noetig, alles hier ist per Definition EU-Politik."""
+    items = []
+    try:
+        feed = feedparser.parse(EU_RSS_URL)
+        for entry in feed.entries[:MAX_ITEMS_PER_COLUMN]:
+            title = (entry.get("title") or "").strip()
+            if not title:
+                continue
+            summary = re.sub("<[^<]+?>", "", entry.get("summary", "")).strip()
+            items.append({
+                "source": "EU-Kommission",
+                "title": title,
+                "text": summary[:280],
+                "link": entry.get("link") or None,
+            })
+    except Exception as exc:
+        print(f"[warnung] EU-Feed nicht abrufbar: {exc}")
+    return items
+
+
+def update_archive(data):
+    """Legt einen taeglichen Schnappschuss unter archive/YYYY-MM-DD.json ab und
+    pflegt archive/index.json (Liste der verfuegbaren Tage). Aeltere Tage als
+    ARCHIVE_RETENTION_DAYS werden geloescht, damit das Repo nicht endlos waechst."""
+    ARCHIVE_DIR.mkdir(exist_ok=True)
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    with open(ARCHIVE_DIR / f"{today_str}.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    try:
+        with open(ARCHIVE_INDEX_PATH, "r", encoding="utf-8") as f:
+            dates = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        dates = []
+
+    dates = sorted(set(dates) | {today_str})
+
+    if len(dates) > ARCHIVE_RETENTION_DAYS:
+        for old_date in dates[:-ARCHIVE_RETENTION_DAYS]:
+            old_file = ARCHIVE_DIR / f"{old_date}.json"
+            if old_file.exists():
+                old_file.unlink()
+        dates = dates[-ARCHIVE_RETENTION_DAYS:]
+
+    with open(ARCHIVE_INDEX_PATH, "w", encoding="utf-8") as f:
+        json.dump(dates, f, ensure_ascii=False, indent=2)
+
+
+def fetch_innovation_news():
+    """Liest den allgemeinen heise-Newsticker (IT/Technik/Wissenschaft). heise
+    erlaubt die Uebernahme von RSS-Inhalten mit Link zum Original ausdruecklich
+    (siehe https://www.heise.de/news-extern/news.html). Es ist der normale
+    Newsticker, keine gefilterte "nur Durchbrueche"-Auswahl - Land oder Firma
+    werden nicht erkannt, es sind einfach die aktuellsten Meldungen."""
+    items = []
+    try:
+        feed = feedparser.parse(HEISE_RSS_URL)
+        for entry in feed.entries[:MAX_INNOVATION_ITEMS]:
+            title = (entry.get("title") or "").strip()
+            if not title:
+                continue
+            summary = re.sub("<[^<]+?>", "", entry.get("summary", "")).strip()
+            items.append({
+                "source": "heise online",
+                "title": title,
+                "text": summary[:280],
+                "link": entry.get("link") or None,
+            })
+    except Exception as exc:
+        print(f"[warnung] heise-Feed nicht abrufbar: {exc}")
+    return items
+
+
+def main():
+    # Bestehende Datei laden, falls vorhanden - so bleibt z.B. ein alter
+    # Kurswert erhalten, wenn der Abruf fuer genau dieses Symbol heute fehlschlaegt.
+    try:
+        with open(NEWS_JSON_PATH, "r", encoding="utf-8") as f:
+            existing = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        existing = {"ticker": {}, "hero": None, "columns": {}}
+
+    fresh_ticker = fetch_ticker()
+    merged_ticker = {**existing.get("ticker", {}), **fresh_ticker}
+
+    hero, columns = fetch_news()
+    columns["eu"] = fetch_eu_news()
+    columns["innovation"] = fetch_innovation_news()
+
+    existing_columns = existing.get("columns", {})
+    merged_columns = {
+        cat: (columns.get(cat) or existing_columns.get(cat, []))
+        for cat in ("de", "intl", "eu", "markt", "innovation")
+    }
+
+    data = {
+        "updated": datetime.now(timezone.utc).isoformat(timespec="minutes"),
+        "ticker": merged_ticker,
+        "hero": hero or existing.get("hero"),
+        "columns": merged_columns,
+    }
+
+    with open(NEWS_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+
+    update_archive(data)
+
+    print("news.json aktualisiert:", data["updated"])
+
+
+if __name__ == "__main__":
+    main()
