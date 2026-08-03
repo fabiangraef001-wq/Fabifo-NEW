@@ -31,19 +31,33 @@ Wichtige Hinweise, bitte vor dem Einsatz lesen:
    RSS-Feld 'link') - darueber fuehrt der "Mehr ->"-Button auf der Seite
    zur Quelle.
 
-5) Leitzinsen (Fed/EZB) aendern sich nur nach Sitzungen (ca. 8x im Jahr).
+5) Innovation-Spalte: allgemeiner heise-Newsticker (IT/Technik/Wissenschaft).
+   heise erlaubt RSS-Uebernahme mit Link zum Original ausdruecklich. Keine
+   Filterung nach Land oder "echtem Durchbruch" - einfach die aktuellsten
+   Meldungen des Feeds.
+
+6) Leitzinsen (Fed/EZB) aendern sich nur nach Sitzungen (ca. 8x im Jahr).
    Dafuer lohnt sich kein automatischer Abruf - trag sie unten einfach von
    Hand nach, wenn es eine neue Entscheidung gab.
+
+7) Zusaetzlich zu news.json legt das Skript taeglich einen Schnappschuss unter
+   archive/YYYY-MM-DD.json ab (siehe update_archive()), damit die Seite auch
+   fruehere Tage anzeigen kann. Die letzten 30 Tage werden aufgehoben, aeltere
+   automatisch geloescht.
 """
 
 import json
 import re
 from datetime import datetime, timezone
+from pathlib import Path
 
 import feedparser
 import yfinance as yf
 
 NEWS_JSON_PATH = "news.json"
+ARCHIVE_DIR = Path("archive")
+ARCHIVE_INDEX_PATH = ARCHIVE_DIR / "index.json"
+ARCHIVE_RETENTION_DAYS = 30  # aeltere Tage werden automatisch geloescht
 
 TICKER_SYMBOLS = {
     "dax":       {"symbol": "^GDAXI",   "label": "DAX",        "unit": "Pkt."},
@@ -67,7 +81,9 @@ INTL_KEYWORDS = ["usa", "china", "iran", "israel", "ukraine", "russland", "gaza"
 
 RSS_FEED_URL = "https://www.tagesschau.de/xml/rss2"
 EU_RSS_URL = "https://ec.europa.eu/commission/presscorner/api/rss?language=de"
+HEISE_RSS_URL = "https://www.heise.de/newsticker/heise.rdf"
 MAX_ITEMS_PER_COLUMN = 6
+MAX_INNOVATION_ITEMS = 4
 
 
 def fetch_ticker():
@@ -79,116 +95,4 @@ def fetch_ticker():
             hist = yf.Ticker(meta["symbol"]).history(period="8d")["Close"].dropna()
             if len(hist) < 2:
                 raise ValueError("zu wenig Kursdaten zurueckbekommen")
-            values = [round(float(v), 4 if v < 10 else 1) for v in hist.tolist()][-7:]
-            change_pct = round((values[-1] - values[-2]) / values[-2] * 100, 2)
-            result[key] = {
-                "label": meta["label"],
-                "value": values[-1],
-                "unit": meta["unit"],
-                "change_pct": change_pct,
-                "history": values,
-            }
-        except Exception as exc:
-            print(f"[warnung] Kurs '{key}' ({meta['symbol']}) nicht abrufbar: {exc}")
-    result.update(MANUAL_RATES)
-    return result
-
-
-def categorize(title):
-    t = title.lower()
-    if any(k in t for k in MARKT_KEYWORDS):
-        return "markt"
-    if any(k in t for k in INTL_KEYWORDS):
-        return "intl"
-    return "de"
-
-
-def fetch_news():
-    """Liest den Tagesschau-RSS-Feed und verteilt die Meldungen grob auf
-    Deutschland/International/Maerkte. Gibt (hero, columns) zurueck; hero ist
-    die erste gefundene Meldung insgesamt."""
-    columns = {"de": [], "intl": [], "markt": []}
-    hero = None
-
-    try:
-        feed = feedparser.parse(RSS_FEED_URL)
-        for entry in feed.entries:
-            title = (entry.get("title") or "").strip()
-            if not title:
-                continue
-            summary = re.sub("<[^<]+?>", "", entry.get("summary", "")).strip()
-            link = entry.get("link") or None
-
-            if hero is None:
-                hero = {"eyebrow": "TOP-MELDUNG", "title": title, "text": summary[:400], "link": link}
-
-            cat = categorize(title)
-            if len(columns[cat]) < MAX_ITEMS_PER_COLUMN:
-                columns[cat].append({"source": "Tagesschau", "title": title, "text": summary[:280], "link": link})
-
-            if all(len(v) >= MAX_ITEMS_PER_COLUMN for v in columns.values()):
-                break
-    except Exception as exc:
-        print(f"[warnung] Tagesschau-Feed nicht abrufbar: {exc}")
-
-    return hero, columns
-
-
-def fetch_eu_news():
-    """Liest die EU-Kommission-Pressemitteilungen. Eigene, dedizierte Quelle -
-    keine Stichwort-Heuristik noetig, alles hier ist per Definition EU-Politik."""
-    items = []
-    try:
-        feed = feedparser.parse(EU_RSS_URL)
-        for entry in feed.entries[:MAX_ITEMS_PER_COLUMN]:
-            title = (entry.get("title") or "").strip()
-            if not title:
-                continue
-            summary = re.sub("<[^<]+?>", "", entry.get("summary", "")).strip()
-            items.append({
-                "source": "EU-Kommission",
-                "title": title,
-                "text": summary[:280],
-                "link": entry.get("link") or None,
-            })
-    except Exception as exc:
-        print(f"[warnung] EU-Feed nicht abrufbar: {exc}")
-    return items
-
-
-def main():
-    # Bestehende Datei laden, falls vorhanden - so bleibt z.B. ein alter
-    # Kurswert erhalten, wenn der Abruf fuer genau dieses Symbol heute fehlschlaegt.
-    try:
-        with open(NEWS_JSON_PATH, "r", encoding="utf-8") as f:
-            existing = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        existing = {"ticker": {}, "hero": None, "columns": {}}
-
-    fresh_ticker = fetch_ticker()
-    merged_ticker = {**existing.get("ticker", {}), **fresh_ticker}
-
-    hero, columns = fetch_news()
-    columns["eu"] = fetch_eu_news()
-
-    existing_columns = existing.get("columns", {})
-    merged_columns = {
-        cat: (columns.get(cat) or existing_columns.get(cat, []))
-        for cat in ("de", "intl", "eu", "markt")
-    }
-
-    data = {
-        "updated": datetime.now(timezone.utc).isoformat(timespec="minutes"),
-        "ticker": merged_ticker,
-        "hero": hero or existing.get("hero"),
-        "columns": merged_columns,
-    }
-
-    with open(NEWS_JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-    print("news.json aktualisiert:", data["updated"])
-
-
-if __name__ == "__main__":
-    main()
+            values =
