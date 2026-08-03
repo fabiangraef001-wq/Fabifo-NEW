@@ -1,85 +1,84 @@
 {
-  "updated": "2026-08-02T22:52+00:00",
+  "updated": "2026-08-03T14:01+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25629.2,
+      "value": 26015.9,
       "unit": "Pkt.",
-      "change_pct": 0.07,
+      "change_pct": 1.51,
       "history": [
-        24763.1,
         25099.0,
         25361.0,
         25464.0,
         25460.5,
         25612.0,
-        25629.2
+        25629.2,
+        26015.9
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 28274.2,
+      "value": 28461.2,
       "unit": "Pkt.",
-      "change_pct": 0.6,
+      "change_pct": 0.66,
       "history": [
-        28454.8,
         28128.3,
         28039.2,
         27763.1,
         27192.3,
         28106.3,
-        28274.2
+        28274.2,
+        28461.2
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7489.7,
+      "value": 7557.6,
       "unit": "Pkt.",
-      "change_pct": 0.7,
+      "change_pct": 0.91,
       "history": [
-        7408.3,
         7412.0,
         7413.2,
         7428.8,
         7316.1,
         7437.6,
-        7489.7
+        7489.7,
+        7557.6
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 90.1,
+      "value": 82.8,
       "unit": "$",
-      "change_pct": 1.24,
+      "change_pct": -8.1,
       "history": [
-        96.8,
         88.4,
         84.1,
         90.7,
         89.0,
-        90.1
+        90.1,
+        82.8
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4123.2,
+      "value": 4087.5,
       "unit": "$",
-      "change_pct": 1.83,
+      "change_pct": 0.95,
       "history": [
-        4067.6,
         4074.5,
         4036.3,
         4034.7,
         4100.1,
         4049.1,
-        4123.2
+        4087.5
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1555,
+      "value": 1.1526,
       "unit": "",
-      "change_pct": 0.27,
+      "change_pct": 0.02,
       "history": [
         1.1377,
         1.1395,
@@ -87,7 +86,7 @@
         1.1387,
         1.1467,
         1.1524,
-        1.1555
+        1.1526
       ]
     },
     "fed_rate": {
@@ -107,74 +106,85 @@
   },
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
-    "text": "Er will es noch mal wissen: Der 80-jährige Lula da Silva tritt erneut bei der Präsidentschaftswahl in Brasilien an. Er sei topfit, betonte er bei seiner Nominierung. Sein wichtigster Konkurrent steht bereits fest."
+    "title": "Deutsch-französische Kooperation: Wie soll die atomare Abschreckung aussehen?",
+    "text": "Deutschland und Frankreich wollen bei der atomaren Abschreckung enger zusammenarbeiten. Im Herbst nehmen erstmals deutsche Soldaten an einem französischen Nuklearmanöver teil. Was steckt hinter dem Vorstoß? Von C. Nagel."
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Brasiliens 80-jähriger Präsident Lula tritt zur Wiederwahl an",
-        "text": "Er will es noch mal wissen: Der 80-jährige Lula da Silva tritt erneut bei der Präsidentschaftswahl in Brasilien an. Er sei topfit, betonte er bei seiner Nominierung. Sein wichtigster Konkurrent steht bereits fest."
+        "title": "Deutsch-französische Kooperation: Wie soll die atomare Abschreckung aussehen?",
+        "text": "Deutschland und Frankreich wollen bei der atomaren Abschreckung enger zusammenarbeiten. Im Herbst nehmen erstmals deutsche Soldaten an einem französischen Nuklearmanöver teil. Was steckt hinter dem Vorstoß? Von C. Nagel."
       },
       {
         "source": "Tagesschau",
-        "title": "Mahnwache für die Opfer des CSD-Anschlags in Berlin",
-        "text": "Etwa eine Woche ist der Terroranschlag auf den Christopher Street Day in Berlin her. Die Wut und Trauer ist groß. Die queere Community hat der Opfer der Tat gedacht. Auch vor dem Roten Rathaus versammelten sich Menschen im Gedenken."
+        "title": "Einzelhandel erzielt Umsatzplus trotz Kaufzurückhaltung",
+        "text": "Der Einzelhandel hat in den ersten sechs Monaten des Jahres höhere Umsätze erwirtschaftet. Verbraucher halten sich bei Käufen weiterhin zurück, doch Händler profitierten von gestiegenen Preisen."
       },
       {
         "source": "Tagesschau",
-        "title": "Leben in Prag - zwischen Hitzeschutz und Klimaskepsis",
-        "text": "Tschechien leidet unter der zweiten Hitzewelle des Jahres. Und nach den Waldbränden in Südeuropa wächst auch dort die Sorge vor Feuern. In Prag wurden fast 40 Grad gemessen - doch die Politik tut sich weiterhin schwer, die neue Realität zu akzeptieren. Von M. von Lieben."
+        "title": "Niedrigwassser am Rhein: Bilger lädt zu Krisentreffen",
+        "text": "Der Rhein erreicht historisch niedrige Wasserstände, Schiffe können kaum noch laden. Das ruft auch den neuen Bundesverkehrsminister Bilger auf den Plan, der für Donnerstag zu einer Niedrigwasser-Konferenz einlädt."
       },
       {
         "source": "Tagesschau",
-        "title": "Rückkehr aus Ceuta: Ein Nachbarort im Ausnahmezustand",
-        "text": "In Ceuta normalisiert sich die Lage nach dem Massenandrang, ganz anders sieht es im Nachbarort Fnideq aus. Die Menschen kehren erschöpft dorthin zurück, wo alles begann. Eindrücke aus einer Stadt im Ausnahmezustand. Von Stefan Ehlert."
+        "title": "Hunderte Häuser bei Waldbränden im US-Staat Washington zerstört",
+        "text": "Im Nordwesten der USA wüten um die Großstadt Spokane drei große Feuer. Mindestens 60.000 Menschen wurden aufgefordert, ihre Häuser zu verlassen. Viele verloren in den Flammen ihr Zuhause."
       },
       {
         "source": "Tagesschau",
-        "title": "Niedrigwasser der Donau: Ungarn erlebt \"beispiellose Energiekrise\"",
-        "text": "Fast die Hälfte des benötigten Stroms fällt in Ungarn plötzlich weg. Wegen der anhaltenden Hitze muss das Atomkraftwerk Paks abgeschaltet werden. Premier Magyar spricht von einer \"beispiellosen Krise\". Von Clemens Verenkotte."
+        "title": "Ceuta: Marokko gibt Sozialen Medien Schuld an Tragödie",
+        "text": "Drei Tage nach dem tödlichen Massenandrang auf die spanische Exklave Ceuta hat jetzt Marokkos Innenministerium Stellung bezogen. Es führt die Tragödie vor allem auf Falschinformationen in Sozialen Medien zurück. Von Stefan Ehlert."
       },
       {
         "source": "Tagesschau",
-        "title": "Strand im ukrainischen Odessa: Zwischen Badebetrieb und Bombenalarm",
-        "text": "Volle Strände, spielende Kinder - und jederzeit droht ein russischer Angriff. In Odessa liegen Sommerleichtigkeit und Kriegsgefahr dicht beieinander. Immer wieder ignorieren Menschen den Luftalarm, mit teils schlimmen Folgen. Von S. Laack."
+        "title": "Italien soll mehr Gratisstrände bekommen",
+        "text": "Die Behörden in Italien gehen verstärkt gegen illegale und überteuerte Strandbäder vor. In mehreren Regionen gibt es Pläne, private Bäder zu schließen und öffentliche Strände daraus zu machen."
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
+        "title": "Ukraine: Neue Angriffe auf russischen Versandhändler Wildberries",
+        "text": "Die Ukraine hat erneut ein Lager des russischen Online-Händlers Wildberries angegriffen. Kiew wirft dem Unternehmen vor, auch Waren für den Angriffskrieg zu liefern. Russland spricht hingegen von Terrorangriffen auf zivile Infrastruktur."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Chronologie zum Iran-Krieg: Trumps Drohungen, Trumps Rückzieher",
+        "text": "Mal droht Trump mit heftigen Angriffen, dann spricht er wieder von einer bevorstehenden Einigung: Seit Monaten äußert sich der US-Präsident inkonsistent zu den Iran-Gesprächen - eine Chronologie der Widersprüche."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Währungsintervention: Japan und USA stützen fallenden Yen",
+        "text": "Die USA und Japan stemmen sich mit einer gemeinsamen Intervention am Devisenmarkt gegen den Absturz des Yen. Zuvor war die japanische Währung auf den niedrigsten Stand seit 40 Jahren gefallen."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wachsender Protest gegen Rechenzentren in den USA",
+        "text": "In den USA wächst der Widerstand gegen Rechenzentren - weil sie Lärm machen, viel Kühlwasser verbrauchen und oft die Luft verpesten. Häufig stehen die Anlagen in Wohngebieten, was die Anwohner nervt - über Parteigrenzen hinweg. Von C. Kühntopp."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump kündigt neue Iran-Gespräche an",
+        "text": "Kurz nach der Absage angeblich geplanter Angriffe auf Iran hat US-Präsident Trump neue Verhandlungen mit Teheran angekündigt. Diese sollen noch heute beginnen. Iran widerspricht dieser Darstellung."
+      },
+      {
+        "source": "Tagesschau",
         "title": "Israel äußert Bedenken zu Trumps Plan für Gaza-Entwaffnung",
         "text": "Schon vor Tagen hatte US-Präsident Trump eine Einigung zur Entwaffnung des Gazastreifens verkündet. Jetzt gibt es eine offizielle Reaktion aus Israel: Man habe den USA \"ernsthafte Sicherheitsbedenken\" übermittelt."
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Philippinische Aktivisten trotzen Chinas Machtanspruch",
-        "text": "Pekings Küstenwache demonstriert im Südchinesischen Meer ihren Machtanspruch. Das bekommen auch Philippiner zu spüren, die sich per Schiff zu den von mehreren Staaten beanspruchten Spratly-Inseln aufgemacht haben. Ulrich Mendgen war mit an Bord."
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Ukraine-Krieg: Moskau meldet 635 abgefangene Drohnen - mehrere Tote",
-        "text": "Die Ukraine wehrt sich gegen Russlands Angriffskrieg inzwischen verstärkt mit Attacken auf russisches Staatsgebiet. Erneut gerieten dabei offenbar eine Raffinerie und ein Militärplatz ins Visier. Russland und die Ukraine meldeten mehrere Tote."
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Ukraine und Polen: Wie die Vergangenheit die Nachbarn spalten",
-        "text": "Zwischen Polen und Ukraine ist ein alter Streit über Massaker während des Zweiten Weltkriegs aufgeflammt. Vor Ort zeigt sich, warum das Thema weiter so heikel ist - und wie die Gräben überwunden werden können. Von Stephan Laack."
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Wie Jordanien im Iran-Krieg zwischen die Fronten geriet",
-        "text": "Tourismus ist für Jordanien eine der wichtigsten Einnahmequellen. Doch mit dem Krieg ist vieles weggebrochen. Zuletzt wurde das Land immer öfter zum Angriffsziel - und in der Bevölkerung steigt der Frust über den Partner USA. Von Anne Armbrecht."
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Migrationskrise in Ceuta: Wadephul fordert Schutz der EU-Außengrenzen",
-        "text": "Nach dem Andrang Zehntausender Migranten auf die spanische Exklave Ceuta herrscht in der EU Unruhe. Bundesaußenminister Wadephul spricht von einem \"absoluten Stresstest\". Grüne und SPD vermuten eine gezielte Provokation hinter dem Ereignis."
       }
     ],
-    "markt": []
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Börse in Frankfurt: DAX erreicht neuen Rekord",
+        "text": "An der Börse beginnt der Tag mit einem Rekord: Der deutsche Leitindex DAX erreicht den zweiten Höchstwert in knapp einem Monat. Getrieben wird der DAX von der Hoffnung auf Entspannung im Iran-Krieg und fallenden Ölpreisen."
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Hoffnung auf Entspannung im Iran treibt DAX an",
+        "text": "Die Aussicht auf eine Rückkehr der Diplomatie im Nahen Osten treibt den DAX gleich zum Monatsstart auf ein neues Allzeithoch. Vor allem der sinkende Ölpreis ist heute der Treibstoff für die Kursgewinne."
+      }
+    ]
   }
 }
