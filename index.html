@@ -19,6 +19,7 @@
     --intl:#B07FEA; --intl-soft:rgba(176,127,234,.16);
     --eu:#45D0C5; --eu-soft:rgba(69,208,197,.16);
     --markt:var(--gold); --markt-soft:rgba(245,185,20,.18);
+    --innovation:#F2785C; --innovation-soft:rgba(242,120,92,.16);
     --pos:#34D399; --neg:#F87171;
     --radius:14px;
   }
@@ -93,6 +94,7 @@
   .column[data-cat="intl"]{--cat-color:var(--intl);--cat-soft:var(--intl-soft);}
   .column[data-cat="eu"]{--cat-color:var(--eu);--cat-soft:var(--eu-soft);}
   .column[data-cat="markt"]{--cat-color:var(--markt);--cat-soft:var(--markt-soft);}
+  .column[data-cat="innovation"]{--cat-color:var(--innovation);--cat-soft:var(--innovation-soft);}
 
   .column-head{display:flex;align-items:center;gap:9px;}
   .column-head .dot{width:10px;height:10px;border-radius:50%;background:var(--cat-color);flex-shrink:0;}
@@ -160,9 +162,10 @@
 <nav class="filters" aria-label="Nach Kategorie filtern">
   <button class="pill active" data-filter="all">Alle</button>
   <button class="pill" data-filter="de">Deutschland</button>
-  <button class="pill" data-filter="intl">International</button>
   <button class="pill" data-filter="eu">EU</button>
+  <button class="pill" data-filter="intl">International</button>
   <button class="pill" data-filter="markt">Märkte</button>
+  <button class="pill" data-filter="innovation">Innovation</button>
   <button class="pill" data-filter="saved">★ Gemerkt</button>
   <select id="archiveSelect" class="archive-select" aria-label="Archiv: anderen Tag ansehen">
     <option value="">Heute</option>
@@ -181,17 +184,21 @@
       <div class="column-head"><span class="dot"></span><h2>Deutschland</h2></div>
       <div class="cards" data-col="de"><div class="skel skel-card"></div><div class="skel skel-card"></div></div>
     </div>
-    <div class="column" data-cat="intl">
-      <div class="column-head"><span class="dot"></span><h2>International</h2></div>
-      <div class="cards" data-col="intl"><div class="skel skel-card"></div><div class="skel skel-card"></div></div>
-    </div>
     <div class="column" data-cat="eu">
       <div class="column-head"><span class="dot"></span><h2>EU</h2></div>
       <div class="cards" data-col="eu"><div class="skel skel-card"></div><div class="skel skel-card"></div></div>
     </div>
+    <div class="column" data-cat="intl">
+      <div class="column-head"><span class="dot"></span><h2>International</h2></div>
+      <div class="cards" data-col="intl"><div class="skel skel-card"></div><div class="skel skel-card"></div></div>
+    </div>
     <div class="column" data-cat="markt">
       <div class="column-head"><span class="dot"></span><h2>Märkte &amp; Aktien</h2></div>
       <div class="cards" data-col="markt"><div class="skel skel-card"></div><div class="skel skel-card"></div></div>
+    </div>
+    <div class="column" data-cat="innovation">
+      <div class="column-head"><span class="dot"></span><h2>Innovation</h2></div>
+      <div class="cards" data-col="innovation"><div class="skel skel-card"></div><div class="skel skel-card"></div></div>
     </div>
   </section>
 
@@ -215,7 +222,7 @@ const METRIC_LABELS = {
   fed_rate:'Fed-Leitzins', ecb_rate:'EZB-Leitzins'
 };
 const DEFAULT_METRICS = ['dax','nasdaq100','brent','fed_rate','ecb_rate'];
-const CAT_LABELS = {de:'Deutschland', intl:'International', eu:'EU', markt:'Märkte'};
+const CAT_LABELS = {de:'Deutschland', eu:'EU', intl:'International', markt:'Märkte', innovation:'Innovation'};
 
 function loadPrefs(){
   try{

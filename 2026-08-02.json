@@ -16,6 +16,12 @@
     "text": "Der andauernde Konflikt zwischen den USA und dem Iran sorgt weiter für kräftige Ausschläge beim Ölpreis. Das hält die Inflationssorgen der US-Notenbank hoch: Die Fed beließ ihren Leitzins Ende Juli zum fünften Mal in Folge unverändert – allerdings mit den meisten Gegenstimmen für eine Zinserhöhung seit 2016. An den Börsen sorgt das für Nervosität, auch wenn DAX und Nasdaq sich zuletzt wieder in Richtung ihrer Rekordstände vorgetastet haben."
   },
   "columns": {
+    "innovation": [
+      {"source": "heise online", "title": "Resonac beliefert KI-Chip-Branche mit Schlüsseltechnologie", "text": "Der japanische Zulieferer Resonac kontrolliert eine Technologie, ohne die Nvidia und andere KI-Chip-Hersteller nicht auskommen. Die Aktie des Unternehmens kennt seither fast nur den Weg nach oben."},
+      {"source": "heise online", "title": "ByteDance kündigt Video-KI Seedance 2.5 an", "text": "Mit Seedance 2.5 plant ByteDance längere Videoclips, verbesserte multimodale Eingaben und natives 4K – ein weiterer Schritt im Wettlauf um generative Video-Werkzeuge."},
+      {"source": "heise online", "title": "Comeback für Radioisotopen-Generatoren", "text": "Mehrere Start-ups entwickeln kompakte Stromquellen auf Basis von Radioisotopen für Raumfahrt, Drohnen und Mini-Sensoren – eine jahrzehntealte Technologie erlebt eine Renaissance."},
+      {"source": "heise online", "title": "Qualcomm startet Linux-Support neu", "text": "Mit Qualcomm Linux 2.0 verspricht der Chiphersteller einen grundlegenden Neustart der Linux-Unterstützung für seine Dragonwing-Prozessorlinie."}
+    ],
     "eu": [
       {"source": "Hinweis", "title": "EU-Meldungen folgen nach dem ersten automatischen Lauf", "text": "Diese Spalte zieht Presseerklärungen der Europäischen Kommission. Sobald der Workflow einmal gelaufen ist (Tab Actions, dann Run workflow), stehen hier echte, aktuelle EU-Meldungen mit Link zur Quelle."}
     ],
