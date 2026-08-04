@@ -31,16 +31,11 @@ Wichtige Hinweise, bitte vor dem Einsatz lesen:
    RSS-Feld 'link') - darueber fuehrt der "Mehr ->"-Button auf der Seite
    zur Quelle.
 
-5) Innovation-Spalte: heise-Newsticker (IT/Technik/Wissenschaft), gefiltert auf
-   grosse Tech-/Chipkonzerne und Durchbruch-Begriffe (siehe
-   INNOVATION_KEYWORDS) - Alltagsmeldungen werden dadurch aussortiert. Land
-   spielt keine Rolle, nur ob ein bekannter Konzern/Begriff im Titel steht.
-
-6) Leitzinsen (Fed/EZB) aendern sich nur nach Sitzungen (ca. 8x im Jahr).
+5) Leitzinsen (Fed/EZB) aendern sich nur nach Sitzungen (ca. 8x im Jahr).
    Dafuer lohnt sich kein automatischer Abruf - trag sie unten einfach von
    Hand nach, wenn es eine neue Entscheidung gab.
 
-7) Zusaetzlich zu news.json legt das Skript taeglich einen Schnappschuss unter
+6) Zusaetzlich zu news.json legt das Skript taeglich einen Schnappschuss unter
    archive/YYYY-MM-DD.json ab (siehe update_archive()), damit die Seite auch
    fruehere Tage anzeigen kann. Die letzten 30 Tage werden aufgehoben, aeltere
    automatisch geloescht.
@@ -81,22 +76,7 @@ INTL_KEYWORDS = ["usa", "china", "iran", "israel", "ukraine", "russland", "gaza"
 
 RSS_FEED_URL = "https://www.tagesschau.de/xml/rss2"
 EU_RSS_URL = "https://ec.europa.eu/commission/presscorner/api/rss?language=de"
-HEISE_RSS_URL = "https://www.heise.de/newsticker/heise.rdf"
 MAX_ITEMS_PER_COLUMN = 6
-MAX_INNOVATION_ITEMS = 4
-INNOVATION_CANDIDATE_POOL = 40  # so viele Feed-Eintraege werden nach Stichwort durchsucht
-
-# Grosse Tech-/Chipkonzerne + generelle Durchbruch-Begriffe. Nur Meldungen, die
-# mind. eins davon im Titel haben, gelten als "Innovation" - damit landen keine
-# Alltags-Meldungen (Tarife, Fritzbox-Verfuegbarkeit usw.) in der Spalte.
-INNOVATION_KEYWORDS = [
-    "nvidia", "amd", "intel", "tsmc", "qualcomm", "apple", "google", "alphabet",
-    "microsoft", "meta", "openai", "anthropic", "tesla", "spacex", "samsung",
-    "amazon", "sap", "siemens", "asml", "ibm", "bytedance",
-    "chip", "prozessor", "halbleiter", "ki-modell", "ki modell", "quantencomputer",
-    "durchbruch", "raumfahrt", "rakete", "batterie", "akku-technik", "robotik",
-    "biotech", "genom", "fusion", "forscher entwickeln",
-]
 
 
 def fetch_ticker():
@@ -214,37 +194,6 @@ def update_archive(data):
         json.dump(dates, f, ensure_ascii=False, indent=2)
 
 
-def fetch_innovation_news():
-    """Liest den allgemeinen heise-Newsticker (IT/Technik/Wissenschaft) und
-    behaelt nur Meldungen, die zu grossen Tech-/Chipkonzernen oder generellen
-    Durchbruch-Begriffen passen (siehe INNOVATION_KEYWORDS) - der Feed selbst
-    ist nicht vorgefiltert, sonst landen auch Alltagsmeldungen (Tarife,
-    Router-Verfuegbarkeit usw.) in der Spalte. heise erlaubt die Uebernahme
-    von RSS-Inhalten mit Link zum Original ausdruecklich
-    (siehe https://www.heise.de/news-extern/news.html)."""
-    items = []
-    try:
-        feed = feedparser.parse(HEISE_RSS_URL)
-        for entry in feed.entries[:INNOVATION_CANDIDATE_POOL]:
-            title = (entry.get("title") or "").strip()
-            if not title:
-                continue
-            if not any(k in title.lower() for k in INNOVATION_KEYWORDS):
-                continue
-            summary = re.sub("<[^<]+?>", "", entry.get("summary", "")).strip()
-            items.append({
-                "source": "heise online",
-                "title": title,
-                "text": summary[:280],
-                "link": entry.get("link") or None,
-            })
-            if len(items) >= MAX_INNOVATION_ITEMS:
-                break
-    except Exception as exc:
-        print(f"[warnung] heise-Feed nicht abrufbar: {exc}")
-    return items
-
-
 def main():
     # Bestehende Datei laden, falls vorhanden - so bleibt z.B. ein alter
     # Kurswert erhalten, wenn der Abruf fuer genau dieses Symbol heute fehlschlaegt.
@@ -259,12 +208,11 @@ def main():
 
     hero, columns = fetch_news()
     columns["eu"] = fetch_eu_news()
-    columns["innovation"] = fetch_innovation_news()
 
     existing_columns = existing.get("columns", {})
     merged_columns = {
         cat: (columns.get(cat) or existing_columns.get(cat, []))
-        for cat in ("de", "intl", "eu", "markt", "innovation")
+        for cat in ("de", "intl", "eu", "markt")
     }
 
     data = {
