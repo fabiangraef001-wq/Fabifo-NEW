@@ -1,0 +1,583 @@
+{
+  "updated": "2026-08-02T06:00:00+00:00",
+  "etfs": [
+    {
+      "name": "Vanguard FTSE All-World",
+      "ticker": "VWCE.DE",
+      "isin": "IE00BK5BQT80",
+      "ter": 0.22,
+      "fund_size_mrd": 15.0,
+      "category": "Welt",
+      "distribution": "thesaurierend",
+      "key": "vwce",
+      "price": 135.4,
+      "change_pct": 0.3,
+      "history": [
+        132.96,
+        133.37,
+        133.78,
+        134.18,
+        134.59,
+        134.99,
+        135.4
+      ]
+    },
+    {
+      "name": "iShares Core MSCI World",
+      "ticker": "EUNL.DE",
+      "isin": "IE00B4L5Y983",
+      "ter": 0.2,
+      "fund_size_mrd": 90.0,
+      "category": "Welt",
+      "distribution": "thesaurierend",
+      "key": "eunl",
+      "price": 94.8,
+      "change_pct": 0.3,
+      "history": [
+        93.09,
+        93.38,
+        93.66,
+        93.95,
+        94.23,
+        94.52,
+        94.8
+      ]
+    },
+    {
+      "name": "Xtrackers MSCI World",
+      "ticker": "XMWO.DE",
+      "isin": "IE00BJ0KDQ92",
+      "ter": 0.19,
+      "fund_size_mrd": 15.0,
+      "category": "Welt",
+      "distribution": "thesaurierend",
+      "key": "xmwo",
+      "price": 48.2,
+      "change_pct": 0.29,
+      "history": [
+        47.33,
+        47.48,
+        47.62,
+        47.77,
+        47.91,
+        48.06,
+        48.2
+      ]
+    },
+    {
+      "name": "L&G Gerd Kommer Multifactor",
+      "ticker": "GERD.DE",
+      "isin": "IE0001UQQ933",
+      "ter": 0.45,
+      "fund_size_mrd": 1.35,
+      "category": "Welt (Multifaktor)",
+      "distribution": "thesaurierend",
+      "key": "gerd",
+      "price": 14.1,
+      "change_pct": 0.28,
+      "history": [
+        13.85,
+        13.89,
+        13.93,
+        13.97,
+        14.02,
+        14.06,
+        14.1
+      ]
+    },
+    {
+      "name": "SPDR MSCI ACWI",
+      "ticker": "SPYY.DE",
+      "isin": "IE00B44Z5B48",
+      "ter": 0.4,
+      "fund_size_mrd": 5.0,
+      "category": "Welt",
+      "distribution": "thesaurierend",
+      "key": "spyy",
+      "price": 134.9,
+      "change_pct": 0.3,
+      "history": [
+        132.47,
+        132.88,
+        133.28,
+        133.69,
+        134.09,
+        134.5,
+        134.9
+      ]
+    },
+    {
+      "name": "iShares Core S&P 500",
+      "ticker": "SXR8.DE",
+      "isin": "IE0031442068",
+      "ter": 0.07,
+      "fund_size_mrd": 85.0,
+      "category": "USA",
+      "distribution": "thesaurierend",
+      "key": "sxr8",
+      "price": 548.0,
+      "change_pct": 0.3,
+      "history": [
+        538.14,
+        539.78,
+        541.42,
+        543.07,
+        544.71,
+        546.36,
+        548.0
+      ]
+    },
+    {
+      "name": "Vanguard S&P 500",
+      "ticker": "VUSA.DE",
+      "isin": "IE00B3XXRP09",
+      "ter": 0.07,
+      "fund_size_mrd": 50.0,
+      "category": "USA",
+      "distribution": "ausschüttend",
+      "key": "vusa",
+      "price": 94.6,
+      "change_pct": 0.3,
+      "history": [
+        92.9,
+        93.18,
+        93.46,
+        93.75,
+        94.03,
+        94.32,
+        94.6
+      ]
+    },
+    {
+      "name": "Invesco Nasdaq-100",
+      "ticker": "EQQQ.DE",
+      "isin": "IE0032077012",
+      "ter": 0.3,
+      "fund_size_mrd": 20.0,
+      "category": "USA Tech",
+      "distribution": "thesaurierend",
+      "key": "eqqq",
+      "price": 452.0,
+      "change_pct": 0.3,
+      "history": [
+        443.86,
+        445.22,
+        446.58,
+        447.93,
+        449.29,
+        450.64,
+        452.0
+      ]
+    },
+    {
+      "name": "iShares Core MSCI EM IMI",
+      "ticker": "IS3N.DE",
+      "isin": "IE00BKM4GZ66",
+      "ter": 0.18,
+      "fund_size_mrd": 25.0,
+      "category": "Schwellenländer",
+      "distribution": "thesaurierend",
+      "key": "is3n",
+      "price": 34.8,
+      "change_pct": 0.29,
+      "history": [
+        34.17,
+        34.28,
+        34.38,
+        34.49,
+        34.59,
+        34.7,
+        34.8
+      ]
+    },
+    {
+      "name": "Xtrackers MSCI Emerging Markets",
+      "ticker": "XMME.DE",
+      "isin": "IE00BTJRMP35",
+      "ter": 0.18,
+      "fund_size_mrd": 8.0,
+      "category": "Schwellenländer",
+      "distribution": "thesaurierend",
+      "key": "xmme",
+      "price": 48.1,
+      "change_pct": 0.29,
+      "history": [
+        47.23,
+        47.38,
+        47.52,
+        47.67,
+        47.81,
+        47.96,
+        48.1
+      ]
+    },
+    {
+      "name": "iShares Core MSCI Europe",
+      "ticker": "EUN9.DE",
+      "isin": "IE00B4K48X80",
+      "ter": 0.12,
+      "fund_size_mrd": 10.0,
+      "category": "Europa",
+      "distribution": "thesaurierend",
+      "key": "eun9",
+      "price": 44.9,
+      "change_pct": 0.29,
+      "history": [
+        44.09,
+        44.23,
+        44.36,
+        44.5,
+        44.63,
+        44.77,
+        44.9
+      ]
+    },
+    {
+      "name": "Xtrackers Euro Stoxx 50",
+      "ticker": "XESC.DE",
+      "isin": "LU0380865021",
+      "ter": 0.09,
+      "fund_size_mrd": 6.0,
+      "category": "Europa",
+      "distribution": "thesaurierend",
+      "key": "xesc",
+      "price": 54.7,
+      "change_pct": 0.29,
+      "history": [
+        53.72,
+        53.88,
+        54.04,
+        54.21,
+        54.37,
+        54.54,
+        54.7
+      ]
+    },
+    {
+      "name": "Xtrackers Artificial Intelligence & Big Data",
+      "ticker": "XAIX.DE",
+      "isin": "IE00BGV5VN51",
+      "ter": 0.35,
+      "fund_size_mrd": 6.0,
+      "category": "Thema (Tech)",
+      "distribution": "thesaurierend",
+      "key": "xaix",
+      "price": 18.3,
+      "change_pct": 0.27,
+      "history": [
+        17.97,
+        18.03,
+        18.08,
+        18.14,
+        18.19,
+        18.25,
+        18.3
+      ]
+    },
+    {
+      "name": "iShares Global Clean Energy",
+      "ticker": "IQQH.DE",
+      "isin": "IE00B1XNHC34",
+      "ter": 0.65,
+      "fund_size_mrd": 2.0,
+      "category": "Thema (Energie)",
+      "distribution": "ausschüttend",
+      "key": "iqqh",
+      "price": 4.9,
+      "change_pct": 0.2,
+      "history": [
+        4.81,
+        4.83,
+        4.84,
+        4.86,
+        4.87,
+        4.89,
+        4.9
+      ]
+    },
+    {
+      "name": "iShares Automation & Robotics",
+      "ticker": "2B76.DE",
+      "isin": "IE00BYZK4552",
+      "ter": 0.4,
+      "fund_size_mrd": 3.0,
+      "category": "Thema (Tech)",
+      "distribution": "thesaurierend",
+      "key": "2b76",
+      "price": 9.2,
+      "change_pct": 0.33,
+      "history": [
+        9.03,
+        9.06,
+        9.09,
+        9.12,
+        9.14,
+        9.17,
+        9.2
+      ]
+    },
+    {
+      "name": "Vanguard FTSE All-World High Div. Yield",
+      "ticker": "VHYL.DE",
+      "isin": "IE00B8GKDB10",
+      "ter": 0.29,
+      "fund_size_mrd": 3.5,
+      "category": "Dividenden",
+      "distribution": "ausschüttend",
+      "key": "vhyl",
+      "price": 67.8,
+      "change_pct": 0.3,
+      "history": [
+        66.58,
+        66.78,
+        66.99,
+        67.19,
+        67.39,
+        67.6,
+        67.8
+      ]
+    },
+    {
+      "name": "iShares STOXX Global Select Div 100",
+      "ticker": "ISPA.DE",
+      "isin": "DE000A0F5UH1",
+      "ter": 0.46,
+      "fund_size_mrd": 2.0,
+      "category": "Dividenden",
+      "distribution": "ausschüttend",
+      "key": "ispa",
+      "price": 22.1,
+      "change_pct": 0.32,
+      "history": [
+        21.7,
+        21.77,
+        21.83,
+        21.9,
+        21.97,
+        22.03,
+        22.1
+      ]
+    },
+    {
+      "name": "iShares Core Euro Government Bond",
+      "ticker": "SXRN.DE",
+      "isin": "IE00B4WXJJ64",
+      "ter": 0.09,
+      "fund_size_mrd": 6.0,
+      "category": "Anleihen",
+      "distribution": "thesaurierend",
+      "key": "sxrn",
+      "price": 144.6,
+      "change_pct": 0.3,
+      "history": [
+        142.0,
+        142.43,
+        142.86,
+        143.3,
+        143.73,
+        144.17,
+        144.6
+      ]
+    },
+    {
+      "name": "iShares Global Aggregate Bond",
+      "ticker": "AGGU.DE",
+      "isin": "IE00BDBRDM35",
+      "ter": 0.1,
+      "fund_size_mrd": 5.0,
+      "category": "Anleihen",
+      "distribution": "thesaurierend",
+      "key": "aggu",
+      "price": 5.1,
+      "change_pct": 0.39,
+      "history": [
+        5.01,
+        5.02,
+        5.04,
+        5.05,
+        5.07,
+        5.08,
+        5.1
+      ]
+    },
+    {
+      "name": "Xtrackers Physical Gold",
+      "ticker": "XAD5.DE",
+      "isin": "JE00B588SF34",
+      "ter": 0.15,
+      "fund_size_mrd": 4.0,
+      "category": "Rohstoffe",
+      "distribution": "-",
+      "key": "xad5",
+      "price": 48.3,
+      "change_pct": 0.29,
+      "history": [
+        47.43,
+        47.58,
+        47.72,
+        47.87,
+        48.01,
+        48.16,
+        48.3
+      ]
+    },
+    {
+      "name": "iShares Physical Gold",
+      "ticker": "SGLN.DE",
+      "isin": "IE00B4ND3602",
+      "ter": 0.12,
+      "fund_size_mrd": 18.0,
+      "category": "Rohstoffe",
+      "distribution": "-",
+      "key": "sgln",
+      "price": 47.9,
+      "change_pct": 0.29,
+      "history": [
+        47.04,
+        47.18,
+        47.33,
+        47.47,
+        47.61,
+        47.76,
+        47.9
+      ]
+    },
+    {
+      "name": "iShares MSCI World SRI",
+      "ticker": "2B7K.DE",
+      "isin": "IE00BYX2JD69",
+      "ter": 0.2,
+      "fund_size_mrd": 8.0,
+      "category": "Nachhaltig",
+      "distribution": "thesaurierend",
+      "key": "2b7k",
+      "price": 9.4,
+      "change_pct": 0.32,
+      "history": [
+        9.23,
+        9.26,
+        9.29,
+        9.32,
+        9.34,
+        9.37,
+        9.4
+      ]
+    },
+    {
+      "name": "Xtrackers MSCI World ESG",
+      "ticker": "XZW0.DE",
+      "isin": "IE00BG0J4C88",
+      "ter": 0.15,
+      "fund_size_mrd": 2.5,
+      "category": "Nachhaltig",
+      "distribution": "thesaurierend",
+      "key": "xzw0",
+      "price": 27.8,
+      "change_pct": 0.29,
+      "history": [
+        27.3,
+        27.38,
+        27.47,
+        27.55,
+        27.63,
+        27.72,
+        27.8
+      ]
+    },
+    {
+      "name": "iShares MSCI Japan",
+      "ticker": "IJPA.DE",
+      "isin": "IE00B4L5YX21",
+      "ter": 0.15,
+      "fund_size_mrd": 5.0,
+      "category": "Japan",
+      "distribution": "thesaurierend",
+      "key": "ijpa",
+      "price": 7.2,
+      "change_pct": 0.28,
+      "history": [
+        7.07,
+        7.09,
+        7.11,
+        7.14,
+        7.16,
+        7.18,
+        7.2
+      ]
+    },
+    {
+      "name": "iShares MSCI China",
+      "ticker": "IQQC.DE",
+      "isin": "IE00BJ5JPG56",
+      "ter": 0.4,
+      "fund_size_mrd": 3.5,
+      "category": "China",
+      "distribution": "thesaurierend",
+      "key": "iqqc",
+      "price": 27.6,
+      "change_pct": 0.29,
+      "history": [
+        27.1,
+        27.19,
+        27.27,
+        27.35,
+        27.43,
+        27.52,
+        27.6
+      ]
+    }
+  ],
+  "stocks": [
+    {
+      "name": "Bitcoin (BTCetc ETP)",
+      "ticker": "BTCE.DE",
+      "category": "Krypto",
+      "key": "bitcoin",
+      "price": 63.5,
+      "change_pct": 0.3,
+      "history": [
+        62.36,
+        62.55,
+        62.74,
+        62.93,
+        63.12,
+        63.31,
+        63.5
+      ]
+    },
+    {
+      "name": "Rheinmetall",
+      "ticker": "RHM.DE",
+      "category": "Aktie",
+      "key": "rheinmetall",
+      "price": 1850.0,
+      "change_pct": 0.3,
+      "history": [
+        1816.7,
+        1822.25,
+        1827.8,
+        1833.35,
+        1838.9,
+        1844.45,
+        1850.0
+      ]
+    },
+    {
+      "name": "Nvidia",
+      "ticker": "NVDA",
+      "category": "Aktie",
+      "key": "nvidia",
+      "price": 178.0,
+      "change_pct": 0.3,
+      "history": [
+        174.8,
+        175.33,
+        175.86,
+        176.4,
+        176.93,
+        177.47,
+        178.0
+      ]
+    }
+  ]
+}

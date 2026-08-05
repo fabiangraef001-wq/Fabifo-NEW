@@ -29,12 +29,19 @@
   /* Sticky header */
   .header-sticky{position:sticky;top:0;z-index:40;background:rgba(10,10,11,.92);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);}
   .site-header{max-width:1180px;margin:0 auto;padding:16px 24px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px 20px;}
+  .brand-col{display:flex;flex-direction:column;gap:6px;}
   .brand{display:flex;align-items:center;gap:12px;}
   .brand-icon{height:42px;width:auto;display:block;}
   .brand-text h1{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(1.5rem,4vw,2rem);margin:0;letter-spacing:-0.02em;}
   .brand-white{color:var(--white);}
   .brand-gold{color:var(--gold);}
   .brand-tagline{margin:1px 0 0;font-family:'IBM Plex Mono',monospace;font-size:0.62rem;letter-spacing:0.1em;color:var(--gold);text-transform:uppercase;}
+  .section-nav{display:flex;flex-direction:column;gap:2px;margin-left:2px;}
+  .section-link{color:var(--gold);text-decoration:none;width:fit-content;}
+  .section-link--primary{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:0.92rem;}
+  .section-link--secondary{font-family:'IBM Plex Sans',sans-serif;font-weight:500;font-size:0.72rem;opacity:0.8;}
+  .section-link:hover,.section-link.active{text-decoration:underline;}
+  .section-link:focus-visible{outline:2px solid var(--gold);outline-offset:2px;}
   .meta-wrap{display:flex;align-items:center;gap:8px;}
   .status-dot{width:8px;height:8px;border-radius:50%;background:var(--muted);flex-shrink:0;}
   .date-badge{font-family:'IBM Plex Mono',monospace;font-size:0.8rem;color:var(--muted);white-space:nowrap;}
@@ -122,18 +129,40 @@
   footer{max-width:1180px;margin:36px auto 0;padding:20px 24px 40px;font-size:0.8rem;color:var(--muted);border-top:1px solid var(--line);}
   footer strong{color:#C9CBD1;}
   footer .sources{margin-top:10px;}
+
+  /* ETF- und Aktien&Krypto-Ansicht */
+  .asset-grid{display:grid;grid-template-columns:1fr;gap:16px;margin:26px auto 0;max-width:1180px;padding:0 24px;}
+  @media (min-width:640px){.asset-grid{grid-template-columns:repeat(auto-fit,minmax(230px,1fr));}}
+  .asset-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;}
+  .asset-card-top{display:flex;justify-content:space-between;align-items:center;gap:8px;}
+  .asset-badge{font-family:'IBM Plex Mono',monospace;font-size:0.66rem;letter-spacing:0.03em;color:var(--gold);background:var(--markt-soft);padding:2px 8px;border-radius:5px;}
+  .asset-card h3{font-family:'Space Grotesk',sans-serif;font-size:0.98rem;font-weight:600;margin:10px 0 8px;}
+  .asset-price-row{display:flex;justify-content:space-between;align-items:center;gap:10px;}
+  .asset-price{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:1rem;}
+  .asset-facts{display:grid;grid-template-columns:1fr 1fr;gap:6px 10px;margin:14px 0 0;padding-top:12px;border-top:1px solid var(--line);}
+  .asset-facts div{display:flex;flex-direction:column;}
+  .asset-facts dt{font-size:0.65rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.04em;}
+  .asset-facts dd{margin:2px 0 0;font-family:'IBM Plex Mono',monospace;font-size:0.82rem;}
+  .view-intro{max-width:1180px;margin:22px auto 0;padding:0 24px;color:var(--muted);font-size:0.88rem;}
 </style>
 </head>
 <body>
 
 <div class="header-sticky">
   <header class="site-header">
-    <div class="brand">
-      <img src="icon.png" alt="Fabifo Logo" class="brand-icon">
-      <div class="brand-text">
-        <h1><span class="brand-white">Fabi</span><span class="brand-gold">fo</span></h1>
-        <p class="brand-tagline">Wissen. Verstehen. Weiterkommen.</p>
+    <div class="brand-col">
+      <div class="brand">
+        <img src="icon.png" alt="Fabifo Logo" class="brand-icon">
+        <div class="brand-text">
+          <h1><span class="brand-white">Fabi</span><span class="brand-gold">fo</span></h1>
+          <p class="brand-tagline">Wissen. Verstehen. Weiterkommen.</p>
+        </div>
       </div>
+      <nav class="section-nav" aria-label="Bereich wählen">
+        <a href="#" class="section-link section-link--primary active" data-view="news">News</a>
+        <a href="#" class="section-link section-link--primary" data-view="etfs">ETFs</a>
+        <a href="#" class="section-link section-link--secondary" data-view="stocks">Krypto &amp; Aktien</a>
+      </nav>
     </div>
     <div class="meta-wrap">
       <span class="status-dot" id="statusDot"></span>
@@ -142,6 +171,7 @@
   </header>
 </div>
 
+<div id="viewNews">
 <div class="toolbar">
   <div class="ticker-scroll">
     <div class="ticker" id="ticker">
@@ -202,10 +232,29 @@
     </div>
   </section>
 </main>
+</div>
+
+<div id="viewETFs" class="hidden">
+  <p class="view-intro">25 bekannte ETFs – Kurs &amp; Chart aktualisieren sich täglich automatisch, Kostenquote/Fondsgröße/Ausschüttung sind von Hand gepflegt und ändern sich nur selten.</p>
+  <div class="asset-grid" id="etfGrid">
+    <div class="asset-card skel" style="height:170px;"></div>
+    <div class="asset-card skel" style="height:170px;"></div>
+    <div class="asset-card skel" style="height:170px;"></div>
+  </div>
+</div>
+
+<div id="viewStocks" class="hidden">
+  <p class="view-intro">Kurs &amp; Chart, täglich automatisch aktualisiert.</p>
+  <div class="asset-grid" id="stocksGrid">
+    <div class="asset-card skel" style="height:120px;"></div>
+    <div class="asset-card skel" style="height:120px;"></div>
+    <div class="asset-card skel" style="height:120px;"></div>
+  </div>
+</div>
 
 <footer>
   <div><strong>Hinweis:</strong> Kurse und Nachrichten aktualisieren sich automatisch einmal täglich über ein GitHub-Actions-Skript. Die Einsortierung nach Kategorie läuft über eine Stichwortsuche, keine redaktionelle Prüfung wie bei einer von Hand erstellten Ausgabe.</div>
-  <div class="sources"><strong>Quellen:</strong> Politik &amp; Märkte: RSS-Feed der Tagesschau. EU: Presseraum der Europäischen Kommission. Kursdaten: Yahoo Finance (inoffizielle Schnittstelle). Alle Angaben ohne Gewähr – über „Mehr →" geht's jeweils zur Originalquelle.</div>
+  <div class="sources"><strong>Quellen:</strong> Politik &amp; Märkte: RSS-Feed der Tagesschau. EU: Presseraum der Europäischen Kommission. Kursdaten: Yahoo Finance (inoffizielle Schnittstelle). ETF-Kennzahlen (TER/Fondsgröße) von Hand gepflegt, nicht live geprüft. Alle Angaben ohne Gewähr – über „Mehr →" geht's jeweils zur Originalquelle.</div>
 </footer>
 
 <script>
@@ -483,6 +532,64 @@ pills.forEach(pill=>{
     }, 160);
   });
 });
+
+/* --- Bereichs-Navigation: News / ETFs / Krypto & Aktien --- */
+const views = {
+  news: document.getElementById('viewNews'),
+  etfs: document.getElementById('viewETFs'),
+  stocks: document.getElementById('viewStocks'),
+};
+document.querySelectorAll('.section-link').forEach(link=>{
+  link.addEventListener('click', (e)=>{
+    e.preventDefault();
+    document.querySelectorAll('.section-link').forEach(l=>l.classList.remove('active'));
+    link.classList.add('active');
+    const target = link.dataset.view;
+    Object.keys(views).forEach(key=>{
+      views[key].classList.toggle('hidden', key !== target);
+    });
+  });
+});
+
+/* --- ETF- und Aktien&Krypto-Ansicht --- */
+function assetCardHTML(item){
+  const dir = item.change_pct > 0 ? 'up' : (item.change_pct < 0 ? 'down' : '');
+  const arrow = dir==='up' ? '▲' : (dir==='down' ? '▼' : '');
+  const spark = item.history ? sparkline(item.history, dir==='down' ? 'var(--neg)' : 'var(--pos)') : '';
+  const priceText = (item.price != null) ? `${item.price} €` : 'n. v.';
+  const changeText = (item.change_pct != null) ? `${arrow} ${item.change_pct}%` : '';
+  const facts = item.ter != null ? `
+    <dl class="asset-facts">
+      <div><dt>TER</dt><dd>${item.ter}%</dd></div>
+      <div><dt>Volumen</dt><dd>${item.fund_size_mrd} Mrd. €</dd></div>
+      <div><dt>Ausschüttung</dt><dd>${item.distribution}</dd></div>
+      <div><dt>ISIN</dt><dd>${item.isin}</dd></div>
+    </dl>` : '';
+  return `<article class="asset-card">
+    <div class="asset-card-top">
+      <span class="asset-badge">${item.category}</span>
+      <span class="${dir}">${changeText}</span>
+    </div>
+    <h3>${item.name}</h3>
+    <div class="asset-price-row">
+      <span class="asset-price">${priceText}</span>
+      ${spark}
+    </div>
+    ${facts}
+  </article>`;
+}
+
+fetch('assets.json?_=' + Date.now())
+  .then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+  .then(data=>{
+    document.getElementById('etfGrid').innerHTML = (data.etfs||[]).map(assetCardHTML).join('');
+    document.getElementById('stocksGrid').innerHTML = (data.stocks||[]).map(assetCardHTML).join('');
+  })
+  .catch(err=>{
+    const msg = '<p class="load-error">assets.json konnte nicht geladen werden (normal in dieser Chat-Vorschau – auf GitHub Pages lädt es automatisch). Fehler: '+err.message+'</p>';
+    document.getElementById('etfGrid').innerHTML = msg;
+    document.getElementById('stocksGrid').innerHTML = msg;
+  });
 </script>
 
 </body>
