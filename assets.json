@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:00:00+00:00",
+  "updated": "2026-08-05T17:32+00:00",
   "etfs": [
     {
       "name": "Vanguard FTSE All-World",
@@ -10,16 +10,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "vwce",
-      "price": 135.4,
-      "change_pct": 0.3,
+      "price": 168.04,
+      "change_pct": 1.78,
       "history": [
-        132.96,
-        133.37,
-        133.78,
-        134.18,
-        134.59,
-        134.99,
-        135.4
+        163.36,
+        163.78,
+        162.4,
+        162.02,
+        162.96,
+        165.1,
+        168.04
       ]
     },
     {
@@ -31,16 +31,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "eunl",
-      "price": 94.8,
-      "change_pct": 0.3,
+      "price": 128.24,
+      "change_pct": 1.63,
       "history": [
-        93.09,
-        93.38,
-        93.66,
-        93.95,
-        94.23,
-        94.52,
-        94.8
+        124.71,
+        125.21,
+        124.36,
+        123.65,
+        124.29,
+        126.18,
+        128.24
       ]
     },
     {
@@ -52,17 +52,9 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "xmwo",
-      "price": 48.2,
-      "change_pct": 0.29,
-      "history": [
-        47.33,
-        47.48,
-        47.62,
-        47.77,
-        47.91,
-        48.06,
-        48.2
-      ]
+      "price": null,
+      "change_pct": null,
+      "history": null
     },
     {
       "name": "L&G Gerd Kommer Multifactor",
@@ -73,16 +65,16 @@
       "category": "Welt (Multifaktor)",
       "distribution": "thesaurierend",
       "key": "gerd",
-      "price": 14.1,
-      "change_pct": 0.28,
+      "price": 15.06,
+      "change_pct": 0.6,
       "history": [
-        13.85,
-        13.89,
-        13.93,
-        13.97,
-        14.02,
-        14.06,
-        14.1
+        14.76,
+        14.78,
+        14.68,
+        14.66,
+        14.72,
+        14.97,
+        15.06
       ]
     },
     {
@@ -94,16 +86,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "spyy",
-      "price": 134.9,
-      "change_pct": 0.3,
+      "price": 286.15,
+      "change_pct": 1.8,
       "history": [
-        132.47,
-        132.88,
-        133.28,
-        133.69,
-        134.09,
-        134.5,
-        134.9
+        278.15,
+        278.8,
+        276.55,
+        275.7,
+        277.5,
+        281.1,
+        286.15
       ]
     },
     {
@@ -115,16 +107,16 @@
       "category": "USA",
       "distribution": "thesaurierend",
       "key": "sxr8",
-      "price": 548.0,
-      "change_pct": 0.3,
+      "price": 722.42,
+      "change_pct": 1.82,
       "history": [
-        538.14,
-        539.78,
-        541.42,
-        543.07,
-        544.71,
-        546.36,
-        548.0
+        700.18,
+        703.06,
+        697.7,
+        690.52,
+        696.24,
+        709.52,
+        722.42
       ]
     },
     {
@@ -136,16 +128,16 @@
       "category": "USA",
       "distribution": "ausschüttend",
       "key": "vusa",
-      "price": 94.6,
-      "change_pct": 0.3,
+      "price": 127.13,
+      "change_pct": 1.8,
       "history": [
-        92.9,
-        93.18,
-        93.46,
-        93.75,
-        94.03,
-        94.32,
-        94.6
+        123.19,
+        123.71,
+        122.76,
+        121.48,
+        122.47,
+        124.88,
+        127.13
       ]
     },
     {
@@ -157,16 +149,16 @@
       "category": "USA Tech",
       "distribution": "thesaurierend",
       "key": "eqqq",
-      "price": 452.0,
-      "change_pct": 0.3,
+      "price": 629.0,
+      "change_pct": 3.3,
       "history": [
-        443.86,
-        445.22,
-        446.58,
-        447.93,
-        449.29,
-        450.64,
-        452.0
+        598.7,
+        597.4,
+        589.4,
+        592.9,
+        596.5,
+        608.9,
+        629.0
       ]
     },
     {
@@ -178,16 +170,16 @@
       "category": "Schwellenländer",
       "distribution": "thesaurierend",
       "key": "is3n",
-      "price": 34.8,
-      "change_pct": 0.29,
+      "price": 46.8,
+      "change_pct": 2.93,
       "history": [
-        34.17,
-        34.28,
-        34.38,
-        34.49,
-        34.59,
-        34.7,
-        34.8
+        45.34,
+        44.95,
+        44.05,
+        44.74,
+        45.36,
+        45.47,
+        46.8
       ]
     },
     {
@@ -199,16 +191,16 @@
       "category": "Schwellenländer",
       "distribution": "thesaurierend",
       "key": "xmme",
-      "price": 48.1,
-      "change_pct": 0.29,
+      "price": 79.62,
+      "change_pct": 2.82,
       "history": [
-        47.23,
-        47.38,
-        47.52,
-        47.67,
-        47.81,
-        47.96,
-        48.1
+        77.15,
+        76.41,
+        74.97,
+        76.27,
+        77.45,
+        77.44,
+        79.62
       ]
     },
     {
@@ -220,16 +212,16 @@
       "category": "Europa",
       "distribution": "thesaurierend",
       "key": "eun9",
-      "price": 44.9,
-      "change_pct": 0.29,
+      "price": 142.05,
+      "change_pct": 0.35,
       "history": [
-        44.09,
-        44.23,
-        44.36,
-        44.5,
-        44.63,
-        44.77,
-        44.9
+        141.4,
+        141.66,
+        141.16,
+        141.3,
+        141.01,
+        141.55,
+        142.05
       ]
     },
     {
@@ -241,16 +233,16 @@
       "category": "Europa",
       "distribution": "thesaurierend",
       "key": "xesc",
-      "price": 54.7,
-      "change_pct": 0.29,
+      "price": 115.48,
+      "change_pct": 0.75,
       "history": [
-        53.72,
-        53.88,
-        54.04,
-        54.21,
-        54.37,
-        54.54,
-        54.7
+        111.98,
+        112.16,
+        111.34,
+        113.0,
+        113.26,
+        114.62,
+        115.48
       ]
     },
     {
@@ -262,16 +254,16 @@
       "category": "Thema (Tech)",
       "distribution": "thesaurierend",
       "key": "xaix",
-      "price": 18.3,
-      "change_pct": 0.27,
+      "price": 205.6,
+      "change_pct": 3.71,
       "history": [
-        17.97,
-        18.03,
-        18.08,
-        18.14,
-        18.19,
-        18.25,
-        18.3
+        192.42,
+        191.26,
+        189.3,
+        190.16,
+        193.28,
+        198.24,
+        205.6
       ]
     },
     {
@@ -283,16 +275,16 @@
       "category": "Thema (Energie)",
       "distribution": "ausschüttend",
       "key": "iqqh",
-      "price": 4.9,
-      "change_pct": 0.2,
+      "price": 9.1,
+      "change_pct": 1.0,
       "history": [
-        4.81,
-        4.83,
-        4.84,
-        4.86,
-        4.87,
-        4.89,
-        4.9
+        8.89,
+        8.71,
+        8.58,
+        8.8,
+        8.82,
+        9.01,
+        9.1
       ]
     },
     {
@@ -304,16 +296,16 @@
       "category": "Thema (Tech)",
       "distribution": "thesaurierend",
       "key": "2b76",
-      "price": 9.2,
-      "change_pct": 0.33,
+      "price": 18.61,
+      "change_pct": 3.85,
       "history": [
-        9.03,
-        9.06,
-        9.09,
-        9.12,
-        9.14,
-        9.17,
-        9.2
+        17.1,
+        17.19,
+        17.07,
+        17.32,
+        17.58,
+        17.92,
+        18.61
       ]
     },
     {
@@ -325,17 +317,9 @@
       "category": "Dividenden",
       "distribution": "ausschüttend",
       "key": "vhyl",
-      "price": 67.8,
-      "change_pct": 0.3,
-      "history": [
-        66.58,
-        66.78,
-        66.99,
-        67.19,
-        67.39,
-        67.6,
-        67.8
-      ]
+      "price": null,
+      "change_pct": null,
+      "history": null
     },
     {
       "name": "iShares STOXX Global Select Div 100",
@@ -346,16 +330,16 @@
       "category": "Dividenden",
       "distribution": "ausschüttend",
       "key": "ispa",
-      "price": 22.1,
-      "change_pct": 0.32,
+      "price": 39.84,
+      "change_pct": -0.2,
       "history": [
-        21.7,
-        21.77,
-        21.83,
-        21.9,
-        21.97,
-        22.03,
-        22.1
+        39.48,
+        39.9,
+        39.94,
+        39.79,
+        39.83,
+        39.92,
+        39.84
       ]
     },
     {
@@ -367,17 +351,9 @@
       "category": "Anleihen",
       "distribution": "thesaurierend",
       "key": "sxrn",
-      "price": 144.6,
-      "change_pct": 0.3,
-      "history": [
-        142.0,
-        142.43,
-        142.86,
-        143.3,
-        143.73,
-        144.17,
-        144.6
-      ]
+      "price": null,
+      "change_pct": null,
+      "history": null
     },
     {
       "name": "iShares Global Aggregate Bond",
@@ -388,17 +364,9 @@
       "category": "Anleihen",
       "distribution": "thesaurierend",
       "key": "aggu",
-      "price": 5.1,
-      "change_pct": 0.39,
-      "history": [
-        5.01,
-        5.02,
-        5.04,
-        5.05,
-        5.07,
-        5.08,
-        5.1
-      ]
+      "price": null,
+      "change_pct": null,
+      "history": null
     },
     {
       "name": "Xtrackers Physical Gold",
@@ -409,16 +377,16 @@
       "category": "Rohstoffe",
       "distribution": "-",
       "key": "xad5",
-      "price": 48.3,
-      "change_pct": 0.29,
+      "price": 353.2,
+      "change_pct": 5.16,
       "history": [
-        47.43,
-        47.58,
-        47.72,
-        47.87,
-        48.01,
-        48.16,
-        48.3
+        342.96,
+        339.1,
+        337.62,
+        340.82,
+        336.32,
+        335.88,
+        353.2
       ]
     },
     {
@@ -430,17 +398,9 @@
       "category": "Rohstoffe",
       "distribution": "-",
       "key": "sgln",
-      "price": 47.9,
-      "change_pct": 0.29,
-      "history": [
-        47.04,
-        47.18,
-        47.33,
-        47.47,
-        47.61,
-        47.76,
-        47.9
-      ]
+      "price": null,
+      "change_pct": null,
+      "history": null
     },
     {
       "name": "iShares MSCI World SRI",
@@ -451,16 +411,16 @@
       "category": "Nachhaltig",
       "distribution": "thesaurierend",
       "key": "2b7k",
-      "price": 9.4,
-      "change_pct": 0.32,
+      "price": 13.91,
+      "change_pct": 1.9,
       "history": [
-        9.23,
-        9.26,
-        9.29,
-        9.32,
-        9.34,
-        9.37,
-        9.4
+        13.55,
+        13.66,
+        13.56,
+        13.48,
+        13.52,
+        13.65,
+        13.91
       ]
     },
     {
@@ -472,16 +432,16 @@
       "category": "Nachhaltig",
       "distribution": "thesaurierend",
       "key": "xzw0",
-      "price": 27.8,
-      "change_pct": 0.29,
+      "price": 49.69,
+      "change_pct": 1.76,
       "history": [
-        27.3,
-        27.38,
-        27.47,
-        27.55,
-        27.63,
-        27.72,
-        27.8
+        47.31,
+        47.74,
+        47.39,
+        47.38,
+        47.79,
+        48.83,
+        49.69
       ]
     },
     {
@@ -493,17 +453,9 @@
       "category": "Japan",
       "distribution": "thesaurierend",
       "key": "ijpa",
-      "price": 7.2,
-      "change_pct": 0.28,
-      "history": [
-        7.07,
-        7.09,
-        7.11,
-        7.14,
-        7.16,
-        7.18,
-        7.2
-      ]
+      "price": null,
+      "change_pct": null,
+      "history": null
     },
     {
       "name": "iShares MSCI China",
@@ -514,16 +466,16 @@
       "category": "China",
       "distribution": "thesaurierend",
       "key": "iqqc",
-      "price": 27.6,
-      "change_pct": 0.29,
+      "price": 89.98,
+      "change_pct": -1.47,
       "history": [
-        27.1,
-        27.19,
-        27.27,
-        27.35,
-        27.43,
-        27.52,
-        27.6
+        89.11,
+        89.96,
+        91.14,
+        90.81,
+        90.86,
+        91.32,
+        89.98
       ]
     }
   ],
@@ -533,16 +485,16 @@
       "ticker": "BTCE.DE",
       "category": "Krypto",
       "key": "bitcoin",
-      "price": 63.5,
-      "change_pct": 0.3,
+      "price": 49.32,
+      "change_pct": 0.9,
       "history": [
-        62.36,
-        62.55,
-        62.74,
-        62.93,
-        63.12,
-        63.31,
-        63.5
+        50.04,
+        49.42,
+        49.69,
+        49.56,
+        48.02,
+        48.88,
+        49.32
       ]
     },
     {
@@ -550,16 +502,16 @@
       "ticker": "RHM.DE",
       "category": "Aktie",
       "key": "rheinmetall",
-      "price": 1850.0,
-      "change_pct": 0.3,
+      "price": 1200.6,
+      "change_pct": -0.02,
       "history": [
-        1816.7,
-        1822.25,
-        1827.8,
-        1833.35,
-        1838.9,
-        1844.45,
-        1850.0
+        1086.8,
+        1153.4,
+        1139.6,
+        1140.0,
+        1175.0,
+        1200.8,
+        1200.6
       ]
     },
     {
@@ -567,16 +519,16 @@
       "ticker": "NVDA",
       "category": "Aktie",
       "key": "nvidia",
-      "price": 178.0,
-      "change_pct": 0.3,
+      "price": 221.08,
+      "change_pct": 4.31,
       "history": [
-        174.8,
-        175.33,
-        175.86,
-        176.4,
-        176.93,
-        177.47,
-        178.0
+        197.01,
+        190.01,
+        195.04,
+        200.75,
+        206.64,
+        211.94,
+        221.08
       ]
     }
   ]

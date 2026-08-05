@@ -1,11 +1,11 @@
 {
-  "updated": "2026-08-05T12:22+00:00",
+  "updated": "2026-08-05T17:32+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 26231.3,
+      "value": 26126.3,
       "unit": "Pkt.",
-      "change_pct": 0.11,
+      "change_pct": -0.29,
       "history": [
         25464.0,
         25460.5,
@@ -13,44 +13,44 @@
         25629.2,
         26001.3,
         26202.3,
-        26231.3
+        26126.3
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 29733.2,
+      "value": 29628.0,
       "unit": "Pkt.",
-      "change_pct": 3.32,
+      "change_pct": -0.35,
       "history": [
-        28039.2,
         27763.1,
         27192.3,
         28106.3,
         28274.2,
         28776.8,
-        29733.2
+        29733.2,
+        29628.0
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7736.5,
+      "value": 7737.1,
       "unit": "Pkt.",
-      "change_pct": 1.79,
+      "change_pct": 0.01,
       "history": [
-        7413.2,
         7428.8,
         7316.1,
         7437.6,
         7489.7,
         7600.5,
-        7736.5
+        7736.5,
+        7737.1
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 80.1,
+      "value": 78.8,
       "unit": "$",
-      "change_pct": 0.88,
+      "change_pct": -0.76,
       "history": [
         84.1,
         90.7,
@@ -58,14 +58,14 @@
         90.1,
         83.8,
         79.4,
-        80.1
+        78.8
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4258.9,
+      "value": 4298.2,
       "unit": "$",
-      "change_pct": 3.99,
+      "change_pct": 4.95,
       "history": [
         4036.3,
         4034.7,
@@ -73,14 +73,14 @@
         4049.1,
         4033.7,
         4095.4,
-        4258.9
+        4298.2
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1559,
+      "value": 1.1551,
       "unit": "",
-      "change_pct": 0.45,
+      "change_pct": 0.38,
       "history": [
         1.1369,
         1.1387,
@@ -88,7 +88,7 @@
         1.1524,
         1.1544,
         1.1507,
-        1.1559
+        1.1551
       ]
     },
     "fed_rate": {
@@ -108,50 +108,68 @@
   },
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Ifo Institut: Autoindustrie zeigt sich wieder optimistischer",
-    "text": "Die Nachfrage nach der E-Auto-Prämie ist groß, vor allem Haushalte mit mittlerem Einkommen nutzen sie. Gleichzeitig hellt sich die Stimmung in der deutschen Autoindustrie spürbar auf, so das ifo Institut.",
-    "link": "https://www.tagesschau.de/wirtschaft/konjunktur/automarkt-konzerne-stimmung-e-autos-100.html"
+    "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
+    "text": "Seit US-Präsident Trump das Hilfsprogramm USAID eingestellt hat, zeigen sich weltweit die Folgen. In Nepal fallen dadurch viele HIV-Präventionsprogramme weg. Die Konsequenzen sind in mehrerlei Hinsicht schockierend. Von Lena Bodewein.",
+    "link": "https://www.tagesschau.de/ausland/asien/nepal-fehlen-us-aid-folgen-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Ifo Institut: Autoindustrie zeigt sich wieder optimistischer",
-        "text": "Die Nachfrage nach der E-Auto-Prämie ist groß, vor allem Haushalte mit mittlerem Einkommen nutzen sie. Gleichzeitig hellt sich die Stimmung in der deutschen Autoindustrie spürbar auf, so das ifo Institut.",
-        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/automarkt-konzerne-stimmung-e-autos-100.html"
+        "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
+        "text": "Seit US-Präsident Trump das Hilfsprogramm USAID eingestellt hat, zeigen sich weltweit die Folgen. In Nepal fallen dadurch viele HIV-Präventionsprogramme weg. Die Konsequenzen sind in mehrerlei Hinsicht schockierend. Von Lena Bodewein.",
+        "link": "https://www.tagesschau.de/ausland/asien/nepal-fehlen-us-aid-folgen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Fördergeschäft der KfW steigt im ersten Halbjahr auf Rekordwert",
-        "text": "Die bundeseigene KfW hat zuletzt deutlich mehr Kredite und Zuschüsse vergeben als im Jahr davor. Groß war vor allem die Nachfrage nach Zuschüssen für Klimaschutz- und Umweltvorhaben.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/kfw-foerdergeschaeft-rekordwert-100.html"
+        "title": "E-Autos: CSU will Förderung zugunsten deutscher Hersteller ändern",
+        "text": "Die aktuelle E-Auto-Förderung will die Elektromobilität in Deutschland voranbringen. Davon profitieren bisher vor allem ausländische Autobauer. Die CSU will das ändern - und deutschen Herstellern einen Vorteil verschaffen. Von Jakob Mayr.",
+        "link": "https://www.tagesschau.de/inland/e-autos-foerderung-csu-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Queere Gemeinschaft fühlt sich nach CSD-Anschlag im Stich gelassen",
-        "text": "Der islamistische Anschlag auf den Christopher Street Day in Berlin hat die queere Gemeinschaft tief verunsichert. Verbände fordern ein stärkeres Engagement der Bundesregierung. Doch einige Förderprogramme laufen aus. Von G. Blaschko.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/queere-menschen-berlin-100.html"
+        "title": "Senats-Vorwahl in Michigan: El-Sayed sichert sich Kandidatur für Demokraten",
+        "text": "Im US-Bundesstaat Michigan hat sich der linke Gesundheitspolitiker Abdul El-Sayed knapp die Kandidatur der Demokraten für die Senatswahlen im November gesichert. Die Wahl galt auch als Stimmungstest. Von Sandra Ratzow.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-michigan-abdul-el-sayed-kandidatur-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Schiitische Wallfahrt in den Irak: Zwischen Glaube, Politik und Hitze",
-        "text": "Jedes Jahr pilgern Millionen Schiiten in die ihnen heilige Stadt Kerbela im Irak. In diesem Jahr fordern Temperaturen von bis zu 45 Grad Pilger und Organisatoren heraus. Beherrschendes Thema ist die Lage im Nachbarland Iran. Von Moritz Behrendt.",
-        "link": "https://www.tagesschau.de/ausland/asien/irak-wallfahrt-kerbela-100.html"
+        "title": "SPD uneins über Abschaffung der Rente mit 63",
+        "text": "Der Plan der Bundesregierung, die \"Rente mit 63 Jahren\" abzuschaffen, führt auch innerhalb der SPD zu Debatten. So plädiert der Parlamentarische Geschäftsführer Wiese für Härtefall-Ausnahmen, etwa im Straßenbau oder der Schichtarbeit.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/rentendiskussion-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Flughafen Leipzig/Halle: Ermittler entdecken \"unbekannte Masse\" und mutmaßlichen Zünder an Drohne",
-        "text": "Am Flughafen Leipzig/Halle wurde ein verdächtiger Gegenstand gefunden, laut Recherchen von NDR, WDR und Süddeutscher Zeitung handelt es sich um eine präparierte Drohne. Zudem kollidierte in der Nähe ein Flugzeug mit einem unbekannten Objekt.",
-        "link": "https://www.tagesschau.de/investigativ/drohne-leipzig-100.html"
+        "title": "Behörden: \"Sehr ernster Sicherheitsvorfall\" am Flughafen Leipzig/Halle",
+        "text": "Nach dem Fund einer Drohne mit Sprengstoff am Flughafen Leipzig/Halle ist der Zünder inzwischen entfernt. Sachsens Innenminister Schuster spricht von einem \"sehr ernsten\" Vorfall. Bundesinnenminister Dobrindt reist zur Lagebesprechung nach Leipzig.",
+        "link": "https://www.tagesschau.de/inland/sicherheit-flughafen-leipzig-drohne-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Verhaltene Reaktionen von Sozialverbänden auf Zivildienstpläne",
-        "text": "Die Bundesregierung lotet derzeit Pläne für einen Zivildienst aus. Einige Sozialverbände sorgen sich, dass dieser zu Lasten der Freiwilligendienste gehen könnte. Wünsche haben sie auch für die Dauer und Qualifizierung.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/zivildienst-gestaltung-100.html"
+        "title": "Neue Männlichkeit in Sportserien: Ted Lasso und Co.",
+        "text": "Die neuen Sport-Helden in Serien wie \"Ted Lasso\" oder \"Off Campus\" sind sensibel und verletzlich. Diese neuen Männerbilder sind Ausdruck eines Kulturkampfes - mitten auf dem Spielfeld der Popkultur. Von Christoph Ohrem.",
+        "link": "https://www.tagesschau.de/kultur/ted-lasso-heated-rivalry-und-off-campus,neue-maennlichkeit-in-sportserien-100.html"
       }
     ],
     "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
+        "text": "Berichte mehrerer Medien erzürnen die Trump-Regierung. Demnach seien die Raketen-Bestände des US-Militärs drastisch geschrumpft. Dies habe auch die Entscheidung über neue Angriffe auf Iran beeinflusst. Das Pentagon dementiert energisch. Von E. Aretz.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Iran und Oman einigen sich auf neue Route durch Straße von Hormus",
+        "text": "Nach Angaben aus Teheran haben sich Iran und Oman auf eine neue Route durch die Straße von Hormus geeinigt. Sie würde Iran deutlich mehr Kontrolle über die Wasserstraße geben. Die USA waren nicht an der Einigung beteiligt.",
+        "link": "https://www.tagesschau.de/ausland/asien/iran-oman-hormus-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Manöver: Taiwan übt Abwehr eines potenziellen Angriff Chinas",
+        "text": "In Taiwan probt die Armee mit einem großangelegten Manöver eine Reaktion auf einen möglichen Angriff Chinas. Dabei wird auch das mobile Internet gedrosselt, um das Land auf schwere Krisen vorzubereiten.",
+        "link": "https://www.tagesschau.de/ausland/asien/taiwan-militaeruebung-108.html"
+      },
       {
         "source": "Tagesschau",
         "title": "Israel lehnt Trumps Plan zur Hamas-Entwaffnung im Gazastreifen ab",
@@ -169,24 +187,6 @@
         "title": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
         "text": "Ein Video zeigt, wie eine Drohne einen Gemüsehändler in der Ukraine verfolgt - und schließlich neben ihm explodiert. Der Angriff sei kein Einzelfall, sagt der ukrainische Präsident Selenskyj. Er fordert erneut mehr Druck auf Moskau.",
         "link": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
-        "text": "Nachdem die meisten EU-Staaten Spanien wegen der Krise in Ceuta kritisiert hatten, betonten die europäischen Innenminister jetzt ihre Solidarität mit Madrid. Doch die Diskussion über Europas Grenzschutz geht weiter. Von Jean-Marie Magro.",
-        "link": "https://www.tagesschau.de/ausland/europa/eu-innenminister-ceuta-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Stromnetz auf Kuba am Montag erneut landesweit zusammengebrochen",
-        "text": "Kein Strom bei drückender Hitze - in Kuba ist es wieder zu landesweiten Blackouts gekommen. Schulunterricht fällt aus und Krankenhäuser können Patienten offenbar nur eingeschränkt behandeln. Experten warnen vor einer humanitären Krise.",
-        "link": "https://www.tagesschau.de/ausland/amerika/erneuter-stromausfall-kuba-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Ceuta-Krise: EU-Innenminister stellen sich geschlossen hinter Spanien",
-        "text": "Bei einer kurzfristig einberufenen Videokonferenz zu den Vorfällen in Ceuta haben die EU-Innenminister Spanien demonstrativ den Rücken gestärkt. Die Außengrenzen lägen in gemeinsamer europäischer Verantwortung. Das klang zuvor noch anders.",
-        "link": "https://www.tagesschau.de/ausland/europa/spanien-ceuta-eu-innenministerrat-100.html"
       }
     ],
     "eu": [
@@ -230,8 +230,8 @@
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX setzt Klettertour fort",
-        "text": "Eine Fülle neuer Unternehmensergebnisse, aber auch die Hoffnung auf eine diplomatische Nahost-Lösung, bestimmen den Handelstag. Der DAX markiert im Sog der Wall Street ein neues Rekordhoch.",
+        "title": "Marktbericht: DAX beendet Klettertour",
+        "text": "Am Morgen hatte der DAX noch neue Höhen erklommen, dann setzten aber Gewinnmitnahmen ein. Der Markt hatte auch eine Fülle neuer Unternehmenszahlen zu verarbeiten.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html"
       },
       {
@@ -251,12 +251,6 @@
         "title": "Marktbericht: Anleger hieven DAX wieder auf ein Allzeithoch",
         "text": "Die Investoren hatten ein ganze Reihe von Unternehmensbilanzen zu verarbeiten. Aber vor allem richteten sich die Blicke in Richtung Naher Osten. Noch immer treiben Friedenshoffnungen den DAX weiter an.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Warum das Niedrigwasser das Wirtschaftswachstum bremst",
-        "text": "Die niedrigen Pegelstände deutscher Flüsse haben massive Folgen für die Wirtschaft: Bleibt die Binnenschifffahrt auf dem Rhein länger eingeschränkt, könnte das ohnehin kleine Wirtschaftswachstum zunichte gemacht werden, warnt das IW.",
-        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftliche-folgen-niedrigwasser-rhein-donau-100.html"
       }
     ]
   }
