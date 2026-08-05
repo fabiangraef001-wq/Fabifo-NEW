@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:00:00+00:00",
+  "updated": "2026-08-05T17:51+00:00",
   "etfs": [
     {
       "name": "L&G Gerd Kommer Multifactor",
@@ -10,16 +10,16 @@
       "category": "Welt (Multifaktor)",
       "distribution": "thesaurierend",
       "key": "gerd",
-      "price": 14.1,
-      "change_pct": 0.28,
+      "price": 15.06,
+      "change_pct": 0.6,
       "history": [
-        13.85,
-        13.89,
-        13.93,
-        13.97,
-        14.02,
-        14.06,
-        14.1
+        14.76,
+        14.78,
+        14.68,
+        14.66,
+        14.72,
+        14.97,
+        15.06
       ]
     },
     {
@@ -31,16 +31,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "vwce",
-      "price": 135.4,
-      "change_pct": 0.3,
+      "price": 168.04,
+      "change_pct": 1.78,
       "history": [
-        132.96,
-        133.37,
-        133.78,
-        134.18,
-        134.59,
-        134.99,
-        135.4
+        163.36,
+        163.78,
+        162.4,
+        162.02,
+        162.96,
+        165.1,
+        168.04
       ]
     },
     {
@@ -52,16 +52,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "eunl",
-      "price": 126.0,
-      "change_pct": 0.3,
+      "price": 128.24,
+      "change_pct": 1.63,
       "history": [
-        123.73,
-        124.11,
-        124.49,
-        124.87,
-        125.24,
-        125.62,
-        126.0
+        124.71,
+        125.21,
+        124.36,
+        123.65,
+        124.29,
+        126.18,
+        128.24
       ]
     },
     {
@@ -73,17 +73,9 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "xmwo",
-      "price": 89.5,
-      "change_pct": 0.3,
-      "history": [
-        87.89,
-        88.16,
-        88.43,
-        88.69,
-        88.96,
-        89.23,
-        89.5
-      ]
+      "price": null,
+      "change_pct": null,
+      "history": null
     },
     {
       "name": "Xtrackers Artificial Intelligence & Big Data",
@@ -94,16 +86,16 @@
       "category": "Thema (Tech)",
       "distribution": "thesaurierend",
       "key": "xaix",
-      "price": 18.3,
-      "change_pct": 0.27,
+      "price": 205.6,
+      "change_pct": 3.71,
       "history": [
-        17.97,
-        18.03,
-        18.08,
-        18.14,
-        18.19,
-        18.25,
-        18.3
+        192.42,
+        191.26,
+        189.3,
+        190.16,
+        193.28,
+        198.24,
+        205.6
       ]
     },
     {
@@ -115,16 +107,16 @@
       "category": "USA",
       "distribution": "thesaurierend",
       "key": "sxr8",
-      "price": 700.0,
-      "change_pct": 0.3,
+      "price": 722.42,
+      "change_pct": 1.82,
       "history": [
-        687.4,
-        689.5,
-        691.6,
-        693.7,
-        695.8,
-        697.9,
-        700.0
+        700.18,
+        703.06,
+        697.7,
+        690.52,
+        696.24,
+        709.52,
+        722.42
       ]
     },
     {
@@ -136,16 +128,16 @@
       "category": "Schwellenländer",
       "distribution": "thesaurierend",
       "key": "is3n",
-      "price": 45.4,
-      "change_pct": 0.31,
+      "price": 46.8,
+      "change_pct": 2.93,
       "history": [
-        44.58,
-        44.72,
-        44.86,
-        44.99,
-        45.13,
-        45.26,
-        45.4
+        45.34,
+        44.95,
+        44.05,
+        44.74,
+        45.36,
+        45.47,
+        46.8
       ]
     },
     {
@@ -157,16 +149,16 @@
       "category": "USA Tech",
       "distribution": "ausschüttend",
       "key": "eqqq",
-      "price": 330.0,
-      "change_pct": 0.3,
+      "price": 629.0,
+      "change_pct": 3.3,
       "history": [
-        324.06,
-        325.05,
-        326.04,
-        327.03,
-        328.02,
-        329.01,
-        330.0
+        598.7,
+        597.4,
+        589.4,
+        592.9,
+        596.5,
+        608.9,
+        629.0
       ]
     },
     {
@@ -178,16 +170,16 @@
       "category": "Rohstoffe",
       "distribution": "-",
       "key": "gold",
-      "price": 113.2,
-      "change_pct": 0.3,
+      "price": 118.6,
+      "change_pct": 5.13,
       "history": [
-        111.16,
-        111.5,
-        111.84,
-        112.18,
-        112.52,
-        112.86,
-        113.2
+        115.16,
+        113.84,
+        113.36,
+        114.45,
+        112.93,
+        112.81,
+        118.6
       ]
     }
   ],
@@ -197,16 +189,16 @@
       "ticker": "BTCE.DE",
       "category": "Krypto",
       "key": "bitcoin",
-      "price": 63.5,
-      "change_pct": 0.3,
+      "price": 49.32,
+      "change_pct": 0.9,
       "history": [
-        62.36,
-        62.55,
-        62.74,
-        62.93,
-        63.12,
-        63.31,
-        63.5
+        50.04,
+        49.42,
+        49.69,
+        49.56,
+        48.02,
+        48.88,
+        49.32
       ]
     },
     {
@@ -214,16 +206,16 @@
       "ticker": "RHM.DE",
       "category": "Aktie",
       "key": "rheinmetall",
-      "price": 1850.0,
-      "change_pct": 0.3,
+      "price": 1200.6,
+      "change_pct": -0.02,
       "history": [
-        1816.7,
-        1822.25,
-        1827.8,
-        1833.35,
-        1838.9,
-        1844.45,
-        1850.0
+        1086.8,
+        1153.4,
+        1139.6,
+        1140.0,
+        1175.0,
+        1200.8,
+        1200.6
       ]
     },
     {
@@ -231,16 +223,16 @@
       "ticker": "NVDA",
       "category": "Aktie",
       "key": "nvidia",
-      "price": 178.0,
-      "change_pct": 0.3,
+      "price": 221.15,
+      "change_pct": 4.35,
       "history": [
-        174.8,
-        175.33,
-        175.86,
-        176.4,
-        176.93,
-        177.47,
-        178.0
+        197.01,
+        190.01,
+        195.04,
+        200.75,
+        206.64,
+        211.94,
+        221.15
       ]
     }
   ]
