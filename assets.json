@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T17:51+00:00",
+  "updated": "2026-08-05T17:52+00:00",
   "etfs": [
     {
       "name": "L&G Gerd Kommer Multifactor",
@@ -223,8 +223,8 @@
       "ticker": "NVDA",
       "category": "Aktie",
       "key": "nvidia",
-      "price": 221.15,
-      "change_pct": 4.35,
+      "price": 221.17,
+      "change_pct": 4.36,
       "history": [
         197.01,
         190.01,
@@ -232,7 +232,7 @@
         200.75,
         206.64,
         211.94,
-        221.15
+        221.17
       ]
     }
   ]
