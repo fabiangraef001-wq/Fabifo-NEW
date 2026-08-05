@@ -1,94 +1,94 @@
 {
-  "updated": "2026-08-02T06:00:00+00:00",
+  "updated": "2026-08-05T23:13+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25650,
+      "value": 26202.3,
       "unit": "Pkt.",
-      "change_pct": 1.02,
+      "change_pct": 0.77,
       "history": [
-        24950,
-        24820,
-        24690,
-        24827,
-        25190,
-        25400,
-        25650
+        25361.0,
+        25464.0,
+        25460.5,
+        25612.0,
+        25629.2,
+        26001.3,
+        26202.3
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 28160,
+      "value": 29487.8,
       "unit": "Pkt.",
-      "change_pct": 0.65,
+      "change_pct": -0.83,
       "history": [
-        27850,
-        28100,
-        27600,
-        27900,
-        28050,
-        27980,
-        28160
+        27763.1,
+        27192.3,
+        28106.3,
+        28274.2,
+        28776.8,
+        29733.2,
+        29487.8
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7432,
+      "value": 7723.5,
       "unit": "Pkt.",
-      "change_pct": 0.23,
+      "change_pct": -0.17,
       "history": [
-        7390,
-        7410,
-        7380,
-        7400,
-        7420,
-        7415,
-        7432
+        7428.8,
+        7316.1,
+        7437.6,
+        7489.7,
+        7600.5,
+        7736.5,
+        7723.5
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 91.4,
+      "value": 79.4,
       "unit": "$",
-      "change_pct": -5.58,
+      "change_pct": 0.0,
       "history": [
-        76.5,
-        79.2,
-        82.4,
-        100.1,
-        96.8,
-        91.38,
-        91.4
+        84.1,
+        90.7,
+        89.0,
+        90.1,
+        83.8,
+        79.4,
+        79.4
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 3470,
+      "value": 4310.7,
       "unit": "$",
-      "change_pct": 0.3,
+      "change_pct": 5.26,
       "history": [
-        3350,
-        3390,
-        3410,
-        3440,
-        3460,
-        3455,
-        3470
+        4036.3,
+        4034.7,
+        4100.1,
+        4049.1,
+        4033.7,
+        4095.4,
+        4310.7
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.09,
+      "value": 1.1559,
       "unit": "",
-      "change_pct": -0.1,
+      "change_pct": 0.23,
       "history": [
-        1.11,
-        1.1,
-        1.1,
-        1.095,
-        1.09,
-        1.088,
-        1.09
+        1.1387,
+        1.1467,
+        1.1524,
+        1.1544,
+        1.1507,
+        1.1532,
+        1.1559
       ]
     },
     "fed_rate": {
@@ -106,90 +106,193 @@
       "history": null
     }
   },
-  "hero": {
-    "eyebrow": "WOCHENTHEMA",
-    "title": "Nahost-Konflikt treibt den Ölpreis – Fed und Börsen bleiben in Alarmbereitschaft",
-    "text": "Der andauernde Konflikt zwischen den USA und dem Iran sorgt weiter für kräftige Ausschläge beim Ölpreis. Das hält die Inflationssorgen der US-Notenbank hoch: Die Fed beließ ihren Leitzins Ende Juli zum fünften Mal in Folge unverändert – allerdings mit den meisten Gegenstimmen für eine Zinserhöhung seit 2016. An den Börsen sorgt das für Nervosität, auch wenn DAX und Nasdaq sich zuletzt wieder in Richtung ihrer Rekordstände vorgetastet haben."
-  },
-  "independent": [
-    {"source": "netzpolitik.org", "title": "Kampf gegen die EU-Chatkontrolle geht weiter", "text": "Die umstrittenen Pläne zur anlasslosen Chatkontrolle sind in der EU noch nicht vom Tisch. netzpolitik.org begleitet den Streit um Verschlüsselung, Überwachung und Grundrechte seit Jahren kritisch."},
-    {"source": "netzpolitik.org", "title": "KI-Unternehmen und Urheberrecht vor Gericht", "text": "Ein deutsches Gericht hat in einem Grundsatzverfahren zur Nutzung urheberrechtlich geschützter Texte fürs KI-Training entschieden – mit Folgen für den Umgang großer KI-Anbieter mit fremden Inhalten."},
-    {"source": "netzpolitik.org", "title": "Überwachungssoftware bei deutschen Behörden im Fokus", "text": "netzpolitik.org recherchiert regelmäßig zum Einsatz von Analyse- und Überwachungssoftware bei Polizei und Verfassungsschutz und den damit verbundenen Grundrechtsfragen."}
+  "ticker_relevant": [
+    "dax"
   ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
+    "text": "Studien für Medikamente und Impfstoffe gegen die Bundibugyo-Variante des Ebola-Virus haben begonnen. Gleichzeitig warnt die WHO vor der immer noch rasanten Ausbreitung der Krankheit in der Demokratischen Republik Kongo.",
+    "link": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html"
+  },
   "columns": {
-    "eu": [
-      {
-        "source": "Hinweis",
-        "title": "EU-Meldungen folgen nach dem ersten automatischen Lauf",
-        "text": "Diese Spalte zieht Presseerklärungen der Europäischen Kommission. Sobald der Workflow einmal gelaufen ist (Tab Actions, dann Run workflow), stehen hier echte, aktuelle EU-Meldungen mit Link zur Quelle."
-      }
-    ],
     "de": [
       {
-        "source": "Tagesspiegel",
-        "title": "Unruhe an der Spitze der Union",
-        "text": "Kanzler Friedrich Merz ist im Sommerurlaub, doch der Ärger in der CDU über seinen Führungsstil hält an. Nach mehreren Personalquerelen wird in der Partei inzwischen offen über einen möglichen Kanzlerwechsel im Herbst spekuliert."
+        "source": "Tagesschau",
+        "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
+        "text": "Studien für Medikamente und Impfstoffe gegen die Bundibugyo-Variante des Ebola-Virus haben begonnen. Gleichzeitig warnt die WHO vor der immer noch rasanten Ausbreitung der Krankheit in der Demokratischen Republik Kongo.",
+        "link": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html"
       },
       {
-        "source": "Tagesspiegel",
-        "title": "Streit um die Rente spitzt sich zu",
-        "text": "Mehrere CDU-Ministerpräsidenten stellen sich gegen die geplante Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren – und riskieren damit einen offenen Konflikt mit der eigenen Fraktionsspitze. Eine Einigung ist weiter nicht in Sicht."
+        "source": "Tagesschau",
+        "title": "Drohne am Flughafen Leipzig/Halle: Dobrindt sieht \"hybrides Anschlagsszenario\"",
+        "text": "Nach dem Fund einer Drohne mit Sprengstoff am Flughafen Leipzig/Halle zeigen sich die Behörden alarmiert. Bundesinnenminister Dobrindt sprach von einer \"neuen Gefahrenqualität\".",
+        "link": "https://www.tagesschau.de/inland/drohnenvorfall-leipzig-dobrindt-100.html"
       },
       {
-        "source": "Tagesspiegel",
-        "title": "Sorge vor neuen Fluchtrouten",
-        "text": "Nach einem Vorfall bei Ceuta wächst die Sorge vor mehr irregulären Einreisen. Fluchtrouten haben sich zunehmend nach Westen verlagert, was den Druck auf die deutsche Migrationspolitik erhöht."
+        "source": "Tagesschau",
+        "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
+        "text": "Seit US-Präsident Trump das Hilfsprogramm USAID eingestellt hat, zeigen sich weltweit die Folgen. In Nepal fallen dadurch viele HIV-Präventionsprogramme weg. Die Konsequenzen sind in mehrerlei Hinsicht schockierend. Von Lena Bodewein.",
+        "link": "https://www.tagesschau.de/ausland/asien/nepal-fehlen-us-aid-folgen-100.html"
       },
       {
-        "source": "ZEW / ifo",
-        "title": "Konjunktur hellt sich vorsichtig auf",
-        "text": "ZEW-Index und ifo-Geschäftsklima sind im Juli gestiegen. Maschinenbau, Chemie und Pharma melden eine Erholung – nur die Autoindustrie bleibt weiter unter Druck."
+        "source": "Tagesschau",
+        "title": "E-Autos: CSU will Förderung zugunsten deutscher Hersteller ändern",
+        "text": "Die aktuelle E-Auto-Förderung will die Elektromobilität in Deutschland voranbringen. Davon profitieren bisher vor allem ausländische Autobauer. Die CSU will das ändern - und deutschen Herstellern einen Vorteil verschaffen. Von Jakob Mayr.",
+        "link": "https://www.tagesschau.de/inland/e-autos-foerderung-csu-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Senats-Vorwahl in Michigan: El-Sayed sichert sich Kandidatur für Demokraten",
+        "text": "Im US-Bundesstaat Michigan hat sich der linke Gesundheitspolitiker Abdul El-Sayed knapp die Kandidatur der Demokraten für die Senatswahlen im November gesichert. Die Wahl galt auch als Stimmungstest. Von Sandra Ratzow.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-michigan-abdul-el-sayed-kandidatur-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "SPD uneins über Abschaffung der Rente mit 63",
+        "text": "Der Plan der Bundesregierung, die \"Rente mit 63 Jahren\" abzuschaffen, führt auch innerhalb der SPD zu Debatten. So plädiert der Parlamentarische Geschäftsführer Wiese für Härtefall-Ausnahmen, etwa im Straßenbau oder der Schichtarbeit.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/rentendiskussion-102.html"
       }
     ],
     "intl": [
       {
-        "source": "t-online / dpa",
-        "title": "Nahost-Konflikt bleibt ungelöst",
-        "text": "Der seit Mai andauernde Krieg zwischen den USA/Israel und dem Iran belastet weiter die Weltmärkte. Die für den Öltransport zentrale Straße von Hormus bleibt zeitweise gesperrt, Huthi-Angriffe stören zusätzlich den Schiffsverkehr im Roten Meer. Ende Juli keimte nach mehreren ruhigen Nächten immerhin Hoffnung auf Entspannung auf."
+        "source": "Tagesschau",
+        "title": "Haben die USA zu wenig Raketen für eine Eskalation mit Iran?",
+        "text": "Berichte mehrerer Medien erzürnen die Trump-Regierung. Demnach seien die Raketen-Bestände des US-Militärs drastisch geschrumpft. Dies habe auch die Entscheidung über neue Angriffe auf Iran beeinflusst. Das Pentagon dementiert energisch. Von E. Aretz.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-bestand-raketen-100.html"
       },
       {
-        "source": "t-online",
-        "title": "Ölpreis bleibt Nervositätsbarometer",
-        "text": "Je nach Nachrichtenlage schwankt der Ölpreis derzeit im zweistelligen Prozentbereich – zuletzt ging es nach ruhigeren Nächten um rund 5 % nach unten. Für Anleger bleibt er der wichtigste Frühindikator für neue Eskalationsstufen."
+        "source": "Tagesschau",
+        "title": "Iran und Oman einigen sich auf neue Route durch Straße von Hormus",
+        "text": "Nach Angaben aus Teheran haben sich Iran und Oman auf eine neue Route durch die Straße von Hormus geeinigt. Sie würde Iran deutlich mehr Kontrolle über die Wasserstraße geben. Die USA waren nicht an der Einigung beteiligt.",
+        "link": "https://www.tagesschau.de/ausland/asien/iran-oman-hormus-100.html"
       },
       {
-        "source": "NZZ / Handelsblatt",
-        "title": "Neue Zollrunde von Trump",
-        "text": "Nach einer Niederlage vor dem Supreme Court hat Trump im Juli neue Importzölle gegen 60 Handelspartner verhängt, EU und China eingeschlossen. Zusätzlich läuft eine neue Untersuchung gegen die EU – ausgelöst auch durch eine EU-Kartellstrafe gegen Google."
+        "source": "Tagesschau",
+        "title": "Manöver: Taiwan übt Abwehr eines potenziellen Angriff Chinas",
+        "text": "In Taiwan probt die Armee mit einem großangelegten Manöver eine Reaktion auf einen möglichen Angriff Chinas. Dabei wird auch das mobile Internet gedrosselt, um das Land auf schwere Krisen vorzubereiten.",
+        "link": "https://www.tagesschau.de/ausland/asien/taiwan-militaeruebung-108.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Israel lehnt Trumps Plan zur Hamas-Entwaffnung im Gazastreifen ab",
+        "text": "Es sei ein \"historisches Abkommen\" zur Entwaffnung der Hamas, betonte US-Präsident Trump vergangene Woche. Nach tagelangem Schweigen erklärt Premier Netanjahu nun, er habe dem Plan nicht zugestimmt. Und auch die Terrororganisation stellt Bedingungen.",
+        "link": "https://www.tagesschau.de/ausland/asien/netanjahu-hamas-entwaffnung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Cyclospora-Parasit: Mehr als 10.000 Durchfall-Infektionen in den USA",
+        "text": "In den USA verursacht der Cyclospora-Parasit landesweit Durchfall-Erkrankungen. Mehr als 10.000 Menschen sind betroffen, es gibt noch mehr Verdachtsfälle. Als mögliche Ursache gilt verunreinigter Eisbergsalat aus Mexiko.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-parasit-durchfall-erkrankungen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Angriff auf Gemüsehändler: Ukraine wirft Moskau \"Drohnen-Safari\" vor",
+        "text": "Ein Video zeigt, wie eine Drohne einen Gemüsehändler in der Ukraine verfolgt - und schließlich neben ihm explodiert. Der Angriff sei kein Einzelfall, sagt der ukrainische Präsident Selenskyj. Er fordert erneut mehr Druck auf Moskau.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-cherson-drohnenangriff-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 05 / 08 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 05 Aug 2026 EU erhält Einnahmen in Höhe von 1,4 Mrd. EUR aus immobilisierten russischen Vermögenswerten zur Unterstützung der UkraineAm 3. August erhielt die Europäische Un...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_1723"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU erhält Einnahmen in Höhe von 1,4 Mrd. EUR aus immobilisierten russischen Vermögenswerten zur Unterstützung der Ukraine",
+        "text": "European Commission Pressemitteilung Brussels, 05 Aug 2026 Am 3. August erhielt die Europäische Union unerwartete Gewinne in Höhe von 1,4 Mrd. EUR aus den Zinsen auf die Barguthaben aus immobilisierten Vermögenswerten der russischen Zentralbank (CBR), die von Zentralverwahrern ge",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_1721"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Brunner on the situation in Ceuta",
+        "text": "European Commission Speech Brussels, 04 Aug 2026 Good afternoon, everyone.\nThese past few days were a test of our European resilience and of the security of our external borders.\nWe have just concluded our inf...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1722"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 04 / 08 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 04 Aug 2026 Scaleup Europe Fund startet InvestitionenHeute hat die Europäische Kommission die letzten rechtlichen Schritte zur Einrichtung des Scaleup Europe Fund abgeschlo...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_1720"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission leitet eingehende Beihilfeuntersuchung zu Schiedsspruch ein, mit dem Spanien zur Zahlung einer Entschädigung an JGC Holdings Corporation verurteilt wird",
+        "text": "European Commission Pressemitteilung Brussels, 04 Aug 2026 Die Europäische Kommission hat eine eingehende Untersuchung eingeleitet, um zu prüfen, ob ein Schiedsspruch, mit dem Spanien zur Zahlung einer Entschädigung an die JGC Holdings Corporation (im Folgenden „JGC“) für Änderun",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_1719"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Scaleup Europe Fund startet Investitionen",
+        "text": "European Commission Pressemitteilung Brussels, 04 Aug 2026 Heute hat die Europäische Kommission die letzten rechtlichen Schritte zur Einrichtung des Scaleup Europe Fund abgeschlossen, der Europas Scaleup-Unternehmen dazu anregen wird, schneller zu wachsen und weltweit mit einem u",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_1718"
       }
     ],
     "markt": [
       {
-        "source": "LBBW Research",
-        "title": "Fed hält still – aber uneiniger als sonst",
-        "text": "Die US-Notenbank beließ den Leitzins Ende Juli zum fünften Mal in Folge bei 3,50–3,75 %. Drei Mitglieder stimmten für eine Zinserhöhung – so viele Gegenstimmen in diese Richtung gab es zuletzt 2016. Nächster Termin: 16. September."
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX beendet Klettertour",
+        "text": "Am Morgen hatte der DAX noch neue Höhen erklommen, dann setzten aber Gewinnmitnahmen ein. Der Markt hatte auch eine Fülle neuer Unternehmenszahlen zu verarbeiten.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-boerse-112.html"
       },
       {
-        "source": "XTB Marktanalyse",
-        "title": "DAX tastet sich ans Rekordhoch heran",
-        "text": "Nach drei schwächeren Wochen in Folge hat sich der DAX deutlich erholt und schloss zuletzt bei rund 25.650 Punkten – knapp unter seinem Allzeithoch. Bessere Konjunkturdaten und nachlassende Öl-Sorgen stützen die Erholung."
+        "source": "Tagesschau",
+        "title": "Schwache Konjunktur: Mittelstand steckt in der Kreditklemme",
+        "text": "Für mittelständische Betriebe wird es immer schwieriger, Darlehen von ihren Banken zu erhalten. Wegen der schlechten Wirtschaftslage werden die Geldinstitute vorsichtiger. Das erschwert den Firmen Investitionen zusätzlich. Von Axel John.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/mittelstand-kredite-100.html"
       },
       {
-        "source": "dpa-AFX",
-        "title": "US-Tech-Saison mit gemischtem Bild",
-        "text": "Die Quartalszahlen von Apple, Amazon, Microsoft und Meta bewegen aktuell die Nasdaq. Apple und Amazon übertrafen zuletzt die Erwartungen bei Umsatz und Gewinn, während Halbleiterwerte wegen China-Sorgen und hoher KI-Investitionen unter Druck stehen."
+        "source": "Tagesschau",
+        "title": "SpaceX mit Verlust im ersten Quartal an der Börse",
+        "text": "Die ersten Quartalszahlen der Weltraumfirma SpaceX nach ihrem Rekord-Börsengang sorgen bei Anlegern für Zurückhaltung. Zwar verdoppelte SpaceX den Umsatz beinahe, machte aber unter dem Strich erneut Verluste.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-erste-quartalszahlen-verlust-100.html"
       },
       {
-        "source": "dpa-AFX",
-        "title": "Ausreißer der Woche",
-        "text": "Reddit und Roblox brachen nach enttäuschenden Nutzerzahlen um 22 bzw. 27 % ein. Nvidia zeigte sich dagegen vergleichsweise robust und legte moderat zu."
+        "source": "Tagesschau",
+        "title": "Marktbericht: Anleger hieven DAX wieder auf ein Allzeithoch",
+        "text": "Die Investoren hatten ein ganze Reihe von Unternehmensbilanzen zu verarbeiten. Aber vor allem richteten sich die Blicke in Richtung Naher Osten. Noch immer treiben Friedenshoffnungen den DAX weiter an.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html"
       }
     ]
   },
-  "ticker_relevant": [
-    "dax",
-    "nasdaq100",
-    "brent",
-    "fed_rate"
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Dubiose Praktiken: Palantir drückt sich vor Steuern",
+      "text": "Hinter Palantir-CEO Alexander Karp fließen Daten- und Geldströme. Letztere offenbar an Europa vorbei.    –   Alex Karp: World Economic Forum, CC-BY-NC-SA 4.0; Palantir-Screenshot: Salvador Rios / Unsplash; Euro-Scheine: Robert Anasch / Unsplash; Datenstrom: A. C. / UnsplashSeine ",
+      "link": "https://netzpolitik.org/2026/dubiose-praktiken-palantir-drueckt-sich-vor-steuern/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Queerfeindliche Gewalt: „Gewalt beginnt nicht erst auf der Straße“",
+      "text": "Rechtsextreme wie Islamist*innen schüren den Hass auf queere Menschen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Rob Maxwell/UnsplashBeleidigungen, Zwangsoutings oder Bedrohung: Queere Menschen, die von Gewalt im Netz betroffen sind, haben seit Juli in Berlin eine",
+      "link": "https://netzpolitik.org/2026/queerfeindliche-gewalt-gewalt-beginnt-nicht-erst-auf-der-strasse/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Harte Kritik am Thüringer Polizeigesetz: „Verfassungsrechtlich ist das nicht tragbar“",
+      "text": "Die Livestreams der Videoüberwachung in Thüringen (hier am Erfurter Anger) sollen künftig automatisiert nach bestimmten Verhaltensmustern durchsucht werden.    –   CC-BY-NC-SA 4.0: Denis GlismannThüringen soll ein neues Polizeigesetz bekommen, das eine Vielzahl weiterer Befugniss",
+      "link": "https://netzpolitik.org/2026/harte-kritik-am-thueringer-polizeigesetz-verfassungsrechtlich-ist-das-nicht-tragbar/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digitaler Euro: An echten Zentralbanker:innen getestet",
+      "text": "Der Snackautomat als Testobjekt? (Symbolbild)    –   Automat: Stéphan Valentin / unsplash.com; Hintergrund: Immo Wegmann / unsplash.com Ab nächstem Jahr erprobt die Europäische Zentralbank den Digitalen Euro in der Praxis. Wirklich damit zahlen darf allerdings nur ein kleiner Kre",
+      "link": "https://netzpolitik.org/2026/digitaler-euro-an-echten-zentralbankerinnen-getestet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Internet in Syrien: Eine fragile Verbindung",
+      "text": "Werbung für Syriatel in Damaskus, im Jahr 2006.    –   CC-BY-SA 3.0: Danij84, Bearbeitung: netzpolitik.orgGut eineinhalb Jahre nach dem Sturz des Assad-Regimes im Dezember 2024 bleiben die meisten Syrer:innen vom Internet abgeschnitten. Gleichzeitig werden Fake News und Hetze im ",
+      "link": "https://netzpolitik.org/2026/internet-in-syrien-eine-fragile-verbindung/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Interview about resistance: „Palantir is really toxic“",
+      "text": "Alexander Karp, Palantir CEO.    –   CC-BY-NC-SA 4.0: World Economic ForumResistance against Palantir in Europe is growing. We speak with US activists from „Purge Palantir“ about why and how they organize protests against the corporation in its home country.",
+      "link": "https://netzpolitik.org/2026/interview-about-resistance-palantir-is-really-toxic/"
+    }
   ]
 }

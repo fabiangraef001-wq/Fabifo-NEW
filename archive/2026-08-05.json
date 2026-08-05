@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T22:27+00:00",
+  "updated": "2026-08-05T23:13+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
@@ -63,9 +63,9 @@
     },
     "gold": {
       "label": "Gold",
-      "value": 4308.0,
+      "value": 4310.7,
       "unit": "$",
-      "change_pct": 5.19,
+      "change_pct": 5.26,
       "history": [
         4036.3,
         4034.7,
@@ -73,22 +73,22 @@
         4049.1,
         4033.7,
         4095.4,
-        4308.0
+        4310.7
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1558,
+      "value": 1.1559,
       "unit": "",
-      "change_pct": 0.44,
+      "change_pct": 0.23,
       "history": [
-        1.1369,
         1.1387,
         1.1467,
         1.1524,
         1.1544,
         1.1507,
-        1.1558
+        1.1532,
+        1.1559
       ]
     },
     "fed_rate": {
@@ -106,6 +106,9 @@
       "history": null
     }
   },
+  "ticker_relevant": [
+    "dax"
+  ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
     "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
@@ -253,5 +256,43 @@
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oel-100.html"
       }
     ]
-  }
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Dubiose Praktiken: Palantir drückt sich vor Steuern",
+      "text": "Hinter Palantir-CEO Alexander Karp fließen Daten- und Geldströme. Letztere offenbar an Europa vorbei.    –   Alex Karp: World Economic Forum, CC-BY-NC-SA 4.0; Palantir-Screenshot: Salvador Rios / Unsplash; Euro-Scheine: Robert Anasch / Unsplash; Datenstrom: A. C. / UnsplashSeine ",
+      "link": "https://netzpolitik.org/2026/dubiose-praktiken-palantir-drueckt-sich-vor-steuern/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Queerfeindliche Gewalt: „Gewalt beginnt nicht erst auf der Straße“",
+      "text": "Rechtsextreme wie Islamist*innen schüren den Hass auf queere Menschen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Rob Maxwell/UnsplashBeleidigungen, Zwangsoutings oder Bedrohung: Queere Menschen, die von Gewalt im Netz betroffen sind, haben seit Juli in Berlin eine",
+      "link": "https://netzpolitik.org/2026/queerfeindliche-gewalt-gewalt-beginnt-nicht-erst-auf-der-strasse/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Harte Kritik am Thüringer Polizeigesetz: „Verfassungsrechtlich ist das nicht tragbar“",
+      "text": "Die Livestreams der Videoüberwachung in Thüringen (hier am Erfurter Anger) sollen künftig automatisiert nach bestimmten Verhaltensmustern durchsucht werden.    –   CC-BY-NC-SA 4.0: Denis GlismannThüringen soll ein neues Polizeigesetz bekommen, das eine Vielzahl weiterer Befugniss",
+      "link": "https://netzpolitik.org/2026/harte-kritik-am-thueringer-polizeigesetz-verfassungsrechtlich-ist-das-nicht-tragbar/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digitaler Euro: An echten Zentralbanker:innen getestet",
+      "text": "Der Snackautomat als Testobjekt? (Symbolbild)    –   Automat: Stéphan Valentin / unsplash.com; Hintergrund: Immo Wegmann / unsplash.com Ab nächstem Jahr erprobt die Europäische Zentralbank den Digitalen Euro in der Praxis. Wirklich damit zahlen darf allerdings nur ein kleiner Kre",
+      "link": "https://netzpolitik.org/2026/digitaler-euro-an-echten-zentralbankerinnen-getestet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Internet in Syrien: Eine fragile Verbindung",
+      "text": "Werbung für Syriatel in Damaskus, im Jahr 2006.    –   CC-BY-SA 3.0: Danij84, Bearbeitung: netzpolitik.orgGut eineinhalb Jahre nach dem Sturz des Assad-Regimes im Dezember 2024 bleiben die meisten Syrer:innen vom Internet abgeschnitten. Gleichzeitig werden Fake News und Hetze im ",
+      "link": "https://netzpolitik.org/2026/internet-in-syrien-eine-fragile-verbindung/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Interview about resistance: „Palantir is really toxic“",
+      "text": "Alexander Karp, Palantir CEO.    –   CC-BY-NC-SA 4.0: World Economic ForumResistance against Palantir in Europe is growing. We speak with US activists from „Purge Palantir“ about why and how they organize protests against the corporation in its home country.",
+      "link": "https://netzpolitik.org/2026/interview-about-resistance-palantir-is-really-toxic/"
+    }
+  ]
 }
