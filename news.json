@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T17:52+00:00",
+  "updated": "2026-08-05T21:59+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
@@ -18,9 +18,9 @@
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 29639.3,
+      "value": 29487.8,
       "unit": "Pkt.",
-      "change_pct": -0.32,
+      "change_pct": -0.83,
       "history": [
         27763.1,
         27192.3,
@@ -28,14 +28,14 @@
         28274.2,
         28776.8,
         29733.2,
-        29639.3
+        29487.8
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7741.5,
+      "value": 7723.5,
       "unit": "Pkt.",
-      "change_pct": 0.06,
+      "change_pct": -0.17,
       "history": [
         7428.8,
         7316.1,
@@ -43,14 +43,14 @@
         7489.7,
         7600.5,
         7736.5,
-        7741.5
+        7723.5
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 79.0,
+      "value": 79.4,
       "unit": "$",
-      "change_pct": -0.5,
+      "change_pct": 0.0,
       "history": [
         84.1,
         90.7,
@@ -58,14 +58,14 @@
         90.1,
         83.8,
         79.4,
-        79.0
+        79.4
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4309.9,
+      "value": 4308.0,
       "unit": "$",
-      "change_pct": 5.24,
+      "change_pct": 5.19,
       "history": [
         4036.3,
         4034.7,
@@ -73,14 +73,14 @@
         4049.1,
         4033.7,
         4095.4,
-        4309.9
+        4308.0
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1557,
+      "value": 1.1555,
       "unit": "",
-      "change_pct": 0.43,
+      "change_pct": 0.42,
       "history": [
         1.1369,
         1.1387,
@@ -88,7 +88,7 @@
         1.1524,
         1.1544,
         1.1507,
-        1.1557
+        1.1555
       ]
     },
     "fed_rate": {
@@ -108,12 +108,24 @@
   },
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
-    "text": "Seit US-Präsident Trump das Hilfsprogramm USAID eingestellt hat, zeigen sich weltweit die Folgen. In Nepal fallen dadurch viele HIV-Präventionsprogramme weg. Die Konsequenzen sind in mehrerlei Hinsicht schockierend. Von Lena Bodewein.",
-    "link": "https://www.tagesschau.de/ausland/asien/nepal-fehlen-us-aid-folgen-100.html"
+    "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
+    "text": "Studien für Medikamente und Impfstoffe gegen die Bundibugyo-Variante des Ebola-Virus haben begonnen. Gleichzeitig warnt die WHO vor der immer noch rasanten Ausbreitung der Krankheit in der Demokratischen Republik Kongo.",
+    "link": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html"
   },
   "columns": {
     "de": [
+      {
+        "source": "Tagesschau",
+        "title": "WHO: Studien zu Ebola-Medikamenten und Impfstoffen starten",
+        "text": "Studien für Medikamente und Impfstoffe gegen die Bundibugyo-Variante des Ebola-Virus haben begonnen. Gleichzeitig warnt die WHO vor der immer noch rasanten Ausbreitung der Krankheit in der Demokratischen Republik Kongo.",
+        "link": "https://www.tagesschau.de/ausland/afrika/who-ebola-medikamente-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Drohne am Flughafen Leipzig/Halle: Dobrindt sieht \"hybrides Anschlagsszenario\"",
+        "text": "Nach dem Fund einer Drohne mit Sprengstoff am Flughafen Leipzig/Halle zeigen sich die Behörden alarmiert. Bundesinnenminister Dobrindt sprach von einer \"neuen Gefahrenqualität\".",
+        "link": "https://www.tagesschau.de/inland/drohnenvorfall-leipzig-dobrindt-100.html"
+      },
       {
         "source": "Tagesschau",
         "title": "Nach Kürzungen von US-Hilfen in Nepal: Wenn Helfende zu Hilflosen werden",
@@ -137,18 +149,6 @@
         "title": "SPD uneins über Abschaffung der Rente mit 63",
         "text": "Der Plan der Bundesregierung, die \"Rente mit 63 Jahren\" abzuschaffen, führt auch innerhalb der SPD zu Debatten. So plädiert der Parlamentarische Geschäftsführer Wiese für Härtefall-Ausnahmen, etwa im Straßenbau oder der Schichtarbeit.",
         "link": "https://www.tagesschau.de/inland/innenpolitik/rentendiskussion-102.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Behörden: \"Sehr ernster Sicherheitsvorfall\" am Flughafen Leipzig/Halle",
-        "text": "Nach dem Fund einer Drohne mit Sprengstoff am Flughafen Leipzig/Halle ist der Zünder inzwischen entfernt. Sachsens Innenminister Schuster spricht von einem \"sehr ernsten\" Vorfall. Bundesinnenminister Dobrindt reist zur Lagebesprechung nach Leipzig.",
-        "link": "https://www.tagesschau.de/inland/sicherheit-flughafen-leipzig-drohne-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Neue Männlichkeit in Sportserien: Ted Lasso und Co.",
-        "text": "Die neuen Sport-Helden in Serien wie \"Ted Lasso\" oder \"Off Campus\" sind sensibel und verletzlich. Diese neuen Männerbilder sind Ausdruck eines Kulturkampfes - mitten auf dem Spielfeld der Popkultur. Von Christoph Ohrem.",
-        "link": "https://www.tagesschau.de/kultur/ted-lasso-heated-rivalry-und-off-campus,neue-maennlichkeit-in-sportserien-100.html"
       }
     ],
     "intl": [

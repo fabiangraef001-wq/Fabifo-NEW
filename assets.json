@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T17:52+00:00",
+  "updated": "2026-08-05T21:59+00:00",
   "etfs": [
     {
       "name": "L&G Gerd Kommer Multifactor",
@@ -11,14 +11,14 @@
       "distribution": "thesaurierend",
       "key": "gerd",
       "price": 15.06,
-      "change_pct": 0.6,
+      "change_pct": 0.07,
       "history": [
-        14.76,
         14.78,
         14.68,
         14.66,
         14.72,
         14.97,
+        15.05,
         15.06
       ]
     },
@@ -32,14 +32,14 @@
       "distribution": "thesaurierend",
       "key": "vwce",
       "price": 168.04,
-      "change_pct": 1.78,
+      "change_pct": 0.3,
       "history": [
-        163.36,
         163.78,
         162.4,
         162.02,
         162.96,
         165.1,
+        167.54,
         168.04
       ]
     },
@@ -53,14 +53,14 @@
       "distribution": "thesaurierend",
       "key": "eunl",
       "price": 128.24,
-      "change_pct": 1.63,
+      "change_pct": 0.35,
       "history": [
-        124.71,
         125.21,
         124.36,
         123.65,
         124.29,
         126.18,
+        127.79,
         128.24
       ]
     },
@@ -87,14 +87,14 @@
       "distribution": "thesaurierend",
       "key": "xaix",
       "price": 205.6,
-      "change_pct": 3.71,
+      "change_pct": 0.05,
       "history": [
-        192.42,
         191.26,
         189.3,
         190.16,
         193.28,
         198.24,
+        205.5,
         205.6
       ]
     },
@@ -108,14 +108,14 @@
       "distribution": "thesaurierend",
       "key": "sxr8",
       "price": 722.42,
-      "change_pct": 1.82,
+      "change_pct": 0.34,
       "history": [
-        700.18,
         703.06,
         697.7,
         690.52,
         696.24,
         709.52,
+        719.96,
         722.42
       ]
     },
@@ -129,14 +129,14 @@
       "distribution": "thesaurierend",
       "key": "is3n",
       "price": 46.8,
-      "change_pct": 2.93,
+      "change_pct": 0.09,
       "history": [
-        45.34,
         44.95,
         44.05,
         44.74,
         45.36,
         45.47,
+        46.76,
         46.8
       ]
     },
@@ -150,14 +150,14 @@
       "distribution": "ausschüttend",
       "key": "eqqq",
       "price": 629.0,
-      "change_pct": 3.3,
+      "change_pct": 0.38,
       "history": [
-        598.7,
         597.4,
         589.4,
         592.9,
         596.5,
         608.9,
+        626.6,
         629.0
       ]
     },
@@ -171,14 +171,14 @@
       "distribution": "-",
       "key": "gold",
       "price": 118.6,
-      "change_pct": 5.13,
+      "change_pct": 4.13,
       "history": [
-        115.16,
         113.84,
         113.36,
         114.45,
         112.93,
         112.81,
+        113.9,
         118.6
       ]
     }
@@ -190,14 +190,14 @@
       "category": "Krypto",
       "key": "bitcoin",
       "price": 49.32,
-      "change_pct": 0.9,
+      "change_pct": 0.88,
       "history": [
-        50.04,
         49.42,
         49.69,
         49.56,
         48.02,
         48.88,
+        48.89,
         49.32
       ]
     },
@@ -223,8 +223,8 @@
       "ticker": "NVDA",
       "category": "Aktie",
       "key": "nvidia",
-      "price": 221.17,
-      "change_pct": 4.36,
+      "price": 219.22,
+      "change_pct": 3.43,
       "history": [
         197.01,
         190.01,
@@ -232,7 +232,7 @@
         200.75,
         206.64,
         211.94,
-        221.17
+        219.22
       ]
     }
   ]
