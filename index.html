@@ -153,6 +153,9 @@
   .asset-facts dt{font-size:0.65rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.04em;}
   .asset-facts dd{margin:2px 0 0;font-family:'IBM Plex Mono',monospace;font-size:0.82rem;}
   .view-intro{max-width:1180px;margin:22px auto 0;padding:0 24px;color:var(--muted);font-size:0.88rem;}
+  #savedWindowContent{max-width:1180px;margin:0 auto;padding:0 24px 40px;}
+  #savedWindowContent .column{margin-top:26px;}
+  #savedWindowContent .column:first-child{margin-top:0;}
   .disclaimer-box{max-width:1180px;margin:14px auto 0;padding:14px 20px;background:var(--card);border:1px solid var(--line);border-radius:10px;font-size:0.76rem;line-height:1.55;color:var(--muted);}
   .disclaimer-box strong{color:#C9CBD1;}
 </style>
@@ -175,6 +178,7 @@
           <a href="#" class="nav-btn" data-view="independent">Unabhängige News</a>
           <a href="#" class="nav-btn" data-view="etfs">ETFs</a>
           <a href="#" class="nav-btn" data-view="stocks">Krypto &amp; Aktien</a>
+          <a href="#" class="nav-btn" data-view="saved">★ Gespeichert</a>
         </div>
       </nav>
     </div>
@@ -207,7 +211,6 @@
   <button class="pill" data-filter="eu">EU</button>
   <button class="pill" data-filter="intl">International</button>
   <button class="pill" data-filter="markt">Märkte</button>
-  <button class="pill" data-filter="saved">★ Gemerkt</button>
   <select id="archiveSelect" class="archive-select" aria-label="Archiv: anderen Tag ansehen">
     <option value="">Heute</option>
   </select>
@@ -238,14 +241,12 @@
       <div class="cards" data-col="markt"><div class="skel skel-card"></div><div class="skel skel-card"></div></div>
     </div>
   </section>
-
-  <section class="grid grid--single hidden" id="savedView">
-    <div class="column">
-      <div class="column-head"><span class="dot" style="background:var(--gold)"></span><h2>Gemerkte Meldungen</h2></div>
-      <div class="cards" id="savedCards"></div>
-    </div>
-  </section>
 </main>
+</div>
+
+<div id="viewSaved" class="hidden">
+  <p class="view-intro">Alle gemerkten Meldungen und favorisierten ETFs/Aktien an einem Ort, sortiert nach Kategorie.</p>
+  <div id="savedWindowContent"></div>
 </div>
 
 <div id="viewIndependent" class="hidden">
@@ -336,20 +337,46 @@ function toggleSave(item){
   else{ savedItems.unshift(item); }
   persistSaved();
   if(newsData){ renderColumns(newsData.columns); renderIndependent(newsData.independent); }
-  updateSavedPillCount();
-  if(!document.getElementById('savedView').classList.contains('hidden')) renderSavedView();
+  updateSavedNavCount();
+  if(!document.getElementById('viewSaved').classList.contains('hidden')) renderSavedWindow();
 }
 
-function updateSavedPillCount(){
-  const p = document.querySelector('.filters .pill[data-filter="saved"]');
-  if(p) p.textContent = `★ Gemerkt (${savedItems.length})`;
+function updateSavedNavCount(){
+  const btn = document.querySelector('.nav-btn[data-view="saved"]');
+  if(btn) btn.textContent = `★ Gespeichert (${savedItems.length + favAssets.length})`;
 }
 
-function renderSavedView(){
-  const el = document.getElementById('savedCards');
-  el.innerHTML = savedItems.length
-    ? savedItems.map(item => cardHTML(item, item.cat || 'markt')).join('')
-    : '<p class="load-error">Noch nichts gemerkt – tippe bei einer Meldung auf den Stern.</p>';
+const SAVED_GROUP_LABELS = {de:'Deutschland', eu:'EU', intl:'International', markt:'Märkte', independent:'Unabhängige News'};
+
+function renderSavedWindow(){
+  const el = document.getElementById('savedWindowContent');
+  const groups = {};
+  savedItems.forEach(item=>{
+    const cat = item.cat || 'markt';
+    (groups[cat] = groups[cat] || []).push(item);
+  });
+
+  let html = '';
+  Object.keys(SAVED_GROUP_LABELS).forEach(cat=>{
+    if(!groups[cat] || !groups[cat].length) return;
+    html += `<div class="column" data-cat="${cat}">
+      <div class="column-head"><span class="dot"></span><h2>${SAVED_GROUP_LABELS[cat]}</h2></div>
+      <div class="cards">${groups[cat].map(item => cardHTML(item, cat)).join('')}</div>
+    </div>`;
+  });
+
+  const favEtfs = lastAssetsData ? (lastAssetsData.etfs||[]).filter(x => isFavAsset(x.key)) : [];
+  const favStocks = lastAssetsData ? (lastAssetsData.stocks||[]).filter(x => isFavAsset(x.key)) : [];
+  if(favEtfs.length){
+    html += `<div class="column"><div class="column-head"><span class="dot" style="background:var(--gold)"></span><h2>ETFs</h2></div>
+      <div class="asset-grid" style="padding:0;margin-top:16px;">${favEtfs.map(assetCardHTML).join('')}</div></div>`;
+  }
+  if(favStocks.length){
+    html += `<div class="column"><div class="column-head"><span class="dot" style="background:var(--gold)"></span><h2>Krypto &amp; Aktien</h2></div>
+      <div class="asset-grid" style="padding:0;margin-top:16px;">${favStocks.map(assetCardHTML).join('')}</div></div>`;
+  }
+
+  el.innerHTML = html || '<p class="load-error">Noch nichts gespeichert – tippe bei einer Meldung oder einem ETF auf den Stern.</p>';
 }
 
 function sparkline(history, color){
@@ -478,7 +505,7 @@ fetch('news.json?_=' + Date.now())
     renderHero(data.hero);
     renderColumns(data.columns);
     renderIndependent(data.independent);
-    updateSavedPillCount();
+    updateSavedNavCount();
   })
   .catch(err=>{
     document.getElementById('ticker').innerHTML = '<span class="load-error">news.json konnte nicht geladen werden (normal in dieser Chat-Vorschau – auf GitHub Pages lädt es automatisch). Fehler: '+err.message+'</span>';
@@ -546,21 +573,11 @@ document.getElementById('searchInput').addEventListener('input', (e)=>{
 
 const pills = document.querySelectorAll('.filters .pill');
 const grid = document.getElementById('grid');
-const savedView = document.getElementById('savedView');
 pills.forEach(pill=>{
   pill.addEventListener('click', ()=>{
     pills.forEach(p=>p.classList.remove('active'));
     pill.classList.add('active');
     const filter = pill.dataset.filter;
-
-    if(filter === 'saved'){
-      grid.classList.add('hidden');
-      savedView.classList.remove('hidden');
-      renderSavedView();
-      return;
-    }
-    savedView.classList.add('hidden');
-    grid.classList.remove('hidden');
 
     grid.classList.add('is-switching');
     setTimeout(()=>{
@@ -573,12 +590,13 @@ pills.forEach(pill=>{
   });
 });
 
-/* --- Bereichs-Navigation: News / ETFs / Krypto & Aktien --- */
+/* --- Bereichs-Navigation: News / Unabhängige News / ETFs / Krypto & Aktien / Gespeichert --- */
 const views = {
   news: document.getElementById('viewNews'),
   independent: document.getElementById('viewIndependent'),
   etfs: document.getElementById('viewETFs'),
   stocks: document.getElementById('viewStocks'),
+  saved: document.getElementById('viewSaved'),
 };
 document.querySelectorAll('.nav-btn, .section-link').forEach(link=>{
   link.addEventListener('click', (e)=>{
@@ -589,6 +607,7 @@ document.querySelectorAll('.nav-btn, .section-link').forEach(link=>{
     Object.keys(views).forEach(key=>{
       views[key].classList.toggle('hidden', key !== target);
     });
+    if(target === 'saved') renderSavedWindow();
   });
 });
 
@@ -610,6 +629,8 @@ function toggleFavAsset(key){
   if(idx >= 0){ favAssets.splice(idx, 1); } else { favAssets.unshift(key); }
   saveFavAssets();
   if(lastAssetsData) renderAssetGrids(lastAssetsData);
+  updateSavedNavCount();
+  if(!document.getElementById('viewSaved').classList.contains('hidden')) renderSavedWindow();
 }
 function sortByFavorite(items){
   return [...items].sort((a,b) => (isFavAsset(b.key)?1:0) - (isFavAsset(a.key)?1:0));
