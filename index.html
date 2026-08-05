@@ -256,7 +256,8 @@
 </div>
 
 <div id="viewStocks" class="hidden">
-  <p class="view-intro">Kurs &amp; Chart, täglich automatisch aktualisiert.</p>
+  <p class="view-intro">Bitcoin (über ein ETP), Rheinmetall und Nvidia – Kurs &amp; Chart aktualisieren sich täglich automatisch.</p>
+  <div class="disclaimer-box"><strong>Hinweis:</strong> Diese Seite (Programmierung wie automatisierte Nachrichtenauswahl) wird mit KI-Unterstützung erstellt bzw. betrieben (Kennzeichnung gemäß Art. 50 EU-KI-Verordnung). Kurse und Charts sind automatisiert abgerufene Näherungswerte ohne Anspruch auf Echtzeit-Genauigkeit und stellen keine Anlageberatung im Sinne von § 85 WpHG oder eine Kauf-/Verkaufsempfehlung dar. Trotz sorgfältiger Zusammenstellung wird keine Gewähr für Richtigkeit, Vollständigkeit oder Aktualität der Angaben übernommen; eine Haftung für Schäden aus deren Nutzung ist ausgeschlossen.</div>
   <div class="asset-grid" id="stocksGrid">
     <div class="asset-card skel" style="height:120px;"></div>
     <div class="asset-card skel" style="height:120px;"></div>
@@ -590,7 +591,7 @@ function assetCardHTML(item){
   const dir = item.change_pct > 0 ? 'up' : (item.change_pct < 0 ? 'down' : '');
   const arrow = dir==='up' ? '▲' : (dir==='down' ? '▼' : '');
   const spark = item.history ? sparkline(item.history, dir==='down' ? 'var(--neg)' : 'var(--pos)') : '';
-  const priceText = (item.price != null) ? `${item.price} €` : 'n. v.';
+  const priceText = (item.price != null) ? `${item.price} ${item.currency || '€'}` : 'n. v.';
   const changeText = (item.change_pct != null) ? `${arrow} ${item.change_pct}%` : '';
   const fav = isFavAsset(item.key);
   const facts = item.ter != null ? `
