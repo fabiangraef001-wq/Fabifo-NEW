@@ -335,7 +335,7 @@ function toggleSave(item){
   if(idx >= 0){ savedItems.splice(idx, 1); }
   else{ savedItems.unshift(item); }
   persistSaved();
-  if(newsData) renderColumns(newsData.columns);
+  if(newsData){ renderColumns(newsData.columns); renderIndependent(newsData.independent); }
   updateSavedPillCount();
   if(!document.getElementById('savedView').classList.contains('hidden')) renderSavedView();
 }
@@ -501,7 +501,7 @@ fetch('archive/index.json')
 document.getElementById('archiveSelect').addEventListener('change', (e)=>{
   const date = e.target.value;
   if(!date){
-    if(newsData){ relevantKeys = newsData.ticker_relevant || Object.keys(METRIC_LABELS); renderMeta(newsData.updated); renderTicker(newsData.ticker); renderHero(newsData.hero); renderColumns(newsData.columns); }
+    if(newsData){ relevantKeys = newsData.ticker_relevant || Object.keys(METRIC_LABELS); renderMeta(newsData.updated); renderTicker(newsData.ticker); renderHero(newsData.hero); renderColumns(newsData.columns); renderIndependent(newsData.independent); }
     return;
   }
   fetch(`archive/${date}.json`)
@@ -512,6 +512,7 @@ document.getElementById('archiveSelect').addEventListener('change', (e)=>{
       renderTicker(data.ticker);
       renderHero(data.hero);
       renderColumns(data.columns);
+      renderIndependent(data.independent);
     })
     .catch(()=>{ document.getElementById('dateBadge').textContent = 'Archiv für dieses Datum nicht gefunden'; });
 });
