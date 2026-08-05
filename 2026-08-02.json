@@ -1,40 +1,195 @@
 {
   "updated": "2026-08-02T06:00:00+00:00",
   "ticker": {
-    "dax":       {"label": "DAX",        "value": 25650,  "unit": "Pkt.", "change_pct": 1.02,  "history": [24950, 24820, 24690, 24827, 25190, 25400, 25650]},
-    "nasdaq100": {"label": "Nasdaq 100", "value": 28160,  "unit": "Pkt.", "change_pct": 0.65,   "history": [27850, 28100, 27600, 27900, 28050, 27980, 28160]},
-    "sp500":     {"label": "S&P 500",    "value": 7432,   "unit": "Pkt.", "change_pct": 0.23,   "history": [7390, 7410, 7380, 7400, 7420, 7415, 7432]},
-    "brent":     {"label": "Brent-Öl",   "value": 91.4,   "unit": "$",    "change_pct": -5.58,  "history": [76.5, 79.2, 82.4, 100.1, 96.8, 91.38, 91.4]},
-    "gold":      {"label": "Gold",       "value": 3470,   "unit": "$",    "change_pct": 0.3,    "history": [3350, 3390, 3410, 3440, 3460, 3455, 3470]},
-    "eurusd":    {"label": "EUR/USD",    "value": 1.09,   "unit": "",     "change_pct": -0.1,   "history": [1.11, 1.10, 1.10, 1.095, 1.09, 1.088, 1.09]},
-    "fed_rate":  {"label": "Fed-Leitzins", "value": "3,50–3,75", "unit": "%", "change_pct": 0, "history": null},
-    "ecb_rate":  {"label": "EZB-Leitzins", "value": "2,40",       "unit": "%", "change_pct": 0, "history": null}
+    "dax": {
+      "label": "DAX",
+      "value": 25650,
+      "unit": "Pkt.",
+      "change_pct": 1.02,
+      "history": [
+        24950,
+        24820,
+        24690,
+        24827,
+        25190,
+        25400,
+        25650
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 28160,
+      "unit": "Pkt.",
+      "change_pct": 0.65,
+      "history": [
+        27850,
+        28100,
+        27600,
+        27900,
+        28050,
+        27980,
+        28160
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7432,
+      "unit": "Pkt.",
+      "change_pct": 0.23,
+      "history": [
+        7390,
+        7410,
+        7380,
+        7400,
+        7420,
+        7415,
+        7432
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 91.4,
+      "unit": "$",
+      "change_pct": -5.58,
+      "history": [
+        76.5,
+        79.2,
+        82.4,
+        100.1,
+        96.8,
+        91.38,
+        91.4
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3470,
+      "unit": "$",
+      "change_pct": 0.3,
+      "history": [
+        3350,
+        3390,
+        3410,
+        3440,
+        3460,
+        3455,
+        3470
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.09,
+      "unit": "",
+      "change_pct": -0.1,
+      "history": [
+        1.11,
+        1.1,
+        1.1,
+        1.095,
+        1.09,
+        1.088,
+        1.09
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
   },
   "hero": {
     "eyebrow": "WOCHENTHEMA",
     "title": "Nahost-Konflikt treibt den Ölpreis – Fed und Börsen bleiben in Alarmbereitschaft",
     "text": "Der andauernde Konflikt zwischen den USA und dem Iran sorgt weiter für kräftige Ausschläge beim Ölpreis. Das hält die Inflationssorgen der US-Notenbank hoch: Die Fed beließ ihren Leitzins Ende Juli zum fünften Mal in Folge unverändert – allerdings mit den meisten Gegenstimmen für eine Zinserhöhung seit 2016. An den Börsen sorgt das für Nervosität, auch wenn DAX und Nasdaq sich zuletzt wieder in Richtung ihrer Rekordstände vorgetastet haben."
   },
+  "independent": [
+    {"source": "netzpolitik.org", "title": "Kampf gegen die EU-Chatkontrolle geht weiter", "text": "Die umstrittenen Pläne zur anlasslosen Chatkontrolle sind in der EU noch nicht vom Tisch. netzpolitik.org begleitet den Streit um Verschlüsselung, Überwachung und Grundrechte seit Jahren kritisch."},
+    {"source": "netzpolitik.org", "title": "KI-Unternehmen und Urheberrecht vor Gericht", "text": "Ein deutsches Gericht hat in einem Grundsatzverfahren zur Nutzung urheberrechtlich geschützter Texte fürs KI-Training entschieden – mit Folgen für den Umgang großer KI-Anbieter mit fremden Inhalten."},
+    {"source": "netzpolitik.org", "title": "Überwachungssoftware bei deutschen Behörden im Fokus", "text": "netzpolitik.org recherchiert regelmäßig zum Einsatz von Analyse- und Überwachungssoftware bei Polizei und Verfassungsschutz und den damit verbundenen Grundrechtsfragen."}
+  ],
   "columns": {
     "eu": [
-      {"source": "Hinweis", "title": "EU-Meldungen folgen nach dem ersten automatischen Lauf", "text": "Diese Spalte zieht Presseerklärungen der Europäischen Kommission. Sobald der Workflow einmal gelaufen ist (Tab Actions, dann Run workflow), stehen hier echte, aktuelle EU-Meldungen mit Link zur Quelle."}
+      {
+        "source": "Hinweis",
+        "title": "EU-Meldungen folgen nach dem ersten automatischen Lauf",
+        "text": "Diese Spalte zieht Presseerklärungen der Europäischen Kommission. Sobald der Workflow einmal gelaufen ist (Tab Actions, dann Run workflow), stehen hier echte, aktuelle EU-Meldungen mit Link zur Quelle."
+      }
     ],
     "de": [
-      {"source": "Tagesspiegel", "title": "Unruhe an der Spitze der Union", "text": "Kanzler Friedrich Merz ist im Sommerurlaub, doch der Ärger in der CDU über seinen Führungsstil hält an. Nach mehreren Personalquerelen wird in der Partei inzwischen offen über einen möglichen Kanzlerwechsel im Herbst spekuliert."},
-      {"source": "Tagesspiegel", "title": "Streit um die Rente spitzt sich zu", "text": "Mehrere CDU-Ministerpräsidenten stellen sich gegen die geplante Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren – und riskieren damit einen offenen Konflikt mit der eigenen Fraktionsspitze. Eine Einigung ist weiter nicht in Sicht."},
-      {"source": "Tagesspiegel", "title": "Sorge vor neuen Fluchtrouten", "text": "Nach einem Vorfall bei Ceuta wächst die Sorge vor mehr irregulären Einreisen. Fluchtrouten haben sich zunehmend nach Westen verlagert, was den Druck auf die deutsche Migrationspolitik erhöht."},
-      {"source": "ZEW / ifo", "title": "Konjunktur hellt sich vorsichtig auf", "text": "ZEW-Index und ifo-Geschäftsklima sind im Juli gestiegen. Maschinenbau, Chemie und Pharma melden eine Erholung – nur die Autoindustrie bleibt weiter unter Druck."}
+      {
+        "source": "Tagesspiegel",
+        "title": "Unruhe an der Spitze der Union",
+        "text": "Kanzler Friedrich Merz ist im Sommerurlaub, doch der Ärger in der CDU über seinen Führungsstil hält an. Nach mehreren Personalquerelen wird in der Partei inzwischen offen über einen möglichen Kanzlerwechsel im Herbst spekuliert."
+      },
+      {
+        "source": "Tagesspiegel",
+        "title": "Streit um die Rente spitzt sich zu",
+        "text": "Mehrere CDU-Ministerpräsidenten stellen sich gegen die geplante Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren – und riskieren damit einen offenen Konflikt mit der eigenen Fraktionsspitze. Eine Einigung ist weiter nicht in Sicht."
+      },
+      {
+        "source": "Tagesspiegel",
+        "title": "Sorge vor neuen Fluchtrouten",
+        "text": "Nach einem Vorfall bei Ceuta wächst die Sorge vor mehr irregulären Einreisen. Fluchtrouten haben sich zunehmend nach Westen verlagert, was den Druck auf die deutsche Migrationspolitik erhöht."
+      },
+      {
+        "source": "ZEW / ifo",
+        "title": "Konjunktur hellt sich vorsichtig auf",
+        "text": "ZEW-Index und ifo-Geschäftsklima sind im Juli gestiegen. Maschinenbau, Chemie und Pharma melden eine Erholung – nur die Autoindustrie bleibt weiter unter Druck."
+      }
     ],
     "intl": [
-      {"source": "t-online / dpa", "title": "Nahost-Konflikt bleibt ungelöst", "text": "Der seit Mai andauernde Krieg zwischen den USA/Israel und dem Iran belastet weiter die Weltmärkte. Die für den Öltransport zentrale Straße von Hormus bleibt zeitweise gesperrt, Huthi-Angriffe stören zusätzlich den Schiffsverkehr im Roten Meer. Ende Juli keimte nach mehreren ruhigen Nächten immerhin Hoffnung auf Entspannung auf."},
-      {"source": "t-online", "title": "Ölpreis bleibt Nervositätsbarometer", "text": "Je nach Nachrichtenlage schwankt der Ölpreis derzeit im zweistelligen Prozentbereich – zuletzt ging es nach ruhigeren Nächten um rund 5 % nach unten. Für Anleger bleibt er der wichtigste Frühindikator für neue Eskalationsstufen."},
-      {"source": "NZZ / Handelsblatt", "title": "Neue Zollrunde von Trump", "text": "Nach einer Niederlage vor dem Supreme Court hat Trump im Juli neue Importzölle gegen 60 Handelspartner verhängt, EU und China eingeschlossen. Zusätzlich läuft eine neue Untersuchung gegen die EU – ausgelöst auch durch eine EU-Kartellstrafe gegen Google."}
+      {
+        "source": "t-online / dpa",
+        "title": "Nahost-Konflikt bleibt ungelöst",
+        "text": "Der seit Mai andauernde Krieg zwischen den USA/Israel und dem Iran belastet weiter die Weltmärkte. Die für den Öltransport zentrale Straße von Hormus bleibt zeitweise gesperrt, Huthi-Angriffe stören zusätzlich den Schiffsverkehr im Roten Meer. Ende Juli keimte nach mehreren ruhigen Nächten immerhin Hoffnung auf Entspannung auf."
+      },
+      {
+        "source": "t-online",
+        "title": "Ölpreis bleibt Nervositätsbarometer",
+        "text": "Je nach Nachrichtenlage schwankt der Ölpreis derzeit im zweistelligen Prozentbereich – zuletzt ging es nach ruhigeren Nächten um rund 5 % nach unten. Für Anleger bleibt er der wichtigste Frühindikator für neue Eskalationsstufen."
+      },
+      {
+        "source": "NZZ / Handelsblatt",
+        "title": "Neue Zollrunde von Trump",
+        "text": "Nach einer Niederlage vor dem Supreme Court hat Trump im Juli neue Importzölle gegen 60 Handelspartner verhängt, EU und China eingeschlossen. Zusätzlich läuft eine neue Untersuchung gegen die EU – ausgelöst auch durch eine EU-Kartellstrafe gegen Google."
+      }
     ],
     "markt": [
-      {"source": "LBBW Research", "title": "Fed hält still – aber uneiniger als sonst", "text": "Die US-Notenbank beließ den Leitzins Ende Juli zum fünften Mal in Folge bei 3,50–3,75 %. Drei Mitglieder stimmten für eine Zinserhöhung – so viele Gegenstimmen in diese Richtung gab es zuletzt 2016. Nächster Termin: 16. September."},
-      {"source": "XTB Marktanalyse", "title": "DAX tastet sich ans Rekordhoch heran", "text": "Nach drei schwächeren Wochen in Folge hat sich der DAX deutlich erholt und schloss zuletzt bei rund 25.650 Punkten – knapp unter seinem Allzeithoch. Bessere Konjunkturdaten und nachlassende Öl-Sorgen stützen die Erholung."},
-      {"source": "dpa-AFX", "title": "US-Tech-Saison mit gemischtem Bild", "text": "Die Quartalszahlen von Apple, Amazon, Microsoft und Meta bewegen aktuell die Nasdaq. Apple und Amazon übertrafen zuletzt die Erwartungen bei Umsatz und Gewinn, während Halbleiterwerte wegen China-Sorgen und hoher KI-Investitionen unter Druck stehen."},
-      {"source": "dpa-AFX", "title": "Ausreißer der Woche", "text": "Reddit und Roblox brachen nach enttäuschenden Nutzerzahlen um 22 bzw. 27 % ein. Nvidia zeigte sich dagegen vergleichsweise robust und legte moderat zu."}
+      {
+        "source": "LBBW Research",
+        "title": "Fed hält still – aber uneiniger als sonst",
+        "text": "Die US-Notenbank beließ den Leitzins Ende Juli zum fünften Mal in Folge bei 3,50–3,75 %. Drei Mitglieder stimmten für eine Zinserhöhung – so viele Gegenstimmen in diese Richtung gab es zuletzt 2016. Nächster Termin: 16. September."
+      },
+      {
+        "source": "XTB Marktanalyse",
+        "title": "DAX tastet sich ans Rekordhoch heran",
+        "text": "Nach drei schwächeren Wochen in Folge hat sich der DAX deutlich erholt und schloss zuletzt bei rund 25.650 Punkten – knapp unter seinem Allzeithoch. Bessere Konjunkturdaten und nachlassende Öl-Sorgen stützen die Erholung."
+      },
+      {
+        "source": "dpa-AFX",
+        "title": "US-Tech-Saison mit gemischtem Bild",
+        "text": "Die Quartalszahlen von Apple, Amazon, Microsoft und Meta bewegen aktuell die Nasdaq. Apple und Amazon übertrafen zuletzt die Erwartungen bei Umsatz und Gewinn, während Halbleiterwerte wegen China-Sorgen und hoher KI-Investitionen unter Druck stehen."
+      },
+      {
+        "source": "dpa-AFX",
+        "title": "Ausreißer der Woche",
+        "text": "Reddit und Roblox brachen nach enttäuschenden Nutzerzahlen um 22 bzw. 27 % ein. Nvidia zeigte sich dagegen vergleichsweise robust und legte moderat zu."
+      }
     ]
-  }
+  },
+  "ticker_relevant": [
+    "dax",
+    "nasdaq100",
+    "brent",
+    "fed_rate"
+  ]
 }

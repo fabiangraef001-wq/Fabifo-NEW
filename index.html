@@ -19,6 +19,7 @@
     --intl:#B07FEA; --intl-soft:rgba(176,127,234,.16);
     --eu:#45D0C5; --eu-soft:rgba(69,208,197,.16);
     --markt:var(--gold); --markt-soft:rgba(245,185,20,.18);
+    --indep:#D162A4; --indep-soft:rgba(209,98,164,.16);
     --pos:#34D399; --neg:#F87171;
     --radius:14px;
   }
@@ -103,6 +104,7 @@
   .column[data-cat="intl"]{--cat-color:var(--intl);--cat-soft:var(--intl-soft);}
   .column[data-cat="eu"]{--cat-color:var(--eu);--cat-soft:var(--eu-soft);}
   .column[data-cat="markt"]{--cat-color:var(--markt);--cat-soft:var(--markt-soft);}
+  .column[data-cat="independent"]{--cat-color:var(--indep);--cat-soft:var(--indep-soft);}
 
   .column-head{display:flex;align-items:center;gap:9px;}
   .column-head .dot{width:10px;height:10px;border-radius:50%;background:var(--cat-color);flex-shrink:0;}
@@ -170,6 +172,7 @@
       <nav class="section-nav" aria-label="Bereich wählen">
         <div class="nav-btn-row">
           <a href="#" class="nav-btn active" data-view="news">News</a>
+          <a href="#" class="nav-btn" data-view="independent">Unabhängige News</a>
           <a href="#" class="nav-btn" data-view="etfs">ETFs</a>
           <a href="#" class="nav-btn" data-view="stocks">Krypto &amp; Aktien</a>
         </div>
@@ -245,6 +248,18 @@
 </main>
 </div>
 
+<div id="viewIndependent" class="hidden">
+  <p class="view-intro">Perspektiven abseits der öffentlich-rechtlichen Berichterstattung – aktuell aus einer Quelle: <strong>netzpolitik.org</strong>, ein unabhängiges, spendenfinanziertes Investigativ-Medium (kein öffentlich-rechtlicher Sender).</p>
+  <div class="disclaimer-box"><strong>Hinweis:</strong> Diese Seite (Programmierung wie automatisierte Nachrichtenauswahl) wird mit KI-Unterstützung erstellt bzw. betrieben (Kennzeichnung gemäß Art. 50 EU-KI-Verordnung). Die Auswahl der Meldungen erfolgt automatisiert aus dem RSS-Feed der genannten Quelle, ohne redaktionelle Prüfung durch Fabifo. Die Inhalte spiegeln die Sichtweise der jeweiligen Quelle wider, nicht zwingend einen neutralen Standpunkt. Trotz sorgfältiger Quellenauswahl wird keine Gewähr für Richtigkeit, Vollständigkeit oder Aktualität übernommen.</div>
+  <section class="grid grid--single">
+    <div class="column" data-cat="independent">
+      <div class="cards" id="independentCards">
+        <div class="skel skel-card"></div><div class="skel skel-card"></div>
+      </div>
+    </div>
+  </section>
+</div>
+
 <div id="viewETFs" class="hidden">
   <p class="view-intro">9 gezielt geprüfte ETFs (Ticker/ISIN/TER/Fondsgröße gegengecheckt, Stand August 2026) – Kurs &amp; Chart aktualisieren sich täglich automatisch.</p>
   <div class="disclaimer-box"><strong>Hinweis:</strong> Diese Seite (Programmierung wie automatisierte Nachrichtenauswahl) wird mit KI-Unterstützung erstellt bzw. betrieben (Kennzeichnung gemäß Art. 50 EU-KI-Verordnung). Kurse, Kennzahlen und Charts sind automatisiert abgerufene Näherungswerte ohne Anspruch auf Echtzeit-Genauigkeit und stellen keine Anlageberatung im Sinne von § 85 WpHG oder eine Kauf-/Verkaufsempfehlung dar. Trotz sorgfältiger Zusammenstellung wird keine Gewähr für Richtigkeit, Vollständigkeit oder Aktualität der Angaben übernommen; eine Haftung für Schäden aus deren Nutzung ist ausgeschlossen.</div>
@@ -292,6 +307,7 @@ function savePrefs(list){
 }
 
 let activeMetrics = loadPrefs();
+let relevantKeys = [];
 let newsData = null;
 
 function escapeAttr(s){
@@ -352,7 +368,9 @@ function sparkline(history, color){
 
 function renderTicker(ticker){
   const el = document.getElementById('ticker');
-  const parts = activeMetrics.map(key=>{
+  const shownKeys = activeMetrics.filter(k => relevantKeys.includes(k));
+  const keysToShow = shownKeys.length ? shownKeys : relevantKeys;
+  const parts = keysToShow.map(key=>{
     const m = ticker[key];
     if(!m) return '';
     const dir = m.change_pct > 0 ? 'up' : (m.change_pct < 0 ? 'down' : '');
@@ -360,12 +378,12 @@ function renderTicker(ticker){
     const spark = m.history ? sparkline(m.history, dir==='down' ? 'var(--neg)' : 'var(--pos)') : '';
     return `<span class="ticker-item"><span class="t-label">${m.label}</span> <span class="t-value">${m.value}${m.unit?(' '+m.unit):''}</span> <span class="${dir}">${arrow}</span> ${spark}</span>`;
   }).filter(Boolean);
-  el.innerHTML = parts.length ? parts.join('<span class="sep">·</span>') : '<span class="load-error">Keine Kurse ausgewählt.</span>';
+  el.innerHTML = parts.length ? parts.join('<span class="sep">·</span>') : '<span class="load-error">Heute keine Kurse mit Bezug zu den News.</span>';
 }
 
 function buildSettingsPanel(ticker){
   const panel = document.getElementById('settingsPanel');
-  panel.innerHTML = Object.keys(METRIC_LABELS).filter(k=>ticker[k]).map(key=>{
+  panel.innerHTML = Object.keys(METRIC_LABELS).filter(k=>ticker[k] && relevantKeys.includes(k)).map(key=>{
     const checked = activeMetrics.includes(key) ? 'checked' : '';
     return `<label class="check-row"><input type="checkbox" data-key="${key}" ${checked}> ${METRIC_LABELS[key]}</label>`;
   }).join('');
@@ -444,15 +462,22 @@ function renderMeta(updatedIso){
   }catch(e){ badge.textContent = 'Stand: unbekannt'; dot.style.background = 'var(--muted)'; }
 }
 
+function renderIndependent(items){
+  const el = document.getElementById('independentCards');
+  el.innerHTML = (items||[]).map(item => cardHTML(item, 'independent')).join('') || '<p class="load-error">Aktuell keine Meldungen verfügbar.</p>';
+}
+
 fetch('news.json?_=' + Date.now())
   .then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
   .then(data=>{
     newsData = data;
+    relevantKeys = data.ticker_relevant || Object.keys(METRIC_LABELS);
     renderMeta(data.updated);
     renderTicker(data.ticker);
     buildSettingsPanel(data.ticker);
     renderHero(data.hero);
     renderColumns(data.columns);
+    renderIndependent(data.independent);
     updateSavedPillCount();
   })
   .catch(err=>{
@@ -476,12 +501,13 @@ fetch('archive/index.json')
 document.getElementById('archiveSelect').addEventListener('change', (e)=>{
   const date = e.target.value;
   if(!date){
-    if(newsData){ renderMeta(newsData.updated); renderTicker(newsData.ticker); renderHero(newsData.hero); renderColumns(newsData.columns); }
+    if(newsData){ relevantKeys = newsData.ticker_relevant || Object.keys(METRIC_LABELS); renderMeta(newsData.updated); renderTicker(newsData.ticker); renderHero(newsData.hero); renderColumns(newsData.columns); }
     return;
   }
   fetch(`archive/${date}.json`)
     .then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
     .then(data=>{
+      relevantKeys = data.ticker_relevant || Object.keys(METRIC_LABELS);
       renderMeta(data.updated);
       renderTicker(data.ticker);
       renderHero(data.hero);
@@ -549,6 +575,7 @@ pills.forEach(pill=>{
 /* --- Bereichs-Navigation: News / ETFs / Krypto & Aktien --- */
 const views = {
   news: document.getElementById('viewNews'),
+  independent: document.getElementById('viewIndependent'),
   etfs: document.getElementById('viewETFs'),
   stocks: document.getElementById('viewStocks'),
 };
