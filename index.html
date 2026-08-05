@@ -29,17 +29,20 @@
   /* Sticky header */
   .header-sticky{position:sticky;top:0;z-index:40;background:rgba(10,10,11,.92);backdrop-filter:blur(6px);border-bottom:1px solid var(--line);}
   .site-header{max-width:1180px;margin:0 auto;padding:16px 24px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px 20px;}
-  .brand-col{display:flex;flex-direction:column;gap:6px;}
+  .brand-col{display:flex;flex-direction:column;gap:8px;}
   .brand{display:flex;align-items:center;gap:12px;}
   .brand-icon{height:42px;width:auto;display:block;}
   .brand-text h1{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:clamp(1.5rem,4vw,2rem);margin:0;letter-spacing:-0.02em;}
   .brand-white{color:var(--white);}
   .brand-gold{color:var(--gold);}
   .brand-tagline{margin:1px 0 0;font-family:'IBM Plex Mono',monospace;font-size:0.62rem;letter-spacing:0.1em;color:var(--gold);text-transform:uppercase;}
-  .section-nav{display:flex;flex-direction:column;gap:2px;margin-left:2px;}
-  .section-link{color:var(--gold);text-decoration:none;width:fit-content;}
-  .section-link--primary{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:0.92rem;}
-  .section-link--secondary{font-family:'IBM Plex Sans',sans-serif;font-weight:500;font-size:0.72rem;opacity:0.8;}
+  .section-nav{display:flex;flex-direction:column;gap:6px;margin-left:2px;}
+  .nav-btn-row{display:flex;gap:8px;flex-wrap:wrap;}
+  .nav-btn{font-family:'Space Grotesk',sans-serif;font-weight:600;font-size:0.85rem;padding:7px 18px;border-radius:999px;border:1.5px solid var(--gold);color:var(--gold);text-decoration:none;background:transparent;transition:background .15s ease,color .15s ease;}
+  .nav-btn:hover{background:rgba(245,185,20,.14);}
+  .nav-btn.active{background:var(--gold);color:var(--gold-ink);}
+  .nav-btn:focus-visible{outline:2px solid var(--gold);outline-offset:2px;}
+  .section-link{color:var(--gold);text-decoration:none;width:fit-content;font-family:'IBM Plex Sans',sans-serif;font-weight:500;font-size:0.72rem;opacity:0.8;}
   .section-link:hover,.section-link.active{text-decoration:underline;}
   .section-link:focus-visible{outline:2px solid var(--gold);outline-offset:2px;}
   .meta-wrap{display:flex;align-items:center;gap:8px;}
@@ -133,9 +136,13 @@
   /* ETF- und Aktien&Krypto-Ansicht */
   .asset-grid{display:grid;grid-template-columns:1fr;gap:16px;margin:26px auto 0;max-width:1180px;padding:0 24px;}
   @media (min-width:640px){.asset-grid{grid-template-columns:repeat(auto-fit,minmax(230px,1fr));}}
-  .asset-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;}
+  .asset-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;position:relative;}
+  .asset-card.is-fav{border-color:var(--gold);}
   .asset-card-top{display:flex;justify-content:space-between;align-items:center;gap:8px;}
   .asset-badge{font-family:'IBM Plex Mono',monospace;font-size:0.66rem;letter-spacing:0.03em;color:var(--gold);background:var(--markt-soft);padding:2px 8px;border-radius:5px;}
+  .fav-btn{background:none;border:none;cursor:pointer;font-size:1.05rem;line-height:1;color:var(--muted);padding:0;}
+  .fav-btn.is-fav{color:var(--gold);}
+  .fav-btn:focus-visible{outline:2px solid var(--gold);outline-offset:2px;}
   .asset-card h3{font-family:'Space Grotesk',sans-serif;font-size:0.98rem;font-weight:600;margin:10px 0 8px;}
   .asset-price-row{display:flex;justify-content:space-between;align-items:center;gap:10px;}
   .asset-price{font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:1rem;}
@@ -159,9 +166,11 @@
         </div>
       </div>
       <nav class="section-nav" aria-label="Bereich wählen">
-        <a href="#" class="section-link section-link--primary active" data-view="news">News</a>
-        <a href="#" class="section-link section-link--primary" data-view="etfs">ETFs</a>
-        <a href="#" class="section-link section-link--secondary" data-view="stocks">Krypto &amp; Aktien</a>
+        <div class="nav-btn-row">
+          <a href="#" class="nav-btn active" data-view="news">News</a>
+          <a href="#" class="nav-btn" data-view="etfs">ETFs</a>
+        </div>
+        <a href="#" class="section-link" data-view="stocks">Krypto &amp; Aktien</a>
       </nav>
     </div>
     <div class="meta-wrap">
@@ -539,10 +548,10 @@ const views = {
   etfs: document.getElementById('viewETFs'),
   stocks: document.getElementById('viewStocks'),
 };
-document.querySelectorAll('.section-link').forEach(link=>{
+document.querySelectorAll('.nav-btn, .section-link').forEach(link=>{
   link.addEventListener('click', (e)=>{
     e.preventDefault();
-    document.querySelectorAll('.section-link').forEach(l=>l.classList.remove('active'));
+    document.querySelectorAll('.nav-btn, .section-link').forEach(l=>l.classList.remove('active'));
     link.classList.add('active');
     const target = link.dataset.view;
     Object.keys(views).forEach(key=>{
@@ -552,12 +561,35 @@ document.querySelectorAll('.section-link').forEach(link=>{
 });
 
 /* --- ETF- und Aktien&Krypto-Ansicht --- */
+function loadFavAssets(){
+  try{ return JSON.parse(localStorage.getItem('fabifo_fav_assets') || '[]'); }
+  catch(e){ return []; }
+}
+function saveFavAssets(){
+  try{ localStorage.setItem('fabifo_fav_assets', JSON.stringify(favAssets)); }
+  catch(e){ /* Storage nicht verfuegbar (z.B. Chat-Vorschau) */ }
+}
+let favAssets = loadFavAssets();
+let lastAssetsData = null;
+
+function isFavAsset(key){ return favAssets.includes(key); }
+function toggleFavAsset(key){
+  const idx = favAssets.indexOf(key);
+  if(idx >= 0){ favAssets.splice(idx, 1); } else { favAssets.unshift(key); }
+  saveFavAssets();
+  if(lastAssetsData) renderAssetGrids(lastAssetsData);
+}
+function sortByFavorite(items){
+  return [...items].sort((a,b) => (isFavAsset(b.key)?1:0) - (isFavAsset(a.key)?1:0));
+}
+
 function assetCardHTML(item){
   const dir = item.change_pct > 0 ? 'up' : (item.change_pct < 0 ? 'down' : '');
   const arrow = dir==='up' ? '▲' : (dir==='down' ? '▼' : '');
   const spark = item.history ? sparkline(item.history, dir==='down' ? 'var(--neg)' : 'var(--pos)') : '';
   const priceText = (item.price != null) ? `${item.price} €` : 'n. v.';
   const changeText = (item.change_pct != null) ? `${arrow} ${item.change_pct}%` : '';
+  const fav = isFavAsset(item.key);
   const facts = item.ter != null ? `
     <dl class="asset-facts">
       <div><dt>TER</dt><dd>${item.ter}%</dd></div>
@@ -565,25 +597,37 @@ function assetCardHTML(item){
       <div><dt>Ausschüttung</dt><dd>${item.distribution}</dd></div>
       <div><dt>ISIN</dt><dd>${item.isin}</dd></div>
     </dl>` : '';
-  return `<article class="asset-card">
+  return `<article class="asset-card ${fav?'is-fav':''}">
     <div class="asset-card-top">
       <span class="asset-badge">${item.category}</span>
-      <span class="${dir}">${changeText}</span>
+      <button class="fav-btn ${fav?'is-fav':''}" data-key="${item.key}" aria-label="${fav?'Favorit entfernen':'Favorisieren'}">${fav?'★':'☆'}</button>
     </div>
     <h3>${item.name}</h3>
     <div class="asset-price-row">
       <span class="asset-price">${priceText}</span>
+      <span class="${dir}">${changeText}</span>
       ${spark}
     </div>
     ${facts}
   </article>`;
 }
 
+function renderAssetGrids(data){
+  document.getElementById('etfGrid').innerHTML = sortByFavorite(data.etfs||[]).map(assetCardHTML).join('');
+  document.getElementById('stocksGrid').innerHTML = sortByFavorite(data.stocks||[]).map(assetCardHTML).join('');
+}
+
+document.addEventListener('click', (e)=>{
+  const favBtn = e.target.closest('.fav-btn');
+  if(!favBtn) return;
+  toggleFavAsset(favBtn.dataset.key);
+});
+
 fetch('assets.json?_=' + Date.now())
   .then(r=>{ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
   .then(data=>{
-    document.getElementById('etfGrid').innerHTML = (data.etfs||[]).map(assetCardHTML).join('');
-    document.getElementById('stocksGrid').innerHTML = (data.stocks||[]).map(assetCardHTML).join('');
+    lastAssetsData = data;
+    renderAssetGrids(data);
   })
   .catch(err=>{
     const msg = '<p class="load-error">assets.json konnte nicht geladen werden (normal in dieser Chat-Vorschau – auf GitHub Pages lädt es automatisch). Fehler: '+err.message+'</p>';
