@@ -44,6 +44,11 @@ Wichtige Hinweise, bitte vor dem Einsatz lesen:
    ETF_STATIC_INFO) und die Aktien&Krypto-Seite (Bitcoin/Rheinmetall/Nvidia,
    siehe STOCK_STATIC_INFO). TER/Fondsgroesse/Kategorie sind von Hand
    gepflegt, Kurs+Verlauf werden taeglich frisch abgerufen.
+
+8) "Unabhängige News" ist eine eigene Ansicht (news.json-Feld "independent"),
+   gespeist aus netzpolitik.org (RSS, CC-BY-NC-SA 4.0 - nicht-kommerzielle
+   Weiterverwendung mit Nennung ausdruecklich erlaubt). Bewusst getrennt von
+   den redaktionellen News-Spalten, da es eine andere Quelle/Perspektive ist.
 """
 
 import json
@@ -73,6 +78,43 @@ MANUAL_RATES = {
     "fed_rate": {"label": "Fed-Leitzins", "value": "3,50–3,75", "unit": "%", "change_pct": 0, "history": None},
     "ecb_rate": {"label": "EZB-Leitzins", "value": "2,40",       "unit": "%", "change_pct": 0, "history": None},
 }
+
+# Welche Ticker-Kachel zu welchen Stichworten in den News passt. Nur Kacheln,
+# deren Stichwort heute tatsaechlich in einer Schlagzeile/einem Text vorkommt,
+# werden im Ticker angezeigt - der Ticker soll sich nach den Nachrichten
+# richten statt immer alles fest zu zeigen.
+TICKER_RELEVANCE_KEYWORDS = {
+    "dax":       ["dax"],
+    "nasdaq100": ["nasdaq"],
+    "sp500":     ["s&p 500", "s&p500", "wall street"],
+    "brent":     ["öl", "ölpreis", "brent", "opec"],
+    "gold":      ["gold"],
+    "eurusd":    ["dollar", "euro-dollar", "eur/usd", "wechselkurs", "dollarkurs"],
+    "fed_rate":  ["fed", "notenbank", "zinsentscheidung", "federal reserve", "leitzins"],
+    "ecb_rate":  ["ezb", "europäische zentralbank"],
+}
+# Falls an einem Tag gar kein Stichwort passt (z.B. sehr ruhiger Nachrichtentag),
+# damit der Ticker nicht komplett leer ist:
+TICKER_RELEVANCE_FALLBACK = ["dax", "fed_rate", "ecb_rate"]
+
+
+def compute_relevant_ticker_keys(hero, columns):
+    """Durchsucht Titel+Text aller heutigen Meldungen (Hero + alle Spalten)
+    nach den Stichworten aus TICKER_RELEVANCE_KEYWORDS und gibt die Liste der
+    dazu passenden Ticker-Kacheln zurueck."""
+    texts = []
+    if hero:
+        texts.append(hero.get("title", ""))
+        texts.append(hero.get("text", ""))
+    for items in columns.values():
+        for item in items:
+            texts.append(item.get("title", ""))
+            texts.append(item.get("text", ""))
+    combined = " ".join(texts).lower()
+
+    relevant = [key for key, keywords in TICKER_RELEVANCE_KEYWORDS.items()
+                if any(kw in combined for kw in keywords)]
+    return relevant or TICKER_RELEVANCE_FALLBACK
 
 ASSETS_JSON_PATH = "assets.json"
 
@@ -114,7 +156,9 @@ INTL_KEYWORDS = ["usa", "china", "iran", "israel", "ukraine", "russland", "gaza"
 
 RSS_FEED_URL = "https://www.tagesschau.de/xml/rss2"
 EU_RSS_URL = "https://ec.europa.eu/commission/presscorner/api/rss?language=de"
+NETZPOLITIK_RSS_URL = "https://netzpolitik.org/feed/"
 MAX_ITEMS_PER_COLUMN = 6
+MAX_INDEPENDENT_ITEMS = 6
 
 
 def fetch_ticker():
@@ -267,6 +311,32 @@ def fetch_assets():
     return etfs, stocks
 
 
+def fetch_independent_news():
+    """Liest netzpolitik.org (unabhaengiges, spendenfinanziertes Investigativ-
+    Medium, kein oeffentlich-rechtlicher Sender). Feed steht unter
+    CC-BY-NC-SA 4.0 - explizit zur nicht-kommerziellen Weiterverwendung mit
+    Nennung gedacht, was genau auf Fabifo zutrifft. Bewusst als eigene,
+    separate Ansicht (nicht als Spalte in den News), da es eine bewusst
+    andere Perspektive/Quelle als Tagesschau/EU-Kommission sein soll."""
+    items = []
+    try:
+        feed = feedparser.parse(NETZPOLITIK_RSS_URL)
+        for entry in feed.entries[:MAX_INDEPENDENT_ITEMS]:
+            title = (entry.get("title") or "").strip()
+            if not title:
+                continue
+            summary = re.sub("<[^<]+?>", "", entry.get("summary", "")).strip()
+            items.append({
+                "source": "netzpolitik.org",
+                "title": title,
+                "text": summary[:280],
+                "link": entry.get("link") or None,
+            })
+    except Exception as exc:
+        print(f"[warnung] netzpolitik.org-Feed nicht abrufbar: {exc}")
+    return items
+
+
 def main():
     # Bestehende Datei laden, falls vorhanden - so bleibt z.B. ein alter
     # Kurswert erhalten, wenn der Abruf fuer genau dieses Symbol heute fehlschlaegt.
@@ -291,8 +361,10 @@ def main():
     data = {
         "updated": datetime.now(timezone.utc).isoformat(timespec="minutes"),
         "ticker": merged_ticker,
+        "ticker_relevant": compute_relevant_ticker_keys(hero or existing.get("hero"), merged_columns),
         "hero": hero or existing.get("hero"),
         "columns": merged_columns,
+        "independent": fetch_independent_news() or existing.get("independent", []),
     }
 
     with open(NEWS_JSON_PATH, "w", encoding="utf-8") as f:
