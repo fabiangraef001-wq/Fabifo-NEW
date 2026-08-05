@@ -151,6 +151,8 @@
   .asset-facts dt{font-size:0.65rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.04em;}
   .asset-facts dd{margin:2px 0 0;font-family:'IBM Plex Mono',monospace;font-size:0.82rem;}
   .view-intro{max-width:1180px;margin:22px auto 0;padding:0 24px;color:var(--muted);font-size:0.88rem;}
+  .disclaimer-box{max-width:1180px;margin:14px auto 0;padding:14px 20px;background:var(--card);border:1px solid var(--line);border-radius:10px;font-size:0.76rem;line-height:1.55;color:var(--muted);}
+  .disclaimer-box strong{color:#C9CBD1;}
 </style>
 </head>
 <body>
@@ -244,7 +246,8 @@
 </div>
 
 <div id="viewETFs" class="hidden">
-  <p class="view-intro">25 bekannte ETFs – Kurs &amp; Chart aktualisieren sich täglich automatisch, Kostenquote/Fondsgröße/Ausschüttung sind von Hand gepflegt und ändern sich nur selten.</p>
+  <p class="view-intro">9 gezielt geprüfte ETFs (Ticker/ISIN/TER/Fondsgröße gegengecheckt, Stand August 2026) – Kurs &amp; Chart aktualisieren sich täglich automatisch.</p>
+  <div class="disclaimer-box"><strong>Hinweis:</strong> Diese Seite (Programmierung wie automatisierte Nachrichtenauswahl) wird mit KI-Unterstützung erstellt bzw. betrieben (Kennzeichnung gemäß Art. 50 EU-KI-Verordnung). Kurse, Kennzahlen und Charts sind automatisiert abgerufene Näherungswerte ohne Anspruch auf Echtzeit-Genauigkeit und stellen keine Anlageberatung im Sinne von § 85 WpHG oder eine Kauf-/Verkaufsempfehlung dar. Trotz sorgfältiger Zusammenstellung wird keine Gewähr für Richtigkeit, Vollständigkeit oder Aktualität der Angaben übernommen; eine Haftung für Schäden aus deren Nutzung ist ausgeschlossen.</div>
   <div class="asset-grid" id="etfGrid">
     <div class="asset-card skel" style="height:170px;"></div>
     <div class="asset-card skel" style="height:170px;"></div>
