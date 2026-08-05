@@ -100,10 +100,11 @@ STOCK_STATIC_INFO = {
     # Bitcoin-ETP-Wahl (ETC Group BTCetc) mit normaler Sorgfalt recherchiert,
     # aber nicht so tiefgehend gegengeprueft wie die 9 ETFs oben. Rheinmetall
     # (RHM) und Nvidia (NVDA) sind sehr bekannte Standard-Ticker, ISIN-Level
-    # nicht extra verifiziert.
+    # nicht extra verifiziert. Nvidia notiert in USD (NASDAQ), daher eigenes
+    # "currency"-Feld - die anderen beiden sind Xetra/EUR und brauchen keins.
     "bitcoin":    {"name": "Bitcoin (BTCetc ETP)", "ticker": "BTCE.DE", "category": "Krypto"},
     "rheinmetall":{"name": "Rheinmetall",          "ticker": "RHM.DE",  "category": "Aktie"},
-    "nvidia":     {"name": "Nvidia",               "ticker": "NVDA",    "category": "Aktie"},
+    "nvidia":     {"name": "Nvidia",               "ticker": "NVDA",    "category": "Aktie", "currency": "$"},
 }
 
 MARKT_KEYWORDS = ["aktie", "börse", "dax", "nasdaq", "zins", "leitzins", "konjunktur",
