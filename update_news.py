@@ -88,7 +88,7 @@ ETF_STATIC_INFO = {
     "gerd":    {"name": "L&G Gerd Kommer Multifactor",          "ticker": "GERD.DE", "isin": "IE0001UQQ933", "ter": 0.45, "fund_size_mrd": 1.35,  "category": "Welt (Multifaktor)", "distribution": "thesaurierend"},
     "vwce":    {"name": "Vanguard FTSE All-World",              "ticker": "VWCE.DE", "isin": "IE00BK5BQT80", "ter": 0.22, "fund_size_mrd": 17.0,  "category": "Welt",            "distribution": "thesaurierend"},
     "eunl":    {"name": "iShares Core MSCI World",              "ticker": "EUNL.DE", "isin": "IE00B4L5Y983", "ter": 0.20, "fund_size_mrd": 126.0, "category": "Welt",            "distribution": "thesaurierend"},
-    "xmwo":    {"name": "Xtrackers MSCI World",                 "ticker": "XMWO.DE", "isin": "IE00BJ0KDQ92", "ter": 0.12, "fund_size_mrd": 22.0,  "category": "Welt",            "distribution": "thesaurierend"},
+    "xmwo":    {"name": "Xtrackers MSCI World",                 "ticker": "XDWD.DE", "isin": "IE00BJ0KDQ92", "ter": 0.12, "fund_size_mrd": 22.0,  "category": "Welt",            "distribution": "thesaurierend"},
     "xaix":    {"name": "Xtrackers Artificial Intelligence & Big Data", "ticker": "XAIX.DE", "isin": "IE00BGV5VN51", "ter": 0.35, "fund_size_mrd": 7.45, "category": "Thema (Tech)",  "distribution": "thesaurierend"},
     "sxr8":    {"name": "iShares Core S&P 500",                 "ticker": "SXR8.DE", "isin": "IE0031442068", "ter": 0.07, "fund_size_mrd": 85.0,  "category": "USA",             "distribution": "thesaurierend"},
     "is3n":    {"name": "iShares Core MSCI EM IMI",             "ticker": "IS3N.DE", "isin": "IE00BKM4GZ66", "ter": 0.18, "fund_size_mrd": 25.0,  "category": "Schwellenländer", "distribution": "thesaurierend"},
