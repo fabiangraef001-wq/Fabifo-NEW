@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:02+00:00",
+  "updated": "2026-10-11T11:19+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
@@ -52,7 +52,6 @@
       "unit": "$",
       "change_pct": 0.38,
       "history": [
-        102.3,
         102.2,
         100.3,
         100.6,
@@ -67,7 +66,6 @@
       "unit": "$",
       "change_pct": 1.43,
       "history": [
-        4202.3,
         4162.3,
         4156.8,
         4187.1,
@@ -112,50 +110,74 @@
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-    "text": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer und Verletzte.",
-    "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html"
+    "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
+    "text": "Drei Tage lang haben Tausende Fans des belarusischen Musikers Max Korzh in Frankfurt gefeiert. Immer wieder zündeten sie unerlaubt Feuerwerk. Die Polizei nahm Dutzende Menschen fest.",
+    "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Mehrere Tote durch russische Angriffe auf Saporischschja",
-        "text": "Während in Miami über Hilfe für die Ukraine und Wege hin zu einem Ende des russischen Angriffskrieges beraten wird, setzt Moskau seine Attacken fort. In der Region Saporischschja gab es mehrere Todesopfer und Verletzte.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html"
+        "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
+        "text": "Drei Tage lang haben Tausende Fans des belarusischen Musikers Max Korzh in Frankfurt gefeiert. Immer wieder zündeten sie unerlaubt Feuerwerk. Die Polizei nahm Dutzende Menschen fest.",
+        "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Vor Klausur des Präsidiums: CDU sucht den Weg aus der Krise",
-        "text": "Dass es gerade schwierig ist, da ist sich die CDU einig. Vor allem die Wahlniederlagen im September schmerzen noch immer. Die Partei will raus aus dem Tief und dafür - so ein Vorschlag - wieder näher an den Alltag der Menschen heranrücken.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/cdu-klausur-krise-100.html"
+        "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+        "text": "Ein Einschlag mitten im Terminal: Der jüngste Raketenangriff am Flughafen Riad ist der schwerste auf Saudi-Arabien seit Beginn des Iran-Kriegs. Augenzeugen berichten von Panik und vielen Opfern. Greifen jetzt die USA ein? Von Anna Osius.",
+        "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Gründer der indischen Kakerlaken-Bewegung festgenommen",
-        "text": "Vor einer geplanten Demonstration gegen Indiens Wahlkommission ist der Gründer der sogenannten Kakerlaken-Bewegung festgenommen worden. Die Bewegung fordert den Rücktritt des Wahlkommissionschefs.",
-        "link": "https://www.tagesschau.de/ausland/asien/indien-festnahme-gruender-kakerlaken-bewegung-100.html"
+        "title": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
+        "text": "Die US-Todeskandidatin Pike hat rund anderthalb Wochen nach ihrer gescheiterten Hinrichtung das Krankenhaus verlassen. Sie ist mittlerweile in das Gefängnis zurückgekehrt, in dem sie seit mehr als 30 Jahren inhaftiert ist.",
+        "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Hurrikan \"Isaias\" trifft auf US-Golfküste",
-        "text": "Mit \"Isaias\" ist der erste Hurrikan der Saison auf die US-Küste getroffen. Er brachte heftige Regenfälle mit sich, in Hunderttausenden Haushalten fiel der Strom aus. Mehrere Bundesstaaten haben den Notstand ausgerufen.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-hurrikan-isaias-102.html"
+        "title": "Schutzstatus in Deutschland: Asylklagen dauern wieder länger",
+        "text": "In den vergangenen Jahren war die Dauer von Asylklagen zurückgegangen. Inzwischen müssen Schutzsuchende wieder länger auf die Klärung ihres Status warten - die Zeit ist dabei jedoch stark vom Bundesland abhängig.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Immobilienmarkt: Steigende Preise trotz sinkender Nachfrage",
-        "text": "Die Preise für Wohnimmobilien legen weiter zu - obwohl Baukredite sehr teuer geworden sind und sich weniger Menschen eine Eigentumswohnung oder ein Haus leisten können. Wie passt das zusammen? Von Heidi Radvilas",
-        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/hauskauf-wohnungskauf-kaufkraft-100.html"
+        "title": "Bürgermeisterwahl: Entscheidung in Krakau - Stimmungstest für Polen",
+        "text": "Polens zweitgrößte Stadt Krakau wählt einen Bürgermeister: Die regierungsnahe Kandidatin tritt gegen einen Kandidaten an, der mit Stimmen von rechts rechnen kann. Ein Stimmungstest vor der Parlamentswahl. Von P. Milling",
+        "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Aufwachsen ohne Eltern: Wie Ehrenamtliche eine Lücke schließen",
-        "text": "Kinder, die ohne Eltern aufwachsen, kennen Erwachsene oft nur als Betreuer, Erzieher oder Lehrer. Ein Kölner Verein will ihnen Erwachsene an die Seite stellen, die bleiben - und damit eine Lücke schließen. Von Rupert Wiederwald.",
-        "link": "https://www.tagesschau.de/inland/mittendrin/ehrenamt-wegbegleitung-kinder-100.html"
+        "title": "Gespräche in Athen: Rubio umwirbt die Gas-Drehscheibe Griechenland",
+        "text": "Südosteuropäische Länder bauen ein Pipelinesystem auf, das Gas über den Kontinent verteilen soll - um unabhängig von Russland zu werden. Auch Flüssiggasexporteur USA zeigt Interesse. Droht eine neue Abhängigkeit? Von J. Riemann.",
+        "link": "https://www.tagesschau.de/ausland/europa/griechenland-usa-gas-100.html"
       }
     ],
     "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
+        "text": "Zum dritten Mal innerhalb von vier Tagen ist der russische Technologie- und KI-Konzern Yandex Ziel eines ukrainischen Drohnenangriffs geworden. Das Rechenzentrum in der Region Wladimir musste vollständig abgeschaltet werden.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck",
+        "text": "\"Zeit, dass die Ukraine einen neuen Präsidenten bekommt\": US-Präsident Trump setzt Selenskyj weiter unter Druck. Er fordert erneut Wahlen - die rechtlich ausgeschlossen sind. Doch Selenskyj bekommt auch Rückhalt.",
+        "link": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+        "text": "Am Freitag hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
+        "text": "Die irische EU-Ratspräsidentschaft hat einen neuen Vorschlag für den nächsten EU-Haushalt vorgelegt. Die Reaktion aus Deutschland darauf ist verhalten. Kanzler Merz sieht keine Grundlage für eine Einigung. Von Kathrin Schmid.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html"
+      },
       {
         "source": "Tagesschau",
         "title": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
@@ -167,24 +189,6 @@
         "title": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
         "text": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
         "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "China sagt EU weniger Exporte von Hybridautos zu",
-        "text": "Der Konkurrenzdruck aus China macht insbesondere deutschen Autobauern zu schaffen. Die EU will daher erreichen, dass Peking in Europa weniger Hybridautos verkauft - nun verkünden beide Seiten einen Kompromiss.",
-        "link": "https://www.tagesschau.de/ausland/asien/hybrid-autos-china-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Trump kündigt russische Diesellieferungen an",
-        "text": "Wegen der hohen Spritpreise steht Trump innenpolitisch unter wachsendem Druck. Nun verkündet der US-Präsident einen Deal mit Russland, der die Lieferung von zunächst 300.000 Tonnen Diesel für die USA und den Weltmarkt umfasst. Kiew ist empört.",
-        "link": "https://www.tagesschau.de/ausland/amerika/trump-diesellieferungen-russland-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Verhandlungen in den USA während massiver Angriffe in der Ukraine",
-        "text": "Unterhändler aus der Ukraine und den USA treffen sich zu Gesprächen über den Krieg. Die vergangenen Tage in der Ukraine waren geprägt von massiven russischen Angriffen mit vielen Toten. Außenminister Wadephul verschärft seinen Ton gegenüber Putin.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-trump-angriffe-100.html"
       }
     ],
     "eu": [
@@ -237,6 +241,12 @@
   "independent": [
     {
       "source": "netzpolitik.org",
+      "title": "Degitalisierung: Allmacht und Ohnmacht",
+      "text": "Oft folgt dem Zustand vermeintlicher Allmacht allzu schnell eine Ohnmacht.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Felix MittermeierAgenten einfach so zu vertrauen, ihnen Allmacht zu geben, ist nie eine gute Idee. Denn am Ende eskaliert entweder ein Computersyst",
+      "link": "https://netzpolitik.org/2026/degitalisierung-allmacht-und-ohnmacht/"
+    },
+    {
+      "source": "netzpolitik.org",
       "title": "KW 41: Die Woche, in der es um Spionage und Landesverrat ging.",
       "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 41. Kalenderwoche geht zu Ende. Wir haben 15 neue Texte mit insgesamt 137.103 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
       "link": "https://netzpolitik.org/2026/kw-41-die-woche-in-der-es-um-spionage-und-landesverrat-ging/"
@@ -264,12 +274,6 @@
       "title": "EU-Haushalt: Digitalsteuer über drei Ecken",
       "text": "Ein Blick auf den verschachtelten Firmensitz von Google in Dublin. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Pond5 ImagesGroße Unternehmen sollen mehr Steuern zahlen und damit zum EU-Budget beitragen, hat die EU-Kommission im Vorjahr angeregt. Einem Medienbericht zufol",
       "link": "https://netzpolitik.org/2026/eu-haushalt-digitalsteuer-ueber-drei-ecken/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Geheimdienstreform: BND-Skandal zur Unzeit",
-      "text": "Das Gebäude des Bundesnachrichtendienstes in Berlin, mit Überwachungspalme.    –   Alle Rechte vorbehalten: IMAGO / imagebrokerIn Kürze soll der gesetzliche Umbau der Geheimdienste durch den Bundestag gebracht werden. Eine bessere Kontrolle der Geheimdienste steht der massiven Au",
-      "link": "https://netzpolitik.org/2026/geheimdienstreform-bnd-skandal-zur-unzeit/"
     }
   ]
 }

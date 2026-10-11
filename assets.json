@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:02+00:00",
+  "updated": "2026-10-11T11:19+00:00",
   "etfs": [
     {
       "name": "L&G Gerd Kommer Multifactor",
@@ -10,16 +10,16 @@
       "category": "Welt (Multifaktor)",
       "distribution": "thesaurierend",
       "key": "gerd",
-      "price": 15.17,
-      "change_pct": -0.65,
+      "price": 15.28,
+      "change_pct": 0.73,
       "history": [
-        15.03,
         15.03,
         15.17,
         15.31,
         15.35,
         15.27,
-        15.17
+        15.17,
+        15.28
       ]
     },
     {
@@ -31,16 +31,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "vwce",
-      "price": 171.9,
-      "change_pct": -0.59,
+      "price": 172.86,
+      "change_pct": 0.56,
       "history": [
-        169.78,
         169.38,
         171.14,
         172.9,
         173.56,
         172.92,
-        171.9
+        171.9,
+        172.86
       ]
     },
     {
@@ -52,16 +52,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "eunl",
-      "price": 130.97,
-      "change_pct": -0.4,
+      "price": 131.64,
+      "change_pct": 0.51,
       "history": [
-        129.13,
         128.81,
         130.04,
         131.2,
         131.84,
         131.49,
-        130.97
+        130.97,
+        131.64
       ]
     },
     {
@@ -73,16 +73,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "xmwo",
-      "price": 143.31,
-      "change_pct": -0.43,
+      "price": 144.05,
+      "change_pct": 0.52,
       "history": [
-        141.3,
         140.99,
         142.32,
         143.6,
         144.27,
         143.93,
-        143.31
+        143.31,
+        144.05
       ]
     },
     {
@@ -94,16 +94,16 @@
       "category": "Thema (Tech)",
       "distribution": "thesaurierend",
       "key": "xaix",
-      "price": 225.0,
-      "change_pct": -0.66,
+      "price": 225.25,
+      "change_pct": 0.11,
       "history": [
-        220.25,
         220.8,
         223.75,
         225.55,
         226.4,
         226.5,
-        225.0
+        225.0,
+        225.25
       ]
     },
     {
@@ -115,16 +115,16 @@
       "category": "USA",
       "distribution": "thesaurierend",
       "key": "sxr8",
-      "price": 749.02,
-      "change_pct": -0.21,
+      "price": 751.32,
+      "change_pct": 0.31,
       "history": [
-        732.78,
         732.5,
         739.48,
         746.66,
         750.7,
         750.62,
-        749.02
+        749.02,
+        751.32
       ]
     },
     {
@@ -136,16 +136,16 @@
       "category": "Schwellenländer",
       "distribution": "thesaurierend",
       "key": "is3n",
-      "price": 48.58,
-      "change_pct": -1.74,
+      "price": 48.92,
+      "change_pct": 0.7,
       "history": [
-        48.26,
         48.36,
         49.08,
         50.15,
         49.89,
         49.44,
-        48.58
+        48.58,
+        48.92
       ]
     },
     {
@@ -157,16 +157,16 @@
       "category": "USA Tech",
       "distribution": "ausschüttend",
       "key": "eqqq",
-      "price": 676.4,
-      "change_pct": -0.37,
+      "price": 672.6,
+      "change_pct": -0.56,
       "history": [
-        658.4,
         659.9,
         669.1,
         675.3,
         679.8,
         678.9,
-        676.4
+        676.4,
+        672.6
       ]
     },
     {
@@ -178,16 +178,16 @@
       "category": "Rohstoffe",
       "distribution": "-",
       "key": "gold",
-      "price": 118.16,
-      "change_pct": 0.05,
+      "price": 120.32,
+      "change_pct": 1.83,
       "history": [
-        117.76,
         119.05,
         118.35,
         118.69,
         118.9,
         118.1,
-        118.16
+        118.16,
+        120.32
       ]
     }
   ],
@@ -197,16 +197,16 @@
       "ticker": "BTCE.DE",
       "category": "Krypto",
       "key": "bitcoin",
-      "price": 63.68,
-      "change_pct": -2.67,
+      "price": 65.14,
+      "change_pct": 2.29,
       "history": [
-        65.15,
         65.68,
         66.81,
         66.96,
         67.39,
         65.43,
-        63.68
+        63.68,
+        65.14
       ]
     },
     {

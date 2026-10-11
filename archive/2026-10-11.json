@@ -1,0 +1,279 @@
+{
+  "updated": "2026-10-11T11:19+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25087.3,
+      "unit": "Pkt.",
+      "change_pct": 1.13,
+      "history": [
+        24939.3,
+        25231.2,
+        25254.2,
+        25449.2,
+        25104.4,
+        24807.0,
+        25087.3
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 30883.2,
+      "unit": "Pkt.",
+      "change_pct": 0.51,
+      "history": [
+        30501.6,
+        30807.9,
+        31076.4,
+        31224.5,
+        31160.1,
+        30725.8,
+        30883.2
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7811.5,
+      "unit": "Pkt.",
+      "change_pct": 0.59,
+      "history": [
+        7666.5,
+        7722.7,
+        7774.0,
+        7818.9,
+        7801.8,
+        7765.4,
+        7811.5
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 104.7,
+      "unit": "$",
+      "change_pct": 0.38,
+      "history": [
+        102.2,
+        100.3,
+        100.6,
+        100.2,
+        104.3,
+        104.7
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4216.3,
+      "unit": "$",
+      "change_pct": 1.43,
+      "history": [
+        4162.3,
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1206,
+      "unit": "",
+      "change_pct": 0.04,
+      "history": [
+        1.1327,
+        1.125,
+        1.1255,
+        1.1217,
+        1.1254,
+        1.1201,
+        1.1206
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
+    "text": "Drei Tage lang haben Tausende Fans des belarusischen Musikers Max Korzh in Frankfurt gefeiert. Immer wieder zündeten sie unerlaubt Feuerwerk. Die Polizei nahm Dutzende Menschen fest.",
+    "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Frankfurt: Viele Fans von belarusischem Rapper festgenommen",
+        "text": "Drei Tage lang haben Tausende Fans des belarusischen Musikers Max Korzh in Frankfurt gefeiert. Immer wieder zündeten sie unerlaubt Feuerwerk. Die Polizei nahm Dutzende Menschen fest.",
+        "link": "https://www.tagesschau.de/inland/regional/hessen/hr-frankfurt-fans-von-osteuropaeischem-rapper-eskalieren-auf-floesserbruecke-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Huthi-Angriff auf Flughafen Riad: Alptraum am Abflug-Gate",
+        "text": "Ein Einschlag mitten im Terminal: Der jüngste Raketenangriff am Flughafen Riad ist der schwerste auf Saudi-Arabien seit Beginn des Iran-Kriegs. Augenzeugen berichten von Panik und vielen Opfern. Greifen jetzt die USA ein? Von Anna Osius.",
+        "link": "https://www.tagesschau.de/ausland/asien/saudi-arabien-huthi-angriff-riad-flughafen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Todeskandidatin Pike nach gescheiterter Hinrichtung wieder im Gefängnis",
+        "text": "Die US-Todeskandidatin Pike hat rund anderthalb Wochen nach ihrer gescheiterten Hinrichtung das Krankenhaus verlassen. Sie ist mittlerweile in das Gefängnis zurückgekehrt, in dem sie seit mehr als 30 Jahren inhaftiert ist.",
+        "link": "https://www.tagesschau.de/ausland/amerika/pike-todeskandidatin-krankenhaus-gefaengnis-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Schutzstatus in Deutschland: Asylklagen dauern wieder länger",
+        "text": "In den vergangenen Jahren war die Dauer von Asylklagen zurückgegangen. Inzwischen müssen Schutzsuchende wieder länger auf die Klärung ihres Status warten - die Zeit ist dabei jedoch stark vom Bundesland abhängig.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/migration-asyl-klagen-dauer-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Bürgermeisterwahl: Entscheidung in Krakau - Stimmungstest für Polen",
+        "text": "Polens zweitgrößte Stadt Krakau wählt einen Bürgermeister: Die regierungsnahe Kandidatin tritt gegen einen Kandidaten an, der mit Stimmen von rechts rechnen kann. Ein Stimmungstest vor der Parlamentswahl. Von P. Milling",
+        "link": "https://www.tagesschau.de/ausland/europa/polen-krakau-buergermeister-wahlen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gespräche in Athen: Rubio umwirbt die Gas-Drehscheibe Griechenland",
+        "text": "Südosteuropäische Länder bauen ein Pipelinesystem auf, das Gas über den Kontinent verteilen soll - um unabhängig von Russland zu werden. Auch Flüssiggasexporteur USA zeigt Interesse. Droht eine neue Abhängigkeit? Von J. Riemann.",
+        "link": "https://www.tagesschau.de/ausland/europa/griechenland-usa-gas-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Angriff auf Yandex: Ukraine legt \"russisches Google\" lahm",
+        "text": "Zum dritten Mal innerhalb von vier Tagen ist der russische Technologie- und KI-Konzern Yandex Ziel eines ukrainischen Drohnenangriffs geworden. Das Rechenzentrum in der Region Wladimir musste vollständig abgeschaltet werden.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriff-yandex-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine: Trump setzt Präsident Selenskyj weiter unter Druck",
+        "text": "\"Zeit, dass die Ukraine einen neuen Präsidenten bekommt\": US-Präsident Trump setzt Selenskyj weiter unter Druck. Er fordert erneut Wahlen - die rechtlich ausgeschlossen sind. Doch Selenskyj bekommt auch Rückhalt.",
+        "link": "https://www.tagesschau.de/ausland/trump-selenskyj-rueckzug-reaktionen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump fordert nach Dieseldeal mit Putin Selenskyjs Ablösung",
+        "text": "Am Freitag hatte US-Präsident Trump einen Dieseldeal mit Russland angekündigt. Die Ukraine reagierte empört, nun fordert Trump eine Ablösung des ukrainischen Staatschefs Selenskyj. Er habe die Schuld an den hohen Energiepreisen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-selenskyj-diesel-russland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Merz sieht bei irischem Vorschlag für EU-Haushalt \"keine Grundlage für Einigung\"",
+        "text": "Die irische EU-Ratspräsidentschaft hat einen neuen Vorschlag für den nächsten EU-Haushalt vorgelegt. Die Reaktion aus Deutschland darauf ist verhalten. Kanzler Merz sieht keine Grundlage für eine Einigung. Von Kathrin Schmid.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-irischer-vorschlag-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Weniger Hybridfahrzeug-Exporte: EU und China wenden Eskalation vorerst ab",
+        "text": "China akzeptiert EU-Handelsbeschränkungen für Hybridfahrzeuge. Doch wie nachhaltig wirkt dieses Zugeständnis? Und wie geht es in anderen Wirtschaftsbereichen weiter? Von Christoph Kober.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-eu-hybridautos-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ein Jahr brüchige Waffenruhe Gaza: \"Der Krieg lässt uns nicht in Ruhe\"",
+        "text": "Ein Jahr nach der Waffenruhe im Gazastreifen leben viele Menschen weiter in Not, Hilfsorganisationen sichern ihr Überleben. Von der internationalen Politik fühlen sich die Menschen vergessen. Von Felicitas Boeselager.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-gaza-waffenruhe-112.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Press Remarks by Commissioner Lahbib at the Foreign Affairs Council on Development",
+        "text": "European Commission Speech Dublin, 09 Oct 2026 Yesterday evening we discussed the future of development, along with the important link between humanitarian aid and development, together with key stakeholders...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2129"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung zum Internationalen Strafgerichtshof nach Bekanntgabe der US-Sanktionen",
+        "text": "European Commission Erklärung Brussels, 09 Oct 2026 Die Europäische Union hat den Internationalen Strafgerichtshof (IStGH) stets unterstützt. Es ist zutiefst bedauerlich, dass die Vereinigten Staaten angekündigt ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2127"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Press remarks by Commissioner Šefčovič at the second meeting of the EU-China Trade and Investment Consultations",
+        "text": "European Commission Statement Beijing, 09 Oct 2026 \"Check against delivery\"\n \nGood evening,\nAs I wrap up my visit to Beijing, let me begin by thanking my counterpart, Minister Wang Wentao, for his time, engageme...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2124"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 09 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 09 Oct 2026 Kommission gewährt vorübergehende Handelspräferenzen zur Unterstützung armenischer Ausfuhren in die EU Die Europäische Union gewährt Armenien vorübergehende Han...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2123"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Joint Statement at the second meeting of the EU-China Trade and Investment Consultations",
+        "text": "European Commission Statement Beijing, 09 Oct 2026 On 8-9 October 2026, Wang Wentao, Minister of Commerce of China, and Maroš Šefčovič, Commissioner for Trade and Economic Security, Interinstitutional Relations and Transparency, of the European Commission, held the second meeting",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2122"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Opening remarks by Executive Vice-President Séjourné at the press point on the second group of strategic projects under the Critical Raw Materials Act",
+        "text": "European Commission Speech Brussels, 09 Oct 2026 Bonjour à toutes et à tous,\nPour la quatrième fois du mandat, je reviens devant vous faire état de l'avancement de notre politique sur les matières premières cr...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2121"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Ölpreis sinkt - DAX steigt über 25.000 Punkte",
+        "text": "Ende einer turbulenten Woche: Der DAX profitierte von einer Beruhigung am Ölmarkt und stieg wieder über die Marke von 25.000 Punkten. Lange Gesichter gab es aber bei den Telekom-Aktionären.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-166.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Degitalisierung: Allmacht und Ohnmacht",
+      "text": "Oft folgt dem Zustand vermeintlicher Allmacht allzu schnell eine Ohnmacht.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Felix MittermeierAgenten einfach so zu vertrauen, ihnen Allmacht zu geben, ist nie eine gute Idee. Denn am Ende eskaliert entweder ein Computersyst",
+      "link": "https://netzpolitik.org/2026/degitalisierung-allmacht-und-ohnmacht/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 41: Die Woche, in der es um Spionage und Landesverrat ging.",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 41. Kalenderwoche geht zu Ende. Wir haben 15 neue Texte mit insgesamt 137.103 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-41-die-woche-in-der-es-um-spionage-und-landesverrat-ging/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Gefährlicher Kontrollzirkus\": So breit ist die Kritik an Alterskontrollen im EU Kids Act",
+      "text": "Der EU Kids Act bereitet Kritiker*innen Kopfzerbrechen (Symbolbild).    –   Alle Rechte vorbehalten: IMAGO/Westend61Im Namen des Jugendschutzes plant die EU-Kommission flächendeckende Alterskontrollen im Netz. Zahlreiche Organisationen warnen eindringlich vor den Gefahren: Vom Ki",
+      "link": "https://netzpolitik.org/2026/gefaehrlicher-kontrollzirkus-so-breit-ist-die-kritik-an-alterskontrollen-im-eu-kids-act/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Bundesrechnungshof: Digitalminister macht IT-Sicherheit per Vogelstimmen-App",
+      "text": "Geld für IT-Sicherheitsmaßnahmen gab die Bundesregierung unter anderem für eine Vogelstimmen-App aus. (Symbolbild)    –   CC-BY-SA 4.0: Wikimedia Commons / Kookaburra 81Angriffe auf die IT der öffentlichen Verwaltung häufen sich. Doch statt gezielt in Maßnahmen zu investieren, di",
+      "link": "https://netzpolitik.org/2026/bundesrechnungshof-digitalminister-macht-it-sicherheit-per-vogelstimmen-app/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Gesetz gegen digitale Gewalt: Fake-Accounts und Vergewaltigungsvideos sollen strafbar werden",
+      "text": "Teilnehmer*innen einer Demonstration gegen patriarchale Gewalt im März.    –   Alle Rechte vorbehalten: IMAGO / Panama PicturesBundesjustizministerin Hubig hat den Entwurf für ein Gesetz gegen digitale Gewalt erneut nachgeschärft. Hinzugekommen sind Straftatbestände für Fake-Acco",
+      "link": "https://netzpolitik.org/2026/gesetz-gegen-digitale-gewalt-fake-accounts-und-vergewaltigungsvideos-sollen-strafbar-werden/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "EU-Haushalt: Digitalsteuer über drei Ecken",
+      "text": "Ein Blick auf den verschachtelten Firmensitz von Google in Dublin. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Pond5 ImagesGroße Unternehmen sollen mehr Steuern zahlen und damit zum EU-Budget beitragen, hat die EU-Kommission im Vorjahr angeregt. Einem Medienbericht zufol",
+      "link": "https://netzpolitik.org/2026/eu-haushalt-digitalsteuer-ueber-drei-ecken/"
+    }
+  ]
+}
