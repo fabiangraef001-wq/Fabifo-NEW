@@ -1,0 +1,291 @@
+{
+  "updated": "2026-10-12T12:55+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25262.6,
+      "unit": "Pkt.",
+      "change_pct": 0.7,
+      "history": [
+        25231.2,
+        25254.2,
+        25449.2,
+        25104.4,
+        24807.0,
+        25087.3,
+        25262.6
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 30883.2,
+      "unit": "Pkt.",
+      "change_pct": 0.51,
+      "history": [
+        30501.6,
+        30807.9,
+        31076.4,
+        31224.5,
+        31160.1,
+        30725.8,
+        30883.2
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7811.5,
+      "unit": "Pkt.",
+      "change_pct": 0.59,
+      "history": [
+        7666.5,
+        7722.7,
+        7774.0,
+        7818.9,
+        7801.8,
+        7765.4,
+        7811.5
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 106.8,
+      "unit": "$",
+      "change_pct": 2.01,
+      "history": [
+        100.3,
+        100.6,
+        100.2,
+        104.3,
+        104.7,
+        106.8
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4189.6,
+      "unit": "$",
+      "change_pct": -0.63,
+      "history": [
+        4156.8,
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4189.6
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1182,
+      "unit": "",
+      "change_pct": -0.28,
+      "history": [
+        1.125,
+        1.1255,
+        1.1217,
+        1.1254,
+        1.1201,
+        1.1213,
+        1.1182
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Reformagenda: Was Schweitzer als Arbeitsminister erwartet",
+    "text": "Alexander Schweitzer steht als designierter Arbeitsminister vor heiklen Reformen bei Rente, Arbeitsrecht und Sozialstaat. Was auf ihn zukommt und welche Fragen noch gelöst werden müssen.",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-arbeitsminister-reformen-rente-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Reformagenda: Was Schweitzer als Arbeitsminister erwartet",
+        "text": "Alexander Schweitzer steht als designierter Arbeitsminister vor heiklen Reformen bei Rente, Arbeitsrecht und Sozialstaat. Was auf ihn zukommt und welche Fragen noch gelöst werden müssen.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-arbeitsminister-reformen-rente-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Prozess um \"Soester Horrorhaus\" am Landgericht Arnsberg begonnen",
+        "text": "Monatelang soll eine Frau in Soest gefangen gehalten und misshandelt worden sein. Nun stehen vier Männer vor Gericht, zwei sind noch jugendlich. Zum Prozessauftakt gibt es eine neue Wendung: Videos könnten die Angeklagten belasten.",
+        "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/prozessbeginn-schwere-misshandlung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
+        "text": "Seit zwei Jahren sind EU-Zölle auf Elektroautos aus China in Kraft, viele chinesische Hersteller steigerten seitdem ihre Exporte von Hybridfahrzeugen. Dem setzt die Europäische Union jetzt Grenzen.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-china-hybridautos-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Weitere Stufe des PFAS-Verbots in Kraft getreten",
+        "text": "Sie stecken in Bekleidung, Cremes oder Fast-Food-Kartons: PFAS. Doch die \"Ewigkeitschemikalien\" stehen im Verdacht, den Körper zu schädigen. Weitere PFAS-Produkte sind nun in der EU verboten. Von Juri Sonnenholzner.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ewigkeitschemikalien-pfas-verbot-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Haftbefehl-Konzerte in Berlin und Düsseldorf abgesagt",
+        "text": "Die Konzerte des Rappers Haftbefehl in Berlin und Düsseldorf sind von dessen Familie abgesagt worden. In einem Video in den Sozialen Medien entschuldigte sich der Bruder des Rappers: Haftbefehl stehe \"unter ärztlicher Aufsicht\".",
+        "link": "https://www.tagesschau.de/kultur/konzertabsagen-haftbefehl-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Klingbeil will SPD-Führung neu wählen lassen",
+        "text": "Der Rücktritt von Bärbel Bas hat die SPD erschüttert. Nun soll die gesamte Parteiführung neu gewählt werden. Das kündigte der Vorsitzende Klingbeil in einer eilig einberufenen Pressekonferenz an. Zum Jahreswechsel ist ein Parteitag geplant.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/spd-parteifuehrung-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Brexit: Premier Burnham wirft Russland Einmischung vor",
+        "text": "Zehn Jahre nach dem Brexit-Votum erhebt Großbritanniens Premier einen brisanten Vorwurf gegen die russische Regierung. Er warnte vor russischer Einflussnahme auch in Deutschland und Frankreich.",
+        "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-brexit-burnham-wirft-russland-einmischung-vor-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU-Außenminister beschließen größte Sanktionsrunde gegen Russland",
+        "text": "Es geht um mehr als 1.600 Personen und Organisationen: Die EU-Außenminister haben neue Sanktionen wegen des russischen Angriffskrieges in der Ukraine beschlossen. Deutliche Kritik gibt es am Vorgehen der USA. Von Tina Hassel.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-120.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "US-Senatoren kritisieren Trumps Diesel-Pläne als rechtswidrig",
+        "text": "Der von Präsident Trump angekündigte Import von russischem Diesel in die USA hat weltweit für harsche Kritik gesorgt. Auch im US-Kongress regt sich zunehmend Widerstand - nicht nur auf Seiten der Demokraten.",
+        "link": "https://www.tagesschau.de/ausland/amerika/kritik-diesellieferung-russland-trump-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nordkorea feuert offenbar erneut ballistische Raketen ab",
+        "text": "Die Spannungen auf der koreanischen Halbinsel haben in jüngster Zeit wieder zugenommen. Nun führte Nordkorea laut Angaben aus Südkorea und Japan erneut einen Raketentest durch. Die Geschosse landeten im Meer.",
+        "link": "https://www.tagesschau.de/ausland/asien/suedkorea-nordkorea-raketen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
+        "text": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
+        "text": "Laut US-Präsident Trump gibt es eine \"Energie-Waffenruhe\" zwischen Russland und der Ukraine. Sie trete mit sofortiger Wirkung in Kraft, erklärte er auf seiner Plattform Truth Social. Eine Bestätigung aus Kiew oder Moskau liegt bislang nicht vor.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Press remarks by Executive Vice-President Fitto on the opening of the European Week of Regions and Cities",
+        "text": "European Commission Speech Brussels, 12 Oct 2026 Ladies and gentlemen,\nGood morning, and welcome.\nI am very pleased to open the European Week of Regions and Cities 2026.\nFirst of all, I would like to thank Pre...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2139"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 12 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 12 Oct 2026 Kommission begrüßt Annahme des mit 115 Mio. EUR ausgestatteten Programms „AGILE“ für schnelle Innovationen im VerteidigungsbereichDie Europäische Kommission beg...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2138"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Woche der Regionen und Städte: 5000 Teilnehmer diskutieren über die künftige Kohäsionspolitik",
+        "text": "European Commission Pressemitteilung Brussels, 12 Oct 2026 Heute beginnt in Brüssel die 24. Europäische Woche der Regionen und Städte, an der fast 5.000 Teilnehmer aus ganz Europa unter dem Motto \"Starke Regionen, starkes Europa\" teilnehmen.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2133"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission begrüßt Annahme des mit 115 Mio. EUR ausgestatteten Programms „AGILE“ für schnelle Innovationen im Verteidigungsbereich",
+        "text": "European Commission Pressemitteilung Brussels, 12 Oct 2026 Die Europäische Kommission begrüßt die Annahme der Verordnung zur Einrichtung eines Programms für agile und schnelle Innovationen im Verteidigungsbereich (AGILE), mit der disruptive Verteidigungstechnologien in Rekordgesc",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2132"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Read-out by President von der Leyen following her call with President Zelenskyy",
+        "text": "European Commission Read-out Brussels, 11 Oct 2026 Good call with President Zelenskyy.\nFully supported the call of President Zelenskyy for a ceasefire that would protect global food supplies and energy infrastru...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_2131"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Press Remarks by Commissioner Lahbib at the Foreign Affairs Council on Development",
+        "text": "European Commission Speech Dublin, 09 Oct 2026 Yesterday evening we discussed the future of development, along with the important link between humanitarian aid and development, together with key stakeholders...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2129"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX behauptet sich in der Gewinnzone",
+        "text": "Der DAX behauptet am Mittag seine Gewinne und bleibt über der Marke von 25.000 Punkten. Die Anleger hoffen insbesondere auf eine Beruhigung beim Ölpreis nach Aussagen von US-Präsident Donald Trump.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nobelpreis für Wirtschaftswissenschaften für US-Ökonomen Hall und Woodford",
+        "text": "Die US-Amerikaner Hall und Woodford werden mit dem Wirtschaftspreis in Gedenken an Alfred Nobel ausgezeichnet. Sie werden für ihre Arbeit zur Stabilisierung der Wirtschaft geehrt, erklärte die Königlich-Schwedische Akademie der Wissenschaften.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Landwirtschaftsminister protestieren bei Merz gegen Zuckersteuer",
+        "text": "Im Streit über die Zuckersteuer wächst der Widerstand innerhalb der Union. Neun Landesminister haben sich in einem Brief an Kanzler Merz gegen die Abgabe ausgesprochen - und warnen vor den Folgen der geplanten Abgabe.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-cdu-landesminister-protestbrief-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Sensible Grindr-Daten: Microsoft-Tochter muss Rekordstrafe zahlen",
+      "text": "Werbe-Daten von Grindr-Nutzer:innen können Auskunft über ihre sexuelle Orientierung geben    –   Alle Rechte vorbehalten: IMAGO / Rüdiger WölkDie Werbe-Tech-Firma Xandr hatte sensible Daten von Grindr-Nutzer:innen an zahlreiche andere Werbefirmen verteilt. Dafür soll sie nun das ",
+      "link": "https://netzpolitik.org/2026/sensible-grindr-daten-microsoft-tochter-muss-rekordstrafe-zahlen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Scam: Das Geschäft mit den betrügerischen Blutzuckeruhren",
+      "text": "Eine vom vzbv untersuchte Blutzuckeruhr gab an einer Banane die gleichen Ergebnisse aus wie am Handgelenk.    –   Alle Rechte vorbehalten: Verbraucherzentrale BundesverbandEine Smartwatch, die falsche Blutzuckerwerte anzeigt, kann lebensgefährlich sein. Dennoch finden sich solche",
+      "link": "https://netzpolitik.org/2026/scam-das-geschaeft-mit-den-betruegerischen-blutzuckeruhren/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Degitalisierung: Allmacht und Ohnmacht",
+      "text": "Oft folgt dem Zustand vermeintlicher Allmacht allzu schnell eine Ohnmacht.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Felix MittermeierAgenten einfach so zu vertrauen, ihnen Allmacht zu geben, ist nie eine gute Idee. Denn am Ende eskaliert entweder ein Computersyst",
+      "link": "https://netzpolitik.org/2026/degitalisierung-allmacht-und-ohnmacht/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 41: Die Woche, in der es um Spionage und Landesverrat ging.",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 41. Kalenderwoche geht zu Ende. Wir haben 15 neue Texte mit insgesamt 137.103 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-41-die-woche-in-der-es-um-spionage-und-landesverrat-ging/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Gefährlicher Kontrollzirkus\": So breit ist die Kritik an Alterskontrollen im EU Kids Act",
+      "text": "Der EU Kids Act bereitet Kritiker*innen Kopfzerbrechen (Symbolbild).    –   Alle Rechte vorbehalten: IMAGO/Westend61Im Namen des Jugendschutzes plant die EU-Kommission flächendeckende Alterskontrollen im Netz. Zahlreiche Organisationen warnen eindringlich vor den Gefahren: Vom Ki",
+      "link": "https://netzpolitik.org/2026/gefaehrlicher-kontrollzirkus-so-breit-ist-die-kritik-an-alterskontrollen-im-eu-kids-act/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Bundesrechnungshof: Digitalminister macht IT-Sicherheit per Vogelstimmen-App",
+      "text": "Geld für IT-Sicherheitsmaßnahmen gab die Bundesregierung unter anderem für eine Vogelstimmen-App aus. (Symbolbild)    –   CC-BY-SA 4.0: Wikimedia Commons / Kookaburra 81Angriffe auf die IT der öffentlichen Verwaltung häufen sich. Doch statt gezielt in Maßnahmen zu investieren, di",
+      "link": "https://netzpolitik.org/2026/bundesrechnungshof-digitalminister-macht-it-sicherheit-per-vogelstimmen-app/"
+    }
+  ]
+}
