@@ -1,84 +1,86 @@
 {
-  "updated": "2026-10-12T12:55+00:00",
+  "updated": "2026-10-13T12:33+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25262.6,
+      "value": 25291.5,
       "unit": "Pkt.",
-      "change_pct": 0.7,
+      "change_pct": 0.05,
       "history": [
-        25231.2,
         25254.2,
         25449.2,
         25104.4,
         24807.0,
         25087.3,
-        25262.6
+        25277.7,
+        25291.5
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 30883.2,
+      "value": 30664.7,
       "unit": "Pkt.",
-      "change_pct": 0.51,
+      "change_pct": -0.71,
       "history": [
-        30501.6,
         30807.9,
         31076.4,
         31224.5,
         31160.1,
         30725.8,
-        30883.2
+        30883.2,
+        30664.7
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7811.5,
+      "value": 7807.2,
       "unit": "Pkt.",
-      "change_pct": 0.59,
+      "change_pct": -0.06,
       "history": [
-        7666.5,
         7722.7,
         7774.0,
         7818.9,
         7801.8,
         7765.4,
-        7811.5
+        7811.5,
+        7807.2
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 106.8,
+      "value": 104.6,
       "unit": "$",
-      "change_pct": 2.01,
+      "change_pct": -1.97,
       "history": [
         100.3,
         100.6,
         100.2,
         104.3,
         104.7,
-        106.8
+        106.7,
+        104.6
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4189.6,
+      "value": 4209.3,
       "unit": "$",
-      "change_pct": -0.63,
+      "change_pct": 0.45,
       "history": [
         4156.8,
         4187.1,
         4140.7,
         4157.0,
         4216.3,
-        4189.6
+        4190.6,
+        4209.3
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1182,
+      "value": 1.1191,
       "unit": "",
-      "change_pct": -0.28,
+      "change_pct": -0.2,
       "history": [
         1.125,
         1.1255,
@@ -86,7 +88,7 @@
         1.1254,
         1.1201,
         1.1213,
-        1.1182
+        1.1191
       ]
     },
     "fed_rate": {
@@ -110,147 +112,159 @@
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Reformagenda: Was Schweitzer als Arbeitsminister erwartet",
-    "text": "Alexander Schweitzer steht als designierter Arbeitsminister vor heiklen Reformen bei Rente, Arbeitsrecht und Sozialstaat. Was auf ihn zukommt und welche Fragen noch gelöst werden müssen.",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-arbeitsminister-reformen-rente-100.html"
+    "title": "Bei diesen drei Themen stockt die Rentenreform",
+    "text": "Nach dem überraschenden Rücktritt von Bundesarbeitsministerin Bas muss ihr Nachfolger Schweitzer die Rentenreform voranbringen - ausgerechnet er, der die Pläne bisher kritisiert hatte. Drei Knackpunkte gilt es zu lösen.",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-empfehlungen-knackpunkte-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Reformagenda: Was Schweitzer als Arbeitsminister erwartet",
-        "text": "Alexander Schweitzer steht als designierter Arbeitsminister vor heiklen Reformen bei Rente, Arbeitsrecht und Sozialstaat. Was auf ihn zukommt und welche Fragen noch gelöst werden müssen.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-arbeitsminister-reformen-rente-100.html"
+        "title": "Bei diesen drei Themen stockt die Rentenreform",
+        "text": "Nach dem überraschenden Rücktritt von Bundesarbeitsministerin Bas muss ihr Nachfolger Schweitzer die Rentenreform voranbringen - ausgerechnet er, der die Pläne bisher kritisiert hatte. Drei Knackpunkte gilt es zu lösen.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-empfehlungen-knackpunkte-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Prozess um \"Soester Horrorhaus\" am Landgericht Arnsberg begonnen",
-        "text": "Monatelang soll eine Frau in Soest gefangen gehalten und misshandelt worden sein. Nun stehen vier Männer vor Gericht, zwei sind noch jugendlich. Zum Prozessauftakt gibt es eine neue Wendung: Videos könnten die Angeklagten belasten.",
-        "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/prozessbeginn-schwere-misshandlung-100.html"
+        "title": "Missbrauchsbeauftragte Claus: \"Risiken im digitalen Raum explodieren\"",
+        "text": "Die Gefahr für Kinder und Jugendliche, sexualisierte Gewalt zu erleben, sei so hoch wie nie zuvor, warnt die Missbrauchsbeauftragte Claus. Das Netz gilt als \"zentraler Tatort\" - nun noch verstärkt durch Künstliche Intelligenz.",
+        "link": "https://www.tagesschau.de/inland/bericht-missbrauchsbeauftragte-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "EU begrenzt chinesische Hybridauto-Importe auf 350.000 pro Jahr",
-        "text": "Seit zwei Jahren sind EU-Zölle auf Elektroautos aus China in Kraft, viele chinesische Hersteller steigerten seitdem ihre Exporte von Hybridfahrzeugen. Dem setzt die Europäische Union jetzt Grenzen.",
-        "link": "https://www.tagesschau.de/ausland/europa/eu-china-hybridautos-102.html"
+        "title": "Papst Leo XIV. für Lungenoperation im Krankenhaus eingetroffen",
+        "text": "Das Oberhaupt der Katholischen Kirche hat sich ins Krankenhaus begeben. Papst Leo XIV. soll bereits am Nachmittag ein Knoten aus der Lunge entfernt werden. Seine Audienzen wurden vorerst bis zum 20. Oktober abgesagt.",
+        "link": "https://www.tagesschau.de/ausland/europa/papst-krankenhaus-operation-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Weitere Stufe des PFAS-Verbots in Kraft getreten",
-        "text": "Sie stecken in Bekleidung, Cremes oder Fast-Food-Kartons: PFAS. Doch die \"Ewigkeitschemikalien\" stehen im Verdacht, den Körper zu schädigen. Weitere PFAS-Produkte sind nun in der EU verboten. Von Juri Sonnenholzner.",
-        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ewigkeitschemikalien-pfas-verbot-100.html"
+        "title": "Bahn-Fahrplan: Neue ICE-Sprinter, aber weiter viele Baustellen",
+        "text": "Ab diesem Mittwoch lassen sich Tickets für den neuen Bahn-Fahrplan buchen. Zum Wechsel im Dezember fährt ein neuer ICE-Sprinter zwischen Hamburg und München. Baustellen werden weiter für längere Fahrzeiten sorgen.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/deutsche-bahn-fahrplan-zugverkehr-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Haftbefehl-Konzerte in Berlin und Düsseldorf abgesagt",
-        "text": "Die Konzerte des Rappers Haftbefehl in Berlin und Düsseldorf sind von dessen Familie abgesagt worden. In einem Video in den Sozialen Medien entschuldigte sich der Bruder des Rappers: Haftbefehl stehe \"unter ärztlicher Aufsicht\".",
-        "link": "https://www.tagesschau.de/kultur/konzertabsagen-haftbefehl-100.html"
+        "title": "Flughafen Nürnberg wegen \"unbestätigter Luftnotlage\" gesperrt",
+        "text": "Wegen einer \"unbestätigten Luftnotlage\" ist der Flughafen Nürnberg gesperrt worden. Laut eines Flughafensprechers wurde ein Flieger aus Korfu vor der Landung von \"Eurofightern\" begleitet. Inzwischen hat die Polizei Entwarnung gegeben.",
+        "link": "https://www.tagesschau.de/inland/sperrung-flughafen-nuernberg-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Klingbeil will SPD-Führung neu wählen lassen",
-        "text": "Der Rücktritt von Bärbel Bas hat die SPD erschüttert. Nun soll die gesamte Parteiführung neu gewählt werden. Das kündigte der Vorsitzende Klingbeil in einer eilig einberufenen Pressekonferenz an. Zum Jahreswechsel ist ein Parteitag geplant.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/spd-parteifuehrung-100.html"
+        "title": "Türkische Regierung erhöht Druck auf Medien im Internet",
+        "text": "Die türkische Regierung erhöht den Druck auf Medien im Internet. Allein im September ordnete sie Sperren gegen knapp 1.300 X-Accounts an. Betroffene Redaktionen kämpfen darum, ihre Leser weiter zu erreichen. Von Antonia Rüller.",
+        "link": "https://www.tagesschau.de/ausland/asien/internetsperren-tuerkei-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
+        "title": "Kurz vor Zwischenwahlen: Durchsuchung bei Trump-Kritikerin Omar",
+        "text": "Erst lässt die US-Justiz Ilhan Omars Haus durchsuchen, dann beschimpft der Präsident die demokratische Abgeordnete aufgrund ihrer Herkunft. Sie ist nicht zum ersten Mal Trumps Attacken ausgesetzt und spricht von politischer Einschüchterung.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-ilhan-omar-durchsuchung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU-Außenminister: Sanktionspaket mit willkommener Nebenwirkung",
+        "text": "Noch nie hat die EU auf einen Schlag so viele Personen und Organisationen wegen des Kriegs gegen die Ukraine auf eine Sanktionsliste gesetzt wie heute. Dass das wie eine Antwort auf Trump wirkt, war nicht geplant, ist aber willkommen. Von K. Schmid.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-neue-sanktionen-russland-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Israel verweigert taz-Korrespondentin die Einreise",
+        "text": "Offenbar in Verbindung mit ihrer kritischen Berichterstattung verweigert Israel der taz-Journalistin Bilanceri die Einreise. Sie spricht von einer schlechten Nachricht für die Pressefreiheit. Auch israelische Kollegen sind besorgt. Von J.-C. Kitzler.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Krieg gegen die Ukraine: Von \"Energie-Waffenruhe\" keine Spur",
+        "text": "US-Präsident Trump verkündete am Sonntag eine \"Energie-Waffenruhe\" zwischen der Ukraine und Russland - offenbar ohne Rückendeckung aus Moskau. Denn die Angriffe auf die ukrainische Energieinfrastruktur gehen unvermindert weiter. Von N. Bula.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-energie-waffenruhe-100.html"
+      },
+      {
+        "source": "Tagesschau",
         "title": "Brexit: Premier Burnham wirft Russland Einmischung vor",
         "text": "Zehn Jahre nach dem Brexit-Votum erhebt Großbritanniens Premier einen brisanten Vorwurf gegen die russische Regierung. Er warnte vor russischer Einflussnahme auch in Deutschland und Frankreich.",
         "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-brexit-burnham-wirft-russland-einmischung-vor-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "EU-Außenminister beschließen größte Sanktionsrunde gegen Russland",
-        "text": "Es geht um mehr als 1.600 Personen und Organisationen: Die EU-Außenminister haben neue Sanktionen wegen des russischen Angriffskrieges in der Ukraine beschlossen. Deutliche Kritik gibt es am Vorgehen der USA. Von Tina Hassel.",
-        "link": "https://www.tagesschau.de/ausland/europa/eu-aussenministertreffen-120.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "US-Senatoren kritisieren Trumps Diesel-Pläne als rechtswidrig",
-        "text": "Der von Präsident Trump angekündigte Import von russischem Diesel in die USA hat weltweit für harsche Kritik gesorgt. Auch im US-Kongress regt sich zunehmend Widerstand - nicht nur auf Seiten der Demokraten.",
-        "link": "https://www.tagesschau.de/ausland/amerika/kritik-diesellieferung-russland-trump-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Nordkorea feuert offenbar erneut ballistische Raketen ab",
-        "text": "Die Spannungen auf der koreanischen Halbinsel haben in jüngster Zeit wieder zugenommen. Nun führte Nordkorea laut Angaben aus Südkorea und Japan erneut einen Raketentest durch. Die Geschosse landeten im Meer.",
-        "link": "https://www.tagesschau.de/ausland/asien/suedkorea-nordkorea-raketen-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Russland greift trotz angeblicher \"Energie-Waffenruhe\" weiter Anlagen an",
-        "text": "Russland hat erneut Energieanlagen angegriffen. Die Attacken erfolgten nach der Verkündung einer \"Energie-Waffenruhe\" zwischen Kiew und Moskau durch US-Präsident Trump - die bislang von beiden Seiten nicht bestätigt wurde.",
-        "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-102.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Trump meldet \"Energie-Waffenruhe\" zwischen Russland und Ukraine",
-        "text": "Laut US-Präsident Trump gibt es eine \"Energie-Waffenruhe\" zwischen Russland und der Ukraine. Sie trete mit sofortiger Wirkung in Kraft, erklärte er auf seiner Plattform Truth Social. Eine Bestätigung aus Kiew oder Moskau liegt bislang nicht vor.",
-        "link": "https://www.tagesschau.de/ausland/amerika/trump-russland-ukraine-energie-waffenrufe-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Press remarks by Executive Vice-President Fitto on the opening of the European Week of Regions and Cities",
-        "text": "European Commission Speech Brussels, 12 Oct 2026 Ladies and gentlemen,\nGood morning, and welcome.\nI am very pleased to open the European Week of Regions and Cities 2026.\nFirst of all, I would like to thank Pre...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2139"
+        "title": "Speech by Commissioner Hoekstra at the Annual meeting of the Heads of the Contact Committee of the Supreme Audit Institutions of the European Union",
+        "text": "European Commission Speech Paris, 13 Oct 2026 Ladies and Gentlemen,\nThank you for welcoming me during a complicated time.\nLet me also thank you for your efforts, Amélie, and the efforts of many in the room ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2151"
       },
       {
         "source": "EU-Kommission",
-        "title": "Tägliche Nachrichten 12 / 10 / 2026",
-        "text": "European Commission Nachrichten des Tages Brussels, 12 Oct 2026 Kommission begrüßt Annahme des mit 115 Mio. EUR ausgestatteten Programms „AGILE“ für schnelle Innovationen im VerteidigungsbereichDie Europäische Kommission beg...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2138"
+        "title": "Tägliche Nachrichten 13 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 13 Oct 2026 Europäisches Zentrum für demokratische Resilienz erweitert Zusammenarbeit auf ErweiterungspartnerHeute unternimmt das Europäische Zentrum für demokratische Resi...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2149"
       },
       {
         "source": "EU-Kommission",
-        "title": "EU-Woche der Regionen und Städte: 5000 Teilnehmer diskutieren über die künftige Kohäsionspolitik",
-        "text": "European Commission Pressemitteilung Brussels, 12 Oct 2026 Heute beginnt in Brüssel die 24. Europäische Woche der Regionen und Städte, an der fast 5.000 Teilnehmer aus ganz Europa unter dem Motto \"Starke Regionen, starkes Europa\" teilnehmen.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2133"
+        "title": "Laut dem Jahresbericht der Kommission ist die Arbeitsplatzqualität eine Priorität in der EU.",
+        "text": "European Commission Pressemitteilung Brussels, 13 Oct 2026 Laut dem heute veröffentlichten Europäischen Ausblick für Beschäftigung und Soziales 2026 hat sich die Qualität der Arbeitsplätze in der EU in den letzten zehn Jahren verbessert.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2147"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission begrüßt Annahme des mit 115 Mio. EUR ausgestatteten Programms „AGILE“ für schnelle Innovationen im Verteidigungsbereich",
-        "text": "European Commission Pressemitteilung Brussels, 12 Oct 2026 Die Europäische Kommission begrüßt die Annahme der Verordnung zur Einrichtung eines Programms für agile und schnelle Innovationen im Verteidigungsbereich (AGILE), mit der disruptive Verteidigungstechnologien in Rekordgesc",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2132"
+        "title": "Keynote speech by Commissioner Síkela at the High-level EU-Malaysia Business Forum",
+        "text": "European Commission Speech Bangkok, 13 Oct 2026 Honourable Minister Johari Ghani,\nDear EU ambassadors and representatives,\nDistinguished guests, ladies and gentlemen, good morning.\nLet me start with a questio...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2130"
       },
       {
         "source": "EU-Kommission",
-        "title": "Read-out by President von der Leyen following her call with President Zelenskyy",
-        "text": "European Commission Read-out Brussels, 11 Oct 2026 Good call with President Zelenskyy.\nFully supported the call of President Zelenskyy for a ceasefire that would protect global food supplies and energy infrastru...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/read_26_2131"
+        "title": "Press remarks by Commissioner Hoekstra following the Environment (ENVI) Council",
+        "text": "European Commission Speech Luxembourg, 12 Oct 2026 Ladies and gentlemen,\nFirst of all, let me thank the two ministers and the Irish Presidency for the work today.\nThis was a testament to our commitment on climat...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2145"
       },
       {
         "source": "EU-Kommission",
-        "title": "Press Remarks by Commissioner Lahbib at the Foreign Affairs Council on Development",
-        "text": "European Commission Speech Dublin, 09 Oct 2026 Yesterday evening we discussed the future of development, along with the important link between humanitarian aid and development, together with key stakeholders...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2129"
+        "title": "Speech by Executive Vice-President Teresa Ribera at an event organised by BusinessEurope on Important Projects of Common European Interest",
+        "text": "European Commission Speech Brussels, 12 Oct 2026 Many thanks and many thanks to BusinessEurope for bringing us together.\nToday's discussion goes to the heart of a choice Europe must make: how much of our indus...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2144"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX behauptet sich in der Gewinnzone",
-        "text": "Der DAX behauptet am Mittag seine Gewinne und bleibt über der Marke von 25.000 Punkten. Die Anleger hoffen insbesondere auf eine Beruhigung beim Ölpreis nach Aussagen von US-Präsident Donald Trump.",
+        "title": "IWF hebt Prognose für deutsche Wirtschaft deutlich an",
+        "text": "Fast doppelt so stark wie bislang erwartet: Der Internationale Währungsfonds hebt die Wirtschaftsprognose für Deutschland auf 1,3 Prozent an. Für die Weltwirtschaft gibt es eine kleine Änderung.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-prognose-deutschland-104.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX trotzt den hohen Ölpreisen",
+        "text": "Der deutsche Aktienmarkt konnte heute an seine Gewinne vom Freitag anknüpfen - und das trotz steigender Ölpreise. Gestützt wurden die Kurse von politischen Faktoren.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-114.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Nobelpreis für Wirtschaftswissenschaften für US-Ökonomen Hall und Woodford",
-        "text": "Die US-Amerikaner Hall und Woodford werden mit dem Wirtschaftspreis in Gedenken an Alfred Nobel ausgezeichnet. Sie werden für ihre Arbeit zur Stabilisierung der Wirtschaft geehrt, erklärte die Königlich-Schwedische Akademie der Wissenschaften.",
-        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Landwirtschaftsminister protestieren bei Merz gegen Zuckersteuer",
-        "text": "Im Streit über die Zuckersteuer wächst der Widerstand innerhalb der Union. Neun Landesminister haben sich in einem Brief an Kanzler Merz gegen die Abgabe ausgesprochen - und warnen vor den Folgen der geplanten Abgabe.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-cdu-landesminister-protestbrief-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Gesichtersuchmaschine PimEyes: Ein Verbot, das niemand durchsetzt",
+      "text": "Darf sich ein Unternehmen die biometrischen Daten eines Gesichtes einfach nehmen und in einer Datenbank speichern?    –   CC-BY 4.0: ComuziSeit mehr als einem Jahr verbietet die EU bestimmte Formen biometrischer Gesichtsdatenbanken. Doch die Suchmaschine PimEyes macht einfach wei",
+      "link": "https://netzpolitik.org/2026/gesichtersuchmaschine-pimeyes-ein-verbot-das-niemand-durchsetzt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Anhörung zur Geheimdienstreform: „Ich habe noch nie eine Vorschrift gesehen, die so offensichtlich verfassungswidrig ist“",
+      "text": "Auch der BND soll mehr Befugnisse bekommen.    –   Alle Rechte vorbehalten: Joko / ImagoDie geplante Reform der Nachrichtendienste ist verfassungswidrig, so die deutliche Kritik von Fachleuten im Bundestag. Sie befördere die Massenüberwachung, hebe die Trennung zwischen Polizei u",
+      "link": "https://netzpolitik.org/2026/anhoerung-zur-geheimdienstreform-ich-habe-noch-nie-eine-vorschrift-gesehen-die-so-offensichtlich-verfassungswidrig-ist/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Werbeindustrie liest mit: KI-Chatbots schicken Inhalte aus Gesprächen an Tracking-Firmen",
+      "text": "Wer erfährt, worüber ich mit meiner KI spreche? (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Solen FeyissaSechs von neun untersuchten KI-Chatbots übermitteln laut einer Studie Gesprächsinformationen an Tracking- und Werbedienste. Betroffen sind auch beka",
+      "link": "https://netzpolitik.org/2026/werbeindustrie-liest-mit-ki-chatbots-schicken-inhalte-aus-gespraechen-an-tracking-firmen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Angriffe auf Yandex: Aus brennenden Rechenzentren in Russland wird kein Bot-Ausfall bei der AfD",
+      "text": "Im einem Rechenzentrum von Yandex in Russland. (Archivbild von 2012)    –   Alle Rechte vorbehalten: Imago / Itar-TassIn sozialen Netzwerken und Medien kursiert das Gerücht, dass die ukrainischen Angriffe auf russische Rechenzentren die Aktivität rechter Social Bots minimiert hät",
+      "link": "https://netzpolitik.org/2026/angriffe-auf-yandex-aus-brennenden-rechenzentren-in-russland-wird-kein-bot-ausfall-bei-der-afd/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Sensible Grindr-Daten: Microsoft-Tochter muss Rekordstrafe zahlen",
@@ -262,30 +276,6 @@
       "title": "Scam: Das Geschäft mit den betrügerischen Blutzuckeruhren",
       "text": "Eine vom vzbv untersuchte Blutzuckeruhr gab an einer Banane die gleichen Ergebnisse aus wie am Handgelenk.    –   Alle Rechte vorbehalten: Verbraucherzentrale BundesverbandEine Smartwatch, die falsche Blutzuckerwerte anzeigt, kann lebensgefährlich sein. Dennoch finden sich solche",
       "link": "https://netzpolitik.org/2026/scam-das-geschaeft-mit-den-betruegerischen-blutzuckeruhren/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Degitalisierung: Allmacht und Ohnmacht",
-      "text": "Oft folgt dem Zustand vermeintlicher Allmacht allzu schnell eine Ohnmacht.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Felix MittermeierAgenten einfach so zu vertrauen, ihnen Allmacht zu geben, ist nie eine gute Idee. Denn am Ende eskaliert entweder ein Computersyst",
-      "link": "https://netzpolitik.org/2026/degitalisierung-allmacht-und-ohnmacht/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "KW 41: Die Woche, in der es um Spionage und Landesverrat ging.",
-      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 41. Kalenderwoche geht zu Ende. Wir haben 15 neue Texte mit insgesamt 137.103 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
-      "link": "https://netzpolitik.org/2026/kw-41-die-woche-in-der-es-um-spionage-und-landesverrat-ging/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "\"Gefährlicher Kontrollzirkus\": So breit ist die Kritik an Alterskontrollen im EU Kids Act",
-      "text": "Der EU Kids Act bereitet Kritiker*innen Kopfzerbrechen (Symbolbild).    –   Alle Rechte vorbehalten: IMAGO/Westend61Im Namen des Jugendschutzes plant die EU-Kommission flächendeckende Alterskontrollen im Netz. Zahlreiche Organisationen warnen eindringlich vor den Gefahren: Vom Ki",
-      "link": "https://netzpolitik.org/2026/gefaehrlicher-kontrollzirkus-so-breit-ist-die-kritik-an-alterskontrollen-im-eu-kids-act/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Bundesrechnungshof: Digitalminister macht IT-Sicherheit per Vogelstimmen-App",
-      "text": "Geld für IT-Sicherheitsmaßnahmen gab die Bundesregierung unter anderem für eine Vogelstimmen-App aus. (Symbolbild)    –   CC-BY-SA 4.0: Wikimedia Commons / Kookaburra 81Angriffe auf die IT der öffentlichen Verwaltung häufen sich. Doch statt gezielt in Maßnahmen zu investieren, di",
-      "link": "https://netzpolitik.org/2026/bundesrechnungshof-digitalminister-macht-it-sicherheit-per-vogelstimmen-app/"
     }
   ]
 }
