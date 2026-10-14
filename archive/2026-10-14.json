@@ -1,0 +1,280 @@
+{
+  "updated": "2026-10-14T10:00+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25406.3,
+      "unit": "Pkt.",
+      "change_pct": 0.58,
+      "history": [
+        25449.2,
+        25104.4,
+        24807.0,
+        25087.3,
+        25277.7,
+        25259.9,
+        25406.3
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 30569.5,
+      "unit": "Pkt.",
+      "change_pct": -0.31,
+      "history": [
+        31076.4,
+        31224.5,
+        31160.1,
+        30725.8,
+        30883.2,
+        30664.7,
+        30569.5
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7805.5,
+      "unit": "Pkt.",
+      "change_pct": -0.02,
+      "history": [
+        7774.0,
+        7818.9,
+        7801.8,
+        7765.4,
+        7811.5,
+        7807.2,
+        7805.5
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 105.8,
+      "unit": "$",
+      "change_pct": 0.09,
+      "history": [
+        100.6,
+        100.2,
+        104.3,
+        104.7,
+        106.7,
+        105.7,
+        105.8
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4165.7,
+      "unit": "$",
+      "change_pct": -0.28,
+      "history": [
+        4187.1,
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4165.7
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1197,
+      "unit": "",
+      "change_pct": 0.33,
+      "history": [
+        1.1217,
+        1.1254,
+        1.1201,
+        1.1213,
+        1.1205,
+        1.116,
+        1.1197
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
+    "text": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
+    "link": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Razzia bei US-Demokratin Omar: Politiker mit Migrationsgeschichte als Feindbild",
+        "text": "Kurz vor den Midterms verstärkt US-Präsident Trump seine Attacken auf die Demokraten. Im Fokus stehen dabei Politiker mit Migrationshintergrund. Die Razzia bei der Abgeordneten Omar sorgt für Diskussionen. Von Jan Oppel.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-ilhan-omar-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Sorge vor Reform - Was pflegende Angehörige heute schon leisten",
+        "text": "Die Regierung hat heute eine Pflegekommission eingesetzt, die Vorschläge für eine Reform machen soll. Pflegende Angehörige verfolgen die Debatte mit großem Interesse. Ein Ehepaar gewährt einen Einblick in seinen Alltag. Von H. Diekert und M. Eiden.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/pflegende-angehoerige-pflegereform-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "\"We are Jane Doe\" - Protestdemo an US-Eliteuni",
+        "text": "Der Fall einer mutmaßlichen Gruppenvergewaltigung an der Eliteuniversität Cornell sorgt in den USA weiter für Empörung. Rund 1.000 Studierende versammelten sich zu einer Protestdemo. Die Uni kündigte neue Maßnahmen an. Von M. Ganslmeier.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-protestdemo-elite-uni-cornell-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Polizei durchsucht regierungskritischen Fernsehsender in der Türkei",
+        "text": "Die türkische Polizei hat einen der wenigen regierungskritischen Fernsehsender durchsucht und die laufende Sendung von Halk TV gestoppt. Die Opposition kritisierte das Vorgehen scharf. Erst kürzlich war eine Nachrichtenwebsite gesperrt worden.",
+        "link": "https://www.tagesschau.de/ausland/asien/tuerkei-sender-halk-tv-zwangsverwaltung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Was über die Krebs-Erkrankung von Papst Leo XIV. bekannt ist",
+        "text": "Am Dienstag hatte Papst Leo XIV. sich operieren lassen. Nun steht fest: Das Oberhaupt der Katholischen Kirche hat Lungenkrebs. Wie läuft die Behandlung dieser Erkrankung ab? Und wie gefährlich ist sie? Ein Überblick.",
+        "link": "https://www.tagesschau.de/ausland/europa/papst-leo-xiv-krebserkrankung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Grünen-Chefin Brantner befürwortet Stopp der Sondierungen in Berlin",
+        "text": "Die unterbrochenen rot-grün-roten Sondierungsgespräche in Berlin sorgen für Diskussionen über das Rote Rathaus hinaus: Grünen-Chefin Brantner befürwortet den Stopp. Hintergrund ist eine gemeinsame Erklärung zum Umgang mit Antisemitismus.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/sondierungsgespraeche-berlin-spd-linke-gruene-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
+        "text": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können.",
+        "link": "https://www.tagesschau.de/ausland/benko-fussfessel-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Rüstungsindustrie: Engere deutsch-türkische Zusammenarbeit?",
+        "text": "Die Zusammenarbeit bei Waffen- und Rüstungsgütern zwischen Deutschland und der Türkei ist eher gering. In Ankara versuchen Unternehmer nun auf der 4. Deutsch-Türkischen Wirtschaftskonferenz, diese zu vertiefen. Von C. Buttkereit.",
+        "link": "https://www.tagesschau.de/ausland/asien/deutsch-tuerkische-wirtschaftskonferenz-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Mutmaßlicher Sabotageakt in Polen: Wadephul fordert engere Zusammenarbeit",
+        "text": "Ein mutmaßlicher Sabotageakt in Polen, die Verdächtigen leben in Deutschland: Außenminister Wadephul fordert eine noch engere europäische Zusammenarbeit. Zur Attacke gegen eine Starlink-Station wurden Details bekannt.",
+        "link": "https://www.tagesschau.de/inland/wadephul-polen-starlink-brand-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Opening remarks by Executive Vice-President Teresa Ribera on the Commission decision to accept commitments by Sanofi",
+        "text": "European Commission Speech Brussels, 14 Oct 2026 Good morning, everybody.\nI'm happy to see you here to discuss a topic that speaks very much to people, to every citizen in Europe.\nYou know that we work hard to...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2161"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Eurobarometer-Umfrage zeigt zunehmende Nutzung von KI in europäischen Unternehmen",
+        "text": "European Commission Pressemitteilung Brussels, 14 Oct 2026 Europäische Unternehmen setzen zunehmend auf künstliche Intelligenz (KI). Das zeigen die Ergebnisse der jüngsten Eurobarometer-Umfrage, die heute veröffentlicht wurde.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2160"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 14 / 10 / 2026",
+        "text": "European Commission Daily news Brussels, 14 Oct 2026 Commission disburses close to €1 billion in RRF payments to Sweden and the Netherlands \nToday, the European Commission disbursed nearly €1 billion to Sweden and...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2159"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission accepts commitments by Sanofi to address possible anticompetitive disparagement of competing flu vaccine for vulnerable patients",
+        "text": "European Commission Press release Brussels, 14 Oct 2026 The European Commission has made commitments offered by Sanofi legally binding under EU antitrust rules. The commitments relate to the Commission's preliminary competition concerns relating to Sanofi's alleged disparagement ",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2154"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission zahlt 2,86 Mrd. EUR für Drohnen, Flugkörper und dringenden Bedarf auf dem Schlachtfeld an die Ukraine aus",
+        "text": "European Commission Pressemitteilung Brussels, 14 Oct 2026 Die Europäische Kommission hat heute im Rahmen der Verteidigungskomponente des Unterstützungsdarlehens für die Ukraine in Höhe von 90 Mrd. EUR 2,86 Mrd. EUR an die Ukraine ausgezahlt. Die Mittel werden für Drohnen, Luftab",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2153"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Executive Vice-President Virkkunen at the International AI Summit in Dublin",
+        "text": "European Commission Speech Dublin, 14 Oct 2026 Prime Minister Martin,\nMinister Smyth, Minister Burke, thank you for inviting me.\nI would like to begin with a remarkable story from Ireland's past.\nIn 1858, on...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2150"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX startet höher",
+        "text": "Der DAX ist mit leichten Aufschlägen in den Tag gestartet. Die Hoffnungen liegen weiter auf der anlaufenden Berichtssaison. Wichtige Inflationsdaten werden am Nachmittag erwartet.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+        "text": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von Angela Göpfert.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wirtschaft im Jemen: Waffen statt Honig und Fisch",
+        "text": "Der Krieg im Jemen bedroht nicht nur eine der wichtigsten Handelsrouten der Welt, sondern auch die lokale Wirtschaft. Viele Existenzen sind bedroht, die mögliche Teilung des Landes in Nord und Süd wird diskutiert. Von Ramin Sina.",
+        "link": "https://www.tagesschau.de/ausland/asien/jemen-krieg-alltag-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX driftet ins Minus",
+        "text": "Am Ende konnte der DAX sein Plus nicht mehr halten. Neue Sorgen im Chipsektor und ein enttäuschender Start in die Berichtssaison lasteten auf den Kursen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-116.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Beschlagnahme bei der ZEIT: Recherchematerial hat in Ermittlungen nichts zu suchen",
+      "text": "Bei der Durchsuchung von Redaktionen müssen alle Ampeln auf Rot springen. (Symbolbild)     –   Alle Rechte vorbehalten: IMAGO / Jürgen RitterDass die Hamburger Polizei allen Ernstes Redaktionsräume der Zeit durchsuchen wollte, ist ein Frontalangriff auf die Pressefreiheit. Journa",
+      "link": "https://netzpolitik.org/2026/beschlagnahme-bei-der-zeit-recherchematerial-hat-in-ermittlungen-nichts-zu-suchen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Gesichtersuchmaschine PimEyes: Ein Verbot, das niemand durchsetzt",
+      "text": "Darf sich ein Unternehmen die biometrischen Daten eines Gesichtes einfach nehmen und in einer Datenbank speichern?    –   CC-BY 4.0: ComuziSeit mehr als einem Jahr verbietet die EU bestimmte Formen biometrischer Gesichtsdatenbanken. Doch die Suchmaschine PimEyes macht einfach wei",
+      "link": "https://netzpolitik.org/2026/gesichtersuchmaschine-pimeyes-ein-verbot-das-niemand-durchsetzt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Anhörung zur Geheimdienstreform: „Ich habe noch nie eine Vorschrift gesehen, die so offensichtlich verfassungswidrig ist“",
+      "text": "Auch der BND soll mehr Befugnisse bekommen.    –   Alle Rechte vorbehalten: Joko / ImagoDie geplante Reform der Nachrichtendienste ist verfassungswidrig, so die deutliche Kritik von Fachleuten im Bundestag. Sie befördere die Massenüberwachung, hebe die Trennung zwischen Polizei u",
+      "link": "https://netzpolitik.org/2026/anhoerung-zur-geheimdienstreform-ich-habe-noch-nie-eine-vorschrift-gesehen-die-so-offensichtlich-verfassungswidrig-ist/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Werbeindustrie liest mit: KI-Chatbots schicken Inhalte aus Gesprächen an Tracking-Firmen",
+      "text": "Wer erfährt, worüber ich mit meiner KI spreche? (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Solen FeyissaSechs von neun untersuchten KI-Chatbots übermitteln laut einer Studie Gesprächsinformationen an Tracking- und Werbedienste. Betroffen sind auch beka",
+      "link": "https://netzpolitik.org/2026/werbeindustrie-liest-mit-ki-chatbots-schicken-inhalte-aus-gespraechen-an-tracking-firmen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Angriffe auf Yandex: Aus brennenden Rechenzentren in Russland wird kein Bot-Ausfall bei der AfD",
+      "text": "Im einem Rechenzentrum von Yandex in Russland. (Archivbild von 2012)    –   Alle Rechte vorbehalten: Imago / Itar-TassIn sozialen Netzwerken und Medien kursiert das Gerücht, dass die ukrainischen Angriffe auf russische Rechenzentren die Aktivität rechter Social Bots minimiert hät",
+      "link": "https://netzpolitik.org/2026/angriffe-auf-yandex-aus-brennenden-rechenzentren-in-russland-wird-kein-bot-ausfall-bei-der-afd/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Sensible Grindr-Daten: Microsoft-Tochter muss Rekordstrafe zahlen",
+      "text": "Werbe-Daten von Grindr-Nutzer:innen können Auskunft über ihre sexuelle Orientierung geben    –   Alle Rechte vorbehalten: IMAGO / Rüdiger WölkDie Werbe-Tech-Firma Xandr hatte sensible Daten von Grindr-Nutzer:innen an zahlreiche andere Werbefirmen verteilt. Dafür soll sie nun das ",
+      "link": "https://netzpolitik.org/2026/sensible-grindr-daten-microsoft-tochter-muss-rekordstrafe-zahlen/"
+    }
+  ]
+}
