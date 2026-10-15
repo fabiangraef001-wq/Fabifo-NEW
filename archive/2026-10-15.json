@@ -1,0 +1,292 @@
+{
+  "updated": "2026-10-15T09:42+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25237.5,
+      "unit": "Pkt.",
+      "change_pct": -0.24,
+      "history": [
+        25104.4,
+        24807.0,
+        25087.3,
+        25277.7,
+        25259.9,
+        25298.6,
+        25237.5
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 29950.8,
+      "unit": "Pkt.",
+      "change_pct": -2.02,
+      "history": [
+        31224.5,
+        31160.1,
+        30725.8,
+        30883.2,
+        30664.7,
+        30569.5,
+        29950.8
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7718.9,
+      "unit": "Pkt.",
+      "change_pct": -1.11,
+      "history": [
+        7818.9,
+        7801.8,
+        7765.4,
+        7811.5,
+        7807.2,
+        7805.5,
+        7718.9
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 104.1,
+      "unit": "$",
+      "change_pct": -1.89,
+      "history": [
+        100.2,
+        104.3,
+        104.7,
+        106.7,
+        105.7,
+        106.1,
+        104.1
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4180.7,
+      "unit": "$",
+      "change_pct": 1.77,
+      "history": [
+        4140.7,
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4180.7
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.123,
+      "unit": "",
+      "change_pct": 0.23,
+      "history": [
+        1.1254,
+        1.1201,
+        1.1213,
+        1.1205,
+        1.116,
+        1.1204,
+        1.123
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
+    "text": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mindestens zwei Menschen gestorben. Die Behörden sind im Großeinsatz - und auch heute ist weiterer Regen angekündigt.",
+    "link": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Türkei: Tote nach Starkregen und Überschwemmungen in Istanbul",
+        "text": "Straßen stehen unter Wasser, Fahrzeuge bleiben stecken: Bei heftigen Regenfällen sind in Istanbul mindestens zwei Menschen gestorben. Die Behörden sind im Großeinsatz - und auch heute ist weiterer Regen angekündigt.",
+        "link": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Reform der Notfallversorgung beschlossen - was sich für Patienten ändert",
+        "text": "Wer wirklich dringend medizinische Hilfe braucht, soll schneller drankommen. Leichtere Fälle sollen gar nicht erst in der Notaufnahme landen - der Bundestag hat die Reform der Notfallmedizin beschlossen. Was ändert sich konkret?",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
+        "text": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/alkoholverbot-bahnhoefe-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Notfallmedizin unter Druck: Bundestag stimmt über Reform ab",
+        "text": "Notaufnahmen und Rettungsdienste sind seit Jahren überlastet. Nun will der Bundestag endlich eine Reform auf den Weg bringen. Große Hilfs- und Rettungsorganisationen verlangen allerdings Nachbesserungen. Von B. Sönnichsen.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Deutschlandweit: Alkoholverbot an Bahnhöfen in Kraft",
+        "text": "Bundesweit gilt an allen rund 5.700 Stationen der Deutschen Bahn inklusive der Bahnsteige ab heute ein Alkoholverbot. Die Bahn erhofft sich davon mehr Sicherheit.",
+        "link": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Erklärung zu Antisemitismus - Sondierungen in Berlin gehen weiter",
+        "text": "Nachdem SPD und Grüne die Sondierungen mit der Linkspartei unterbrochen hatten, geht es nun weiter. Alle Parteien verständigten sich, ihre Antisemitismus-Vereinbarung in einen möglichen Koalitionsvertrag aufzunehmen.",
+        "link": "https://www.tagesschau.de/inland/regional/berlin/fortsetzung-sondierungen-berlin-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Sorge vor Spionage: Slowakei erneuert Militärkontakte mit Russland",
+        "text": "Unter Premierminister Fico gilt die Slowakei schon länger als Putins Einfallstor in die EU. Umso bedenklicher ist, dass sein Land nun auch im Stillen die Militärkontakte mit Russland wieder aufgenommen hat. Von Marianne Allweiss.",
+        "link": "https://www.tagesschau.de/ausland/europa/slowakei-fico-russland-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Krieg gegen die Ukraine: Sorge vor dem Winter, Hoffen auf EU-Hilfe",
+        "text": "Russlands Angriffe auf Energieanlagen bringen die Menschen in der Ukraine in Not. Ohne Strom und Wasser wächst die Sorge vor dem Winter. Präsident Selenskyj ringt um mehr Unterstützung aus Europa. Von Rebecca Barth.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-288.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "11KM-Podcast: EU-Comeback für Großbritannien?",
+        "text": "Andy Burnham überrascht mit kritischen Äußerungen zum Brexit. Kommt Großbritannien zurück in die EU? 11KM über den \"Soft Socialist\" Burnham und wie der neue Premier die britische Politik prägt.",
+        "link": "https://www.tagesschau.de/ausland/europa/podcast-11km-burnham-eu-comeback-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
+        "text": "Auf dem heutigen EU-Gipfel geht es um bis zu zwei Billionen Euro. Deutschland ist größter Nettozahler - nun will Kanzler Merz beim Haushalt bis 2034 kürzen. Bei anderen Verhandlern stößt das auf Unverständnis. Von J.-M. Magro.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gesetzliche Krankenversicherung: Zusatzbeitrag kann 2027 stabil bleiben",
+        "text": "Gute Nachrichten für gesetzlich Versicherte: Der GKV-Schätzerkreis hat über den Zusatzbeitrag für das kommende Jahr beraten - mit dem Ergebnis, dass dieser stabil bleiben kann. Der Gesundheitsminister wertet die Entwicklung positiv.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine kritisiert fehlende US-Unterstützung - NATO und EU widersprechen",
+        "text": "Die Ukraine ist beim Abwehrkampf gegen Russland auf Geheimdienstinformationen der USA angewiesen - doch die sollen vor neuen russischen Angriffen ausgeblieben sein. Präsident Selenskyj übt Kritik. EU und NATO beschwichtigen.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-selenskyj-fehlende-warnung-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Lahbib at the International Conference on the Protection of Aid Workers",
+        "text": "European Commission Speech Brussels, 15 Oct 2026 I have spent much of my life travelling from one crisis to the next, first as a journalist, later as Foreign Minister, and now as Commissioner for humanitarian ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2171"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Stetige Fortschritte bei der Roadmap „Ein Europa, ein Markt“",
+        "text": "European Commission  Brussels, 15 Oct 2026 Bei ihrer zweiten Überprüfung der gemeinsamen Erklärung und des Fahrplans zur Förderung des Wirtschaftswachstums bekräftigten die EU-Organe ihr Engagement für eine fristgerechte Umsetzung.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/jp_26_2169"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Main messages from the Tripartite Social Summit",
+        "text": "European Commission Press release Brussels, 15 Oct 2026 EU leaders and social partners met in Brussels for the Tripartite Social Summit, a twice-yearly forum for dialogue that brings together the leaders of the EU institutions and the European social partners.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2165"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commissioner Roswall's speech at the Inaugural Convening of the Women Public Sector Climate Leaders Network",
+        "text": "European Commission Speech Brussels, 14 Oct 2026 Good morning,\n \nI am delighted to be part of today's inaugural event. \n \nAnd I'm delighted to be sharing a room with such inspirational and impressive leaders. ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2168"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission vergibt im Rahmen der REGIOSTARS-Zeremonie sechs Projekte, die einen dauerhaften Beitrag zum Zusammenhalt Europas leisten",
+        "text": "European Commission Pressemitteilung Brussels, 15 Oct 2026 Sechs herausragende EU-finanzierte Projekte und die Menschen dahinter wurden gestern Abend in Brüssel bei den REGIOSTARS Awards 2026 im Rahmen der 24. Europäischen Woche der Regionen und Städte geehrt.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2167"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommissionsmitglieder Kubilius und Lahbib stärken globales Katastrophenrisikomanagement durch Weltraumtechnologien",
+        "text": "European Commission Pressemitteilung Brussels, 15 Oct 2026 Anlässlich des Internationalen Tages für Katastrophenrisikomanagement beruft die Europäische Kommission den allerersten überregionalen Dialog mit dem Titel „Vom Weltraum zur Basis: Stärkung der Widerstandsfähigkeit der Ge",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2164"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Ausverkauf bei Technologiewerten belastet Börsen",
+        "text": "Der DAX startet schwach in den Handel. Die hohe US-Inflation schürt die Sorge vor weiteren Zinserhöhungen und setzt Chipwerte weltweit unter Druck. An den Börsen setzt sich der Ausverkauf fort.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX bleibt im Seitwärtstrend",
+        "text": "DAX-Anleger haben sich heute zurückgehalten, der Index pendelt weiter um die Marke von 25.000 Punkten. Auch neue US-Inflationsdaten ändern daran nichts. Bestimmend bleibt der Stillstand in Nahost.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-berichtssaison-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
+        "text": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von Angela Göpfert.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Länderübergreifende Recherche: Palantirs Geschäfte in Europa",
+      "text": "Palantir steht in Europa unter Druck.    –   Alle Rechte vorbehalten: Rosa Snijders / Follow The MoneySoftware von Palantir findet sich bei europäischen Streitkräften, bei Polizeien und im Gesundheitssystem. Aber viele Länder suchen nach Alternativen, sie sorgen sich um Abhängigk",
+      "link": "https://netzpolitik.org/2026/laenderuebergreifende-recherche-palantirs-geschaefte-in-europa/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Europäischer Datenschutzausschuss: Smartbrillen sind „hohes Risiko für Grundrechte und Freiheiten“",
+      "text": "Überwachungsbrillen wie die von Meta sehen mittlerweile recht normal aus, aber haben eine hochauflösende Kamera und gute Mikrofone verbaut.     –   Alle Rechte vorbehalten: IMAGO / MiSEuropäische Datenschutzbehörden haben erste Leitlinien zu den neuen Überwachungsbrillen veröffen",
+      "link": "https://netzpolitik.org/2026/europaeischer-datenschutzausschuss-smartbrillen-sind-hohes-risiko-fuer-grundrechte-und-freiheiten/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Urteil zu Betrugswerbung: „Es ist nicht mehr diese plumpe Masche von früher“",
+      "text": "Betrüger:innen schalteten auf den Social-Media-Plattformen Instagram und Facebook Scam-Werbung    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: dole777Im Rechtsstreit zwischen Finanzfluss und Meta hat das Landgericht Frankfurt geurteilt: Der Social-Media-Konzern steht in",
+      "link": "https://netzpolitik.org/2026/urteil-zu-betrugswerbung-es-ist-nicht-mehr-diese-plumpe-masche-von-frueher/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Beschlagnahme bei der ZEIT: Recherchematerial hat in Ermittlungen nichts zu suchen",
+      "text": "Bei der Durchsuchung von Redaktionen müssen alle Ampeln auf Rot springen. (Symbolbild)     –   Alle Rechte vorbehalten: IMAGO / Jürgen RitterDass die Hamburger Polizei allen Ernstes Redaktionsräume der Zeit durchsuchen wollte, ist ein Frontalangriff auf die Pressefreiheit. Journa",
+      "link": "https://netzpolitik.org/2026/beschlagnahme-bei-der-zeit-recherchematerial-hat-in-ermittlungen-nichts-zu-suchen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Gesichtersuchmaschine PimEyes: Ein Verbot, das niemand durchsetzt",
+      "text": "Darf sich ein Unternehmen die biometrischen Daten eines Gesichtes einfach nehmen und in einer Datenbank speichern?    –   CC-BY 4.0: ComuziSeit mehr als einem Jahr verbietet die EU bestimmte Formen biometrischer Gesichtsdatenbanken. Doch die Suchmaschine PimEyes macht einfach wei",
+      "link": "https://netzpolitik.org/2026/gesichtersuchmaschine-pimeyes-ein-verbot-das-niemand-durchsetzt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Anhörung zur Geheimdienstreform: „Ich habe noch nie eine Vorschrift gesehen, die so offensichtlich verfassungswidrig ist“",
+      "text": "Auch der BND soll mehr Befugnisse bekommen.    –   Alle Rechte vorbehalten: Joko / ImagoDie geplante Reform der Nachrichtendienste ist verfassungswidrig, so die deutliche Kritik von Fachleuten im Bundestag. Sie befördere die Massenüberwachung, hebe die Trennung zwischen Polizei u",
+      "link": "https://netzpolitik.org/2026/anhoerung-zur-geheimdienstreform-ich-habe-noch-nie-eine-vorschrift-gesehen-die-so-offensichtlich-verfassungswidrig-ist/"
+    }
+  ]
+}
