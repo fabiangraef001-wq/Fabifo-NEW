@@ -1,0 +1,293 @@
+{
+  "updated": "2026-10-17T09:07+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25622.6,
+      "unit": "Pkt.",
+      "change_pct": 0.95,
+      "history": [
+        24807.0,
+        25087.3,
+        25277.7,
+        25259.9,
+        25298.6,
+        25382.6,
+        25622.6
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 29187.6,
+      "unit": "Pkt.",
+      "change_pct": -2.5,
+      "history": [
+        30725.8,
+        30883.2,
+        30664.7,
+        30569.5,
+        29950.8,
+        29935.6,
+        29187.6
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7659.4,
+      "unit": "Pkt.",
+      "change_pct": -1.09,
+      "history": [
+        7765.4,
+        7811.5,
+        7807.2,
+        7805.5,
+        7718.9,
+        7744.1,
+        7659.4
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 109.9,
+      "unit": "$",
+      "change_pct": 3.78,
+      "history": [
+        104.3,
+        104.7,
+        106.7,
+        105.7,
+        106.1,
+        105.9,
+        109.9
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4181.1,
+      "unit": "$",
+      "change_pct": 0.26,
+      "history": [
+        4157.0,
+        4216.3,
+        4190.6,
+        4177.3,
+        4107.9,
+        4170.1,
+        4181.1
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1244,
+      "unit": "",
+      "change_pct": 0.44,
+      "history": [
+        1.1201,
+        1.1213,
+        1.1205,
+        1.116,
+        1.1204,
+        1.1195,
+        1.1244
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "fed_rate"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+    "text": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
+    "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+        "text": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
+        "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
+        "text": "Bis Ende Dezember muss der UN-Sicherheitsrat eine Nachfolge für Generalsekretär Guterres bestimmen. Doch auch bei der sechsten Probeabstimmung fielen alle Kandidaten bei den Vetomächten durch. Von Martin Ganslmeier.",
+        "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
+        "text": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
+        "link": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie sich Bundespolitiker auf Social Media schlagen",
+        "text": "Nah an den Leuten oder unangemessen? Auf Social Media versuchen sich die Spitzenpolitiker mit ihrer eigenen Ansprache. Eine Analyse der Postings zeigt: Es gibt klare Gewinner und Verlierer. Von Fynn Dresler und Philine Elster.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
+        "text": "Bundesarbeitsminister Schweitzer setzt bei der Rentenreform auf Kompromissbereitschaft in der schwarz-roten Koalition. Insbesondere über die abschlagsfreie Rente nach 45 Beitragsjahren müssten noch \"politische Debatten stattfinden\".",
+        "link": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
+        "text": "Die Abholzung im brasilianischen Amazonas ist auf den niedrigsten Stand seit Beginn der Aufzeichnungen 1988 gesunken. Die Regierung wertet den Rückgang als Erfolg der Schutzbemühungen von Präsident Lula, der gerade im Wahlkampf ist.",
+        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+        "text": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen. Auch in den USA wird er dafür massiv kritisiert. Von Carsten Kühntopp.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+        "text": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
+        "text": "Am ersten Tag des Iran-Kriegs im Februar schlägt eine Rakete in einer Schule in Minab ein. 168 Menschen sterben, die meisten sind Kinder. Heute ist der Ort Gedenkstätte, aber auch Bühne für Regimepropaganda. Von Benjamin Weber.",
+        "link": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
+        "text": "Eigentlich erlebten die Grünen in Großbritannien einen großen Aufschwung in diesem Jahr. Nun sorgt die Partei mit einem Beschluss zu Zionismus und Israel für Kontroversen - selbst in den eigenen Reihen. Von Franziska Hoppen.",
+        "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
+        "text": "Große Teile des Gazastreifens sind zerstört, Tausende Tote liegen unter den Trümmern. Um sie zu bergen, fehlt es an schwerem Gerät, Treibstoff und Möglichkeiten zur Identifizierung. Angehörige warten - manche seit Jahren. Von B. Meier.",
+        "link": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
+        "text": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt schon wieder auf. Sie war wegen falscher Angaben zu ihrem Lebenslauf unter Druck geraten.",
+        "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Executive Vice-President Teresa Ribera at 17th Conference of the Parties to the United Nations Convention on Biological Diversity (COP17)",
+        "text": "European Commission Speech Yerevan, 16 Oct 2026 Dear Prime Minister, Pashinyan,\nDear Secretary-General of the United Nations, António Guterres,\nDear Heads of State and Government,\nDear colleagues and dear fri...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2191"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of October 2026",
+        "text": "European Commission Statement Brussels, 16 Oct 2026 We have had a long and dense European Council. Let me touch on some of the main topics, starting with European competitiveness and I will go straight into energy. Households and industry are paying the price for a war far beyond",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2190"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 16 / 10 / 2026",
+        "text": "European Commission Daily news Brussels, 16 Oct 2026 Commission sets out new strategy on combating trafficking in human beings \nToday, the European Commission sets out a new strategy to combat trafficking in human...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2189"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by Executive Vice-President Mînzatu ahead of the International Day for the Eradication of Poverty",
+        "text": "European Commission Statement Brussels, 16 Oct 2026 Poverty must not define anyone's future.\nToo many people across Europe are still unable to afford a home, heating, food, healthcare or education. Currently, one...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2188"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission awards 2026 New European Bauhaus prizes for sustainable, inclusive and beautiful projects",
+        "text": "European Commission Press release Brussels, 16 Oct 2026 The European Commission has awarded the New European Bauhaus (NEB) Prizes 2026 to 13 laureates from several EU countries, Ukraine and North Macedonia, as well as Japan and Brazil, which won the international competition of t",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2186"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by President von der Leyen with Presidents Zelenskyy and Costa ahead of the European Council meeting of 16 October",
+        "text": "European Commission Statement Brussels, 16 Oct 2026 Good morning. It is a very important moment again to have you here in the European Council. You have participated in countless European Councils, and this shows...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2181"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
+        "text": "Die Stimmung an den Aktienmärkten hat sich zum Ende der Handelswoche spürbar aufgehellt. Ausschlaggebend war eine Rede von US-Notenbankchef Warsh. Dazu kamen Rückenwind aus der Autoindustrie und starke Firmenbilanzen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wirtschaftsministerin Reiche für Direktzahlungen nach \"Tankrabatt\"",
+        "text": "Der \"Tankrabatt\" soll Autofahrer entlasten - aber was kommt danach? Wirtschaftsministerin Reiche spricht sich im ARD Interview der Woche für eine gezieltere Entlastung von Geringverdienern aus - und erhöht den Druck auf das Finanzministerium.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/katherina-reiche-tankrabatt-entlastungen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
+        "text": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag zulegen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 42: Die Woche, in der Europa Palantir auf die Finger schaut",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 42. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 146.530 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-42-die-woche-in-der-europa-palantir-auf-die-finger-schaut/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Interview mit Simon Strick: „Faschisierung ist ein medialer Prozess“",
+      "text": "Demonstration vor dem Deutschen Bundestag im Juli 2025.     –   Alle Rechte vorbehalten: IMAGO / Metodi PopowWir alle sind im Internet unterwegs, wir klicken, liken und kommentieren – und befördern oftmals eine Dynamik der Eskalation, schreibt der Kulturwissenschaftler Simon Stri",
+      "link": "https://netzpolitik.org/2026/interview-simon-strick-faschisierung-ist-ein-medialer-prozess/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Gegen den Flächenbrand: Wir suchen 300 Brandschutzhelfer:innen in 30 Tagen",
+      "text": "Wir treten der Faschisierung entgegen. Wir verteidigen die Grundrechte für alle und kämpfen für eine freie, offene und solidarische Gesellschaft. Das geht nur mit deiner Unterstützung.",
+      "link": "https://netzpolitik.org/2026/wir-suchen-300-brandschutzhelferinnen-in-30-tagen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digitale Identitätengesetz verabschiedet: Schwuppdiwupp, die digitale Brieftasche kommt",
+      "text": "Markus Reichel, Wallet-Berichterstatter der Unionsfraktion, warb heute im Bundestag für das Digitale Identitätengesetz.    –   Alle Rechte vorbehalten: bundestag.deWenige Funktionen, kaum Kontrolle und schwacher Datenschutz: Der Bundestag hat heute das Digitale Identitätengesetz ",
+      "link": "https://netzpolitik.org/2026/digitale-identitaetengesetz-verabschiedet-schwuppdiwupp-die-digitale-brieftasche-kommt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Angriff auf Al Jazeera: Der Trojaner kam per Online-Werbung",
+      "text": "Al Jazeera geriet laut Forschenden ins Visier von Staatstrojanern. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Zuma Press; Bearbeitung: netzpolitik.orgUnbekannte sollen Geräte des katarischen Nachrichtensenders Al Jazeera mit dem Staatstrojaner Candiru infiziert haben – ",
+      "link": "https://netzpolitik.org/2026/angriff-auf-al-jazeera-der-trojaner-kam-per-online-werbung/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Werbeblocker obligatorisch\": Geräte lassen sich ohne Klick per Werbeanzeige hacken",
+      "text": "\"AdFection\" erlaubt den gezielten Zugriff auf Geräte über Werbeanzeigen (Symbolbild)    –   Handy/Laptop: Pixabay; Lichteffekt: kisspng; Montage: netzpolitik.orgSieht ein Opfer das Werbebanner, ist es schon zu spät. Eine Untersuchung der Universität Toronto beschreibt erstmals im",
+      "link": "https://netzpolitik.org/2026/werbeblocker-obligatorisch-geraete-lassen-sich-ohne-klick-per-werbeanzeige-hacken/"
+    }
+  ]
+}

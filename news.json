@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-16T09:36+00:00",
+  "updated": "2026-10-17T09:07+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25636.2,
+      "value": 25622.6,
       "unit": "Pkt.",
-      "change_pct": 1.0,
+      "change_pct": 0.95,
       "history": [
         24807.0,
         25087.3,
@@ -13,44 +13,44 @@
         25259.9,
         25298.6,
         25382.6,
-        25636.2
+        25622.6
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 29935.6,
+      "value": 29187.6,
       "unit": "Pkt.",
-      "change_pct": -0.05,
+      "change_pct": -2.5,
       "history": [
-        31160.1,
         30725.8,
         30883.2,
         30664.7,
         30569.5,
         29950.8,
-        29935.6
+        29935.6,
+        29187.6
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7744.1,
+      "value": 7659.4,
       "unit": "Pkt.",
-      "change_pct": 0.33,
+      "change_pct": -1.09,
       "history": [
-        7801.8,
         7765.4,
         7811.5,
         7807.2,
         7805.5,
         7718.9,
-        7744.1
+        7744.1,
+        7659.4
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 102.5,
+      "value": 109.9,
       "unit": "$",
-      "change_pct": -3.21,
+      "change_pct": 3.78,
       "history": [
         104.3,
         104.7,
@@ -58,14 +58,14 @@
         105.7,
         106.1,
         105.9,
-        102.5
+        109.9
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4205.5,
+      "value": 4181.1,
       "unit": "$",
-      "change_pct": 0.85,
+      "change_pct": 0.26,
       "history": [
         4157.0,
         4216.3,
@@ -73,14 +73,14 @@
         4177.3,
         4107.9,
         4170.1,
-        4205.5
+        4181.1
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1256,
+      "value": 1.1244,
       "unit": "",
-      "change_pct": 0.54,
+      "change_pct": 0.44,
       "history": [
         1.1201,
         1.1213,
@@ -88,7 +88,7 @@
         1.116,
         1.1204,
         1.1195,
-        1.1256
+        1.1244
       ]
     },
     "fed_rate": {
@@ -108,152 +108,169 @@
   },
   "ticker_relevant": [
     "dax",
-    "fed_rate",
-    "ecb_rate"
+    "fed_rate"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Wohnimmobilien: Deutlich mehr Baugenehmigungen",
-    "text": "Lichtblick für den deutschen Wohnungsbau: Der Aufwärtstrend des ersten Halbjahres setzt sich auch im August fort. Doch höhere Energiepreise und Zinsen belasten viele Bauherren.",
-    "link": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html"
+    "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+    "text": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
+    "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Wohnimmobilien: Deutlich mehr Baugenehmigungen",
-        "text": "Lichtblick für den deutschen Wohnungsbau: Der Aufwärtstrend des ersten Halbjahres setzt sich auch im August fort. Doch höhere Energiepreise und Zinsen belasten viele Bauherren.",
-        "link": "https://www.tagesschau.de/wirtschaft/baugenehmigungen-steigen-wieder-2026-100.html"
+        "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
+        "text": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
+        "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Klingbeils Baustellen - Zwischen Sparzwang und Entlastung",
-        "text": "Deutschlands Probleme begleiten Finanzminister Klingbeil bis nach Bangkok. Sparen, Schuldenabbau, Reformen - das sind die Empfehlungen auf der dortigen IWF-Tagung. Klingbeil gibt sich zuversichtlich - und verweist auch auf die Tabaksteuer. Von N. Kohnert.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/finanzminister-klingbeil-spd-100.html"
+        "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
+        "text": "Bis Ende Dezember muss der UN-Sicherheitsrat eine Nachfolge für Generalsekretär Guterres bestimmen. Doch auch bei der sechsten Probeabstimmung fielen alle Kandidaten bei den Vetomächten durch. Von Martin Ganslmeier.",
+        "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Bundeseigene Wohnungsbaugesellschaft soll 2027 starten",
-        "text": "Der Wohnungsmangel in Deutschland ist groß, eine bundeseigene Wohnungsbaugesellschaft soll Abhilfe schaffen. Nach Angaben von Bundesbauministerin Hubertz soll sie 2027 an den Start gehen.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/hubertz-wohnungsbaugesellschaft-100.html"
+        "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
+        "text": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
+        "link": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "In New Yorks \"Little Haiti\" geht die Angst um",
-        "text": "Seit Trump ihnen den Schutzstatus entzogen hat, gehen viele Haitianer in den USA kaum noch aus dem Haus, verstecken sich - aus Angst vor Abschiebung. Wie wirkt sich das auf den Alltag in New Yorks Viertel \"Little Haiti\" aus? Von Arnd Henze.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-haitianer-angst-abschiebung-100.html"
+        "title": "Wie sich Bundespolitiker auf Social Media schlagen",
+        "text": "Nah an den Leuten oder unangemessen? Auf Social Media versuchen sich die Spitzenpolitiker mit ihrer eigenen Ansprache. Eine Analyse der Postings zeigt: Es gibt klare Gewinner und Verlierer. Von Fynn Dresler und Philine Elster.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie subversiv ist Kinderfernsehen noch?",
-        "text": "Kinderfernsehen stellt oft Fragen, die auch Kinder selbst stellen würden - und provoziert damit immer mal wieder auch prominente Erwachsene. Doch trotz Kritik gibt es subversive Kinderserien bis heute. Von Alexander Bühler.",
-        "link": "https://www.tagesschau.de/kultur/unbequemes-kinder-fernsehen-100.html"
+        "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
+        "text": "Bundesarbeitsminister Schweitzer setzt bei der Rentenreform auf Kompromissbereitschaft in der schwarz-roten Koalition. Insbesondere über die abschlagsfreie Rente nach 45 Beitragsjahren müssten noch \"politische Debatten stattfinden\".",
+        "link": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Welternährungstag der UN: Der Kampf gegen Hunger kommt kaum voran",
-        "text": "Kriege, Klimawandel und gekürzte Hilfsgelder verschärfen die weltweite Ernährungskrise, besonders in Krisenregionen. Der Kampf gegen Hunger kommt kaum voran. Das UN-Ziel \"Zero Hunger\" bis 2030 rückt in weite Ferne. Von Verena Schälter.",
-        "link": "https://www.tagesschau.de/ausland/europa/welternaehrungstag-100.html"
+        "title": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
+        "text": "Die Abholzung im brasilianischen Amazonas ist auf den niedrigsten Stand seit Beginn der Aufzeichnungen 1988 gesunken. Die Regierung wertet den Rückgang als Erfolg der Schutzbemühungen von Präsident Lula, der gerade im Wahlkampf ist.",
+        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Hunger im Jemen - Wenn Mehl zum Luxusartikel wird",
-        "text": "Selbst alltägliche Lebensmittel wie Mehl sind im Jemen für viele Menschen unerschwinglich geworden. Millionen Menschen hungern, und die Kämpfe mit der Huthi-Miliz im Land machen alles nur noch schlimmer. Von Moritz Behrend.",
-        "link": "https://www.tagesschau.de/ausland/asien/hungerkrise-jemen-100.html"
+        "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
+        "text": "Die Unterstützung von US-Präsident Trump für die Ukraine war schon immer zurückhaltend. Mit den jetzt gestoppten Sanktionen kommt er dem russischen Präsidenten weit entgegen. Auch in den USA wird er dafür massiv kritisiert. Von Carsten Kühntopp.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-russland-ukraine-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Starlink-Störung in der Ukraine: Enttäuscht von Musk, enttäuscht von Trump",
-        "text": "In der Ukraine scheint für viele klar: Die Starlink-Ausfälle sind kein Zufall, sondern politisch gewollt. Die Unterstützung aus der EU wird immer wichtiger. Von Rebecca Barth.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-starlink-104.html"
+        "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
+        "text": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
-        "text": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso. Andere können den Sparvorschlägen nichts abgewinnen. Trotz klarer Fronten bleibt der große Knall im Ringen um den Haushalt aus. Von S. Stuchlik.",
-        "link": "https://www.tagesschau.de/ausland/europa/eu-gipfel-beratungen-haushalt-100.html"
+        "title": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
+        "text": "Am ersten Tag des Iran-Kriegs im Februar schlägt eine Rakete in einer Schule in Minab ein. 168 Menschen sterben, die meisten sind Kinder. Heute ist der Ort Gedenkstätte, aber auch Bühne für Regimepropaganda. Von Benjamin Weber.",
+        "link": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Warum sich die Ukraine ohne die Aufklärungsdaten der USA kaum verteidigen kann",
-        "text": "Um sich verteidigen zu können, ist die Ukraine dringend auf Informationen aus den USA angewiesen. Doch genau dabei hakt es offenbar. Zudem gibt es Probleme mit dem Satellitendienst Starlink. Welche Folgen hat das? Und was steckt dahinter?",
-        "link": "https://www.tagesschau.de/ukraine-usa-starlink-geheimdienste-100.html"
+        "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
+        "text": "Eigentlich erlebten die Grünen in Großbritannien einen großen Aufschwung in diesem Jahr. Nun sorgt die Partei mit einem Beschluss zu Zionismus und Israel für Kontroversen - selbst in den eigenen Reihen. Von Franziska Hoppen.",
+        "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Trump sagt Livestream zu geplanter Hinrichtung von Attentäter ab",
-        "text": "Die ganze Welt sollte zusehen, wie ein verurteilter Attentäter hingerichtet wird - nun hat US-Präsident Trump den geplanten Livestream abgesagt. Die Ankündigung von Verteidigungsminister Hegseth war auf Empörung gestoßen.",
-        "link": "https://www.tagesschau.de/ausland/amerika/trump-livestream-hinrichtung-100.html"
+        "title": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
+        "text": "Große Teile des Gazastreifens sind zerstört, Tausende Tote liegen unter den Trümmern. Um sie zu bergen, fehlt es an schwerem Gerät, Treibstoff und Möglichkeiten zur Identifizierung. Angehörige warten - manche seit Jahren. Von B. Meier.",
+        "link": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "EU-Methanverordnung unter Druck: Reiche fordert Aufschub",
-        "text": "Methan heizt das Klima deutlich stärker an als Kohlenstoffdioxid. Dennoch will Wirtschaftsministerin Reiche neue EU-Regeln aufschieben. Dokumente und Treffen mit der Gaslobby werfen Fragen auf. Von Ottilie Wied.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/methan-verordnung-eu-reiche-100.html"
+        "title": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
+        "text": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt schon wieder auf. Sie war wegen falscher Angaben zu ihrem Lebenslauf unter Druck geraten.",
+        "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
+        "title": "Speech by Executive Vice-President Teresa Ribera at 17th Conference of the Parties to the United Nations Convention on Biological Diversity (COP17)",
+        "text": "European Commission Speech Yerevan, 16 Oct 2026 Dear Prime Minister, Pashinyan,\nDear Secretary-General of the United Nations, António Guterres,\nDear Heads of State and Government,\nDear colleagues and dear fri...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2191"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of October 2026",
+        "text": "European Commission Statement Brussels, 16 Oct 2026 We have had a long and dense European Council. Let me touch on some of the main topics, starting with European competitiveness and I will go straight into energy. Households and industry are paying the price for a war far beyond",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2190"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 16 / 10 / 2026",
+        "text": "European Commission Daily news Brussels, 16 Oct 2026 Commission sets out new strategy on combating trafficking in human beings \nToday, the European Commission sets out a new strategy to combat trafficking in human...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2189"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by Executive Vice-President Mînzatu ahead of the International Day for the Eradication of Poverty",
+        "text": "European Commission Statement Brussels, 16 Oct 2026 Poverty must not define anyone's future.\nToo many people across Europe are still unable to afford a home, heating, food, healthcare or education. Currently, one...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2188"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission awards 2026 New European Bauhaus prizes for sustainable, inclusive and beautiful projects",
+        "text": "European Commission Press release Brussels, 16 Oct 2026 The European Commission has awarded the New European Bauhaus (NEB) Prizes 2026 to 13 laureates from several EU countries, Ukraine and North Macedonia, as well as Japan and Brazil, which won the international competition of t",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2186"
+      },
+      {
+        "source": "EU-Kommission",
         "title": "Statement by President von der Leyen with Presidents Zelenskyy and Costa ahead of the European Council meeting of 16 October",
         "text": "European Commission Statement Brussels, 16 Oct 2026 Good morning. It is a very important moment again to have you here in the European Council. You have participated in countless European Councils, and this shows...",
         "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2181"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Keynote speech by Commissioner Kubilius at the Anniversary of Magna Charta Universitatum",
-        "text": "European Commission Speech Vilnius, 16 Oct 2026 Good morning.\nWelcome to Vilnius, my home town.\nA special welcome to all of you who will today be signing the Magna Charta Universitatum. A joint commitment to ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2179"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Speech by Commissioner Albuquerque (by video message) for the Malta's Financial Wellbeing Conference 2026: From Access to Trust",
-        "text": "European Commission Speech Online, 15 Oct 2026 Good morning to everyone gathered in Malta today. Although other commitments mean that I am joining you from Brussels, I was determined to contribute to this im...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2176"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Kommission startet RAISE-Versprechensinitiative zur Förderung der KI-Unterstützung für Forscher in ganz Europa",
-        "text": "European Commission Pressemitteilung Brussels, 15 Oct 2026 Auf dem Europäischen Gipfel für KI in der Wissenschaft in Dublin hat die Europäische Kommission heute die Initiative RAISE (Resource for AI Science in Europe) ins Leben gerufen, mit der KI in Science Enablers gelobt wird.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2175"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Commissioner Roswall's keynote address at the 12th Congress of European Farmers",
-        "text": "European Commission Speech Stockholm, 15 Oct 2026 Lennart, Palle, Minister, Farmers, Ladies and gentlemen\n \nIt is a pleasure to be part of the 2026 Congress of European Farmers. \n \nAnd a pleasure to discuss a q...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2173"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Rescheduling of the EU-GCC Summit",
-        "text": "European Commission Statement Brussels, 15 Oct 2026 The second Summit between the European Union and the Gulf Cooperation Council, originally planned for 24 October 2026 in Riyadh, Saudi Arabia, has been postpone...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2172"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX startet mit Gewinnen",
-        "text": "Die Erholung im weltweiten Technologiesektor gibt auch dem deutschen Aktienmarkt Rückenwind. US-Notenbankchef Kevin Warsh sieht in künstlicher Intelligenz enormes Potenzial für Länder bei Produktivität und Wachstum.",
+        "title": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
+        "text": "Die Stimmung an den Aktienmärkten hat sich zum Ende der Handelswoche spürbar aufgehellt. Ausschlaggebend war eine Rede von US-Notenbankchef Warsh. Dazu kamen Rückenwind aus der Autoindustrie und starke Firmenbilanzen.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "UniCredit bekommt grünes Licht von EZB für Übernahme der Commerzbank",
-        "text": "Seit zwei Jahren bemüht sich die italienische Großbank UniCredit um die Commerzbank. Nach langem Widerstand hat UniCredit nun eine wichtige Hürde genommen - und grünes Licht von der EZB bekommen.",
-        "link": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html"
+        "title": "Wirtschaftsministerin Reiche für Direktzahlungen nach \"Tankrabatt\"",
+        "text": "Der \"Tankrabatt\" soll Autofahrer entlasten - aber was kommt danach? Wirtschaftsministerin Reiche spricht sich im ARD Interview der Woche für eine gezieltere Entlastung von Geringverdienern aus - und erhöht den Druck auf das Finanzministerium.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/katherina-reiche-tankrabatt-entlastungen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX vom Tech-Ausverkauf kaum betroffen",
-        "text": "Der DAX pendelt weiter um die Marke von 25.000 Punkten. Der weltweite Ausverkauf von Tech-Aktien hat den deutschen Leitindex nicht so stark getroffen - denn große Technologiewerte sind kaum vertreten.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-asml-tsmc-berichtssaison-102.html"
+        "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
+        "text": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag zulegen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 42: Die Woche, in der Europa Palantir auf die Finger schaut",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 42. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 146.530 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-42-die-woche-in-der-europa-palantir-auf-die-finger-schaut/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Interview mit Simon Strick: „Faschisierung ist ein medialer Prozess“",
+      "text": "Demonstration vor dem Deutschen Bundestag im Juli 2025.     –   Alle Rechte vorbehalten: IMAGO / Metodi PopowWir alle sind im Internet unterwegs, wir klicken, liken und kommentieren – und befördern oftmals eine Dynamik der Eskalation, schreibt der Kulturwissenschaftler Simon Stri",
+      "link": "https://netzpolitik.org/2026/interview-simon-strick-faschisierung-ist-ein-medialer-prozess/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Gegen den Flächenbrand: Wir suchen 300 Brandschutzhelfer:innen in 30 Tagen",
+      "text": "Wir treten der Faschisierung entgegen. Wir verteidigen die Grundrechte für alle und kämpfen für eine freie, offene und solidarische Gesellschaft. Das geht nur mit deiner Unterstützung.",
+      "link": "https://netzpolitik.org/2026/wir-suchen-300-brandschutzhelferinnen-in-30-tagen/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Digitale Identitätengesetz verabschiedet: Schwuppdiwupp, die digitale Brieftasche kommt",
@@ -268,27 +285,9 @@
     },
     {
       "source": "netzpolitik.org",
-      "title": "\"Werbeblocker obligatorisch\": Handys lassen sich ohne Klick per Werbeanzeige hacken",
-      "text": "\"AdFection\" erlaubt den gezielten Zugriff auf Geräte über Werbeanzeigen (Symbolbild)    –   Handy: Pixabay; Lichteffekt: kisspng; Montage: netzpolitik.orgSieht ein Opfer das Werbebanner auf dem Handy, ist es schon zu spät. Eine Untersuchung der Universität Toronto beschreibt erst",
-      "link": "https://netzpolitik.org/2026/werbeblocker-obligatorisch-handys-lassen-sich-ohne-klick-per-werbeanzeige-hacken/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Länderübergreifende Recherche: Palantirs Geschäfte in Europa",
-      "text": "Palantir steht in Europa unter Druck.    –   Alle Rechte vorbehalten: Rosa Snijders / Follow The MoneySoftware von Palantir findet sich bei europäischen Streitkräften, bei Polizeien und im Gesundheitssystem. Aber viele Länder suchen nach Alternativen, sie sorgen sich um Abhängigk",
-      "link": "https://netzpolitik.org/2026/laenderuebergreifende-recherche-palantirs-geschaefte-in-europa/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Europäischer Datenschutzausschuss: Smartbrillen sind „hohes Risiko für Grundrechte und Freiheiten“",
-      "text": "Überwachungsbrillen wie die von Meta sehen mittlerweile recht normal aus, aber haben eine hochauflösende Kamera und gute Mikrofone verbaut.     –   Alle Rechte vorbehalten: IMAGO / MiSEuropäische Datenschutzbehörden haben erste Leitlinien zu den neuen Überwachungsbrillen veröffen",
-      "link": "https://netzpolitik.org/2026/europaeischer-datenschutzausschuss-smartbrillen-sind-hohes-risiko-fuer-grundrechte-und-freiheiten/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Urteil zu Betrugswerbung: „Es ist nicht mehr diese plumpe Masche von früher“",
-      "text": "Betrüger:innen schalteten auf den Social-Media-Plattformen Instagram und Facebook Scam-Werbung    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: dole777Im Rechtsstreit zwischen Finanzfluss und Meta hat das Landgericht Frankfurt geurteilt: Der Social-Media-Konzern steht in",
-      "link": "https://netzpolitik.org/2026/urteil-zu-betrugswerbung-es-ist-nicht-mehr-diese-plumpe-masche-von-frueher/"
+      "title": "\"Werbeblocker obligatorisch\": Geräte lassen sich ohne Klick per Werbeanzeige hacken",
+      "text": "\"AdFection\" erlaubt den gezielten Zugriff auf Geräte über Werbeanzeigen (Symbolbild)    –   Handy/Laptop: Pixabay; Lichteffekt: kisspng; Montage: netzpolitik.orgSieht ein Opfer das Werbebanner, ist es schon zu spät. Eine Untersuchung der Universität Toronto beschreibt erstmals im",
+      "link": "https://netzpolitik.org/2026/werbeblocker-obligatorisch-geraete-lassen-sich-ohne-klick-per-werbeanzeige-hacken/"
     }
   ]
 }
