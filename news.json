@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T09:07+00:00",
+  "updated": "2026-10-18T09:24+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
@@ -52,7 +52,6 @@
       "unit": "$",
       "change_pct": 3.78,
       "history": [
-        104.3,
         104.7,
         106.7,
         105.7,
@@ -67,7 +66,6 @@
       "unit": "$",
       "change_pct": 0.26,
       "history": [
-        4157.0,
         4216.3,
         4190.6,
         4177.3,
@@ -78,17 +76,17 @@
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1244,
+      "value": 1.1242,
       "unit": "",
-      "change_pct": 0.44,
+      "change_pct": 0.26,
       "history": [
-        1.1201,
         1.1213,
         1.1205,
         1.116,
         1.1204,
         1.1195,
-        1.1244
+        1.1213,
+        1.1242
       ]
     },
     "fed_rate": {
@@ -112,50 +110,74 @@
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
-    "text": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
-    "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html"
+    "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskaliert",
+    "text": "Es war ein beispielloser Protesttag in Frankreich: In mehreren Städten gab es massive Ausschreitungen. 1.200 Menschen wurden festgenommen. Vermummte plünderten Geschäfte und setzten Gebäude in Brand - darunter das historische Rathaus in Limoges.",
+    "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Forscher: Meeresboden bremst Eisschmelze in Antarktis",
-        "text": "Das Team des deutschen Forschungsschiffes \"Polarstern\" hat vor der Ostantarktis entdeckt: Der Meeresboden hilft dabei, das Schmelzen des Eises dort zu bremsen. Von Andreas Kegel.",
-        "link": "https://www.tagesschau.de/wissen/klima/antarktis-eisschmelze-100.html"
+        "title": "Gewalt, Plünderungen, Brände: Proteste in Frankreich eskaliert",
+        "text": "Es war ein beispielloser Protesttag in Frankreich: In mehreren Städten gab es massive Ausschreitungen. 1.200 Menschen wurden festgenommen. Vermummte plünderten Geschäfte und setzten Gebäude in Brand - darunter das historische Rathaus in Limoges.",
+        "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Nachfolge als UN-Generalsekretär: Bewerber scheitern an Vetomächten",
-        "text": "Bis Ende Dezember muss der UN-Sicherheitsrat eine Nachfolge für Generalsekretär Guterres bestimmen. Doch auch bei der sechsten Probeabstimmung fielen alle Kandidaten bei den Vetomächten durch. Von Martin Ganslmeier.",
-        "link": "https://www.tagesschau.de/ausland/amerika/un-generalsekretaer-wahl-100.html"
+        "title": "COP17 zur Biodiversität: Den Holzdieben in Armenien auf der Spur",
+        "text": "Ab Montag beraten Vertreter von fast 200 Ländern auf der 17. UN-Konferenz zur biologischen Vielfalt, wie sich ihre selbst gesteckten Ziele noch erreichen lassen. Unterwegs mit Umweltschützern im Gastland Armenien. Von Norbert Hahn.",
+        "link": "https://www.tagesschau.de/ausland/asien/un-biodiversitaetskonferenz-armenien-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "GKV-Verbandschef fordert Besserstellung gesetzlich Versicherter",
-        "text": "Dass gesetzlich Versicherte oft bei der Terminvergabe benachteiligt würden, hält der Chef des GKV-Spitzenverbands, Blatt, für eine \"himmelschreiende Ungerechtigkeit\". Stattdessen solle künftig der medizinische Bedarf entscheiden.",
-        "link": "https://www.tagesschau.de/wissen/gesundheit/gkv-arzttermine-100.html"
+        "title": "Wechseljahre im Job: Wie Hitzewallungen den Arbeitsalltag erschweren",
+        "text": "Fast jede fünfte Frau überlegt wegen Beschwerden in den Wechseljahren, früher in Ruhestand zu gehen. Erst seit kurzem wird die Bedeutung der Menopause für die Arbeitskultur entdeckt und offen diskutiert. Von Lilofee Fettich.",
+        "link": "https://www.tagesschau.de/kultur/wechseljahre-am-arbeitsplatz-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie sich Bundespolitiker auf Social Media schlagen",
-        "text": "Nah an den Leuten oder unangemessen? Auf Social Media versuchen sich die Spitzenpolitiker mit ihrer eigenen Ansprache. Eine Analyse der Postings zeigt: Es gibt klare Gewinner und Verlierer. Von Fynn Dresler und Philine Elster.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/social-media-bundespolitik-100.html"
+        "title": "Paketversand und Retouren durch Onlinehandel auf Rekordniveau",
+        "text": "Immer mehr Menschen bestellen online. Auch die Zahl der Rücksendungen nimmt stetig zu. Ein lohnendes Geschäft für Kioskbesitzer, Paketunternehmen. Kritik kommt von Umweltschützern. Von Lucretia Gather.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/online-retouren-rekord-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "\"Rente mit 63\": Arbeitsminister Schweitzer fordert Kompromiss",
-        "text": "Bundesarbeitsminister Schweitzer setzt bei der Rentenreform auf Kompromissbereitschaft in der schwarz-roten Koalition. Insbesondere über die abschlagsfreie Rente nach 45 Beitragsjahren müssten noch \"politische Debatten stattfinden\".",
-        "link": "https://www.tagesschau.de/inland/schweitzer-rente-kompromiss-100.html"
+        "title": "Linke, Grüne und SPD verkünden Durchbruch bei Sondierungen in Berlin",
+        "text": "Vier Wochen nach der Wahl zum Berliner Abgeordnetenhaus haben Linke, Grüne und SPD ihre Sondierungsgespräche erfolgreich abgeschlossen. Sofern die Parteigremien zustimmen, können Koalitionsverhandlungen beginnen.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-sondierungsvereinbarung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Amazonas in Brasilien: Abholzung auf tiefstem Stand seit 1988",
-        "text": "Die Abholzung im brasilianischen Amazonas ist auf den niedrigsten Stand seit Beginn der Aufzeichnungen 1988 gesunken. Die Regierung wertet den Rückgang als Erfolg der Schutzbemühungen von Präsident Lula, der gerade im Wahlkampf ist.",
-        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-amazonas-abholzung-tiefstand-100.html"
+        "title": "Olivenernte: Verletzte bei Siedlergewalt im Westjordanland",
+        "text": "Während der Olivenernte im Westjordanland häuft sich die Gewalt israelischer Siedler gegen palästinensische Helfer. In mehreren Orten sind dabei Menschen verletzt worden, unter ihnen auch eine US-Journalistin.",
+        "link": "https://www.tagesschau.de/ausland/asien/westjordanland-olivenernte-angriffe-100.html"
       }
     ],
     "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
+        "text": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von \"organisierter Gewalt\".",
+        "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
+        "text": "Viele Wähler unterstützten 2024 Trumps Versprechen einer rigiden Abschiebepolitik. Doch vor den Zwischenwahlen zeigt sich: Das rücksichtslose Vorgehen der Einwanderungsbehörde ICE befremdet Bürger - und Unternehmer. Von Carsten Kühntopp.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Selenskyj kritisiert Trumps Aussetzung von Russland-Sanktionen",
+        "text": "US-Präsident Trump setzt geplante Russland-Sanktionen aus - während Angriffe auf die Infrastruktur laut dem ukrainischen Staatschef Selenskyj zunehmen. Er warnt, Trumps Entscheidung werde Moskau nur weiter bestärken.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-sanktionen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Rechtsruck - auch bei Israels linken Parteien?",
+        "text": "Israels politische Landschaft ist über die Jahre nach rechts gerückt. Der Terroranschlag der Hamas vor gut drei Jahren hat diese Entwicklung verstärkt. Wie wirkt sich das auf linke Parteien aus? Von Jan-Christoph Kitzler.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-linke-100.html"
+      },
       {
         "source": "Tagesschau",
         "title": "Russland-Sanktionen auf Eis: Wie sich Trump Putin weiter annähert",
@@ -165,32 +187,8 @@
       {
         "source": "Tagesschau",
         "title": "\"Nationales Interesse\" - Trump setzt geplante Sanktionen gegen Russland aus",
-        "text": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut.",
+        "text": "Erst macht der US-Präsident einen umstrittenen Diesel-Deal mit Russland, nun setzt Trump gerade erst beschlossene Sanktionen aus. Das Weiße Haus begründet dies mit nationalem Interesse. Moskau reagiert erfreut, die Ukraine ist entsetzt.",
         "link": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Iran-Krieg: Trauer nach Angriff auf Schule in Minab hält an",
-        "text": "Am ersten Tag des Iran-Kriegs im Februar schlägt eine Rakete in einer Schule in Minab ein. 168 Menschen sterben, die meisten sind Kinder. Heute ist der Ort Gedenkstätte, aber auch Bühne für Regimepropaganda. Von Benjamin Weber.",
-        "link": "https://www.tagesschau.de/ausland/asien/iran-minab-schule-angriff-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "UK Green Party: Zerbrechen die britischen Grünen am Thema Israel?",
-        "text": "Eigentlich erlebten die Grünen in Großbritannien einen großen Aufschwung in diesem Jahr. Nun sorgt die Partei mit einem Beschluss zu Zionismus und Israel für Kontroversen - selbst in den eigenen Reihen. Von Franziska Hoppen.",
-        "link": "https://www.tagesschau.de/ausland/europa/grossbritannien-gruene-antizionismus-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Gaza und die Toten unter den Trümmern - warten auf die Bergung",
-        "text": "Große Teile des Gazastreifens sind zerstört, Tausende Tote liegen unter den Trümmern. Um sie zu bergen, fehlt es an schwerem Gerät, Treibstoff und Möglichkeiten zur Identifizierung. Angehörige warten - manche seit Jahren. Von B. Meier.",
-        "link": "https://www.tagesschau.de/ausland/asien/gaza-tote-bergungen-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Trumps neue Sprecherin räumt ihren Posten nach wenigen Tagen im Amt",
-        "text": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt schon wieder auf. Sie war wegen falscher Angaben zu ihrem Lebenslauf unter Druck geraten.",
-        "link": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html"
       }
     ],
     "eu": [
@@ -234,25 +232,25 @@
     "markt": [
       {
         "source": "Tagesschau",
+        "title": "Merz verteidigt Reformkurs und warnt Koalitionspartner SPD",
+        "text": "Beim \"Deutschlandtag\" der Jungen Union findet Kanzler Merz deutliche Worte in Richtung SPD: Er wolle den Erfolg der Koalition, aber nicht um jeden Preis. In Sachen Rente pocht er darauf, die Reformvorschläge vollständig umzusetzen.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/merz-junge-union-104.html"
+      },
+      {
+        "source": "Tagesschau",
         "title": "Marktbericht: DAX schüttelt KI- und Zinssorgen vorerst ab",
         "text": "Die Stimmung an den Aktienmärkten hat sich zum Ende der Handelswoche spürbar aufgehellt. Ausschlaggebend war eine Rede von US-Notenbankchef Warsh. Dazu kamen Rückenwind aus der Autoindustrie und starke Firmenbilanzen.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nikkei-oelpreis-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Wirtschaftsministerin Reiche für Direktzahlungen nach \"Tankrabatt\"",
-        "text": "Der \"Tankrabatt\" soll Autofahrer entlasten - aber was kommt danach? Wirtschaftsministerin Reiche spricht sich im ARD Interview der Woche für eine gezieltere Entlastung von Geringverdienern aus - und erhöht den Druck auf das Finanzministerium.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/katherina-reiche-tankrabatt-entlastungen-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Auto-Aktien steigen nach deutsch-französischer Einigung deutlich",
-        "text": "Deutschland und Frankreich haben sich auf die Lockerung des eigentlich beschlossenen Verbrenner-Aus geeinigt. Das lässt die Aktien der Autobauer nach oben springen. Und auch der DAX kann am Mittag zulegen.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/autobauer-verbrenneraus-marktbericht-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Alterskontrollen für alle: Der Kids Act oder die sechs Sargnägel des offenen Internets",
+      "text": "Einmal eingehämmerte Nägel lassen sich auch wieder herausziehen. (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Anne Nygard; Bearbeitung: netzpolitik.orgEuropa steuert auf ein Internet mit Alterskontrollen für alle zu. Grund dafür ist der von der EU-Kommis",
+      "link": "https://netzpolitik.org/2026/alterskontrollen-fuer-alle-der-kids-act-oder-die-sechs-sargnaegel-des-offenen-internets/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "KW 42: Die Woche, in der Europa Palantir auf die Finger schaut",
@@ -282,12 +280,6 @@
       "title": "Angriff auf Al Jazeera: Der Trojaner kam per Online-Werbung",
       "text": "Al Jazeera geriet laut Forschenden ins Visier von Staatstrojanern. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Zuma Press; Bearbeitung: netzpolitik.orgUnbekannte sollen Geräte des katarischen Nachrichtensenders Al Jazeera mit dem Staatstrojaner Candiru infiziert haben – ",
       "link": "https://netzpolitik.org/2026/angriff-auf-al-jazeera-der-trojaner-kam-per-online-werbung/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "\"Werbeblocker obligatorisch\": Geräte lassen sich ohne Klick per Werbeanzeige hacken",
-      "text": "\"AdFection\" erlaubt den gezielten Zugriff auf Geräte über Werbeanzeigen (Symbolbild)    –   Handy/Laptop: Pixabay; Lichteffekt: kisspng; Montage: netzpolitik.orgSieht ein Opfer das Werbebanner, ist es schon zu spät. Eine Untersuchung der Universität Toronto beschreibt erstmals im",
-      "link": "https://netzpolitik.org/2026/werbeblocker-obligatorisch-geraete-lassen-sich-ohne-klick-per-werbeanzeige-hacken/"
     }
   ]
 }
