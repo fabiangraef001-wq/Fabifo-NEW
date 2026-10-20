@@ -1,92 +1,94 @@
 {
-  "updated": "2026-10-19T10:37+00:00",
+  "updated": "2026-10-20T09:54+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25282.1,
+      "value": 25094.7,
       "unit": "Pkt.",
-      "change_pct": -1.33,
+      "change_pct": -0.89,
       "history": [
-        25087.3,
         25277.7,
         25259.9,
         25298.6,
         25382.6,
         25622.6,
-        25282.1
+        25319.8,
+        25094.7
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 29187.6,
+      "value": 29529.3,
       "unit": "Pkt.",
-      "change_pct": -2.5,
+      "change_pct": 1.17,
       "history": [
-        30725.8,
         30883.2,
         30664.7,
         30569.5,
         29950.8,
         29935.6,
-        29187.6
+        29187.6,
+        29529.3
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7659.4,
+      "value": 7690.7,
       "unit": "Pkt.",
-      "change_pct": -1.09,
+      "change_pct": 0.41,
       "history": [
-        7765.4,
         7811.5,
         7807.2,
         7805.5,
         7718.9,
         7744.1,
-        7659.4
+        7659.4,
+        7690.7
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 108.6,
+      "value": 111.5,
       "unit": "$",
-      "change_pct": -1.18,
+      "change_pct": 1.73,
       "history": [
         106.7,
         105.7,
         106.1,
         105.9,
         109.9,
-        108.6
+        109.6,
+        111.5
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4186.1,
+      "value": 4138.3,
       "unit": "$",
-      "change_pct": 0.12,
+      "change_pct": -0.52,
       "history": [
         4190.6,
         4177.3,
         4107.9,
         4170.1,
         4181.1,
-        4186.1
+        4160.1,
+        4138.3
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1211,
+      "value": 1.122,
       "unit": "",
-      "change_pct": -0.02,
+      "change_pct": -0.04,
       "history": [
-        1.1213,
         1.1205,
         1.116,
         1.1204,
         1.1195,
         1.1213,
-        1.1211
+        1.1225,
+        1.122
       ]
     },
     "fed_rate": {
@@ -105,136 +107,129 @@
     }
   },
   "ticker_relevant": [
-    "dax",
     "brent"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Krawalle in Frankreich - Regierung räumt \"Kontrollverlust\" der Behörden ein",
-    "text": "Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizminister Daramanin sieht Defizite bei den Behörden.",
-    "link": "https://www.tagesschau.de/ausland/europa/frankreichs-justizminister-sieht-schwaechen-bei-sicherheitsbehoerden-100.html"
+    "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
+    "text": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden. Während Beschäftigte um ihre Jobs kämpfen, fordern Einwohner eine Schließung. Von Verena Schälter.",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Krawalle in Frankreich - Regierung räumt \"Kontrollverlust\" der Behörden ein",
-        "text": "Nach den gewalttätigen Protesten am Wochenende ist Frankreichs Regierung mit der Frage beschäftigt, wie es dazu kommen konnte. Innenminister Nuñez bot seinen Rücktritt an, Justizminister Daramanin sieht Defizite bei den Behörden.",
-        "link": "https://www.tagesschau.de/ausland/europa/frankreichs-justizminister-sieht-schwaechen-bei-sicherheitsbehoerden-100.html"
+        "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
+        "text": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden. Während Beschäftigte um ihre Jobs kämpfen, fordern Einwohner eine Schließung. Von Verena Schälter.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Volkswagen will offenbar Gehälter einfrieren",
-        "text": "Der angeschlagene Autobauer Volkswagen verschärft seine Sparmaßnahmen. Übereinstimmenden Berichten zufolge sollen weltweit die Gehälter für mehrere Jahre eingefroren werden. Der Konzern will sich dazu nicht äußern.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-1620.html"
+        "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
+        "text": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "In Kiew wächst die Kritik an Bürgermeister Klitschko",
-        "text": "In Kiew steht der nächste Kriegswinter bevor. Viele Menschen werfen Bürgermeister Klitschko hier Missmanagement vor. Statt die Strom- und Wasserversorgung zu sichern, würde Geld für Straßenbau ausgegeben. Von Rebecca Barth.",
-        "link": "https://www.tagesschau.de/ausland/europa/unzufriedenheit-mit-klitschko-kiew-100.html"
+        "title": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
+        "text": "In Paris war das Betreten zentraler Plätze verboten, in Lyon durfte man nur mit triftigem Grund auf die Straße. Die nächtlichen Ausgangssperren haben sich aus Sicht der Regierung bewährt. Kommende Nacht soll es wieder welche geben - wenn nötig.",
+        "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "IW-Studie: Fachkräftemangel bremst Infrastruktur-Projekte aus",
-        "text": "Der Bund will massiv in Brücken, Netze und Digitalisierung investieren. Doch laut einer Studie des Instituts der deutschen Wirtschaft fehlen schon jetzt die Fachkräfte, um die Projekte umzusetzen.",
-        "link": "https://www.tagesschau.de/wirtschaft/fachkraeftemaengel-infrastruktur-iw-studie-100.html"
+        "title": "Immobilienkredite so teuer wie seit 2009 nicht mehr",
+        "text": "Wer derzeit ein Haus kaufen will, muss für die Finanzierung besonders tief in die Tasche greifen. Die Zinsen für Immobilienkredite sind so hoch wie lange nicht. Dazu kommen hohe Material- und Lohnkosten.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Kritik an Rot-Grün-Rot in Berlin: \"Ich habe noch erhebliche Zweifel\"",
-        "text": "Die rot-grün-roten Sondierungsgespräche in Berlin waren holprig, aber erfolgreich. Heute wollen Grüne und SPD über Koalitionsverhandlungen mit der Linken entscheiden. Doch Kritik und Zweifel sind laut, etwa bei SPD-Fraktionschef Miersch.",
-        "link": "https://www.tagesschau.de/inland/berlin-spd-linke-gruene-100.html"
+        "title": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
+        "text": "In der kanadischen Provinz Alberta gibt es kein Referendum über eine Abspaltung vom Rest des Landes. Eine deutliche Mehrheit votierte für die nationale Einheit. Die Separatismus-Bestrebungen hatten auch das Interesse Trumps geweckt.",
+        "link": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Sturmtief \"Adam\": Behörden warnen vor Unwetter auf Mallorca",
-        "text": "Mallorca bereitet sich auf schwere Regenfälle vor. Wegen des Sturmtiefs \"Adam\" herrscht Warnstufe Rot, die Schulen sind geschlossen, viele Flüge bereits ausgefallen. Auf dem spanischen Festland kam es bereits zu Überflutungen.",
-        "link": "https://www.tagesschau.de/ausland/europa/spanien-mallorca-sturmwarnung-100.html"
+        "title": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
+        "text": "Von heute an berät der Arbeitskreis Steuerschätzung darüber, mit wie vielen Steuereinnahmen Bund und Länder rechnen können. Es könnte mehr sein als bislang erwartet. Das weckt Begehrlichkeiten. Von Philipp Eckstein.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
+        "title": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
+        "text": "Bosch setzt voll auf Künstliche Intelligenz und arbeitet dafür eng mit Microsoft zusammen. Doch Digitalexperten warnen, dass sich die deutsche Industrie zu sehr in die Abhängigkeit von US-Techriesen begibt. Von Laura Bisch.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wahlen in den USA: Was zu den Midterms wichtig ist",
+        "text": "Es ist ein wichtiger Stimmungstest für Präsident Trump: In zwei Wochen sind die US-Bürger zu den Zwischenwahlen aufgerufen. Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen haben die Demokraten? Von E. Aretz und J. Unsöld.",
+        "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
+        "text": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen. Von A. Bartram.",
+        "link": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
+        "text": "\"Wir haben der Ukraine viel gegeben - sie hat uns nichts gegeben\": US-Präsident Trump verschärft den Ton gegen Selenskyj. Der ukrainische Präsident wiederum wirft den USA vor, Waffenlieferungen zurückzuhalten.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html"
+      },
+      {
+        "source": "Tagesschau",
         "title": "Russland greift Kiew offenbar erneut mit Raketen an",
         "text": "Russland hat die Ukraine abermals mit Raketen und Drohnen angegriffen - einmal mehr gab es laut dem ukrainischen Präsidenten Selenskyj keine frühzeitige Warnung westlicher Partner. US-Außenminister Rubio widerspricht.",
         "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "USA liefern laut Selenskyj wieder Geheimdienstinformationen",
-        "text": "Die Ukraine klagte zuletzt über fehlende US-Geheimdienstinformationen zu russischen Angriffen. Inzwischen liefern die USA diese laut dem ukrainischen Präsidenten wieder. Doch angesichts des jüngsten US-Kurses zeigt er sich tief besorgt.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-geheimdienst-informationen-usa-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Iran unterbreitet den USA ein Angebot - und droht zugleich",
-        "text": "Irans Regierung hat gemischte Signale nach Washington gesendet: Während Außenminister Araghtschi das Angebot erneuerte, die Straße von Hormus zu öffnen, drohte der neu ernannte Verteidigungsminister Ketabtschi US-Präsident Trump.",
-        "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-angebot-drohung-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Russland meldet Drohnenangriffe in St. Petersburg",
-        "text": "Die Ukraine hat in St. Petersburg nach russischen Angaben erneut Ölanlagen und ein Logistikzentrum angegriffen. Behörden zufolge kam dabei ein Mensch ums Leben. Auch die Ukraine meldet massiven Beschuss ihrer Energieanlagen und Tote.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-angriffe-st-petersburg-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Ausschreitungen bei Protesten gegen Bildungsreformen in Brüssel",
-        "text": "In Brüssel hat die Polizei Tränengas gegen Teilnehmer von Studentenprotesten eingesetzt. Demonstranten hatten zuvor mit Flaschen und Feuerwerkskörpern geworfen. Belgiens Innenministerium sprach von \"organisierter Gewalt\".",
-        "link": "https://www.tagesschau.de/ausland/europa/bruessel-ausschreitungen-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Midterms 2026: Trumps Migrationspolitik verunsichert Unternehmen",
-        "text": "Viele Wähler unterstützten 2024 Trumps Versprechen einer rigiden Abschiebepolitik. Doch vor den Zwischenwahlen zeigt sich: Das rücksichtslose Vorgehen der Einwanderungsbehörde ICE befremdet Bürger - und Unternehmer. Von Carsten Kühntopp.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-migration-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Šefčovič at the European Parliament Plenary debate on the EU-UK Summit: renewed ambition for a closer partnership",
+        "text": "European Commission Speech Strasbourg, 20 Oct 2026 Madam President,\nHonourable members. \nWe have been working intensively with our UK partners to prepare our upcoming Summit on 20 November.  \nThis will be the se...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2207"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU und Neukaledonien unterzeichnen strategische Partnerschaft für nachhaltige Rohstoffe",
+        "text": "European Commission Pressemitteilung Brussels, 20 Oct 2026 Die Europäische Kommission und die Regierung Neukaledoniens haben heute eine Absichtserklärung unterzeichnet, mit der eine strategische Partnerschaft für Wertschöpfungsketten für nachhaltige Rohstoffe begründet wird.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2205"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commissioner Roswall's address at an event to mark the outcomes of the Structured Dialogue on Water in Belgium",
+        "text": "European Commission Speech Leuven, 19 Oct 2026 Minister Bruns and representatives of the regions of Bruxelles and Wallonia. Ladies and gentlemen.\n \nI'm delighted to start this week signing the Joint Declarat...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2198"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU Leaders discuss energy prices, budget, Ukraine during two-day summit in Brussels",
+        "text": "European Commission News Brussels, 19 Oct 2026 \nEuropean Commission President Ursula von der Leyen participated in the meeting of the European Council of 16-17 October, a dense summit that touched on current...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2197"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "24th Recovery and Resilience Dialogue introductory remarks by Commissioner Dombrovskis",
+        "text": "European Commission Speech Strasbourg, 19 Oct 2026 Honourable co-chairs, Honourable Members,\nI am pleased to return to this House for our 24th Dialogue.\nWe have come a long way in implementing the RRF, with EUR ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2196"
+      },
+      {
+        "source": "EU-Kommission",
         "title": "Tägliche Nachrichten 19 / 10 / 2026",
         "text": "European Commission Nachrichten des Tages Brussels, 19 Oct 2026 Kommission investiert 3,4 Mrd. EUR in Netto-Null-Technologieprojekte Die Europäische Kommission hat heute 77 europäische Projekte für Netto-Null-Technologien au...",
         "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2195"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Kommission investiert 3,4 Mrd. EUR in Netto-Null-Technologieprojekte",
-        "text": "European Commission Pressemitteilung Brussels, 19 Oct 2026 Die Europäische Kommission hat heute 77 europäische Projekte für Netto-Null-Technologien ausgewählt, die im Rahmen der zweiten Aufforderung zur Einreichung von Vorschlägen für den Innovationsfonds, die im Dezember 2025 ei",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2187"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "EU invests over €390 million in 135 new climate and environment projects",
-        "text": "European Commission Press release Brussels, 19 Oct 2026 The European Commission has today granted more than €390 million to 135 new projects across Europe under the LIFE programme for environment and climate action.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2184"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Kommission richtet Mitteilung der Beschwerdepunkte wegen unrichtiger oder irreführender Angaben im Fusionskontrollverfahren an KKR",
-        "text": "European Commission Pressemitteilung Brussels, 19 Oct 2026 Die Europäische Kommission hat KKR & Co. Inc. (im Folgenden „KKR“) von ihrer vorläufigen Auffassung in Kenntnis gesetzt, dass das Unternehmen in der von der Kommission 2024 durchgeführten Untersuchung der Übernahme von Ne",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2178"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Zusammenfassungen des neuen LIFE-Projekts",
-        "text": "European Commission Fragen und Antworten Brussels, 19 Oct 2026 Lesen Sie unsere Pressemitteilung. Belgien Bulgarien Tschechien Zypern Dänemark Deutschland Irland Griechenland Spanien Frankreich Kroatien Italien Lettland Ung...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2185"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Commission statement on the protests in Albania",
-        "text": "European Commission Statement Brussels, 18 Oct 2026 We condemn the use of violence in Tirana and other cities in Albania, including arson, attacks on State institutions and the destruction of public and private p...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2194"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX fällt unter 25.500 Punkten",
-        "text": "Zum Wochenauftakt belasten Meldungen aus China und den USA die Börsen. Sinkende Ölpreise und positive Daten reichen als Gegengewicht nicht aus. Dem DAX misslingt der Handelsauftakt.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-berichtssaison-100.html"
+        "title": "Marktbericht: \"Unsicherheitscocktail\" belastet die Aktienbörsen",
+        "text": "Zinsängste und politische Unruhen in europäischen Städten drücken auf die Stimmung. Jetzt rückt der KI-Boom in den Vordergrund: Viele Tech-Konzerne lassen sich in den kommenden Tagen in die Bücher sehen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html"
       }
     ]
   },
