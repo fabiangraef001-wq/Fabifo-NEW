@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-20T09:54+00:00",
+  "updated": "2026-10-21T09:56+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25094.7,
+      "value": 25446.9,
       "unit": "Pkt.",
-      "change_pct": -0.89,
+      "change_pct": 0.56,
       "history": [
-        25277.7,
         25259.9,
         25298.6,
         25382.6,
         25622.6,
         25319.8,
-        25094.7
+        25304.4,
+        25446.9
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 29529.3,
+      "value": 29490.3,
       "unit": "Pkt.",
-      "change_pct": 1.17,
+      "change_pct": -0.13,
       "history": [
-        30883.2,
         30664.7,
         30569.5,
         29950.8,
         29935.6,
         29187.6,
-        29529.3
+        29529.3,
+        29490.3
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7690.7,
+      "value": 7712.6,
       "unit": "Pkt.",
-      "change_pct": 0.41,
+      "change_pct": 0.28,
       "history": [
-        7811.5,
         7807.2,
         7805.5,
         7718.9,
         7744.1,
         7659.4,
-        7690.7
+        7690.7,
+        7712.6
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 111.5,
+      "value": 110.1,
       "unit": "$",
-      "change_pct": 1.73,
+      "change_pct": 1.19,
       "history": [
-        106.7,
         105.7,
         106.1,
         105.9,
         109.9,
         109.6,
-        111.5
+        108.8,
+        110.1
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4138.3,
+      "value": 4140.7,
       "unit": "$",
-      "change_pct": -0.52,
+      "change_pct": -0.05,
       "history": [
-        4190.6,
         4177.3,
         4107.9,
         4170.1,
         4181.1,
         4160.1,
-        4138.3
+        4142.6,
+        4140.7
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.122,
+      "value": 1.1225,
       "unit": "",
-      "change_pct": -0.04,
+      "change_pct": 0.08,
       "history": [
-        1.1205,
         1.116,
         1.1204,
         1.1195,
         1.1213,
         1.1225,
-        1.122
+        1.1216,
+        1.1225
       ]
     },
     "fed_rate": {
@@ -107,133 +107,152 @@
     }
   },
   "ticker_relevant": [
+    "dax",
     "brent"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
-    "text": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden. Während Beschäftigte um ihre Jobs kämpfen, fordern Einwohner eine Schließung. Von Verena Schälter.",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html"
+    "title": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
+    "text": "Seit mehr als dreieinhalb Jahren tobt im Sudan ein Krieg. Die UN bemühen sich auf einer Konferenz in Genf, eine politische Lösung für den Konflikt zu finden. Unterdessen hält die Gewalt im Land unvermindert an.",
+    "link": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Steht Europas größtes Stahlwerk endgültig vor dem Aus?",
-        "text": "Lange lebte Taranto vom größten Stahlwerk Italiens - und mit dessen Umweltverschmutzung. Ein Urteil könnte zum Wendepunkt werden. Während Beschäftigte um ihre Jobs kämpfen, fordern Einwohner eine Schließung. Von Verena Schälter.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/stahlwerk-taranto-italien-umweltverschmutzung-100.html"
+        "title": "UN-Konferenz: Delegationen bemühen sich um Frieden im Sudan",
+        "text": "Seit mehr als dreieinhalb Jahren tobt im Sudan ein Krieg. Die UN bemühen sich auf einer Konferenz in Genf, eine politische Lösung für den Konflikt zu finden. Unterdessen hält die Gewalt im Land unvermindert an.",
+        "link": "https://www.tagesschau.de/ausland/afrika/sudan-konferenz-108.html"
       },
       {
         "source": "Tagesschau",
-        "title": "AfD bestätigt Hackerangriff auf E-Mail-Konten",
-        "text": "Unbekannte haben einen Hackerangriff auf Mail-Konten der AfD verübt und laut eigenen Angaben Daten daraus veröffentlicht. Die AfD bestätigte einen Angriff auf Postfächer, die aber überwiegend nicht mehr genutzt würden.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html"
+        "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
+        "text": "Die Regale in vielen Supermärkten in Süditalien sind leer - auch der Pasta-Nachschub stockt. Grund sind Proteste von Lkw-Fahrern und Landwirten aufgrund hoher Dieselpreise. Die Regierung sagte Hilfe zu - aber reicht das? Von Lisa Weiß.",
+        "link": "https://www.tagesschau.de/ausland/europa/italien-protest-lkw-fahrer-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Frankreich verlängert örtliche Ausgangssperren - nach ruhiger Nacht",
-        "text": "In Paris war das Betreten zentraler Plätze verboten, in Lyon durfte man nur mit triftigem Grund auf die Straße. Die nächtlichen Ausgangssperren haben sich aus Sicht der Regierung bewährt. Kommende Nacht soll es wieder welche geben - wenn nötig.",
-        "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausgangssperren-100.html"
+        "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
+        "text": "Die Gewalteskalation beim landesweiten Protesttag hat Frankreich schwer erschüttert. Wer waren die Randalierer und Plünderer? Für den Premierminister ist die Antwort klar, doch die Wirklichkeit ist komplexer. Von Carolin Dylla.",
+        "link": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-120.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Immobilienkredite so teuer wie seit 2009 nicht mehr",
-        "text": "Wer derzeit ein Haus kaufen will, muss für die Finanzierung besonders tief in die Tasche greifen. Die Zinsen für Immobilienkredite sind so hoch wie lange nicht. Dazu kommen hohe Material- und Lohnkosten.",
-        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienkredite-zinsen-darlehen-100.html"
+        "title": "Alice Schwarzer stellt Magazin \"Emma\" ein",
+        "text": "Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\"",
+        "link": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Gegen Unabhängigkeitsreferendum: Alberta will kanadisch bleiben",
-        "text": "In der kanadischen Provinz Alberta gibt es kein Referendum über eine Abspaltung vom Rest des Landes. Eine deutliche Mehrheit votierte für die nationale Einheit. Die Separatismus-Bestrebungen hatten auch das Interesse Trumps geweckt.",
-        "link": "https://www.tagesschau.de/ausland/amerika/alberta-kanada-100.html"
+        "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
+        "text": "Netflix war jahrelang der unumstrittene Marktführer beim Streaming. Doch der Konzern kämpft gegen immer stärkere Konkurrenz. Neue Produktionen sollen helfen, die Zuschauer wieder mehr zu fesseln - und mehr Werbung zu verkaufen.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/netflix-streaming-serien-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wahrscheinliches Steuer-Plus weckt Begehrlichkeiten",
-        "text": "Von heute an berät der Arbeitskreis Steuerschätzung darüber, mit wie vielen Steuereinnahmen Bund und Länder rechnen können. Es könnte mehr sein als bislang erwartet. Das weckt Begehrlichkeiten. Von Philipp Eckstein.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html"
+        "title": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
+        "text": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - Start und Landung verursachen den Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/merz-klima-luftverkehr-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Chance oder Risiko: Zusammenarbeit deutscher Unternehmen mit Big Tech",
-        "text": "Bosch setzt voll auf Künstliche Intelligenz und arbeitet dafür eng mit Microsoft zusammen. Doch Digitalexperten warnen, dass sich die deutsche Industrie zu sehr in die Abhängigkeit von US-Techriesen begibt. Von Laura Bisch.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bosch-microsoft-ki-100.html"
+        "title": "Iranisches Finanznetzwerk: Eine deutsche Bank im Visier Teherans",
+        "text": "Internationale Sanktionen gegen das iranische Regime erschweren den Zahlungsverkehr. Deshalb unterhalten die Mullahs ein Netzwerk aus Hunderten Tarnfirmen. Nach Recherchen von Report Mainz und dem Spiegel wollten sie eine Bank in Bayern übernehmen.",
+        "link": "https://www.tagesschau.de/investigativ/report-mainz/iran-bank-104.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wahlen in den USA: Was zu den Midterms wichtig ist",
-        "text": "Es ist ein wichtiger Stimmungstest für Präsident Trump: In zwei Wochen sind die US-Bürger zu den Zwischenwahlen aufgerufen. Wer wird gewählt, welche Themen bestimmen den Wahlkampf und welche Chancen haben die Demokraten? Von E. Aretz und J. Unsöld.",
-        "link": "https://www.tagesschau.de/ausland/amerika/faq-midterms-100.html"
+        "title": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
+        "text": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier Firmen. Doch es gibt große Hürden.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Neue EU-Strategie: Warum die Arktis zum Sicherheitsrisiko wird",
-        "text": "Lange galt die Arktis als Region mit wenigen Spannungen. Doch die geopolitische Lage hat sich grundlegend geändert, und auch der Klimawandel betrifft den hohen Norden. Eine neue EU-Strategie soll dem Rechnung tragen. Von A. Bartram.",
-        "link": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html"
+        "title": "US-Vermittler Witkoff berät mit Putin über Ukraine",
+        "text": "Nach Gesprächen mit dem ukrainischen Präsidenten Selenskyj in Oslo ist US-Unterhändler Witkoff zu Verhandlungen mit der russischen Führung in St. Petersburg zusammengekommen. US-Präsident Trump hatte Selenskyj zuvor zu einem \"Deal\" aufgefordert.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-usa-verhandlungen-104.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Verbaler Schlagabtausch: Neue Spannungen zwischen Trump und Selenskyj",
-        "text": "\"Wir haben der Ukraine viel gegeben - sie hat uns nichts gegeben\": US-Präsident Trump verschärft den Ton gegen Selenskyj. Der ukrainische Präsident wiederum wirft den USA vor, Waffenlieferungen zurückzuhalten.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html"
+        "title": "Musk ordnete laut Medienberichten Drosselung von Starlink für Ukraine an",
+        "text": "Der US-Technologieunternehmer Musk ist Medienberichten zufolge für die mutmaßliche Einschränkung der Satellitenkommunikation in der Ukraine verantwortlich. Sollte das zutreffend sein, wirft das einige Fragen auf - auch an US-Präsident Trump.",
+        "link": "https://www.tagesschau.de/ausland/europa/musk-spacelink-drosselung-ukraine-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Russland greift Kiew offenbar erneut mit Raketen an",
-        "text": "Russland hat die Ukraine abermals mit Raketen und Drohnen angegriffen - einmal mehr gab es laut dem ukrainischen Präsidenten Selenskyj keine frühzeitige Warnung westlicher Partner. US-Außenminister Rubio widerspricht.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-200.html"
+        "title": "China-Schock 2.0 - wie sich Europas Industrie schützen kann",
+        "text": "China setzt Europas Unternehmen zunehmend unter Druck - auch mit massiven Subventionen. Doch höhere Zölle allein reichen kaum aus. Was kann die EU noch tun, um ihre Wirtschaft zu schützen? Von Angela Göpfert.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-schock-europa-industrie-zoelle-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Selenskyj fordert Teilnahme an Putin-Xi-Trump-Treffen",
+        "text": "Trump hatte Interesse an einem Gespräch mit den Präsidenten Russlands und Chinas über die Ukraine gezeigt. Nach einem Treffen mit europäischen Partnern sowie dem US-Sondergesandten Witkoff in Oslo forderte Präsident Selenskyj nun eine Beteiligung Kiews.",
+        "link": "https://www.tagesschau.de/ausland/europa/selenskyj-witkoff-norwegen-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Šefčovič at the European Parliament Plenary debate on the EU-UK Summit: renewed ambition for a closer partnership",
-        "text": "European Commission Speech Strasbourg, 20 Oct 2026 Madam President,\nHonourable members. \nWe have been working intensively with our UK partners to prepare our upcoming Summit on 20 November.  \nThis will be the se...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2207"
+        "title": "Kommission gibt grünes Licht für Abschlusszahlungsantrag Deutschlands in Höhe von 6 Mrd. EUR im Rahmen von NextGenerationEU",
+        "text": "European Commission Pressemitteilung Brussels, 21 Oct 2026 Die Europäische Kommission hat heute den vierten und letzten Zahlungsantrag Deutschlands in Höhe von 6 Mrd. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, positiv bewertet.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2224"
       },
       {
         "source": "EU-Kommission",
-        "title": "EU und Neukaledonien unterzeichnen strategische Partnerschaft für nachhaltige Rohstoffe",
-        "text": "European Commission Pressemitteilung Brussels, 20 Oct 2026 Die Europäische Kommission und die Regierung Neukaledoniens haben heute eine Absichtserklärung unterzeichnet, mit der eine strategische Partnerschaft für Wertschöpfungsketten für nachhaltige Rohstoffe begründet wird.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2205"
+        "title": "Rede von Präsidentin von der Leyen bei der Plenardebatte des Europäischen Parlaments zu den Schlussfolgerungen der Tagung des Europäischen Rates am 15./16. Oktober 2026",
+        "text": "European Commission Rede Strasbourg, 21 Oct 2026 „Es gilt das gesprochene Wort.“\n \nFrau Präsidentin Metsola,\nliebe Roberta,\nHerr Präsident Costa,\nlieber António,\nMeine Damen und Herren Abgeordnete,\nwir hatten ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2222"
       },
       {
         "source": "EU-Kommission",
-        "title": "Commissioner Roswall's address at an event to mark the outcomes of the Structured Dialogue on Water in Belgium",
-        "text": "European Commission Speech Leuven, 19 Oct 2026 Minister Bruns and representatives of the regions of Bruxelles and Wallonia. Ladies and gentlemen.\n \nI'm delighted to start this week signing the Joint Declarat...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2198"
+        "title": "Joint statement by Presidents von der Leyen and Costa",
+        "text": "European Commission Statement Brussels, 20 Oct 2026 We deeply regret the ratification today by the Libyan Parliament of the so-called Libyan-Türkiye Memorandum of Understanding on the delimitation of maritime jur...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2221"
       },
       {
         "source": "EU-Kommission",
-        "title": "EU Leaders discuss energy prices, budget, Ukraine during two-day summit in Brussels",
-        "text": "European Commission News Brussels, 19 Oct 2026 \nEuropean Commission President Ursula von der Leyen participated in the meeting of the European Council of 16-17 October, a dense summit that touched on current...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2197"
+        "title": "Press remarks by Executive Vice-President Fitto and Commissioner Kadis on Vision 2040 for a thriving fisheries and aquaculture sector",
+        "text": "European Commission Speech Brussels, 20 Oct 2026 Executive Vice-President Fitto\nGood afternoon everyone,\nToday, the Commission approved the Vision 2040 for Fisheries and Aquaculture, including the EU Strategy ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2219"
       },
       {
         "source": "EU-Kommission",
-        "title": "24th Recovery and Resilience Dialogue introductory remarks by Commissioner Dombrovskis",
-        "text": "European Commission Speech Strasbourg, 19 Oct 2026 Honourable co-chairs, Honourable Members,\nI am pleased to return to this House for our 24th Dialogue.\nWe have come a long way in implementing the RRF, with EUR ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2196"
+        "title": "Ausführungen des Hohen Vertreters Kallas und des Kommissionsmitglieds Síkela zur nördlichen Nachbarschaft Europas: Eine neue Strategie für die Arktis",
+        "text": "European Commission Rede Strasbourg, 20 Oct 2026 Hoher Vertreter Kallas Guten Tag alle, Das Kollegium hat heute eine Gemeinsame Mitteilung mit dem Titel „Die nördliche Nachbarschaft Europas: Eine neue Strategi...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2212"
       },
       {
         "source": "EU-Kommission",
-        "title": "Tägliche Nachrichten 19 / 10 / 2026",
-        "text": "European Commission Nachrichten des Tages Brussels, 19 Oct 2026 Kommission investiert 3,4 Mrd. EUR in Netto-Null-Technologieprojekte Die Europäische Kommission hat heute 77 europäische Projekte für Netto-Null-Technologien au...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2195"
+        "title": "Kommission begrüßt politische Einigung über künftiges Bio-Regelwerk",
+        "text": "European Commission Pressemitteilung Brussels, 20 Oct 2026 Die Europäische Kommission begrüßt die heutige Vereinbarung zwischen dem Europäischen Parlament und dem Rat zur Änderung bestimmter Produktions-, Kennzeichnungs- und Zertifizierungsvorschriften sowie der Vorschriften für ",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2210"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: \"Unsicherheitscocktail\" belastet die Aktienbörsen",
-        "text": "Zinsängste und politische Unruhen in europäischen Städten drücken auf die Stimmung. Jetzt rückt der KI-Boom in den Vordergrund: Viele Tech-Konzerne lassen sich in den kommenden Tagen in die Bücher sehen.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-bilanzsaison-100.html"
+        "title": "Marktbericht: DAX startet kaum verändert",
+        "text": "Der DAX ist verhalten in den Handel gestartet. Während KI-Werte sich dank SpaceX erholen, bleiben Investoren mit Blick auf weitere Tech-Bilanzen, die Unruhen in Frankreich und die Ölpreise vorsichtig.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-118.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Ölpreis springt auf Fünf-Monats-Hoch",
+        "text": "Neue Angriffe im Persischen Golf machen Öl wieder so teuer wie im Mai. Das schürt die Sorge vor einem neuen Inflationsschub. Die einzige Hoffnung bleibt derzeit eine Annäherung der Kriegsparteien.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "FAQ: Was man zum Verhaltensscanner in Berlin wissen sollte",
+      "text": "Kamera am Kottbusser Tor: Hier beginnt die automatisierte Überwachung Berlins.    –   CC-BY-NC-SA 4.0: netzpolitik.orgSoftware bewertet, wie sich die gefilmten Menschen verhalten: Diese Form der Videoüberwachung wird gerade in Berlin eingeführt. Wir klären die wichtigsten Fragen.",
+      "link": "https://netzpolitik.org/2026/faq-was-man-zum-verhaltensscanner-in-berlin-wissen-sollte/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Linke, Grüne und SPD: Was außer Vergesellschaftung im Berliner Sondierungspapier steht",
@@ -263,12 +282,6 @@
       "title": "Gegen den Flächenbrand: Wir suchen 300 Brandschutzhelfer:innen in 30 Tagen",
       "text": "Wir treten der Faschisierung entgegen. Wir verteidigen die Grundrechte für alle und kämpfen für eine freie, offene und solidarische Gesellschaft. Das geht nur mit deiner Unterstützung.",
       "link": "https://netzpolitik.org/2026/wir-suchen-300-brandschutzhelferinnen-in-30-tagen/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Digitale Identitätengesetz verabschiedet: Schwuppdiwupp, die digitale Brieftasche kommt",
-      "text": "Markus Reichel, Wallet-Berichterstatter der Unionsfraktion, warb heute im Bundestag für das Digitale Identitätengesetz.    –   Alle Rechte vorbehalten: bundestag.deWenige Funktionen, kaum Kontrolle und schwacher Datenschutz: Der Bundestag hat heute das Digitale Identitätengesetz ",
-      "link": "https://netzpolitik.org/2026/digitale-identitaetengesetz-verabschiedet-schwuppdiwupp-die-digitale-brieftasche-kommt/"
     }
   ]
 }
