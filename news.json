@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-23T09:51+00:00",
+  "updated": "2026-10-24T09:22+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25159.0,
+      "value": 25181.7,
       "unit": "Pkt.",
-      "change_pct": -0.84,
+      "change_pct": -0.75,
       "history": [
         25382.6,
         25622.6,
@@ -13,44 +13,44 @@
         25304.4,
         25645.0,
         25371.8,
-        25159.0
+        25181.7
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 28958.7,
+      "value": 28957.5,
       "unit": "Pkt.",
-      "change_pct": -2.9,
+      "change_pct": -0.0,
       "history": [
-        29950.8,
         29935.6,
         29187.6,
         29529.3,
         29490.3,
         29822.5,
-        28958.7
+        28958.7,
+        28957.5
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7663.4,
+      "value": 7623.7,
       "unit": "Pkt.",
-      "change_pct": -1.21,
+      "change_pct": -0.52,
       "history": [
-        7718.9,
         7744.1,
         7659.4,
         7690.7,
         7712.6,
         7757.2,
-        7663.4
+        7663.4,
+        7623.7
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 109.9,
+      "value": 116.7,
       "unit": "$",
-      "change_pct": -2.92,
+      "change_pct": 3.09,
       "history": [
         105.9,
         109.9,
@@ -58,14 +58,14 @@
         108.8,
         108.8,
         113.2,
-        109.9
+        116.7
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4038.4,
+      "value": 4007.9,
       "unit": "$",
-      "change_pct": -0.54,
+      "change_pct": -1.29,
       "history": [
         4170.1,
         4181.1,
@@ -73,14 +73,14 @@
         4142.6,
         4150.0,
         4060.4,
-        4038.4
+        4007.9
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1202,
+      "value": 1.1204,
       "unit": "",
-      "change_pct": -0.29,
+      "change_pct": -0.28,
       "history": [
         1.1195,
         1.1213,
@@ -88,7 +88,7 @@
         1.1216,
         1.1227,
         1.1235,
-        1.1202
+        1.1204
       ]
     },
     "fed_rate": {
@@ -108,87 +108,117 @@
   },
   "ticker_relevant": [
     "dax",
+    "nasdaq100",
     "sp500",
-    "brent",
-    "ecb_rate"
+    "brent"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
-    "text": "Der Terrorangriff der Hamas vor gut drei Jahren hat auch bei den jungen Wählern Israels tiefe Spuren hinterlassen. Sicherheit, Identität und die Sorge vor dem nächsten Krieg beeinflussen ihre Wahlentscheidung. Von Jan-Christoph Kitzler.",
-    "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html"
+    "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
+    "text": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
+    "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
-        "text": "Frankreichs Anleiherenditen sind auf den höchsten Stand seit 2002 gestiegen. Wie groß ist die Ansteckungsgefahr für andere hochverschuldete Euroländer - und was kann die EZB dagegen tun? Von Angela Göpfert.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/frankreich-anleiherenditen-schuldenkrise-eurokrise-ezb-100.html"
+        "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
+        "text": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
+        "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Pferdekutschen im New Yorker Central Park sollen abgeschafft werden",
-        "text": "In New York geht eine Ära zu Ende. Die berühmten Pferdekutschen im Central Park werden schrittweise bis Juni 2028 abgeschafft. Der Stadtrat stimmte einem Gesetzesentwurf von Bürgermeister Mamdani zu. Von M. Ganslmeier.",
-        "link": "https://www.tagesschau.de/ausland/amerika/new-york-pferdekutschen-100.html"
+        "title": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
+        "text": "Es ist wieder so weit: Die Uhren werden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
+        "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Erste schwerere Herbststürme in Deutschland erwartet",
-        "text": "Gleich zwei Sturmtiefs ziehen auf Deutschland zu und bringen am Wochenende in weiten Teilen des Landes Sturmböen und viel Regen mit sich. Der Deutsche Wetterdienst hat für viele Regionen Warnungen herausgegeben.",
-        "link": "https://www.tagesschau.de/inland/wetter-herbst-sturm-100.html"
+        "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
+        "text": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
+        "link": "https://www.tagesschau.de/inland/herbststurm-104.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Weihnachtsbäume könnten teurer werden",
-        "text": "Weihnachten ohne festlich geschmückten Baum ist für viele undenkbar. Und in wenigen Wochen beginnt bereits die Ernte. Eines zeichnet sich aber bereits ab: Wer einen natürlichen Weihnachtsbaum will, muss tiefer in die Tasche greifen.",
-        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/weihnachtsbaum-saison-preise-anstieg-100.html"
+        "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
+        "text": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen fest.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Illegale Spenden aus der Schweiz - Hat Weidel nicht die ganze Wahrheit gesagt?",
-        "text": "Das AfD-Leak könnte ein neues Licht auf einen AfD-Spendenskandal werfen, der abgeschlossen schien. Alice Weidel war möglicherweise früher und stärker in illegale Parteispenden eingebunden, als von ihr zugegeben. Das zeigen Recherchen von NDR und WDR.",
-        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/afd-leak-weidel-100.html"
+        "title": "Brasilien vor der Stichwahl: Die Macht der Influencer",
+        "text": "Wer beherrscht die Sozialen Netzwerke? Diese Frage könnte in Brasilien wahlentscheidend sein. Im digitalen Wahlkampf kann Bolsonaro auf den erfolgreichsten Influencer des Landes zählen - doch auch die Linke hat dazugelernt. Von A. Herrberg.",
+        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Etwa 50.000 Hitzetote im Sommer 2026 in Europa",
-        "text": "Seit Beginn der Aufzeichnungen gab es noch nie so viele Hitzetote in Europa wie im Sommer 2026. Das hat eine britische Analyse ergeben. Die Folgen der von Menschen gemachten Klimaerwärmung werden den Forschern zufolge immer deutlicher.",
-        "link": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html"
+        "title": "Wie sieht die Zukunft der Raffinerien aus?",
+        "text": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Vor Knesset-Wahl: Junge Israelis zwischen Trauma und Zukunftssorge",
-        "text": "Der Terrorangriff der Hamas vor gut drei Jahren hat auch bei den jungen Wählern Israels tiefe Spuren hinterlassen. Sicherheit, Identität und die Sorge vor dem nächsten Krieg beeinflussen ihre Wahlentscheidung. Von Jan-Christoph Kitzler.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-parlamentswahlen-erstwaehler-100.html"
+        "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
+        "text": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von Jean-Marie Magro.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Nach Angriff in Hebron: Israel bereitet Abriegelung des Westjordanlands vor",
-        "text": "Die israelische Regierung hat das Militär angewiesen, sich auf eine vollständige Abriegelung des Westjordanlands vorzubereiten. Zuvor waren zwei Männer getötet worden, die einen Anschlag geplant haben sollen.",
-        "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-100.html"
+        "title": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
+        "text": "Seitdem Trump vor sechs Jahren gegen Biden verlor, leugnet er das Wahlergebnis. Die Lüge ist Doktrin in seiner Partei, viele US-Bürger haben sie verinnerlicht. Was, wenn die Republikaner nun die Zwischenwahlen verlieren sollten? Von C. Kühntopp.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Trump soll Musk gebeten haben, Drosselung aufzuheben",
-        "text": "Das ukrainische Militär beklagt eine Drosselung von Elon Musks Satelliten-Internetdienst. Laut einem Medienbericht soll Trump nun die Aufhebung befohlen haben. Der US-Präsident bezieht selbst Stellung dazu - doch viele Fragen bleiben offen.",
-        "link": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html"
+        "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
+        "text": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
+        "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Korruption - Trumps empfindlichster Punkt vor den Midterms?",
-        "text": "Unter US-Wählern gewinnt vor den Zwischenwahlen ein Thema an Bedeutung - und das ist besonders heikel für Präsident Trump. Immer mehr Bürger registrieren, wie sehr das Vermögen Trumps und seines Umfelds gewachsen ist. Von Ralf Borchard.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-korruption-100.html"
+        "title": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
+        "text": "Nach einem Angriff nahe Hebron im Westjordanland hat Israels Militär den Tod von zwei Soldaten bestätigt. Die Zufahrten zur Stadt sind gesperrt - bald soll die Armee das ganze Westjordanland abriegeln. Von B. Meier.",
+        "link": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
+        "text": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
+        "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Russland und Ukraine tauschen erneut Gefangene aus",
+        "text": "In einem Gefangenenaustausch haben Russland und die Ukraine jeweils 270 Personen übergeben. Die Aktion ist Teil einer vor Monaten geplanten Vereinbarung. Unter den Freigelassenen sind auch ukrainische Soldaten, die für tot gehalten wurden.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Commission proposes stronger recognition of European heritage sites",
-        "text": "European Commission Press release Brussels, 23 Oct 2026 The European Commission has proposed to renew and reinforce the legal framework of the European Heritage Label. The scheme was adopted in 2011 aiming to offer a recognition awarded by the European Union to sites - buildings,",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2250"
+        "title": "Remarks by Commissioner Šefčovič at the press conference following the informal Foreign Affairs Council (Trade)",
+        "text": "European Commission Speech Dublin, 23 Oct 2026 Good afternoon and thank you, Minister – dear Helen – for your hospitality. I always leave Dublin impressed by its positive energy and this time, also grateful ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2252"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Rede von Präsidentin von der Leyen vor der ungarischen Nationalversammlung anlässlich des 70. Jahrestages der ungarischen Revolution von 1956",
+        "text": "European Commission Rede Budapest, 23 Oct 2026 „Es gilt das gesprochene Wort“\n \nSehr geehrter Herr Sprecher Forsthoffer,\nSehr geehrter Herr Präsident Baka,\nSehr geehrter Herr Premierminister Magyar,\nSehr gee...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2251"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission schlägt stärkere Anerkennung europäischer Kulturerbestätten vor*",
+        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Die Europäische Kommission hat vorgeschlagen, den Rechtsrahmen für das Europäische Kulturerbe-Siegel zu erneuern und zu stärken. Das Programm wurde 2011 angenommen und zielt darauf ab, Stätten - Gebäude, Denkmäler, Dokume",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2250"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 23 / 10 / 2026",
+        "text": "European Commission Daily news Brussels, 23 Oct 2026 EU Civil Protection Mechanism turns 25\nFor 25 years, European countries have been joining forces to save lives when disasters strike under the EU Civil Protecti...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2249"
       },
       {
         "source": "EU-Kommission",
@@ -201,48 +231,54 @@
         "title": "EU kündigt weitere 22,5 Mio. EUR zur Aufstockung der humanitären Hilfe im Jemen an",
         "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Die Europäische Kommission stellt zusätzlich zu den 87,5 Mio. EUR, die zuvor für 2026 bereitgestellt wurden, 22,5 Mio. EUR an humanitärer Hilfe für Jemen bereit, um die Folgen der erneuten Eskalation des Konflikts und die",
         "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2247"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Opening remarks by Commissioner Kubilius at the Launch Event of the 3rd Hybrid Threats Report",
-        "text": "European Commission Speech Brussels, 23 Oct 2026 Good morning,\nFirst, welcome to the Berlaymont. And thank you for this very important report.\nI have it on my desk in my office. I have read very thoroughly and...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2242"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Kommission leitet Untersuchung zu möglichen wettbewerbswidrigen Verhaltensweisen von Omya bei der Lieferung von Calciumcarbonaten an die Papierindustrie ein",
-        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Die Europäische Kommission hat eine förmliche Kartelluntersuchung eingeleitet, um zu prüfen, ob Omya gegen die EU-Wettbewerbsvorschriften verstoßen hat, indem es von Kunden in der Papierindustrie verlangt hat, Calciumcarb",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2232"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Speech by Commissioner Lahbib at the Resilient Europe Conference",
-        "text": "European Commission Speech Prague, 22 Oct 2026 When you arrived today, I hope you looked up at the roof of this palace. Four stone statues stand along the top. They represent the four elements: fire, water, ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2239"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: Tech-Sorgen und hohe Ölpreise belasten den DAX",
-        "text": "Sorgen um den Technologiesektor und die Angst vor einer erneuten Eskalation im Nahen Osten drücken auf die Stimmung der Anleger. Der Ölpreis legt kräftig zu, damit steigen auch die Inflationsgefahren.",
+        "title": "Marktbericht: DAX-Anleger meiden das Risiko",
+        "text": "Hohe Ölpreise, anhaltenden Sorgen um Frankreichs Staatsfinanzen und immer wieder neue Bedenken bei der Künstlichen Intelligenz. Zu viele Probleme gleichzeitig für die Anleger, der DAX gab nach.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Nasdaq kommt unter die Räder",
+        "text": "Der KI-Boom beherrscht weiter die Wall Street. Die erste Euphorie ist aber vorbei - die Anleger wollen vielmehr endlich Ergebnisse der horrenden KI-Investitionen sehen. Meta ist ein warnendes Beispiel.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html"
       },
       {
         "source": "Tagesschau",
         "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
         "text": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt, die Gewerkschaft IG Metall droht mit Streiks ab Januar. Heute spricht die Konzernspitze mit der IG Metall. Worum es bei dem Krisentreffen geht.",
         "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Marktbericht: DAX fällt wieder zurück",
-        "text": "Der DAX hat bei volatilem Handel einen Teil seiner Gewinne vom Vortag wieder abgegeben. Er folgte einer schwachen Wall Street. Es waren mal wieder Nachrichten aus dem US-Tech-Sektor, die die Kurse bewegten.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-tesla-meta-sap-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 43: Die Woche, in der das Internet geschlossen wurde",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 43. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 113.270 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-43-die-woche-in-der-das-internet-geschlossen-wurde/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI-Boom: Wie die Bundesregierung die Regulierung von Rechenzentren aushöhlt",
+      "text": "Bundeskanzler Friedrich Merz (CDU) und Nvidia-Chef Jensen Huang auf dem \"Invest in Germany\"-Gipfel in Berlin.    –   Alle Rechte vorbehalten: IMAGO / dts NachrichtenagenturDer KI-Boom lässt den Strombedarf von Rechenzentren rasant ansteigen. Doch statt den Energieverbrauch zu beg",
+      "link": "https://netzpolitik.org/2026/ki-boom-wie-die-bundesregierung-die-regulierung-von-rechenzentren-aushoehlt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Beschwerde erfolgreich: Politisches Microtargeting von vier Parteien war rechtswidrig",
+      "text": "Vier Parteien spielten gezielte Wahlwerbung für bestimmte Nutzergruppen aus (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Silvan ArnetNicht alle bekamen dieselbe Wahlwerbung zu sehen: Mindestens vier Parteien spielten im Bundestagswahlkampf 2021 auf Faceb",
+      "link": "https://netzpolitik.org/2026/beschwerde-erfolgreich-politisches-microtargeting-von-vier-parteien-war-rechtswidrig/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "PHP-Sicherheitslücken: Wir stehen auf den Schultern vieler kleiner Giganten",
+      "text": "Wir stehen auf den Schultern vieler kleiner Giganten.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Chris CurryAuch wenn „das Internet“ nach der Aufregung der vergangenen Tage vielerorts wieder stabil läuft, ist es kaputt. Und das hat viel mit dem schiefen sozialen Ge",
+      "link": "https://netzpolitik.org/2026/wir-stehen-auf-den-schultern-vieler-kleiner-giganten/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Koalitionsverhandlungen in Berlin: Rot-Rot-Grün muss KI-Kameras stoppen",
@@ -254,30 +290,6 @@
       "title": "EU-Länder einig beim Daten-Omnibus: Mehr KI-Training, weniger Datenschutz",
       "text": "Der EU-Rat will die Nutzung von Daten in den meisten Fällen einfacher machen – oft zulasten des Datenschutzes.    –   Alle Rechte vorbehalten: Ikon ImagesGeschäftsgeheimnisse schützen,  Datenschutz schwächen, personenbezogene Daten für KI-Training freigeben: Am gestrigen Mittwoch",
       "link": "https://netzpolitik.org/2026/eu-laender-einig-beim-daten-omnibus-mehr-ki-training-weniger-datenschutz/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Geheimdienstreform: Opposition kritisiert ungeregelte Überwachung mit Werbedaten",
-      "text": "Der Bundestag berät momentan einen Ausbau der Geheimdienste    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Christian LueBND und Bundesverfassungsschutz sollen umfangreiche neue Gesetze bekommen, aber ein Bereich fehlt: Dürfen die Geheimdienste mit illegalen Daten aus d",
-      "link": "https://netzpolitik.org/2026/geheimdienstreform-opposition-kritisiert-ungeregelte-ueberwachung-mit-werbedaten/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Interview: „Lasst Euch nicht mit dem ersten Datensatz abspeisen!“",
-      "text": "Gregor Ziegltrum (links) und Dennis Schulz (rechts) präsentieren ihre Ergebnisse.Welche Daten haben Unternehmen über uns gespeichert? Dank Datenschutzgrundverordnung müssen Unternehmen die eigenen Daten auf Anfrage herausgeben. Zwei Softwareentwickler haben das genutzt, um mit hu",
-      "link": "https://netzpolitik.org/2026/interview-lasst-euch-nicht-mit-dem-ersten-datensatz-abspeisen/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "LKA Baden-Württemberg: Kritik an Gesichtserkennung bei Demo-Teilnehmenden",
-      "text": "Ein Foto kann unter Umständen bereits ausreichen, um von der Polizei per Gesichtserkennung identifiziert zu werden. (Symbolbild)     –   Alle Rechte vorbehalten: IMAGO / ShotshopAls ein Polizist gegen Palästina-Aktivist:innen ermittelte, soll er auch unbeteiligte Teilnehmer:innen",
-      "link": "https://netzpolitik.org/2026/lka-baden-wuerttemberg-kritik-an-gesichtserkennung-bei-demo-teilnehmenden/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "FAQ: Was man zum Verhaltensscanner in Berlin wissen sollte",
-      "text": "Kamera am Kottbusser Tor: Hier beginnt die automatisierte Überwachung Berlins.    –   CC-BY-NC-SA 4.0: netzpolitik.orgSoftware bewertet, wie sich die gefilmten Menschen verhalten: Diese Form der Videoüberwachung wird gerade in Berlin eingeführt. Wir klären die wichtigsten Fragen.",
-      "link": "https://netzpolitik.org/2026/faq-was-man-zum-verhaltensscanner-in-berlin-wissen-sollte/"
     }
   ]
 }
