@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T09:22+00:00",
+  "updated": "2026-10-25T09:40+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
@@ -48,17 +48,16 @@
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 116.7,
+      "value": 111.7,
       "unit": "$",
-      "change_pct": 3.09,
+      "change_pct": -1.33,
       "history": [
-        105.9,
         109.9,
         109.6,
         108.8,
         108.8,
         113.2,
-        116.7
+        111.7
       ]
     },
     "gold": {
@@ -67,7 +66,6 @@
       "unit": "$",
       "change_pct": -1.29,
       "history": [
-        4170.1,
         4181.1,
         4160.1,
         4142.6,
@@ -108,91 +106,89 @@
   },
   "ticker_relevant": [
     "dax",
-    "nasdaq100",
-    "sp500",
     "brent"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
-    "text": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
-    "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html"
+    "title": "Proteste in Europa - auch mit Gewalt",
+    "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
+    "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Studie über Zeitumstellung - Welche Zeit ist besser für unsere Gesundheit?",
-        "text": "Was einmal Energie sparen sollte, ist jetzt für viele ein Ärgernis. Die EU-Kommission schlug 2018 vor, die Zeitumstellung abzuschaffen. Nur: Welche Zeit soll gelten? Forschende haben eine Antwort. Von Wiebke Drescher.",
-        "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-winterzeit-sommerzeit-114.html"
+        "title": "Proteste in Europa - auch mit Gewalt",
+        "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
+        "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Sommerzeit endet - Um 3:00 Uhr wird an der Uhr gedreht",
-        "text": "Es ist wieder so weit: Die Uhren werden um eine Stunde zurückgestellt. Auch wenn es in der ersten Nacht Vorteile bringt, sind die meisten Menschen nicht zufrieden mit der Zeitumstellung.",
-        "link": "https://www.tagesschau.de/wissen/gesundheit/zeitumstellung-sommerzeit-138.html"
+        "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+        "text": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
+        "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Verletzte und Schäden nach \"Sturmtief\" Luise",
-        "text": "Bäume und Äste auf Straßen und Gleisen, ein umgestürztes Gestell: Sturmtief \"Luise\" ist über Teile Deutschlands hinweggefegt. Zwei Menschen wurden schwer verletzt. Mit \"Manja\" zieht schon der nächste Sturm heran.",
-        "link": "https://www.tagesschau.de/inland/herbststurm-104.html"
+        "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+        "text": "Serbiens langjähriger Staatschef Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.",
+        "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Repräsentationsbau der Nazis: Großbrand im Kehlsteinhaus am Obersalzberg",
-        "text": "Es diente den Nazis als Repräsentationsort hoch in den Bergen. Nun ist im Kehlsteinhaus am Obersalzberg bei Berchtesgaden ein Feuer ausgebrochen. Die Polizei vermutet Brandstiftung und nahm einen Verdächtigen fest.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/berchtesgaden-feuer-nazihaus-100.html"
+        "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+        "text": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
+        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Brasilien vor der Stichwahl: Die Macht der Influencer",
-        "text": "Wer beherrscht die Sozialen Netzwerke? Diese Frage könnte in Brasilien wahlentscheidend sein. Im digitalen Wahlkampf kann Bolsonaro auf den erfolgreichsten Influencer des Landes zählen - doch auch die Linke hat dazugelernt. Von A. Herrberg.",
-        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahl-influencer-100.html"
+        "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+        "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
+        "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie sieht die Zukunft der Raffinerien aus?",
-        "text": "Deutschlands Raffinerien stehen vor einem grundlegenden Wandel: Weg von fossilen Rohstoffen, hin zu klimafreundlicheren Alternativen. Wirtschaftsministerin Reiche will dafür eine Strategie vorlegen. Doch Experten sind skeptisch. Von Oda Lambrecht.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/raffineriestrategie-100.html"
+        "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
+        "text": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter Erfolg. Von Carolyn Wißing.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Energie-Entkoppelung: So abhängig ist Europa noch von Russland",
-        "text": "Nach dem Vollangriff auf die Ukraine wollte Europa schnell unabhängig werden von russischer Energie. Teilweise ist das auch gelungen. Vor allem bei Öl und Uran bleiben aber alte Abhängigkeiten. Von Jean-Marie Magro.",
-        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/abhaengigkeit-russische-energie-100.html"
+        "title": "Israel will Westjordanland am Wahltag abriegeln",
+        "text": "Vor der Parlamentswahl in Israel verschärft die Armee ihr Vorgehen im Westjordanland. Demnach sollen sämtliche Übergänge zu dem Palästinensergebiet geschlossen werden, teilte das Militär mit.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "US-Midterms: Die Sorge vor einer neuen Wahllüge Trumps",
-        "text": "Seitdem Trump vor sechs Jahren gegen Biden verlor, leugnet er das Wahlergebnis. Die Lüge ist Doktrin in seiner Partei, viele US-Bürger haben sie verinnerlicht. Was, wenn die Republikaner nun die Zwischenwahlen verlieren sollten? Von C. Kühntopp.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-trump-wahlbetrug-100.html"
+        "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+        "text": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Nach Anschlag auf Soldaten: Israel startet Operation im Westjordanland",
-        "text": "Nach den tödlichen Schüssen auf zwei Soldaten hat Israels Armee einen \"Anti-Terror-Einsatz\" im Westjordanland begonnen. Man suche dort nach Waffen und Terrorinfrastruktur. Israels Premier drohte zudem mit einem großangelegten Militäreinsatz.",
-        "link": "https://www.tagesschau.de/ausland/israel-westjordanland-militaeroperation-100.html"
+        "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+        "text": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
+        "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Israel will Westjordanland nach Angriff in Hebron abriegeln",
-        "text": "Nach einem Angriff nahe Hebron im Westjordanland hat Israels Militär den Tod von zwei Soldaten bestätigt. Die Zufahrten zur Stadt sind gesperrt - bald soll die Armee das ganze Westjordanland abriegeln. Von B. Meier.",
-        "link": "https://www.tagesschau.de/ausland/israel-westjordanland-abriegelung-100.html"
+        "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
+        "text": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in Texas umgehört.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Vermittelt durch Melania Trump - Waffenruhe für besetzte ukrainische Stadt",
-        "text": "Die humanitäre Lage in der von Russland besetzten ukrainischen Stadt Oleschky ist dramatisch. Nun gibt es Hoffnung für eine Evakuierung. Das Weiße Haus gab eine lokale Waffenruhe bekannt - vermittelt durch First Lady Melania Trump.",
-        "link": "https://www.tagesschau.de/ausland/melania-trump-waffenruhe-oleschky-100.html"
+        "title": "Israelische Armee startet Einsatz in Hebron",
+        "text": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische Autonomiebehörde an.",
+        "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Russland und Ukraine tauschen erneut Gefangene aus",
-        "text": "In einem Gefangenenaustausch haben Russland und die Ukraine jeweils 270 Personen übergeben. Die Aktion ist Teil einer vor Monaten geplanten Vereinbarung. Unter den Freigelassenen sind auch ukrainische Soldaten, die für tot gehalten wurden.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-gefangenenaustausch-150.html"
+        "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+        "text": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
       }
     ],
     "eu": [
@@ -239,22 +235,16 @@
         "title": "Marktbericht: DAX-Anleger meiden das Risiko",
         "text": "Hohe Ölpreise, anhaltenden Sorgen um Frankreichs Staatsfinanzen und immer wieder neue Bedenken bei der Künstlichen Intelligenz. Zu viele Probleme gleichzeitig für die Anleger, der DAX gab nach.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Marktbericht: Nasdaq kommt unter die Räder",
-        "text": "Der KI-Boom beherrscht weiter die Wall Street. Die erste Euphorie ist aber vorbei - die Anleger wollen vielmehr endlich Ergebnisse der horrenden KI-Investitionen sehen. Meta ist ein warnendes Beispiel.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mb-mittag-108.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
-        "text": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt, die Gewerkschaft IG Metall droht mit Streiks ab Januar. Heute spricht die Konzernspitze mit der IG Metall. Worum es bei dem Krisentreffen geht.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-ig-metall-ueberpruefungsgespraech-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Breakpoint: Verboten emanzipatorisch?",
+      "text": "Das Monument à la République in Paris trägt gelb.    –   Alle Rechte vorbehalten: ABACAPRESS / ImagoHunderttausende junge Menschen rufen in Europa zu Massenprotesten auf. Soziale Medien spielen dabei eine entscheidende Rolle. Emanzipatorisch sind TikTok, Instagram und Co. trotzde",
+      "link": "https://netzpolitik.org/2026/breakpoint-verboten-emanzipatorisch/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "KW 43: Die Woche, in der das Internet geschlossen wurde",
@@ -284,12 +274,6 @@
       "title": "Koalitionsverhandlungen in Berlin: Rot-Rot-Grün muss KI-Kameras stoppen",
       "text": "Muss da dringend wieder weg: Videoüberwachung am Kottbusser Tor in Berlin.    –   CC-BY-NC-SA 4.0: netzpolitik.orgWie geht es weiter mit den KI-Kameras in Berlin? Das haben Verhandler*innen von Linken, Grünen und SPD nun zu klären. Wenn ihnen die Stadt wichtig ist, gibt es nur ei",
       "link": "https://netzpolitik.org/2026/koalitionsverhandlungen-in-berlin-rot-rot-gruen-muss-ki-kameras-stoppen/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "EU-Länder einig beim Daten-Omnibus: Mehr KI-Training, weniger Datenschutz",
-      "text": "Der EU-Rat will die Nutzung von Daten in den meisten Fällen einfacher machen – oft zulasten des Datenschutzes.    –   Alle Rechte vorbehalten: Ikon ImagesGeschäftsgeheimnisse schützen,  Datenschutz schwächen, personenbezogene Daten für KI-Training freigeben: Am gestrigen Mittwoch",
-      "link": "https://netzpolitik.org/2026/eu-laender-einig-beim-daten-omnibus-mehr-ki-training-weniger-datenschutz/"
     }
   ]
 }

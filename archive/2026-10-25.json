@@ -1,0 +1,279 @@
+{
+  "updated": "2026-10-25T09:40+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25181.7,
+      "unit": "Pkt.",
+      "change_pct": -0.75,
+      "history": [
+        25382.6,
+        25622.6,
+        25319.8,
+        25304.4,
+        25645.0,
+        25371.8,
+        25181.7
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 28957.5,
+      "unit": "Pkt.",
+      "change_pct": -0.0,
+      "history": [
+        29935.6,
+        29187.6,
+        29529.3,
+        29490.3,
+        29822.5,
+        28958.7,
+        28957.5
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7623.7,
+      "unit": "Pkt.",
+      "change_pct": -0.52,
+      "history": [
+        7744.1,
+        7659.4,
+        7690.7,
+        7712.6,
+        7757.2,
+        7663.4,
+        7623.7
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 111.7,
+      "unit": "$",
+      "change_pct": -1.33,
+      "history": [
+        109.9,
+        109.6,
+        108.8,
+        108.8,
+        113.2,
+        111.7
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4007.9,
+      "unit": "$",
+      "change_pct": -1.29,
+      "history": [
+        4181.1,
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1204,
+      "unit": "",
+      "change_pct": -0.28,
+      "history": [
+        1.1195,
+        1.1213,
+        1.1225,
+        1.1216,
+        1.1227,
+        1.1235,
+        1.1204
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Proteste in Europa - auch mit Gewalt",
+    "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
+    "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Proteste in Europa - auch mit Gewalt",
+        "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
+        "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
+        "text": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
+        "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
+        "text": "Serbiens langjähriger Staatschef Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.",
+        "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
+        "text": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
+        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
+        "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
+        "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
+        "text": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter Erfolg. Von Carolyn Wißing.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Israel will Westjordanland am Wahltag abriegeln",
+        "text": "Vor der Parlamentswahl in Israel verschärft die Armee ihr Vorgehen im Westjordanland. Demnach sollen sämtliche Übergänge zu dem Palästinensergebiet geschlossen werden, teilte das Militär mit.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
+        "text": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
+        "text": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
+        "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
+        "text": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in Texas umgehört.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Israelische Armee startet Einsatz in Hebron",
+        "text": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische Autonomiebehörde an.",
+        "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
+        "text": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Šefčovič at the press conference following the informal Foreign Affairs Council (Trade)",
+        "text": "European Commission Speech Dublin, 23 Oct 2026 Good afternoon and thank you, Minister – dear Helen – for your hospitality. I always leave Dublin impressed by its positive energy and this time, also grateful ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2252"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Rede von Präsidentin von der Leyen vor der ungarischen Nationalversammlung anlässlich des 70. Jahrestages der ungarischen Revolution von 1956",
+        "text": "European Commission Rede Budapest, 23 Oct 2026 „Es gilt das gesprochene Wort“\n \nSehr geehrter Herr Sprecher Forsthoffer,\nSehr geehrter Herr Präsident Baka,\nSehr geehrter Herr Premierminister Magyar,\nSehr gee...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2251"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission schlägt stärkere Anerkennung europäischer Kulturerbestätten vor*",
+        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Die Europäische Kommission hat vorgeschlagen, den Rechtsrahmen für das Europäische Kulturerbe-Siegel zu erneuern und zu stärken. Das Programm wurde 2011 angenommen und zielt darauf ab, Stätten - Gebäude, Denkmäler, Dokume",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2250"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 23 / 10 / 2026",
+        "text": "European Commission Daily news Brussels, 23 Oct 2026 EU Civil Protection Mechanism turns 25\nFor 25 years, European countries have been joining forces to save lives when disasters strike under the EU Civil Protecti...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2249"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Katastrophenschutzverfahren wird 25 Jahre alt",
+        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Seit 25 Jahren bündeln die europäischen Länder ihre Kräfte, um bei Katastrophen im Rahmen des EU-Katastrophenschutzverfahrens Leben zu retten. Dies ist eines der besten Beispiele für europäische Solidarität in Aktion.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2248"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU kündigt weitere 22,5 Mio. EUR zur Aufstockung der humanitären Hilfe im Jemen an",
+        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Die Europäische Kommission stellt zusätzlich zu den 87,5 Mio. EUR, die zuvor für 2026 bereitgestellt wurden, 22,5 Mio. EUR an humanitärer Hilfe für Jemen bereit, um die Folgen der erneuten Eskalation des Konflikts und die",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2247"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX-Anleger meiden das Risiko",
+        "text": "Hohe Ölpreise, anhaltenden Sorgen um Frankreichs Staatsfinanzen und immer wieder neue Bedenken bei der Künstlichen Intelligenz. Zu viele Probleme gleichzeitig für die Anleger, der DAX gab nach.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Breakpoint: Verboten emanzipatorisch?",
+      "text": "Das Monument à la République in Paris trägt gelb.    –   Alle Rechte vorbehalten: ABACAPRESS / ImagoHunderttausende junge Menschen rufen in Europa zu Massenprotesten auf. Soziale Medien spielen dabei eine entscheidende Rolle. Emanzipatorisch sind TikTok, Instagram und Co. trotzde",
+      "link": "https://netzpolitik.org/2026/breakpoint-verboten-emanzipatorisch/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 43: Die Woche, in der das Internet geschlossen wurde",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 43. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 113.270 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-43-die-woche-in-der-das-internet-geschlossen-wurde/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI-Boom: Wie die Bundesregierung die Regulierung von Rechenzentren aushöhlt",
+      "text": "Bundeskanzler Friedrich Merz (CDU) und Nvidia-Chef Jensen Huang auf dem \"Invest in Germany\"-Gipfel in Berlin.    –   Alle Rechte vorbehalten: IMAGO / dts NachrichtenagenturDer KI-Boom lässt den Strombedarf von Rechenzentren rasant ansteigen. Doch statt den Energieverbrauch zu beg",
+      "link": "https://netzpolitik.org/2026/ki-boom-wie-die-bundesregierung-die-regulierung-von-rechenzentren-aushoehlt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Beschwerde erfolgreich: Politisches Microtargeting von vier Parteien war rechtswidrig",
+      "text": "Vier Parteien spielten gezielte Wahlwerbung für bestimmte Nutzergruppen aus (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Silvan ArnetNicht alle bekamen dieselbe Wahlwerbung zu sehen: Mindestens vier Parteien spielten im Bundestagswahlkampf 2021 auf Faceb",
+      "link": "https://netzpolitik.org/2026/beschwerde-erfolgreich-politisches-microtargeting-von-vier-parteien-war-rechtswidrig/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "PHP-Sicherheitslücken: Wir stehen auf den Schultern vieler kleiner Giganten",
+      "text": "Wir stehen auf den Schultern vieler kleiner Giganten.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Chris CurryAuch wenn „das Internet“ nach der Aufregung der vergangenen Tage vielerorts wieder stabil läuft, ist es kaputt. Und das hat viel mit dem schiefen sozialen Ge",
+      "link": "https://netzpolitik.org/2026/wir-stehen-auf-den-schultern-vieler-kleiner-giganten/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Koalitionsverhandlungen in Berlin: Rot-Rot-Grün muss KI-Kameras stoppen",
+      "text": "Muss da dringend wieder weg: Videoüberwachung am Kottbusser Tor in Berlin.    –   CC-BY-NC-SA 4.0: netzpolitik.orgWie geht es weiter mit den KI-Kameras in Berlin? Das haben Verhandler*innen von Linken, Grünen und SPD nun zu klären. Wenn ihnen die Stadt wichtig ist, gibt es nur ei",
+      "link": "https://netzpolitik.org/2026/koalitionsverhandlungen-in-berlin-rot-rot-gruen-muss-ki-kameras-stoppen/"
+    }
+  ]
+}
