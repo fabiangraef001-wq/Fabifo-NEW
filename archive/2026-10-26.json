@@ -1,0 +1,286 @@
+{
+  "updated": "2026-10-26T10:53+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25393.8,
+      "unit": "Pkt.",
+      "change_pct": 0.84,
+      "history": [
+        25622.6,
+        25319.8,
+        25304.4,
+        25645.0,
+        25371.8,
+        25181.7,
+        25393.8
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 28957.5,
+      "unit": "Pkt.",
+      "change_pct": -0.0,
+      "history": [
+        29935.6,
+        29187.6,
+        29529.3,
+        29490.3,
+        29822.5,
+        28958.7,
+        28957.5
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7623.7,
+      "unit": "Pkt.",
+      "change_pct": -0.52,
+      "history": [
+        7744.1,
+        7659.4,
+        7690.7,
+        7712.6,
+        7757.2,
+        7663.4,
+        7623.7
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 110.1,
+      "unit": "$",
+      "change_pct": -5.66,
+      "history": [
+        109.6,
+        108.8,
+        108.8,
+        113.2,
+        116.7,
+        110.1
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4026.0,
+      "unit": "$",
+      "change_pct": 0.45,
+      "history": [
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4026.0
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1202,
+      "unit": "",
+      "change_pct": -0.17,
+      "history": [
+        1.1213,
+        1.1225,
+        1.1216,
+        1.1227,
+        1.1235,
+        1.1221,
+        1.1202
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent",
+    "gold"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+    "text": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Oxford Street in London wird zur Fußgängerzone",
+        "text": "Von heute an fahren auf einem Teil der bekannten Londoner Oxford Street keine Autos, Busse und Taxis mehr. Der Umbau zur Fußgängerzone soll der Einkaufsstraße neues Leben einhauchen.",
+        "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
+        "text": "Bei hohen Wellen und starkem Wind hat ein Kreuzfahrtschiff in Bremerhaven zwei Containerschiffe gerammt. Insgesamt verlief die Sturmnacht im Norden relativ glimpflich. Doch für den Mittag gibt es weitere Sturmflutwarnungen.",
+        "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
+        "text": "Feuerwerk und Freudentränen - in Brasilien feiern Anhänger den Wahlsieg von Lula als Erfolg der Demokratie. Doch während die einen aufatmen, warnen andere vor dem politischen Kampf, der jetzt erst beginnt. Von Anne Herrberg.",
+        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
+        "text": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
+        "link": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "11KM-Podcast: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht",
+        "text": "Seit 25 Jahren können Frauen in der Bundeswehr alle Dienstgrade erreichen. Doch viele Soldatinnen berichten von Sexismus und Gewalt. Der Podcast 11KM über eine Kultur des Wegschauens.",
+        "link": "https://www.tagesschau.de/podcast-11km-frauen-bundeswehr-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
+        "text": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F. Flade und R. Pinkert.",
+        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+        "text": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Netanjahus Gegenkandidaten bei der Israel-Wahl: Gemeinsam für den Neuanfang?",
+        "text": "Morgen wählt Israel. Dann entscheidet sich, ob das Land einen neuen Premier bekommt. Oder ob das \"Anti-Netanjahu-Bündnis\" gewinnt. Doch die unterschiedlichen Vorstellungen der Kandidaten könnten zum Problem werden. Von J.-C. Kitzler.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-netanjahu-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie die Ukraine einen Soldaten per Drohne rettete",
+        "text": "Der Ukraine ist eine spektakuläre Mission gelungen: Erstmals wurde ein verwundeter Soldat aus dem Frontgebiet mit einer Drohne ausgeflogen. Im ARD-Interview berichtet er, wie er seine Rettung erlebte. Von V. Golod und N. Bula.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Umfragen vor den Midterms: Trumps frühere Wähler wenden sich von ihm ab",
+        "text": "US-Präsident Trump wurde 2024 von vielen Menschen gewählt, die sonst nicht für die Republikaner stimmen. Kurz vor den Zwischenwahlen zeigen Umfragen nun: Diese Wähler hat er besonders enttäuscht. Von Jörg Schönenborn.",
+        "link": "https://www.tagesschau.de/ausland/amerika/midterms-umfragen-trump-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
+        "text": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
+        "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gaza droht eine neue Ernährungskrise",
+        "text": "Die Lage im Gazastreifen droht sich wieder zu verschärfen - denn das Welternährungsprogramm muss seine Lebensmittellieferungen massiv kürzen. Der Grund: Die internationalen Geldgeber zahlen deutlich weniger ein. Von Bettina Meier.",
+        "link": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Bürger denken, dass innovative Lebensmittel nützlich sein können, wollen aber mehr Informationen, zeigt neue Eurobarometer-Umfrage",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Europäische Kommission hat heute die Ergebnisse einer neuen Eurobarometer-Sonderumfrage zur Lebensmittelinnovation veröffentlicht, die einen EU-weiten Überblick darüber bietet, wie die Europäer innovative Lebensmittel",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2231"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Šefčovič at the press conference following the informal Foreign Affairs Council (Trade)",
+        "text": "European Commission Speech Dublin, 23 Oct 2026 Good afternoon and thank you, Minister – dear Helen – for your hospitality. I always leave Dublin impressed by its positive energy and this time, also grateful ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2252"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Rede von Präsidentin von der Leyen vor der ungarischen Nationalversammlung anlässlich des 70. Jahrestages der ungarischen Revolution von 1956",
+        "text": "European Commission Rede Budapest, 23 Oct 2026 „Es gilt das gesprochene Wort“\n \nSehr geehrter Herr Sprecher Forsthoffer,\nSehr geehrter Herr Präsident Baka,\nSehr geehrter Herr Premierminister Magyar,\nSehr gee...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2251"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission schlägt stärkere Anerkennung europäischer Kulturerbestätten vor*",
+        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Die Europäische Kommission hat vorgeschlagen, den Rechtsrahmen für das Europäische Kulturerbe-Siegel zu erneuern und zu stärken. Das Programm wurde 2011 angenommen und zielt darauf ab, Stätten - Gebäude, Denkmäler, Dokume",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2250"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 23 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 26 Oct 2026 EU-Katastrophenschutzverfahren wird 25 Jahre altSeit 25 Jahren bündeln die europäischen Länder ihre Kräfte, um bei Katastrophen im Rahmen des EU-Katastrophensch...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2249"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Katastrophenschutzverfahren wird 25*",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Seit 25 Jahren bündeln die europäischen Länder ihre Kräfte, um bei Katastrophen im Rahmen des EU-Katastrophenschutzverfahrens Leben zu retten. Dies ist eines der besten Beispiele für europäische Solidarität in Aktion.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2248"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
+        "text": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
+        "text": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+      "text": "Ohne Aufsehen endete des Projekts \"Mein Bildungsraum\" (Symbolbild)     –   CC-BY-SA 4.0: Grabsteindetail Granary-Friedhof Boston: Wikimedia Commons / Rhododendrites; Bearbeitung: netzpolitik.orgDie Bundesregierung hat das digitale Großprojekt „Mein Bildungsraum“ begraben. Von dem",
+      "link": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Breakpoint: Verboten emanzipatorisch?",
+      "text": "Das Monument à la République in Paris trägt gelb.    –   Alle Rechte vorbehalten: ABACAPRESS / ImagoHunderttausende junge Menschen rufen in Europa zu Massenprotesten auf. Soziale Medien spielen dabei eine entscheidende Rolle. Emanzipatorisch sind TikTok, Instagram und Co. trotzde",
+      "link": "https://netzpolitik.org/2026/breakpoint-verboten-emanzipatorisch/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 43: Die Woche, in der das Internet geschlossen wurde",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 43. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 113.270 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-43-die-woche-in-der-das-internet-geschlossen-wurde/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI-Boom: Wie die Bundesregierung die Regulierung von Rechenzentren aushöhlt",
+      "text": "Bundeskanzler Friedrich Merz (CDU) und Nvidia-Chef Jensen Huang auf dem \"Invest in Germany\"-Gipfel in Berlin.    –   Alle Rechte vorbehalten: IMAGO / dts NachrichtenagenturDer KI-Boom lässt den Strombedarf von Rechenzentren rasant ansteigen. Doch statt den Energieverbrauch zu beg",
+      "link": "https://netzpolitik.org/2026/ki-boom-wie-die-bundesregierung-die-regulierung-von-rechenzentren-aushoehlt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Beschwerde erfolgreich: Politisches Microtargeting von vier Parteien war rechtswidrig",
+      "text": "Vier Parteien spielten gezielte Wahlwerbung für bestimmte Nutzergruppen aus (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Silvan ArnetNicht alle bekamen dieselbe Wahlwerbung zu sehen: Mindestens vier Parteien spielten im Bundestagswahlkampf 2021 auf Faceb",
+      "link": "https://netzpolitik.org/2026/beschwerde-erfolgreich-politisches-microtargeting-von-vier-parteien-war-rechtswidrig/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "PHP-Sicherheitslücken: Wir stehen auf den Schultern vieler kleiner Giganten",
+      "text": "Wir stehen auf den Schultern vieler kleiner Giganten.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Chris CurryAuch wenn „das Internet“ nach der Aufregung der vergangenen Tage vielerorts wieder stabil läuft, ist es kaputt. Und das hat viel mit dem schiefen sozialen Ge",
+      "link": "https://netzpolitik.org/2026/wir-stehen-auf-den-schultern-vieler-kleiner-giganten/"
+    }
+  ]
+}

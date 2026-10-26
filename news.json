@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-25T09:40+00:00",
+  "updated": "2026-10-26T10:53+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25181.7,
+      "value": 25393.8,
       "unit": "Pkt.",
-      "change_pct": -0.75,
+      "change_pct": 0.84,
       "history": [
-        25382.6,
         25622.6,
         25319.8,
         25304.4,
         25645.0,
         25371.8,
-        25181.7
+        25181.7,
+        25393.8
       ]
     },
     "nasdaq100": {
@@ -48,45 +48,45 @@
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 111.7,
+      "value": 110.1,
       "unit": "$",
-      "change_pct": -1.33,
+      "change_pct": -5.66,
       "history": [
-        109.9,
         109.6,
         108.8,
         108.8,
         113.2,
-        111.7
+        116.7,
+        110.1
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4007.9,
+      "value": 4026.0,
       "unit": "$",
-      "change_pct": -1.29,
+      "change_pct": 0.45,
       "history": [
-        4181.1,
         4160.1,
         4142.6,
         4150.0,
         4060.4,
-        4007.9
+        4007.9,
+        4026.0
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1204,
+      "value": 1.1202,
       "unit": "",
-      "change_pct": -0.28,
+      "change_pct": -0.17,
       "history": [
-        1.1195,
         1.1213,
         1.1225,
         1.1216,
         1.1227,
         1.1235,
-        1.1204
+        1.1221,
+        1.1202
       ]
     },
     "fed_rate": {
@@ -106,92 +106,99 @@
   },
   "ticker_relevant": [
     "dax",
-    "brent"
+    "brent",
+    "gold"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Proteste in Europa - auch mit Gewalt",
-    "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
-    "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
+    "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+    "text": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Proteste in Europa - auch mit Gewalt",
-        "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende.",
-        "link": "https://www.tagesschau.de/ausland/europa/proteste-frankreich-spanien-italien-protugal-albanien-100.html"
+        "title": "Oxford Street in London wird zur Fußgängerzone",
+        "text": "Von heute an fahren auf einem Teil der bekannten Londoner Oxford Street keine Autos, Busse und Taxis mehr. Der Umbau zur Fußgängerzone soll der Einkaufsstraße neues Leben einhauchen.",
+        "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie Erdwärme die Wärmeversorgung verändern soll",
-        "text": "In Potsdam wird gerade mehr als einen Kilometer in den Boden gebohrt, um künftig Tausende Haushalte mit Erdwärme zu versorgen. Die Technik birgt Risiken, aber auch viele Chancen. Von M. Kell und H. Christ.",
-        "link": "https://www.tagesschau.de/wirtschaft/technologie/erdwaerme-waermeversorgung-heizen-100.html"
+        "title": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
+        "text": "Bei hohen Wellen und starkem Wind hat ein Kreuzfahrtschiff in Bremerhaven zwei Containerschiffe gerammt. Insgesamt verlief die Sturmnacht im Norden relativ glimpflich. Doch für den Mittag gibt es weitere Sturmflutwarnungen.",
+        "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Serbien wählt - kann Vucic seine Macht wieder festigen?",
-        "text": "Serbiens langjähriger Staatschef Vucic will heute die Wahl gewinnen und Premier werden. Doch die starke Protestbewegung der Studenten könnte ihn nach 14 Jahren entmachten. Wer ist Vucic? Von Oliver Soos.",
-        "link": "https://www.tagesschau.de/ausland/europa/serbien-wahl-portraet-vucic-100.html"
+        "title": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
+        "text": "Feuerwerk und Freudentränen - in Brasilien feiern Anhänger den Wahlsieg von Lula als Erfolg der Demokratie. Doch während die einen aufatmen, warnen andere vor dem politischen Kampf, der jetzt erst beginnt. Von Anne Herrberg.",
+        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Lula oder Bolsonaro: Brasilien vor der Stichwahl",
-        "text": "Lula oder Bolsonaro - beide Präsidentschaftskandidaten liegen vor der Stichwahl in Brasilien gleichauf. Das Land ist tief gespalten. Dabei könnten gerade die Unentschlossenen zum entscheidenden Faktor werden. Von Anne Herrberg.",
-        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-stichwahl-bolsonaro-lula-100.html"
+        "title": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
+        "text": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
+        "link": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-        "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen.",
-        "link": "https://www.tagesschau.de/ausland/europa/frankreich-vorbereitung-ausschreitungen-100.html"
+        "title": "11KM-Podcast: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht",
+        "text": "Seit 25 Jahren können Frauen in der Bundeswehr alle Dienstgrade erreichen. Doch viele Soldatinnen berichten von Sexismus und Gewalt. Der Podcast 11KM über eine Kultur des Wegschauens.",
+        "link": "https://www.tagesschau.de/podcast-11km-frauen-bundeswehr-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "65 Jahre Anwerbeabkommen: Zum Arbeiten gekommen, Heimat gefunden",
-        "text": "Als Deutschland und die Türkei 1961 das Anwerbeabkommen unterschreiben, rechnet niemand damit, dass Hunderttausende Menschen dauerhaft eine Heimat hier finden werden. Für viele ein hart erarbeiteter Erfolg. Von Carolyn Wißing.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/anwerbeabkommen-tuerkei-100.html"
+        "title": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
+        "text": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F. Flade und R. Pinkert.",
+        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Israel will Westjordanland am Wahltag abriegeln",
-        "text": "Vor der Parlamentswahl in Israel verschärft die Armee ihr Vorgehen im Westjordanland. Demnach sollen sämtliche Übergänge zu dem Palästinensergebiet geschlossen werden, teilte das Militär mit.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-westjordanland-lockdown-parlamentswahlen-100.html"
+        "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
+        "text": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Musk wirft Ukraine Verstoß bei Starlink-Nutzung vor",
-        "text": "Tech-Milliardär Musk wirft der Ukraine vor, seinen Satelliten-Internetdienst Starlink für tödliche Drohnenangriffe missbraucht zu haben. Das System sei kein \"Mittel zum Töten\", sagte Musk. Die Sicherheitslücke sei inzwischen aber geschlossen.",
-        "link": "https://www.tagesschau.de/ausland/amerika/musk-ukraine-starlink-100.html"
+        "title": "Netanjahus Gegenkandidaten bei der Israel-Wahl: Gemeinsam für den Neuanfang?",
+        "text": "Morgen wählt Israel. Dann entscheidet sich, ob das Land einen neuen Premier bekommt. Oder ob das \"Anti-Netanjahu-Bündnis\" gewinnt. Doch die unterschiedlichen Vorstellungen der Kandidaten könnten zum Problem werden. Von J.-C. Kitzler.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-netanjahu-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Audi kündigt US-Werk an - auf Trumps Wahlkampftour",
-        "text": "Immer wieder droht Trump ausländischen Unternehmen mit hohen Zöllen. Nun kündigte Audi den Bau seines ersten Werks in den USA an. Auf einer Wahlkampfveranstaltung durfte der US-Präsident damit auch für sich werben.",
-        "link": "https://www.tagesschau.de/ausland/amerika/audi-usa-trump-100.html"
+        "title": "Wie die Ukraine einen Soldaten per Drohne rettete",
+        "text": "Der Ukraine ist eine spektakuläre Mission gelungen: Erstmals wurde ein verwundeter Soldat aus dem Frontgebiet mit einer Drohne ausgeflogen. Im ARD-Interview berichtet er, wie er seine Rettung erlebte. Von V. Golod und N. Bula.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Midterms in den USA: Amerikanischer Traum in weiter Ferne",
-        "text": "Höherer Lebensstandard durch harte Arbeit: Der klassische amerikanische Traum scheint jungen US-Bürgern zunehmend unerreichbar. Was erwarten sie von den Zwischenwahlen? Anne Schneider hat sich in Texas umgehört.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-junge-waehler-100.html"
+        "title": "Umfragen vor den Midterms: Trumps frühere Wähler wenden sich von ihm ab",
+        "text": "US-Präsident Trump wurde 2024 von vielen Menschen gewählt, die sonst nicht für die Republikaner stimmen. Kurz vor den Zwischenwahlen zeigen Umfragen nun: Diese Wähler hat er besonders enttäuscht. Von Jörg Schönenborn.",
+        "link": "https://www.tagesschau.de/ausland/amerika/midterms-umfragen-trump-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Israelische Armee startet Einsatz in Hebron",
-        "text": "Nach dem tödlichen Angriff auf Soldaten hat Israel in Hebron im Westjordanland einen Militäreinsatz begonnen. Premier Netanjahu kündigte eine \"sehr große Überraschung\" für die Palästinensische Autonomiebehörde an.",
-        "link": "https://www.tagesschau.de/ausland/asien/westjordanland-abriegelung-102.html"
+        "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
+        "text": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
+        "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Krieg gegen die Ukraine: Starlink funktioniert wieder stabil",
-        "text": "Die Satellitenkommunikation von SpaceX in der Ukraine funktioniert nach Angaben aus Kiew wieder stabil. Die ukrainische Armee meldet derweil Angriffe auf russische Industrieanlagen.",
-        "link": "https://www.tagesschau.de/ausland/amerika/musk-starlink-ukraine-102.html"
+        "title": "Gaza droht eine neue Ernährungskrise",
+        "text": "Die Lage im Gazastreifen droht sich wieder zu verschärfen - denn das Welternährungsprogramm muss seine Lebensmittellieferungen massiv kürzen. Der Grund: Die internationalen Geldgeber zahlen deutlich weniger ein. Von Bettina Meier.",
+        "link": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html"
       }
     ],
     "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Bürger denken, dass innovative Lebensmittel nützlich sein können, wollen aber mehr Informationen, zeigt neue Eurobarometer-Umfrage",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Europäische Kommission hat heute die Ergebnisse einer neuen Eurobarometer-Sonderumfrage zur Lebensmittelinnovation veröffentlicht, die einen EU-weiten Überblick darüber bietet, wie die Europäer innovative Lebensmittel",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2231"
+      },
       {
         "source": "EU-Kommission",
         "title": "Remarks by Commissioner Šefčovič at the press conference following the informal Foreign Affairs Council (Trade)",
@@ -212,33 +219,39 @@
       },
       {
         "source": "EU-Kommission",
-        "title": "Daily News 23 / 10 / 2026",
-        "text": "European Commission Daily news Brussels, 23 Oct 2026 EU Civil Protection Mechanism turns 25\nFor 25 years, European countries have been joining forces to save lives when disasters strike under the EU Civil Protecti...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2249"
+        "title": "Tägliche Nachrichten 23 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 26 Oct 2026 EU-Katastrophenschutzverfahren wird 25 Jahre altSeit 25 Jahren bündeln die europäischen Länder ihre Kräfte, um bei Katastrophen im Rahmen des EU-Katastrophensch...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2249"
       },
       {
         "source": "EU-Kommission",
-        "title": "EU-Katastrophenschutzverfahren wird 25 Jahre alt",
-        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Seit 25 Jahren bündeln die europäischen Länder ihre Kräfte, um bei Katastrophen im Rahmen des EU-Katastrophenschutzverfahrens Leben zu retten. Dies ist eines der besten Beispiele für europäische Solidarität in Aktion.",
+        "title": "EU-Katastrophenschutzverfahren wird 25*",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Seit 25 Jahren bündeln die europäischen Länder ihre Kräfte, um bei Katastrophen im Rahmen des EU-Katastrophenschutzverfahrens Leben zu retten. Dies ist eines der besten Beispiele für europäische Solidarität in Aktion.",
         "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2248"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "EU kündigt weitere 22,5 Mio. EUR zur Aufstockung der humanitären Hilfe im Jemen an",
-        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Die Europäische Kommission stellt zusätzlich zu den 87,5 Mio. EUR, die zuvor für 2026 bereitgestellt wurden, 22,5 Mio. EUR an humanitärer Hilfe für Jemen bereit, um die Folgen der erneuten Eskalation des Konflikts und die",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2247"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX-Anleger meiden das Risiko",
-        "text": "Hohe Ölpreise, anhaltenden Sorgen um Frankreichs Staatsfinanzen und immer wieder neue Bedenken bei der Künstlichen Intelligenz. Zu viele Probleme gleichzeitig für die Anleger, der DAX gab nach.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-boom-100.html"
+        "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
+        "text": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
+        "text": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+      "text": "Ohne Aufsehen endete des Projekts \"Mein Bildungsraum\" (Symbolbild)     –   CC-BY-SA 4.0: Grabsteindetail Granary-Friedhof Boston: Wikimedia Commons / Rhododendrites; Bearbeitung: netzpolitik.orgDie Bundesregierung hat das digitale Großprojekt „Mein Bildungsraum“ begraben. Von dem",
+      "link": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Breakpoint: Verboten emanzipatorisch?",
@@ -268,12 +281,6 @@
       "title": "PHP-Sicherheitslücken: Wir stehen auf den Schultern vieler kleiner Giganten",
       "text": "Wir stehen auf den Schultern vieler kleiner Giganten.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Chris CurryAuch wenn „das Internet“ nach der Aufregung der vergangenen Tage vielerorts wieder stabil läuft, ist es kaputt. Und das hat viel mit dem schiefen sozialen Ge",
       "link": "https://netzpolitik.org/2026/wir-stehen-auf-den-schultern-vieler-kleiner-giganten/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Koalitionsverhandlungen in Berlin: Rot-Rot-Grün muss KI-Kameras stoppen",
-      "text": "Muss da dringend wieder weg: Videoüberwachung am Kottbusser Tor in Berlin.    –   CC-BY-NC-SA 4.0: netzpolitik.orgWie geht es weiter mit den KI-Kameras in Berlin? Das haben Verhandler*innen von Linken, Grünen und SPD nun zu klären. Wenn ihnen die Stadt wichtig ist, gibt es nur ei",
-      "link": "https://netzpolitik.org/2026/koalitionsverhandlungen-in-berlin-rot-rot-gruen-muss-ki-kameras-stoppen/"
     }
   ]
 }
