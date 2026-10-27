@@ -1,92 +1,94 @@
 {
-  "updated": "2026-10-26T10:53+00:00",
+  "updated": "2026-10-27T10:17+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25393.8,
+      "value": 25415.5,
       "unit": "Pkt.",
-      "change_pct": 0.84,
+      "change_pct": 0.02,
       "history": [
-        25622.6,
         25319.8,
         25304.4,
         25645.0,
         25371.8,
         25181.7,
-        25393.8
+        25410.8,
+        25415.5
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 28957.5,
+      "value": 29273.4,
       "unit": "Pkt.",
-      "change_pct": -0.0,
+      "change_pct": 1.09,
       "history": [
-        29935.6,
         29187.6,
         29529.3,
         29490.3,
         29822.5,
         28958.7,
-        28957.5
+        28957.5,
+        29273.4
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7623.7,
+      "value": 7676.8,
       "unit": "Pkt.",
-      "change_pct": -0.52,
+      "change_pct": 0.7,
       "history": [
-        7744.1,
         7659.4,
         7690.7,
         7712.6,
         7757.2,
         7663.4,
-        7623.7
+        7623.7,
+        7676.8
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 110.1,
+      "value": 111.0,
       "unit": "$",
-      "change_pct": -5.66,
+      "change_pct": -4.15,
       "history": [
         109.6,
         108.8,
         108.8,
         113.2,
         116.7,
-        110.1
+        115.8,
+        111.0
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4026.0,
+      "value": 4012.8,
       "unit": "$",
-      "change_pct": 0.45,
+      "change_pct": -0.63,
       "history": [
         4160.1,
         4142.6,
         4150.0,
         4060.4,
         4007.9,
-        4026.0
+        4038.4,
+        4012.8
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1202,
+      "value": 1.1143,
       "unit": "",
-      "change_pct": -0.17,
+      "change_pct": -0.67,
       "history": [
-        1.1213,
         1.1225,
         1.1216,
         1.1227,
         1.1235,
         1.1221,
-        1.1202
+        1.1218,
+        1.1143
       ]
     },
     "fed_rate": {
@@ -106,142 +108,153 @@
   },
   "ticker_relevant": [
     "dax",
-    "brent",
-    "gold"
+    "brent"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-    "text": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+    "title": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
+    "text": "Der Chiphersteller Infineon baut sein Werk in Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Oxford Street in London wird zur Fußgängerzone",
-        "text": "Von heute an fahren auf einem Teil der bekannten Londoner Oxford Street keine Autos, Busse und Taxis mehr. Der Umbau zur Fußgängerzone soll der Einkaufsstraße neues Leben einhauchen.",
-        "link": "https://www.tagesschau.de/ausland/europa/london-oxford-street-100.html"
+        "title": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
+        "text": "Der Chiphersteller Infineon baut sein Werk in Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Kreuzfahrtschiff rammt Containerschiffe - neue Sturmflutwarnung",
-        "text": "Bei hohen Wellen und starkem Wind hat ein Kreuzfahrtschiff in Bremerhaven zwei Containerschiffe gerammt. Insgesamt verlief die Sturmnacht im Norden relativ glimpflich. Doch für den Mittag gibt es weitere Sturmflutwarnungen.",
-        "link": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html"
+        "title": "Marktbericht: Anleger warten auf weitere Unternehmensbilanzen",
+        "text": "In den kommenden Tagen werden eine ganze Reihe von wichtigen Unternehmen ihre Geschäftsberichte vorstellen. Die Anleger hoffen auf frische Impulse für den Aktienmarkt, bis dahin bleiben sie zurückhaltend.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wahlen in Brasilien: Eine Nacht zwischen Jubel und Misstrauen",
-        "text": "Feuerwerk und Freudentränen - in Brasilien feiern Anhänger den Wahlsieg von Lula als Erfolg der Demokratie. Doch während die einen aufatmen, warnen andere vor dem politischen Kampf, der jetzt erst beginnt. Von Anne Herrberg.",
-        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-wahlen-lula-102.html"
+        "title": "Pflegekommission der Bundesregierung nimmt ihre Arbeit auf",
+        "text": "Mit einer großen Reform will die Bundesregierung die Pflege zukunftsfest machen. Vorschläge dafür soll eine Kommission entwickeln, die heute ihre Arbeit aufnimmt. Wer ist dabei? Was sind die Knackpunkte? Und wann gibt es Ergebnisse?",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekommission-pflegereform-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
-        "text": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax.",
-        "link": "https://www.tagesschau.de/wissen/klima/goldabbau-ghana-abholzung-regenwald-100.html"
+        "title": "Justizministerin Hubig sieht noch \"viele Fragezeichen\" bei Gesetz zu Vergesellschaftungen",
+        "text": "Innenminister Dobrindt plant hohe Hürden für Vergesellschaftungen von Wohnungen. Doch seine Kabinettskollegin Hubig sieht noch viel Klärungsbedarf - die Justizministerin verweist auf verfassungsrechtliche Bedenken.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-sieht-klaerungsbedarf-bei-gesetz-zu-enteignungen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "11KM-Podcast: Frauen in der Bundeswehr - belästigt, gemobbt, missbraucht",
-        "text": "Seit 25 Jahren können Frauen in der Bundeswehr alle Dienstgrade erreichen. Doch viele Soldatinnen berichten von Sexismus und Gewalt. Der Podcast 11KM über eine Kultur des Wegschauens.",
-        "link": "https://www.tagesschau.de/podcast-11km-frauen-bundeswehr-100.html"
+        "title": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
+        "text": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
+        "link": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
-        "text": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F. Flade und R. Pinkert.",
-        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/nachrichtendienst-google-100.html"
+        "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+        "text": "Die Berliner Linke will heute darüber beraten, ob die Abgeordnete Vanessa Emde aus der Parteifraktion ausgeschlossen werden soll. Emde steht unter anderem wegen ihrer Aussagen zum Existenzrecht Israels in der Kritik.",
+        "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Audi-Chef bei Trump - Verstoß gegen Konzernregeln?",
-        "text": "US-Präsident Trump und Audi-Chef Döllner auf einer Bühne - das stößt auf scharfe Kritik. Der Vorstandsvorsitzende kündigte in den USA ein neues Werk an. Nun könnten die eigenen Konzernleitlinien für ihn zum Problem werden.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/audi-us-werk-doellner-trump-100.html"
+        "title": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
+        "text": "Die USA sind der wichtigste Verbündete Israels. Doch das Verhältnis wandelt sich. Vor allem jüngere US-Bürger sehen die Regierung Netanjahu kritisch. Das wirkt sich auch auf den Wahlkampf von Demokraten und Republikanern aus. Von A. Henze.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Netanjahus Gegenkandidaten bei der Israel-Wahl: Gemeinsam für den Neuanfang?",
-        "text": "Morgen wählt Israel. Dann entscheidet sich, ob das Land einen neuen Premier bekommt. Oder ob das \"Anti-Netanjahu-Bündnis\" gewinnt. Doch die unterschiedlichen Vorstellungen der Kandidaten könnten zum Problem werden. Von J.-C. Kitzler.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-wahlen-netanjahu-100.html"
+        "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+        "text": "Seit Jahren ist die von Russland besetzte Stadt Oleschky in der Ostukraine umkämpft. Trotzdem leben dort noch bis zu 2.000 Menschen. Damit sie Hilfe bekommen, gilt jetzt eine Feuerpause. Andernorts gehen die Angriffe weiter.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie die Ukraine einen Soldaten per Drohne rettete",
-        "text": "Der Ukraine ist eine spektakuläre Mission gelungen: Erstmals wurde ein verwundeter Soldat aus dem Frontgebiet mit einer Drohne ausgeflogen. Im ARD-Interview berichtet er, wie er seine Rettung erlebte. Von V. Golod und N. Bula.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-soldat-rettung-drohne-100.html"
+        "title": "11KM-Podcast: Wer gewinnt die Wahl in Israel?",
+        "text": "Bei der Knesset-Wahl in Israel tritt Amtsinhaber Netanjahu gegen Herausforderer Eisenkot an. Der Podcast 11KM fragt: Welche Chancen hat der Ex-General und sogenannte Anti-Bibi?",
+        "link": "https://www.tagesschau.de/podcast-11km-wahl-israel-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Umfragen vor den Midterms: Trumps frühere Wähler wenden sich von ihm ab",
-        "text": "US-Präsident Trump wurde 2024 von vielen Menschen gewählt, die sonst nicht für die Republikaner stimmen. Kurz vor den Zwischenwahlen zeigen Umfragen nun: Diese Wähler hat er besonders enttäuscht. Von Jörg Schönenborn.",
-        "link": "https://www.tagesschau.de/ausland/amerika/midterms-umfragen-trump-100.html"
+        "title": "Knesset-Wahl 2026: Israel vor der Entscheidung",
+        "text": "Es ist eine fundamentale Richtungsentscheidung in einer der schwersten Krisen Israels: Mehr als 7,3 Millionen Wahlberechtigte stimmen ab. 70.000 Staatsbürger aus aller Welt fliegen ein. Heute wird ein neues Parlament gewählt. Von J. Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
-        "text": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen.",
-        "link": "https://www.tagesschau.de/ausland/burnham-freizuegigkeit-100.html"
+        "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+        "text": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
+        "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Gaza droht eine neue Ernährungskrise",
-        "text": "Die Lage im Gazastreifen droht sich wieder zu verschärfen - denn das Welternährungsprogramm muss seine Lebensmittellieferungen massiv kürzen. Der Grund: Die internationalen Geldgeber zahlen deutlich weniger ein. Von Bettina Meier.",
-        "link": "https://www.tagesschau.de/ausland/gaza-ernaehrung-100.html"
+        "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+        "text": "Trotz der geplanten Wiederaufnahme von Gesprächen unter US-Vermittlung will Russland die Ukraine weiter angreifen. In Charkiw wurden bei einer russischen Attacke zwei Menschen getötet. Und in Oleschky ist eine lokal begrenzte Waffenruhe in Kraft getreten.",
+        "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
+        "title": "Statement by Commissioner Serafin on the presentation of the High-Level Group Report on the Future of the European Commission's Civil Service",
+        "text": "European Commission Statement Brussels, 26 Oct 2026 Good afternoon,\nToday marks another milestone in the process initiated by the President to carry out an in-depth review of the way in which the European Commiss...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2259"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen mit Kommissar Serafin und Catherine Day, Vorsitzende der Hochrangigen Gruppe zur Zukunft des öffentlichen Dienstes der Kommission, anlässlich der Übergabe des Berichts der externen Berater zur umfassenden Überprüfung",
+        "text": "European Commission Erklärung Brussels, 26 Oct 2026 Wir leben in einer Welt, die uns kaum Zeit lässt, uns anzupassen. Wir stehen vor wachsenden externen und internen Herausforderungen für unsere Sicherheit, unser...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2258"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 26 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 26 Oct 2026 Kommission akzeptiert Aktionsplan von Temu zur Behebung des Verstoßes gegen das Gesetz über digitale Dienste Die Europäische Kommission hat den Aktionsplan von ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2257"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission startet T-MED-Investitionsplattform mit EU-Garantien in Höhe von bis zu 4,5 Mrd. EUR",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Europäische Kommission hat heute die Investitionsplattform T-MED ins Leben gerufen, um umfangreiche Investitionen in erneuerbare Energien und saubere Technologien im gesamten Mittelmeerraum zu mobilisieren. Die Plattf",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2256"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Eine Außenperspektive auf die Zukunft des öffentlichen Dienstes der Europäischen Kommission",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Hochrangige Gruppe unter dem Vorsitz von Catherine Day hat heute die Ergebnisse ihrer Überlegungen zur groß angelegten Überprüfung mit Präsidentin von der Leyen und Kommissionsmitglied Serafin geteilt.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2253"
+      },
+      {
+        "source": "EU-Kommission",
         "title": "EU-Bürger denken, dass innovative Lebensmittel nützlich sein können, wollen aber mehr Informationen, zeigt neue Eurobarometer-Umfrage",
         "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Europäische Kommission hat heute die Ergebnisse einer neuen Eurobarometer-Sonderumfrage zur Lebensmittelinnovation veröffentlicht, die einen EU-weiten Überblick darüber bietet, wie die Europäer innovative Lebensmittel",
         "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2231"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Šefčovič at the press conference following the informal Foreign Affairs Council (Trade)",
-        "text": "European Commission Speech Dublin, 23 Oct 2026 Good afternoon and thank you, Minister – dear Helen – for your hospitality. I always leave Dublin impressed by its positive energy and this time, also grateful ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2252"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Rede von Präsidentin von der Leyen vor der ungarischen Nationalversammlung anlässlich des 70. Jahrestages der ungarischen Revolution von 1956",
-        "text": "European Commission Rede Budapest, 23 Oct 2026 „Es gilt das gesprochene Wort“\n \nSehr geehrter Herr Sprecher Forsthoffer,\nSehr geehrter Herr Präsident Baka,\nSehr geehrter Herr Premierminister Magyar,\nSehr gee...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2251"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Kommission schlägt stärkere Anerkennung europäischer Kulturerbestätten vor*",
-        "text": "European Commission Pressemitteilung Brussels, 23 Oct 2026 Die Europäische Kommission hat vorgeschlagen, den Rechtsrahmen für das Europäische Kulturerbe-Siegel zu erneuern und zu stärken. Das Programm wurde 2011 angenommen und zielt darauf ab, Stätten - Gebäude, Denkmäler, Dokume",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2250"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Tägliche Nachrichten 23 / 10 / 2026",
-        "text": "European Commission Nachrichten des Tages Brussels, 26 Oct 2026 EU-Katastrophenschutzverfahren wird 25 Jahre altSeit 25 Jahren bündeln die europäischen Länder ihre Kräfte, um bei Katastrophen im Rahmen des EU-Katastrophensch...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2249"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "EU-Katastrophenschutzverfahren wird 25*",
-        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Seit 25 Jahren bündeln die europäischen Länder ihre Kräfte, um bei Katastrophen im Rahmen des EU-Katastrophenschutzverfahrens Leben zu retten. Dies ist eines der besten Beispiele für europäische Solidarität in Aktion.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2248"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-        "text": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
-        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
+        "title": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
+        "text": "Mehrere Bundesländer warnten Wirtschaftsministerin Reiche vor einem \"Fadenriss\" beim Ausbau der Windenergie auf See. Die CDU-Politikerin will nun auf eine zentrale Forderung eingehen. Investoren sollen Flächen zurückgeben können.",
+        "link": "https://www.tagesschau.de/inland/windkraft-reiche-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: Gesunkene Kurse locken Schnäppchenjäger an",
-        "text": "Nach den Kursverlusten in der vergangenen Woche geht der DAX heute auf Erholungskurs. Der ifo-Geschäftsklimaindex unterstützt, aber ein hoher Ölpreis und die Sorgen um die Nachhaltigkeit des KI-Boom belasten.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-fed-ezb-100.html"
+        "title": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
+        "text": "Den Aufwind der Demokraten vor den Midterms nächste Woche führen viele auf einen kämpferischen Linkskurs zurück - wie den des New Yorker Bürgermeisters Mamdani. Aber ist das ein Erfolgsrezept für die Demokraten überall in den USA? Von Martin Ganslmeier.",
+        "link": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
+        "text": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
+        "text": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
       }
     ]
   },

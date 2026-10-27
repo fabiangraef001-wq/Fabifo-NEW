@@ -1,0 +1,299 @@
+{
+  "updated": "2026-10-27T10:17+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25415.5,
+      "unit": "Pkt.",
+      "change_pct": 0.02,
+      "history": [
+        25319.8,
+        25304.4,
+        25645.0,
+        25371.8,
+        25181.7,
+        25410.8,
+        25415.5
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 29273.4,
+      "unit": "Pkt.",
+      "change_pct": 1.09,
+      "history": [
+        29187.6,
+        29529.3,
+        29490.3,
+        29822.5,
+        28958.7,
+        28957.5,
+        29273.4
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7676.8,
+      "unit": "Pkt.",
+      "change_pct": 0.7,
+      "history": [
+        7659.4,
+        7690.7,
+        7712.6,
+        7757.2,
+        7663.4,
+        7623.7,
+        7676.8
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 111.0,
+      "unit": "$",
+      "change_pct": -4.15,
+      "history": [
+        109.6,
+        108.8,
+        108.8,
+        113.2,
+        116.7,
+        115.8,
+        111.0
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4012.8,
+      "unit": "$",
+      "change_pct": -0.63,
+      "history": [
+        4160.1,
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4012.8
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1143,
+      "unit": "",
+      "change_pct": -0.67,
+      "history": [
+        1.1225,
+        1.1216,
+        1.1227,
+        1.1235,
+        1.1221,
+        1.1218,
+        1.1143
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
+    "text": "Der Chiphersteller Infineon baut sein Werk in Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
+        "text": "Der Chiphersteller Infineon baut sein Werk in Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Anleger warten auf weitere Unternehmensbilanzen",
+        "text": "In den kommenden Tagen werden eine ganze Reihe von wichtigen Unternehmen ihre Geschäftsberichte vorstellen. Die Anleger hoffen auf frische Impulse für den Aktienmarkt, bis dahin bleiben sie zurückhaltend.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Pflegekommission der Bundesregierung nimmt ihre Arbeit auf",
+        "text": "Mit einer großen Reform will die Bundesregierung die Pflege zukunftsfest machen. Vorschläge dafür soll eine Kommission entwickeln, die heute ihre Arbeit aufnimmt. Wer ist dabei? Was sind die Knackpunkte? Und wann gibt es Ergebnisse?",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekommission-pflegereform-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Justizministerin Hubig sieht noch \"viele Fragezeichen\" bei Gesetz zu Vergesellschaftungen",
+        "text": "Innenminister Dobrindt plant hohe Hürden für Vergesellschaftungen von Wohnungen. Doch seine Kabinettskollegin Hubig sieht noch viel Klärungsbedarf - die Justizministerin verweist auf verfassungsrechtliche Bedenken.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-sieht-klaerungsbedarf-bei-gesetz-zu-enteignungen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
+        "text": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
+        "link": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
+        "text": "Die Berliner Linke will heute darüber beraten, ob die Abgeordnete Vanessa Emde aus der Parteifraktion ausgeschlossen werden soll. Emde steht unter anderem wegen ihrer Aussagen zum Existenzrecht Israels in der Kritik.",
+        "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
+        "text": "Die USA sind der wichtigste Verbündete Israels. Doch das Verhältnis wandelt sich. Vor allem jüngere US-Bürger sehen die Regierung Netanjahu kritisch. Das wirkt sich auch auf den Wahlkampf von Demokraten und Republikanern aus. Von A. Henze.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
+        "text": "Seit Jahren ist die von Russland besetzte Stadt Oleschky in der Ostukraine umkämpft. Trotzdem leben dort noch bis zu 2.000 Menschen. Damit sie Hilfe bekommen, gilt jetzt eine Feuerpause. Andernorts gehen die Angriffe weiter.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "11KM-Podcast: Wer gewinnt die Wahl in Israel?",
+        "text": "Bei der Knesset-Wahl in Israel tritt Amtsinhaber Netanjahu gegen Herausforderer Eisenkot an. Der Podcast 11KM fragt: Welche Chancen hat der Ex-General und sogenannte Anti-Bibi?",
+        "link": "https://www.tagesschau.de/podcast-11km-wahl-israel-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Knesset-Wahl 2026: Israel vor der Entscheidung",
+        "text": "Es ist eine fundamentale Richtungsentscheidung in einer der schwersten Krisen Israels: Mehr als 7,3 Millionen Wahlberechtigte stimmen ab. 70.000 Staatsbürger aus aller Welt fliegen ein. Heute wird ein neues Parlament gewählt. Von J. Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
+        "text": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
+        "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
+        "text": "Trotz der geplanten Wiederaufnahme von Gesprächen unter US-Vermittlung will Russland die Ukraine weiter angreifen. In Charkiw wurden bei einer russischen Attacke zwei Menschen getötet. Und in Oleschky ist eine lokal begrenzte Waffenruhe in Kraft getreten.",
+        "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by Commissioner Serafin on the presentation of the High-Level Group Report on the Future of the European Commission's Civil Service",
+        "text": "European Commission Statement Brussels, 26 Oct 2026 Good afternoon,\nToday marks another milestone in the process initiated by the President to carry out an in-depth review of the way in which the European Commiss...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2259"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen mit Kommissar Serafin und Catherine Day, Vorsitzende der Hochrangigen Gruppe zur Zukunft des öffentlichen Dienstes der Kommission, anlässlich der Übergabe des Berichts der externen Berater zur umfassenden Überprüfung",
+        "text": "European Commission Erklärung Brussels, 26 Oct 2026 Wir leben in einer Welt, die uns kaum Zeit lässt, uns anzupassen. Wir stehen vor wachsenden externen und internen Herausforderungen für unsere Sicherheit, unser...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2258"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 26 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 26 Oct 2026 Kommission akzeptiert Aktionsplan von Temu zur Behebung des Verstoßes gegen das Gesetz über digitale Dienste Die Europäische Kommission hat den Aktionsplan von ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2257"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission startet T-MED-Investitionsplattform mit EU-Garantien in Höhe von bis zu 4,5 Mrd. EUR",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Europäische Kommission hat heute die Investitionsplattform T-MED ins Leben gerufen, um umfangreiche Investitionen in erneuerbare Energien und saubere Technologien im gesamten Mittelmeerraum zu mobilisieren. Die Plattf",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2256"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Eine Außenperspektive auf die Zukunft des öffentlichen Dienstes der Europäischen Kommission",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Hochrangige Gruppe unter dem Vorsitz von Catherine Day hat heute die Ergebnisse ihrer Überlegungen zur groß angelegten Überprüfung mit Präsidentin von der Leyen und Kommissionsmitglied Serafin geteilt.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2253"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Bürger denken, dass innovative Lebensmittel nützlich sein können, wollen aber mehr Informationen, zeigt neue Eurobarometer-Umfrage",
+        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Europäische Kommission hat heute die Ergebnisse einer neuen Eurobarometer-Sonderumfrage zur Lebensmittelinnovation veröffentlicht, die einen EU-weiten Überblick darüber bietet, wie die Europäer innovative Lebensmittel",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2231"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
+        "text": "Mehrere Bundesländer warnten Wirtschaftsministerin Reiche vor einem \"Fadenriss\" beim Ausbau der Windenergie auf See. Die CDU-Politikerin will nun auf eine zentrale Forderung eingehen. Investoren sollen Flächen zurückgeben können.",
+        "link": "https://www.tagesschau.de/inland/windkraft-reiche-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
+        "text": "Den Aufwind der Demokraten vor den Midterms nächste Woche führen viele auf einen kämpferischen Linkskurs zurück - wie den des New Yorker Bürgermeisters Mamdani. Aber ist das ein Erfolgsrezept für die Demokraten überall in den USA? Von Martin Ganslmeier.",
+        "link": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
+        "text": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
+        "text": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+      "text": "Ohne Aufsehen endete des Projekts \"Mein Bildungsraum\" (Symbolbild)     –   CC-BY-SA 4.0: Grabsteindetail Granary-Friedhof Boston: Wikimedia Commons / Rhododendrites; Bearbeitung: netzpolitik.orgDie Bundesregierung hat das digitale Großprojekt „Mein Bildungsraum“ begraben. Von dem",
+      "link": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Breakpoint: Verboten emanzipatorisch?",
+      "text": "Das Monument à la République in Paris trägt gelb.    –   Alle Rechte vorbehalten: ABACAPRESS / ImagoHunderttausende junge Menschen rufen in Europa zu Massenprotesten auf. Soziale Medien spielen dabei eine entscheidende Rolle. Emanzipatorisch sind TikTok, Instagram und Co. trotzde",
+      "link": "https://netzpolitik.org/2026/breakpoint-verboten-emanzipatorisch/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 43: Die Woche, in der das Internet geschlossen wurde",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 43. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 113.270 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-43-die-woche-in-der-das-internet-geschlossen-wurde/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI-Boom: Wie die Bundesregierung die Regulierung von Rechenzentren aushöhlt",
+      "text": "Bundeskanzler Friedrich Merz (CDU) und Nvidia-Chef Jensen Huang auf dem \"Invest in Germany\"-Gipfel in Berlin.    –   Alle Rechte vorbehalten: IMAGO / dts NachrichtenagenturDer KI-Boom lässt den Strombedarf von Rechenzentren rasant ansteigen. Doch statt den Energieverbrauch zu beg",
+      "link": "https://netzpolitik.org/2026/ki-boom-wie-die-bundesregierung-die-regulierung-von-rechenzentren-aushoehlt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Beschwerde erfolgreich: Politisches Microtargeting von vier Parteien war rechtswidrig",
+      "text": "Vier Parteien spielten gezielte Wahlwerbung für bestimmte Nutzergruppen aus (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Silvan ArnetNicht alle bekamen dieselbe Wahlwerbung zu sehen: Mindestens vier Parteien spielten im Bundestagswahlkampf 2021 auf Faceb",
+      "link": "https://netzpolitik.org/2026/beschwerde-erfolgreich-politisches-microtargeting-von-vier-parteien-war-rechtswidrig/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "PHP-Sicherheitslücken: Wir stehen auf den Schultern vieler kleiner Giganten",
+      "text": "Wir stehen auf den Schultern vieler kleiner Giganten.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Chris CurryAuch wenn „das Internet“ nach der Aufregung der vergangenen Tage vielerorts wieder stabil läuft, ist es kaputt. Und das hat viel mit dem schiefen sozialen Ge",
+      "link": "https://netzpolitik.org/2026/wir-stehen-auf-den-schultern-vieler-kleiner-giganten/"
+    }
+  ]
+}
