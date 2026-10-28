@@ -1,0 +1,293 @@
+{
+  "updated": "2026-10-28T11:10+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25583.8,
+      "unit": "Pkt.",
+      "change_pct": -0.03,
+      "history": [
+        25304.4,
+        25645.0,
+        25371.8,
+        25181.7,
+        25410.8,
+        25590.8,
+        25583.8
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 29651.4,
+      "unit": "Pkt.",
+      "change_pct": 1.29,
+      "history": [
+        29529.3,
+        29490.3,
+        29822.5,
+        28958.7,
+        28957.5,
+        29273.4,
+        29651.4
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7722.6,
+      "unit": "Pkt.",
+      "change_pct": 0.6,
+      "history": [
+        7690.7,
+        7712.6,
+        7757.2,
+        7663.4,
+        7623.7,
+        7676.8,
+        7722.6
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 111.1,
+      "unit": "$",
+      "change_pct": -2.46,
+      "history": [
+        108.8,
+        108.8,
+        113.2,
+        116.7,
+        115.8,
+        113.9,
+        111.1
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4057.5,
+      "unit": "$",
+      "change_pct": -0.42,
+      "history": [
+        4142.6,
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4057.5
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1127,
+      "unit": "",
+      "change_pct": -0.42,
+      "history": [
+        1.1216,
+        1.1227,
+        1.1235,
+        1.1221,
+        1.1218,
+        1.1174,
+        1.1127
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Denkmalschutz: Wer sich für unser kulturelles Erbe einsetzt",
+    "text": "Nicht nur der Staat kümmert sich um Denkmalschutz. Auch Privatpersonen und Initiativen engagieren sich für den Erhalt von Kulturgütern. Das ruft Befürworter und Kritiker auf den Plan. Von Susanne Fritz.",
+    "link": "https://www.tagesschau.de/kultur/denkmalschutz-deutschland-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Denkmalschutz: Wer sich für unser kulturelles Erbe einsetzt",
+        "text": "Nicht nur der Staat kümmert sich um Denkmalschutz. Auch Privatpersonen und Initiativen engagieren sich für den Erhalt von Kulturgütern. Das ruft Befürworter und Kritiker auf den Plan. Von Susanne Fritz.",
+        "link": "https://www.tagesschau.de/kultur/denkmalschutz-deutschland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie Meta-Chef Mark Zuckerberg eine Reichensteuer umgehen will",
+        "text": "Kalifornien stimmt bei den Midterms auch über die Einführung einer Reichensteuer ab. In dem US-Bundesstaat leben viele Tech-Milliardäre. Einer von ihnen macht schon mal mobil. Von Gabi Biesinger.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Mindestens 30 Tote nach Zugunglück in Spanien",
+        "text": "Beim Zusammenstoß zweier Züge in Spanien sind mindestens 30 Menschen getötet worden. Zwei Waggons sollen entgleist sein. Die Strecke zwischen der Hauptstadt Madrid und der südlichen Region Andalusien wurde gesperrt.",
+        "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
+        "text": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden.",
+        "link": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Berliner Linksfraktion vertagt Entscheidung über Abgeordnete Emde erneut",
+        "text": "Im Umgang mit der Abgeordneten Emde hat die Berliner Linksfraktion immer noch keine Lösung gefunden. Wie es weitergeht, blieb offen. Emde steht unter anderem wegen ihrer Aussagen zum Existenzrecht Israels in der Kritik.",
+        "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nachfolge für Steinmeier: Merz beharrt auf CDU-Vorschlagsrecht",
+        "text": "Die Debatte um die Nachfolge von Bundespräsident Steinmeier nimmt Fahrt auf. Aus dem Umfeld des Bundeskanzlers heißt es nun: Merz habe noch keine Entscheidung getroffen - und sehe das Vorschlagsrecht bei der CDU. Von Markus Preiß.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Wahl in Israel: \"Patt-Situation vielleicht gar nicht auflösbar\"",
+        "text": "Israel könnte nach der Parlamentswahl erneut auf Neuwahlen zusteuern, sagt der Nahost-Experte Woertz im Interview. Zugleich seien neue Kämpfe im Iran-Krieg nicht auszuschließen - wovon Premier Netanjahu auch profitieren könnte.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+        "text": "Vor der israelischen Botschaft in Belgrad ist ein Wachmann mit Messern attackiert worden. Der Angreifer, ein mutmaßliches Mitglied des \"Islamischen Staats\", ist dabei getötet worden. Serbien und Israel werten den Angriff als Terrorakt.",
+        "link": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nach Wahl zur Knesset: So könnte es in Israel nun weitergehen",
+        "text": "Israel hat gewählt - doch wer das Land künftig regiert, ist unklar. Der Fahrplan zur Regierungsbildung ist durch Verfassungsfristen streng geregelt. Und doch sind mehrere Szenarien nun denkbar. Ein Überblick.",
+        "link": "https://www.tagesschau.de/ausland/israel-wahl-szenarien-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Liveblog zur Israel-Wahl: ++ Wachsender Vorsprung für das Netanjahu-Lager ++",
+        "text": "Nach wie vor erreicht kein Parteienbündnis in Israel bei der Parlamentswahl die notwendige Mehrheit der Sitze, jedoch baut das Lager des amtierenden Premierministers Netanjahu den Vorsprung in kleinen Schritten aus.",
+        "link": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Israel - Eine Nacht ohne klaren Gewinner",
+        "text": "Es war eine lange, nervenaufreibende Nacht in den Wahlkampfzentralen in Tel Aviv und Jerusalem. Doch Klarheit hat dieser Morgen nicht gebracht. Im Gegenteil: Israel droht nach der Wahl eine monatelange politische Blockade. Von J. Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-patt-wahl-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Knesset-Wahl in Israel: Prognosen zeigen Patt-Situation in Israel",
+        "text": "Nach der Wahl in Israel und ersten Teilauszählungen gibt es ein enges Rennen um die Mehrheit im Parlament. Sowohl Eisenkot als auch Netanjahu kündigten an, eine Regierung bilden zu wollen.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 28 / 10 / 2026",
+        "text": "European Commission Daily news Brussels, 28 Oct 2026 New Eurobarometer survey shows young people's growing engagement and views on participatory democracy, youth issues, and EU's added value in their lives \nToday,...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2277"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Factsheet - EU Demography Toolbox",
+        "text": "European Commission Factsheet Brussels, 28 Oct 2026   Factsheet - EU Demography Toolbox Factsheet - EU Demography Toolbox",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2271"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Neue Eurobarometer-Umfrage zeigt das wachsende Engagement junger Menschen und ihre Ansichten zu partizipativer Demokratie, Jugendfragen und dem Mehrwert der EU in ihrem Leben",
+        "text": "European Commission Pressemitteilung Brussels, 28 Oct 2026 Die Europäische Kommission hat heute eine Eurobarometer-Umfrage veröffentlicht, in der das wachsende Engagement junger Europäerinnen und Europäer für und ihre Ansichten zur Demokratie aufgezeigt werden.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2274"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commissioner Roswall's speech at the event, ‘From Principles to International Cooperation: Mobilising Biodiversity Finance through High-Integrity Nature Credits'",
+        "text": "European Commission Speech Yerevan, 27 Oct 2026 Excellencies, Ministers, Executive Secretary Schomaker, distinguished guests, Ladies and gentlemen,\nI am delighted to welcome you to today's high-level event, t...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2276"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Gemeinsame Erklärung der Hohen Vertreterin/Vizepräsidentin Kallas und des Kommissionsmitglieds Kos zu den vorgezogenen Parlamentswahlen in Serbien",
+        "text": "European Commission Erklärung Brussels, 28 Oct 2026 Am Sonntag, dem 25. Oktober, stellte sich das serbische Volk in historischer Zahl heraus, um sich Gehör zu verschaffen. Die Wähler haben der nächsten Regierung ein starkes Mandat für den Wandel erteilt. Wir freuen uns darauf, da",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2275"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Dombrovskis at the annual conference of the Regulatory Scrutiny Board",
+        "text": "European Commission Speech Brussels, 27 Oct 2026 Thank you, Chair. Ladies and gentlemen, distinguished guests,\nIt is my pleasure join you today for the eighth annual conference of the Regulatory Scrutiny Board...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2273"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX noch unentschieden",
+        "text": "Positive und negative Einflüsse halten sich zum Tagesstart die Waage. Der DAX schwankt um seinen Vortagesschluss. Neben einer Reihe von Quartalszahlen beschäftigen der KI-Boom und der Ölpreis den Markt.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX kann weiter zulegen",
+        "text": "Obwohl die wichtigsten Termine der Woche noch bevorstehen, hat der DAX seine Kurserholung fortgesetzt. Geholfen haben dabei neue Hoffnungen auf eine diplomatische Lösung im Iran-Krieg.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
+        "text": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun. Die Deutsche Börse ermöglicht den Handel rund um die Uhr. Was hat es damit auf sich?",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Präsidentschaftswahl in Brasilien: Gewonnen mit und trotz Internet",
+      "text": "Der wiedergewählte brasilianische Präsident Lula mit seinem digitalen Einflüsterer André Janones. (Archivbild)    –   Alle Rechte vorbehalten: Foto: Fotoarena / Bearbeitung: netzpolitik.orgBrasiliens Linke hat in sozialen Medien traditionell einen schweren Stand. Trotz des Gegenw",
+      "link": "https://netzpolitik.org/2026/praesidentschaftswahl-in-brasilien-gewonnen-mit-und-trotz-internet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Account-Sperren auf Instagram und Facebook: Metas Willkür unterworfen",
+      "text": "Wer auf Instagram oder Facebook gesperrt wird, verliert Reichweite und Sichtbarkeit.     –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Iqro RinaldiMeta sperrt Konten von Organisationen und Einzelpersonen, ohne eine klare Begründung zu geben. Weil die Sperrungen oft queer",
+      "link": "https://netzpolitik.org/2026/account-sperren-auf-instagram-und-facebook-metas-willkuer-unterworfen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+      "text": "Ohne Aufsehen endete des Projekts \"Mein Bildungsraum\" (Symbolbild)     –   CC-BY-SA 4.0: Grabsteindetail Granary-Friedhof Boston: Wikimedia Commons / Rhododendrites; Bearbeitung: netzpolitik.orgDie Bundesregierung hat das digitale Großprojekt „Mein Bildungsraum“ begraben. Von dem",
+      "link": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Breakpoint: Verboten emanzipatorisch?",
+      "text": "Das Monument à la République in Paris trägt gelb.    –   Alle Rechte vorbehalten: ABACAPRESS / ImagoHunderttausende junge Menschen rufen in Europa zu Massenprotesten auf. Soziale Medien spielen dabei eine entscheidende Rolle. Emanzipatorisch sind TikTok, Instagram und Co. trotzde",
+      "link": "https://netzpolitik.org/2026/breakpoint-verboten-emanzipatorisch/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 43: Die Woche, in der das Internet geschlossen wurde",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 43. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 113.270 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-43-die-woche-in-der-das-internet-geschlossen-wurde/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI-Boom: Wie die Bundesregierung die Regulierung von Rechenzentren aushöhlt",
+      "text": "Bundeskanzler Friedrich Merz (CDU) und Nvidia-Chef Jensen Huang auf dem \"Invest in Germany\"-Gipfel in Berlin.    –   Alle Rechte vorbehalten: IMAGO / dts NachrichtenagenturDer KI-Boom lässt den Strombedarf von Rechenzentren rasant ansteigen. Doch statt den Energieverbrauch zu beg",
+      "link": "https://netzpolitik.org/2026/ki-boom-wie-die-bundesregierung-die-regulierung-von-rechenzentren-aushoehlt/"
+    }
+  ]
+}

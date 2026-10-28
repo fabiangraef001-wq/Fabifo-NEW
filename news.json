@@ -1,94 +1,94 @@
 {
-  "updated": "2026-10-27T10:17+00:00",
+  "updated": "2026-10-28T11:10+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25415.5,
+      "value": 25583.8,
       "unit": "Pkt.",
-      "change_pct": 0.02,
+      "change_pct": -0.03,
       "history": [
-        25319.8,
         25304.4,
         25645.0,
         25371.8,
         25181.7,
         25410.8,
-        25415.5
+        25590.8,
+        25583.8
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 29273.4,
+      "value": 29651.4,
       "unit": "Pkt.",
-      "change_pct": 1.09,
+      "change_pct": 1.29,
       "history": [
-        29187.6,
         29529.3,
         29490.3,
         29822.5,
         28958.7,
         28957.5,
-        29273.4
+        29273.4,
+        29651.4
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7676.8,
+      "value": 7722.6,
       "unit": "Pkt.",
-      "change_pct": 0.7,
+      "change_pct": 0.6,
       "history": [
-        7659.4,
         7690.7,
         7712.6,
         7757.2,
         7663.4,
         7623.7,
-        7676.8
+        7676.8,
+        7722.6
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 111.0,
+      "value": 111.1,
       "unit": "$",
-      "change_pct": -4.15,
+      "change_pct": -2.46,
       "history": [
-        109.6,
         108.8,
         108.8,
         113.2,
         116.7,
         115.8,
-        111.0
+        113.9,
+        111.1
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4012.8,
+      "value": 4057.5,
       "unit": "$",
-      "change_pct": -0.63,
+      "change_pct": -0.42,
       "history": [
-        4160.1,
         4142.6,
         4150.0,
         4060.4,
         4007.9,
         4038.4,
-        4012.8
+        4074.6,
+        4057.5
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1143,
+      "value": 1.1127,
       "unit": "",
-      "change_pct": -0.67,
+      "change_pct": -0.42,
       "history": [
-        1.1225,
         1.1216,
         1.1227,
         1.1235,
         1.1221,
         1.1218,
-        1.1143
+        1.1174,
+        1.1127
       ]
     },
     "fed_rate": {
@@ -112,153 +112,159 @@
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
-    "text": "Der Chiphersteller Infineon baut sein Werk in Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html"
+    "title": "Denkmalschutz: Wer sich für unser kulturelles Erbe einsetzt",
+    "text": "Nicht nur der Staat kümmert sich um Denkmalschutz. Auch Privatpersonen und Initiativen engagieren sich für den Erhalt von Kulturgütern. Das ruft Befürworter und Kritiker auf den Plan. Von Susanne Fritz.",
+    "link": "https://www.tagesschau.de/kultur/denkmalschutz-deutschland-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Infineon baut für über eine Milliarde Euro Werk in Österreich aus",
-        "text": "Der Chiphersteller Infineon baut sein Werk in Villach aus - um dort schnellere und größere Halbleiter zu produzieren. Gut eine Milliarde Euro will der DAX-Konzern in den kommenden Jahren in den Standort investieren.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/infineon-investition-villach-100.html"
+        "title": "Denkmalschutz: Wer sich für unser kulturelles Erbe einsetzt",
+        "text": "Nicht nur der Staat kümmert sich um Denkmalschutz. Auch Privatpersonen und Initiativen engagieren sich für den Erhalt von Kulturgütern. Das ruft Befürworter und Kritiker auf den Plan. Von Susanne Fritz.",
+        "link": "https://www.tagesschau.de/kultur/denkmalschutz-deutschland-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: Anleger warten auf weitere Unternehmensbilanzen",
-        "text": "In den kommenden Tagen werden eine ganze Reihe von wichtigen Unternehmen ihre Geschäftsberichte vorstellen. Die Anleger hoffen auf frische Impulse für den Aktienmarkt, bis dahin bleiben sie zurückhaltend.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html"
+        "title": "Wie Meta-Chef Mark Zuckerberg eine Reichensteuer umgehen will",
+        "text": "Kalifornien stimmt bei den Midterms auch über die Einführung einer Reichensteuer ab. In dem US-Bundesstaat leben viele Tech-Milliardäre. Einer von ihnen macht schon mal mobil. Von Gabi Biesinger.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zuckerberg-reichensteuer-usa-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Pflegekommission der Bundesregierung nimmt ihre Arbeit auf",
-        "text": "Mit einer großen Reform will die Bundesregierung die Pflege zukunftsfest machen. Vorschläge dafür soll eine Kommission entwickeln, die heute ihre Arbeit aufnimmt. Wer ist dabei? Was sind die Knackpunkte? Und wann gibt es Ergebnisse?",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/pflegekommission-pflegereform-100.html"
+        "title": "Mindestens 30 Tote nach Zugunglück in Spanien",
+        "text": "Beim Zusammenstoß zweier Züge in Spanien sind mindestens 30 Menschen getötet worden. Zwei Waggons sollen entgleist sein. Die Strecke zwischen der Hauptstadt Madrid und der südlichen Region Andalusien wurde gesperrt.",
+        "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-124.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Justizministerin Hubig sieht noch \"viele Fragezeichen\" bei Gesetz zu Vergesellschaftungen",
-        "text": "Innenminister Dobrindt plant hohe Hürden für Vergesellschaftungen von Wohnungen. Doch seine Kabinettskollegin Hubig sieht noch viel Klärungsbedarf - die Justizministerin verweist auf verfassungsrechtliche Bedenken.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-sieht-klaerungsbedarf-bei-gesetz-zu-enteignungen-100.html"
+        "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
+        "text": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden.",
+        "link": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Bericht der Weltwetterorganisation: Immer mehr Treibhausgase in der Atmosphäre",
-        "text": "In der Atmoshäre sammeln sich immer mehr Treibhausgase. Das zeigt ein neuer Bericht der Weltwetterorganisation. Offenbar erholt sich die Natur von Hitze und Trockenheit nicht so schnell wie erwartet. Von N. Gode und S. Biegger.",
-        "link": "https://www.tagesschau.de/wissen/klima/treibhausgase-so-hoch-wie-nie-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Berliner Linksfraktion berät Ausschluss von Abgeordneter Emde",
-        "text": "Die Berliner Linke will heute darüber beraten, ob die Abgeordnete Vanessa Emde aus der Parteifraktion ausgeschlossen werden soll. Emde steht unter anderem wegen ihrer Aussagen zum Existenzrecht Israels in der Kritik.",
+        "title": "Berliner Linksfraktion vertagt Entscheidung über Abgeordnete Emde erneut",
+        "text": "Im Umgang mit der Abgeordneten Emde hat die Berliner Linksfraktion immer noch keine Lösung gefunden. Wie es weitergeht, blieb offen. Emde steht unter anderem wegen ihrer Aussagen zum Existenzrecht Israels in der Kritik.",
         "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nachfolge für Steinmeier: Merz beharrt auf CDU-Vorschlagsrecht",
+        "text": "Die Debatte um die Nachfolge von Bundespräsident Steinmeier nimmt Fahrt auf. Aus dem Umfeld des Bundeskanzlers heißt es nun: Merz habe noch keine Entscheidung getroffen - und sehe das Vorschlagsrecht bei der CDU. Von Markus Preiß.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "US-Parteien: Nicht mehr selbstverständlich an der Seite Israels",
-        "text": "Die USA sind der wichtigste Verbündete Israels. Doch das Verhältnis wandelt sich. Vor allem jüngere US-Bürger sehen die Regierung Netanjahu kritisch. Das wirkt sich auch auf den Wahlkampf von Demokraten und Republikanern aus. Von A. Henze.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampfthema-israel-102.html"
+        "title": "Wahl in Israel: \"Patt-Situation vielleicht gar nicht auflösbar\"",
+        "text": "Israel könnte nach der Parlamentswahl erneut auf Neuwahlen zusteuern, sagt der Nahost-Experte Woertz im Interview. Zugleich seien neue Kämpfe im Iran-Krieg nicht auszuschließen - wovon Premier Netanjahu auch profitieren könnte.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Russland und Ukraine beginnen Waffenruhe für Frontstadt Oleschky",
-        "text": "Seit Jahren ist die von Russland besetzte Stadt Oleschky in der Ostukraine umkämpft. Trotzdem leben dort noch bis zu 2.000 Menschen. Damit sie Hilfe bekommen, gilt jetzt eine Feuerpause. Andernorts gehen die Angriffe weiter.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-oleschky-waffenruhe-100.html"
+        "title": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+        "text": "Vor der israelischen Botschaft in Belgrad ist ein Wachmann mit Messern attackiert worden. Der Angreifer, ein mutmaßliches Mitglied des \"Islamischen Staats\", ist dabei getötet worden. Serbien und Israel werten den Angriff als Terrorakt.",
+        "link": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "11KM-Podcast: Wer gewinnt die Wahl in Israel?",
-        "text": "Bei der Knesset-Wahl in Israel tritt Amtsinhaber Netanjahu gegen Herausforderer Eisenkot an. Der Podcast 11KM fragt: Welche Chancen hat der Ex-General und sogenannte Anti-Bibi?",
-        "link": "https://www.tagesschau.de/podcast-11km-wahl-israel-100.html"
+        "title": "Nach Wahl zur Knesset: So könnte es in Israel nun weitergehen",
+        "text": "Israel hat gewählt - doch wer das Land künftig regiert, ist unklar. Der Fahrplan zur Regierungsbildung ist durch Verfassungsfristen streng geregelt. Und doch sind mehrere Szenarien nun denkbar. Ein Überblick.",
+        "link": "https://www.tagesschau.de/ausland/israel-wahl-szenarien-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Knesset-Wahl 2026: Israel vor der Entscheidung",
-        "text": "Es ist eine fundamentale Richtungsentscheidung in einer der schwersten Krisen Israels: Mehr als 7,3 Millionen Wahlberechtigte stimmen ab. 70.000 Staatsbürger aus aller Welt fliegen ein. Heute wird ein neues Parlament gewählt. Von J. Segador.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html"
+        "title": "Liveblog zur Israel-Wahl: ++ Wachsender Vorsprung für das Netanjahu-Lager ++",
+        "text": "Nach wie vor erreicht kein Parteienbündnis in Israel bei der Parlamentswahl die notwendige Mehrheit der Sitze, jedoch baut das Lager des amtierenden Premierministers Netanjahu den Vorsprung in kleinen Schritten aus.",
+        "link": "https://www.tagesschau.de/newsticker/liveblog-israel-wahl-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Kritik an Audi-Chef Döllner reißt nach Auftritt mit Trump nicht ab",
-        "text": "Der Auftritt von Audi-Chef Döllner an der Seite von US-Präsident Trump sorgt weiter für Kritik. SPD-Generalsekretär Klüssendorf fordert Konsequenzen vom Mutterkonzern VW. Audi selbst verteidigt den Auftritt.",
-        "link": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+        "title": "Israel - Eine Nacht ohne klaren Gewinner",
+        "text": "Es war eine lange, nervenaufreibende Nacht in den Wahlkampfzentralen in Tel Aviv und Jerusalem. Doch Klarheit hat dieser Morgen nicht gebracht. Im Gegenteil: Israel droht nach der Wahl eine monatelange politische Blockade. Von J. Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-patt-wahl-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Ukraine-Krieg: Russland will Angriffe trotz Gesprächen fortsetzen",
-        "text": "Trotz der geplanten Wiederaufnahme von Gesprächen unter US-Vermittlung will Russland die Ukraine weiter angreifen. In Charkiw wurden bei einer russischen Attacke zwei Menschen getötet. Und in Oleschky ist eine lokal begrenzte Waffenruhe in Kraft getreten.",
-        "link": "https://www.tagesschau.de/ausland/europa/russland-will-angriffe-fortsetzen-100.html"
+        "title": "Knesset-Wahl in Israel: Prognosen zeigen Patt-Situation in Israel",
+        "text": "Nach der Wahl in Israel und ersten Teilauszählungen gibt es ein enges Rennen um die Mehrheit im Parlament. Sowohl Eisenkot als auch Netanjahu kündigten an, eine Regierung bilden zu wollen.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-patt-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Statement by Commissioner Serafin on the presentation of the High-Level Group Report on the Future of the European Commission's Civil Service",
-        "text": "European Commission Statement Brussels, 26 Oct 2026 Good afternoon,\nToday marks another milestone in the process initiated by the President to carry out an in-depth review of the way in which the European Commiss...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2259"
+        "title": "Daily News 28 / 10 / 2026",
+        "text": "European Commission Daily news Brussels, 28 Oct 2026 New Eurobarometer survey shows young people's growing engagement and views on participatory democracy, youth issues, and EU's added value in their lives \nToday,...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2277"
       },
       {
         "source": "EU-Kommission",
-        "title": "Erklärung von Präsidentin von der Leyen mit Kommissar Serafin und Catherine Day, Vorsitzende der Hochrangigen Gruppe zur Zukunft des öffentlichen Dienstes der Kommission, anlässlich der Übergabe des Berichts der externen Berater zur umfassenden Überprüfung",
-        "text": "European Commission Erklärung Brussels, 26 Oct 2026 Wir leben in einer Welt, die uns kaum Zeit lässt, uns anzupassen. Wir stehen vor wachsenden externen und internen Herausforderungen für unsere Sicherheit, unser...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2258"
+        "title": "Factsheet - EU Demography Toolbox",
+        "text": "European Commission Factsheet Brussels, 28 Oct 2026   Factsheet - EU Demography Toolbox Factsheet - EU Demography Toolbox",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2271"
       },
       {
         "source": "EU-Kommission",
-        "title": "Tägliche Nachrichten 26 / 10 / 2026",
-        "text": "European Commission Nachrichten des Tages Brussels, 26 Oct 2026 Kommission akzeptiert Aktionsplan von Temu zur Behebung des Verstoßes gegen das Gesetz über digitale Dienste Die Europäische Kommission hat den Aktionsplan von ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2257"
+        "title": "Neue Eurobarometer-Umfrage zeigt das wachsende Engagement junger Menschen und ihre Ansichten zu partizipativer Demokratie, Jugendfragen und dem Mehrwert der EU in ihrem Leben",
+        "text": "European Commission Pressemitteilung Brussels, 28 Oct 2026 Die Europäische Kommission hat heute eine Eurobarometer-Umfrage veröffentlicht, in der das wachsende Engagement junger Europäerinnen und Europäer für und ihre Ansichten zur Demokratie aufgezeigt werden.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2274"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission startet T-MED-Investitionsplattform mit EU-Garantien in Höhe von bis zu 4,5 Mrd. EUR",
-        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Europäische Kommission hat heute die Investitionsplattform T-MED ins Leben gerufen, um umfangreiche Investitionen in erneuerbare Energien und saubere Technologien im gesamten Mittelmeerraum zu mobilisieren. Die Plattf",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2256"
+        "title": "Commissioner Roswall's speech at the event, ‘From Principles to International Cooperation: Mobilising Biodiversity Finance through High-Integrity Nature Credits'",
+        "text": "European Commission Speech Yerevan, 27 Oct 2026 Excellencies, Ministers, Executive Secretary Schomaker, distinguished guests, Ladies and gentlemen,\nI am delighted to welcome you to today's high-level event, t...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2276"
       },
       {
         "source": "EU-Kommission",
-        "title": "Eine Außenperspektive auf die Zukunft des öffentlichen Dienstes der Europäischen Kommission",
-        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Hochrangige Gruppe unter dem Vorsitz von Catherine Day hat heute die Ergebnisse ihrer Überlegungen zur groß angelegten Überprüfung mit Präsidentin von der Leyen und Kommissionsmitglied Serafin geteilt.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2253"
+        "title": "Gemeinsame Erklärung der Hohen Vertreterin/Vizepräsidentin Kallas und des Kommissionsmitglieds Kos zu den vorgezogenen Parlamentswahlen in Serbien",
+        "text": "European Commission Erklärung Brussels, 28 Oct 2026 Am Sonntag, dem 25. Oktober, stellte sich das serbische Volk in historischer Zahl heraus, um sich Gehör zu verschaffen. Die Wähler haben der nächsten Regierung ein starkes Mandat für den Wandel erteilt. Wir freuen uns darauf, da",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2275"
       },
       {
         "source": "EU-Kommission",
-        "title": "EU-Bürger denken, dass innovative Lebensmittel nützlich sein können, wollen aber mehr Informationen, zeigt neue Eurobarometer-Umfrage",
-        "text": "European Commission Pressemitteilung Brussels, 26 Oct 2026 Die Europäische Kommission hat heute die Ergebnisse einer neuen Eurobarometer-Sonderumfrage zur Lebensmittelinnovation veröffentlicht, die einen EU-weiten Überblick darüber bietet, wie die Europäer innovative Lebensmittel",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2231"
+        "title": "Speech by Commissioner Dombrovskis at the annual conference of the Regulatory Scrutiny Board",
+        "text": "European Commission Speech Brussels, 27 Oct 2026 Thank you, Chair. Ladies and gentlemen, distinguished guests,\nIt is my pleasure join you today for the eighth annual conference of the Regulatory Scrutiny Board...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2273"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Wirtschaftsministerin Reiche reagiert auf Windkraft-Brandbrief der Länder",
-        "text": "Mehrere Bundesländer warnten Wirtschaftsministerin Reiche vor einem \"Fadenriss\" beim Ausbau der Windenergie auf See. Die CDU-Politikerin will nun auf eine zentrale Forderung eingehen. Investoren sollen Flächen zurückgeben können.",
-        "link": "https://www.tagesschau.de/inland/windkraft-reiche-100.html"
+        "title": "Marktbericht: DAX noch unentschieden",
+        "text": "Positive und negative Einflüsse halten sich zum Tagesstart die Waage. Der DAX schwankt um seinen Vortagesschluss. Neben einer Reihe von Quartalszahlen beschäftigen der KI-Boom und der Ölpreis den Markt.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Midterms: Kann ein Linkskurs die Demokraten zum Erfolg führen?",
-        "text": "Den Aufwind der Demokraten vor den Midterms nächste Woche führen viele auf einen kämpferischen Linkskurs zurück - wie den des New Yorker Bürgermeisters Mamdani. Aber ist das ein Erfolgsrezept für die Demokraten überall in den USA? Von Martin Ganslmeier.",
-        "link": "https://www.tagesschau.de/ausland/amerika/midterms-mamdani-linkskurs-demokraten-100.html"
+        "title": "Marktbericht: DAX kann weiter zulegen",
+        "text": "Obwohl die wichtigsten Termine der Woche noch bevorstehen, hat der DAX seine Kurserholung fortgesetzt. Geholfen haben dabei neue Hoffnungen auf eine diplomatische Lösung im Iran-Krieg.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "KI-Unternehmen Anthropic beantragt Börsengang und warnt vor Risiken",
-        "text": "Das amerikanische KI-Unternehmen Anthropic gibt den Startschuss für einen Mega-Börsengang schon im November und reicht die nötigen Unterlagen ein. Es dürfte einer der größten Börsengänge aller Zeiten werden.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Ifo-Index: Konjunkturbelebung setzt sich fort",
-        "text": "Die Stimmung in den deutschen Chefetagen hellt sich weiter auf: Trotz hoher Energiepreise ist der ifo-Geschäftsklimaindex im Oktober zum sechsten Mal in Folge gestiegen.",
-        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
+        "title": "40 DAX-Aktien jetzt rund um die Uhr handelbar",
+        "text": "Wer spätabends oder am Wochenende Aktien von Siemens, SAP und Co. kaufen oder verkaufen will, kann das ab sofort tun. Die Deutsche Börse ermöglicht den Handel rund um die Uhr. Was hat es damit auf sich?",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-aktien-handel-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Präsidentschaftswahl in Brasilien: Gewonnen mit und trotz Internet",
+      "text": "Der wiedergewählte brasilianische Präsident Lula mit seinem digitalen Einflüsterer André Janones. (Archivbild)    –   Alle Rechte vorbehalten: Foto: Fotoarena / Bearbeitung: netzpolitik.orgBrasiliens Linke hat in sozialen Medien traditionell einen schweren Stand. Trotz des Gegenw",
+      "link": "https://netzpolitik.org/2026/praesidentschaftswahl-in-brasilien-gewonnen-mit-und-trotz-internet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Account-Sperren auf Instagram und Facebook: Metas Willkür unterworfen",
+      "text": "Wer auf Instagram oder Facebook gesperrt wird, verliert Reichweite und Sichtbarkeit.     –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Iqro RinaldiMeta sperrt Konten von Organisationen und Einzelpersonen, ohne eine klare Begründung zu geben. Weil die Sperrungen oft queer",
+      "link": "https://netzpolitik.org/2026/account-sperren-auf-instagram-und-facebook-metas-willkuer-unterworfen/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
@@ -282,18 +288,6 @@
       "title": "KI-Boom: Wie die Bundesregierung die Regulierung von Rechenzentren aushöhlt",
       "text": "Bundeskanzler Friedrich Merz (CDU) und Nvidia-Chef Jensen Huang auf dem \"Invest in Germany\"-Gipfel in Berlin.    –   Alle Rechte vorbehalten: IMAGO / dts NachrichtenagenturDer KI-Boom lässt den Strombedarf von Rechenzentren rasant ansteigen. Doch statt den Energieverbrauch zu beg",
       "link": "https://netzpolitik.org/2026/ki-boom-wie-die-bundesregierung-die-regulierung-von-rechenzentren-aushoehlt/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Beschwerde erfolgreich: Politisches Microtargeting von vier Parteien war rechtswidrig",
-      "text": "Vier Parteien spielten gezielte Wahlwerbung für bestimmte Nutzergruppen aus (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Silvan ArnetNicht alle bekamen dieselbe Wahlwerbung zu sehen: Mindestens vier Parteien spielten im Bundestagswahlkampf 2021 auf Faceb",
-      "link": "https://netzpolitik.org/2026/beschwerde-erfolgreich-politisches-microtargeting-von-vier-parteien-war-rechtswidrig/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "PHP-Sicherheitslücken: Wir stehen auf den Schultern vieler kleiner Giganten",
-      "text": "Wir stehen auf den Schultern vieler kleiner Giganten.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Chris CurryAuch wenn „das Internet“ nach der Aufregung der vergangenen Tage vielerorts wieder stabil läuft, ist es kaputt. Und das hat viel mit dem schiefen sozialen Ge",
-      "link": "https://netzpolitik.org/2026/wir-stehen-auf-den-schultern-vieler-kleiner-giganten/"
     }
   ]
 }
