@@ -1,0 +1,307 @@
+{
+  "updated": "2026-10-29T11:23+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25950.6,
+      "unit": "Pkt.",
+      "change_pct": 0.96,
+      "history": [
+        25645.0,
+        25371.8,
+        25181.7,
+        25410.8,
+        25590.8,
+        25704.0,
+        25950.6
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 29813.2,
+      "unit": "Pkt.",
+      "change_pct": 0.55,
+      "history": [
+        29490.3,
+        29822.5,
+        28958.7,
+        28957.5,
+        29273.4,
+        29651.4,
+        29813.2
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7744.0,
+      "unit": "Pkt.",
+      "change_pct": 0.28,
+      "history": [
+        7712.6,
+        7757.2,
+        7663.4,
+        7623.7,
+        7676.8,
+        7722.6,
+        7744.0
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 110.0,
+      "unit": "$",
+      "change_pct": -4.6,
+      "history": [
+        108.8,
+        113.2,
+        116.7,
+        115.8,
+        113.9,
+        115.3,
+        110.0
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4046.7,
+      "unit": "$",
+      "change_pct": -0.12,
+      "history": [
+        4150.0,
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4046.7
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1153,
+      "unit": "",
+      "change_pct": 0.21,
+      "history": [
+        1.1227,
+        1.1235,
+        1.1221,
+        1.1218,
+        1.1174,
+        1.113,
+        1.1153
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent",
+    "fed_rate",
+    "ecb_rate"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Steinmeier-Rede in China: \"Mit Größe und Macht kommt große Verantwortung\"",
+    "text": "Bundespräsident Steinmeier hat an der renommierten Peking-Universität eine Rede gehalten. Dabei richtete er klare Forderungen an China - bekundete aber auch seinen Respekt für die Volksrepublik.",
+    "link": "https://www.tagesschau.de/ausland/asien/steinmeier-china-102.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Rotes Kreuz eröffnet größtes Bevölkerungsschutzzentrum in Brandenburg",
+        "text": "In Brandenburg hat das Deutsche Rote Kreuz ein neues Bevölkerungsschutzzentrum eröffnet. Dort lagert Material, um bei Katastrophen bis zu 5.000 Menschen versorgen zu können. Laut Innenminister Dobrindt setzt das Projekt Maßstäbe.",
+        "link": "https://www.tagesschau.de/inland/regional/brandenburg/groesstes-bevoelkerungsschutzzentrum-deutschlands-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "KI-Investitionen tragen nicht überall Früchte",
+        "text": "Die Tech-Giganten im Silicon Valley stecken Milliarden in Künstliche Intelligenz. Doch die investierten Gelder führen nicht automatisch zu Wachstum. Das zeigen die Zahlen von Microsoft und Alphabet.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-alphabet-kuenstliche-intelligenz-cloud-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
+        "text": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben.",
+        "link": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-128.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Milliardenverlust bei Volkswagen",
+        "text": "Hohe Abschreibungen und ein schwaches China-Geschäft haben Volkswagen tiefrote Zahlen beschert. Der Konzernverlust lag im dritten Quartal bei 5,8 Milliarden Euro. VW-Aktien fallen.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-milliardenverlust-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Konstituierende Sitzung von neu gewähltem Abgeordnetenhaus in Berlin",
+        "text": "Knapp sechs Wochen nach der Wahl in Berlin ist das Abgeordnetenhaus zu seiner konstituierenden Sitzung zusammengekommen. Die Linke-Politikerin Klein ist zur neuen Präsidentin des Parlaments gewählt worden.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-abgeordnetenhaus-erste-sitzung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Pflegeversicherung: Linnemann schließt Leistungskürzungen nicht aus",
+        "text": "Gesundheitsminister Linnemann hält Einschnitte bei der Pflegeversicherung für möglich. Angesichts steigender Kosten müssten rund zehn Prozent eingespart werden. Patientenschützer warnen vor den Folgen für die häusliche Pflege.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Steinmeier-Rede in China: \"Mit Größe und Macht kommt große Verantwortung\"",
+        "text": "Bundespräsident Steinmeier hat an der renommierten Peking-Universität eine Rede gehalten. Dabei richtete er klare Forderungen an China - bekundete aber auch seinen Respekt für die Volksrepublik.",
+        "link": "https://www.tagesschau.de/ausland/asien/steinmeier-china-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "US-Zwischenwahlen: Trump holen seine Versprechen ein",
+        "text": "Er werde das Leben in den USA wieder erschwinglich machen, hatte Trump 2024 versprochen. Zwei Jahre danach sieht die Wirklichkeit anders aus - nicht zuletzt an den Zapfsäulen. Das wirkt sich auf die Umfragen vor den Midterms aus. Von J. Schönenborn.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-lebenshaltungskosten-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
+        "text": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Bolsonaro erklärt sich selbst zum Wahlsieger - aus den USA",
+        "text": "Heimlich hat sich der brasilianische Wahlverlierer Flávio Bolsonaro in die USA abgesetzt. Gegen ihn wird wegen Korruption und Geldwäsche ermittelt. Entgegen eindeutiger Ergebnisse hat er sich nun selbst zum Wahlsieger erklärt.",
+        "link": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Netanjahu nach Wahl in Israel ohne Mehrheit und trotzdem am Hebel",
+        "text": "Israel hat gewählt, doch keines der Lager kommt auf eine Mehrheit. Die Regierungsbildung dürfte sich hinziehen. Bis dahin bleibt Netanjahu im Amt - mit weitreichenden Folgen für den Gazastreifen, das Westjordanland und die gesamte Region. Von J.-C. Kitzler.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Parlamentswahl in Israel: Wofür die arabischen Parteien stehen",
+        "text": "Die arabischen Parteien haben bei der Wahl in Israel wahrscheinlich so stark abgeschnitten wie noch nie. Ihre Unterstützung könnte der Opposition den Weg an die Macht ebnen. Was sind ihre Themen, was sind ihre Ziele? Ein Überblick.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-arabische-parteien-wahl-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 29 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 29 Oct 2026 Kommission fordert die Mitgliedstaaten auf, 21,3 Mrd. EUR im Rahmen von SAFE zu verwenden, um die Verteidigungsbereitschaft und die Unterstützung für die Ukrain...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2290"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Lahbib at the UNESCO Global Forum against Racism and Discrimination",
+        "text": "European Commission Speech The Hague, 29 Oct 2026 Angela Bib.\nDo any of you know her? You won't. She never existed. But she came very close to existing because Angela Bib was almost me.\nBefore politics, I was a...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2286"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commissioner Roswall's address at a High-level side-event at CBD COP17, “Restoring nature – from commitments to action”",
+        "text": "European Commission Speech Yerevan, 28 Oct 2026 Excellencies, distinguished guests,\nLet me start with a simple but powerful truth.\nOur natural world is the bedrock of our economic security, our food and energ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2280"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Address by Commissioner Valdis Dombrovskis to the 111th conference of Directors General of the National Statistical Institutes",
+        "text": "European Commission Speech Brussels, 28 Oct 2026 Presidents and Directors General, distinguished guests, ladies and gentlemen. Good morning.\nThank you for inviting me to the 111th conference of Directors Gener...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2279"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Press remarks by Commissioner Jørgensen following the Dialogue with European refineries",
+        "text": "European Commission Statement Brussels, 28 Oct 2026 Once again, due to geopolitical turbulence, Europe faces another energy crisis.\nAs in 2022, after the Russia's illegal invasion of Ukraine, prices of crude oil ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2278"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 28 / 10 / 2026",
+        "text": "European Commission Daily news Brussels, 28 Oct 2026 New Eurobarometer survey shows young people's growing engagement and views on participatory democracy, youth issues, and EU's added value in their lives \nToday,...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2277"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX trotz VW-Bilanz im grünen Bereich",
+        "text": "Vor dem EZB-Zinsentscheid legt der DAX weiter zu. Mit einer Zinserhöhung rechnen die Anleger nicht, sie wird erst für den Dezember erwartet. Aus der Autobranche meldet VW einen Milliardenverlust.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
+        "text": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
+        "text": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/ezb-zinsen-lagarde-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Der DAX behauptet sich",
+        "text": "Der Handelstag im DAX endet mit leichten Gewinnen. Die Investoren haben viele Quartalszahlen zu verarbeiten, außerdem richtet sich der Blick in die USA. Die hohen Energiepreise dämpfen indes weiterhin die Stimmung.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-nasdaq-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Börsendebüt von tk accelis bleibt unter den Erwartungen",
+        "text": "Seine Marinewerften und das Wasserstoffgeschäft hat der Industriekonzern Thyssenkrupp schon abgespalten. Nun folgt die Werkstofftochter mit eigenen Aktien. Und es gibt noch weitergehende Pläne.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/boersengang-tk-accelis-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "EU-Kommission: Frontex soll zur Abschiebeagentur werden",
+      "text": "Frontex soll mehr Macht und mehr Personal bekommen.    –   Alle Rechte vorbehalten: IMAGO / ANPMit zwei Gesetzentwürfen will die EU-Kommission die Grenzagentur Frontex zur zentralen Abschiebeagentur aufrüsten. Dabei spielt auch Social-Media-Monitoring eine Rolle. Ein EU-Abgeordne",
+      "link": "https://netzpolitik.org/2026/eu-kommission-frontex-soll-zur-abschiebeagentur-werden/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Präsidentschaftswahl in Brasilien: Gewonnen mit und trotz Internet",
+      "text": "Der wiedergewählte brasilianische Präsident Lula mit seinem digitalen Einflüsterer André Janones. (Archivbild)    –   Alle Rechte vorbehalten: Foto: Fotoarena / Bearbeitung: netzpolitik.orgBrasiliens Linke hat in sozialen Medien traditionell einen schweren Stand. Trotz des Gegenw",
+      "link": "https://netzpolitik.org/2026/praesidentschaftswahl-in-brasilien-gewonnen-mit-und-trotz-internet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Account-Sperren auf Instagram und Facebook: Metas Willkür unterworfen",
+      "text": "Wer auf Instagram oder Facebook gesperrt wird, verliert Reichweite und Sichtbarkeit.     –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Iqro RinaldiMeta sperrt Konten von Organisationen und Einzelpersonen, ohne eine klare Begründung zu geben. Weil die Sperrungen oft queer",
+      "link": "https://netzpolitik.org/2026/account-sperren-auf-instagram-und-facebook-metas-willkuer-unterworfen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Mein Bildungsraum\": Millionengrab für eine digitale Zeugnismappe",
+      "text": "Ohne Aufsehen endete des Projekts \"Mein Bildungsraum\" (Symbolbild)     –   CC-BY-SA 4.0: Grabsteindetail Granary-Friedhof Boston: Wikimedia Commons / Rhododendrites; Bearbeitung: netzpolitik.orgDie Bundesregierung hat das digitale Großprojekt „Mein Bildungsraum“ begraben. Von dem",
+      "link": "https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Breakpoint: Verboten emanzipatorisch?",
+      "text": "Das Monument à la République in Paris trägt gelb.    –   Alle Rechte vorbehalten: ABACAPRESS / ImagoHunderttausende junge Menschen rufen in Europa zu Massenprotesten auf. Soziale Medien spielen dabei eine entscheidende Rolle. Emanzipatorisch sind TikTok, Instagram und Co. trotzde",
+      "link": "https://netzpolitik.org/2026/breakpoint-verboten-emanzipatorisch/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 43: Die Woche, in der das Internet geschlossen wurde",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 43. Kalenderwoche geht zu Ende. Wir haben 12 neue Texte mit insgesamt 113.270 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-43-die-woche-in-der-das-internet-geschlossen-wurde/"
+    }
+  ]
+}
