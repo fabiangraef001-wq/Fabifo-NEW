@@ -1,0 +1,314 @@
+{
+  "updated": "2026-10-30T11:15+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25906.3,
+      "unit": "Pkt.",
+      "change_pct": -0.51,
+      "history": [
+        25371.8,
+        25181.7,
+        25410.8,
+        25590.8,
+        25704.0,
+        26039.7,
+        25906.3
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 29402.5,
+      "unit": "Pkt.",
+      "change_pct": -1.38,
+      "history": [
+        29822.5,
+        28958.7,
+        28957.5,
+        29273.4,
+        29651.4,
+        29813.2,
+        29402.5
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7720.4,
+      "unit": "Pkt.",
+      "change_pct": -0.3,
+      "history": [
+        7757.2,
+        7663.4,
+        7623.7,
+        7676.8,
+        7722.6,
+        7744.0,
+        7720.4
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 113.6,
+      "unit": "$",
+      "change_pct": -1.13,
+      "history": [
+        113.2,
+        116.7,
+        115.8,
+        113.9,
+        115.3,
+        114.9,
+        113.6
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3989.4,
+      "unit": "$",
+      "change_pct": -1.04,
+      "history": [
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3989.4
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1203,
+      "unit": "",
+      "change_pct": 0.42,
+      "history": [
+        1.1235,
+        1.1221,
+        1.1218,
+        1.1174,
+        1.113,
+        1.1156,
+        1.1203
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent",
+    "eurusd",
+    "fed_rate",
+    "ecb_rate"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Feuer auf Rheinmetall-Baustelle in Hessen - Brandstiftung vermutet",
+    "text": "Auf einer Baustelle des Rüstungskonzerns Rheinmetall am Flughafen Kassel-Calden haben mehrere Baumaschinen gebrannt. Die Polizei geht von Brandstiftung aus. Auch der Staatsschutz ermittelt.",
+    "link": "https://www.tagesschau.de/inland/regional/hessen/hr-feuer-auf-baustelle-von-waffenhersteller-rheinmetall-staatsschutz-ermittelt-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Feuer auf Rheinmetall-Baustelle in Hessen - Brandstiftung vermutet",
+        "text": "Auf einer Baustelle des Rüstungskonzerns Rheinmetall am Flughafen Kassel-Calden haben mehrere Baumaschinen gebrannt. Die Polizei geht von Brandstiftung aus. Auch der Staatsschutz ermittelt.",
+        "link": "https://www.tagesschau.de/inland/regional/hessen/hr-feuer-auf-baustelle-von-waffenhersteller-rheinmetall-staatsschutz-ermittelt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "G20-Außenministertreffen mit Lawrow und Wadephul in Atlanta",
+        "text": "Die Außenminister der G20-Staaten treffen sich in den USA. Mit dabei ist auch Russlands Vertreter Lawrow. Für Deutschland nimmt Minister Wadephul teil. Das Treffen könnte beim Umgang mit Russland eine Art Generalprobe für den G20-Gipfel sein.",
+        "link": "https://www.tagesschau.de/ausland/amerika/aussenministertreffen-usa-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Krise in Automobilbranche: Gewinn bei Audi bricht drastisch ein",
+        "text": "Auch der Autobauer Audi steckt in der Krise: Der Gewinn brach im dritten Quartal deutlich ein. Grund ist unter anderem das schwache China-Geschäft. Neue Automodelle sollen positive Impulse bringen.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/automobil-audi-gewinneinbruch-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
+        "text": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten.",
+        "link": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nachruf auf Patrick Stewart: Er konnte Science-Fiction - und Shakespeare",
+        "text": "Der Welt bekannt wurde er als Raumschiff-Enterprise-Kapitän Picard, aber seine große Liebe galt sein Leben lang Shakespeare. Jetzt ist der große englische Schauspieler Patrick Stewart gestorben. Ein Nachruf von Franziska Hoppen.",
+        "link": "https://www.tagesschau.de/kultur/patrick-stewart-nachruf-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Debatte um Eralp überlagert Regierungsbildung",
+        "text": "Die Regierungsbildung in Berlin wird erneut von einer Debatte über die Linkspartei überschattet. Im Fokus: die eventuell künftige Regierende Bürgermeisterin Eralp. Und die Frage, wie entschieden sie gegen Islamismus vorgehen kann.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/berlin-eralp-debatte-spiegel-bericht-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Prüfung der Zusammenarbeit: US-Dienste warnten BND nach Hanning-Festnahme",
+        "text": "Nach der Festnahme von Ex-BND-Chef August Hanning hat den BND nach Recherchen von WDR, NDR und SZ eine brisante Warnung aus den USA erreicht: Die Kooperation komme auf den Prüfstand. Das führte zu großer Aufregung.",
+        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/geheimdienste-usa-hanning-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU-Kanada-Gipfel: Zusammenarbeit bei KI verstärken",
+        "text": "Gemeinsam unabhängiger werden - das ist das große Ziel der angestrebten neuen Allianz zwischen Kanada und der EU. Ein Beispiel: die Zusammenarbeit im Bereich Künstlicher Intelligenz. Von Giselle Ucar.",
+        "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-ki-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU-Kanada-Gipfel: \"Die neue Allianz ist keine Marketing-Übung\"",
+        "text": "Beim EU-Kanada-Gipfel ging es auf europäischer Seite bislang viel darum, wie die neue Allianz denn heißen soll. Kanadas Premier Carney sagt dazu: \"Der Name ist egal.\" Heute sollen konkrete Vereinbarungen folgen. Von Martin Ganslmeier.",
+        "link": "https://www.tagesschau.de/ausland/amerika/eu-kanada-zweiter-tag-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wahl in Israel: Alle Stimmen ausgezählt - Patt bleibt bestehen",
+        "text": "Die Auszählung aller Stimmen in Israel bestätigt, dass eine äußerst schwierige Regierungsbildung bevorsteht. Unterdessen ist ein Streit über das Wahlergebnis entbrannt - die Likud-Partei spricht von \"gestohlener Wahl\".",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Afrika-Gipfel in Russland: Putin umwirbt einen ganzen Kontinent",
+        "text": "Beim Handel mit Afrika liegen China und die EU weit vor Russland. Doch Moskau versucht, seinen Einfluss auf dem Kontinent zu stärken - beim dritten Afrika-Russland-Gipfel waren fast alle afrikanischen Länder dabei. Von Norbert Hahn.",
+        "link": "https://www.tagesschau.de/ausland/europa/russland-afrika-gipfel-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Was bringt eine EU-Allianz mit Kanada den Verbrauchern in Europa?",
+        "text": "Die EU und Kanada wollen wirtschaftlich und politisch enger zusammenrücken. Könnte eine verstärkte Kooperation Europas Lieferketten sichern, Preise stabil halten, Abhängigkeiten reduzieren? Von Petra Thiele.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/kanada-eu-allianz-folgen-verbraucher-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 30 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 30 Oct 2026 EU kündigt Einsetzung und Zusammensetzung der PreparEU-Beratergruppe für europäische Katastrophenvorsorge anDie Europäische Kommission richtet heute die PreparE...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2307"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission zahlt im Rahmen von NextGenerationEU fast 6,5 Mrd. EUR an Frankreich, Österreich und Luxemburg aus",
+        "text": "European Commission Pressemitteilung Brussels, 30 Oct 2026 Die Europäische Kommission hat heute 6,1 Mrd. EUR an Frankreich, 306 Mio. EUR an Österreich und 92,2 Mio. EUR an Luxemburg ausgezahlt.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2303"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Die Europäerinnen und Europäer unterstützen mit überwältigender Mehrheit eine stärkere EU-Katastrophenschutzkooperation auf der Grundlage von Solidarität, wie eine neue Eurobarometer-Umfrage zeigt.",
+        "text": "European Commission Pressemitteilung Brussels, 30 Oct 2026 Laut der jüngsten Eurobarometer-Sonderumfrage zum EU-Katastrophenschutz, die heute von der Europäischen Kommission veröffentlicht wurde, unterstützen die Europäerinnen und Europäer nach wie vor ein koordiniertes europäisc",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2285"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Keynote speech by Commissioner Dombrovskis at NATO FUSE event",
+        "text": "European Commission Speech Riga, 30 Oct 2026 Distinguished guests, ladies and gentlemen, It is an honour to join you this morning at NATO FUSE 2026.\nWe meet at a time where our skies have become battlefiel...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2291"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU kündigt Einsetzung und Zusammensetzung der PreparEU-Beratergruppe für europäische Katastrophenvorsorge an",
+        "text": "European Commission Pressemitteilung Brussels, 30 Oct 2026 Die Europäische Kommission richtet heute die PreparEU-Beratergruppe ein, die die Präsidentin der Kommission, Ursula von der Leyen, und das für Gleichstellung zuständige Kommissionsmitglied strategisch beraten soll. Vorsor",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2287"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Press remarks by Commissioner Jørgensen following the Energy Council",
+        "text": "European Commission Speech Brussels, 29 Oct 2026 Thank you, Ministers, I agree that we have had a very good day.\nThere's no doubt that Ministers from all Member States know that we are facing a difficult winte...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2302"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Deutsche Wirtschaft wächst überraschend im Sommer",
+        "text": "Nach einem starken Halbjahr hat sich auch im Sommer die Erholung der deutschen Wirtschaft fortgesetzt. Dabei hatten viele Experten mit einer Stagnation gerechnet. Die privaten Ausgaben sind jedoch weiterhin verhalten.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/entwicklung-bip-deutschland-sommer-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX steuert auf großes Wochenplus zu",
+        "text": "Der DAX rutscht im frühen Handel zwar wieder unter 26.000 Punkte, er bleibt aber in Schlagweite. Trotz steigender Ölpreise und schwacher Bilanzen von Intel und Amazon hält sich der deutsche Leitindex stabil.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Milliardenschwerer Hackerangriff auf Kryptobörse Binance",
+        "text": "Die weltgrößte Kryptobörse Binance ist offenbar Opfer einer massiven Cyberattacke geworden. Betroffen sind Digitalwährungen im Wert von mehr als sechs Milliarden Dollar. Was bedeutet das für Kunden?",
+        "link": "https://www.tagesschau.de/wirtschaft/technologie/hackerangriff-kryptoboerse-binance-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wer auf EZB-Chefin Christine Lagarde folgen könnte",
+        "text": "Früher als geplant tritt die Suche nach einer Nachfolge für EZB-Chefin Lagarde in die heiße Phase - die Französin scheidet vorzeitig aus dem Amt. Was sind die Hintergründe, wer könnte nachrücken an der Spitze der Notenbank? Von Constantin Röse.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-ruecktritt-lagarde-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX setzt Klettertour fort",
+        "text": "Die großen Notenbanken halten vorerst die Füße still - die Botschaft hat die Kauflust der Anleger beflügelt, der DAX beendet den Handelstag im Plus. Auch der VW-Schock vom Morgen wurde gut verdaut.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-alphabet-ki-fed-ezb-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Europäische Zentralbank hält Leitzins unverändert",
+        "text": "Die Europäische Zentralbank (EZB) hat wie erwartet die Leitzinsen unverändert bei 2,5 Prozent belassen. Zuvor hatte auch die US-Notenbank Fed von einer Änderung ihrer Leitzinsen abgesehen.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
+      "text": "Die US-Regierung will vor allem Zugriff auf Daten von Reisenden. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO/ Marc Bremer; Bearbeitung: netzpolitik.orgDer Europäische Datenschutzbeauftragte fordert schärfere Grenzen für einen Austausch von heiklen Polizeidaten mit US-Behör",
+      "link": "https://netzpolitik.org/2026/grenzpartnerschaft-auch-der-eu-datenschuetzer-ruegt-geplantes-polizeiabkommen-mit-den-usa/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Volksentscheid: Tech-Milliardäre mobilisieren gegen kalifornische Reichensteuer",
+      "text": "Google-Mitgründer Sergey Brin steht an der Spitze im Kampf gegen eine Reichensteuer in Kalifornien. (Archivbild)    –   Alle Rechte vorbehalten: AFLOKalifornien stimmt nächste Woche über eine Reichensteuer ab. Erstmals könnten Vermögen von über einer Milliarde US-Dollar mit einer",
+      "link": "https://netzpolitik.org/2026/volksentscheid-tech-milliardaere-mobilisieren-gegen-kalifornische-reichensteuer/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Folgenabschätzung zum Kids Act: EU-Kommission spielt Gefahren für Grundrechte herunter",
+      "text": "Eine Folgenabschätzung soll kommende Regulierung genau vermessen. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO/wolterfoto, Bearbeitung: netzpolitik.orgMit dem Kids Act plant die EU-Kommission flächendeckende Alterskontrollen im Netz. Eine Folgenabschätzung soll Bedenken zer",
+      "link": "https://netzpolitik.org/2026/folgenabschaetzung-zum-kids-act-eu-kommission-spielt-gefahren-fuer-grundrechte-herunter/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "EU-Kommission: Frontex soll zur Abschiebeagentur werden",
+      "text": "Frontex soll mehr Macht und mehr Personal bekommen.    –   Alle Rechte vorbehalten: IMAGO / ANPMit zwei Gesetzentwürfen will die EU-Kommission die Grenzagentur Frontex zur zentralen Abschiebeagentur aufrüsten. Dabei spielt auch Social-Media-Monitoring eine Rolle. Ein EU-Abgeordne",
+      "link": "https://netzpolitik.org/2026/eu-kommission-frontex-soll-zur-abschiebeagentur-werden/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Präsidentschaftswahl in Brasilien: Gewonnen mit und trotz Internet",
+      "text": "Der wiedergewählte brasilianische Präsident Lula mit seinem digitalen Einflüsterer André Janones. (Archivbild)    –   Alle Rechte vorbehalten: Foto: Fotoarena / Bearbeitung: netzpolitik.orgBrasiliens Linke hat in sozialen Medien traditionell einen schweren Stand. Trotz des Gegenw",
+      "link": "https://netzpolitik.org/2026/praesidentschaftswahl-in-brasilien-gewonnen-mit-und-trotz-internet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Account-Sperren auf Instagram und Facebook: Metas Willkür unterworfen",
+      "text": "Wer auf Instagram oder Facebook gesperrt wird, verliert Reichweite und Sichtbarkeit.     –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Iqro RinaldiMeta sperrt Konten von Organisationen und Einzelpersonen, ohne eine klare Begründung zu geben. Weil die Sperrungen oft queer",
+      "link": "https://netzpolitik.org/2026/account-sperren-auf-instagram-und-facebook-metas-willkuer-unterworfen/"
+    }
+  ]
+}
