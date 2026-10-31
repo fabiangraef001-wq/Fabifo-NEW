@@ -1,0 +1,287 @@
+{
+  "updated": "2026-10-31T10:48+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25818.2,
+      "unit": "Pkt.",
+      "change_pct": -0.85,
+      "history": [
+        25371.8,
+        25181.7,
+        25410.8,
+        25590.8,
+        25704.0,
+        26039.7,
+        25818.2
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 28384.8,
+      "unit": "Pkt.",
+      "change_pct": -3.46,
+      "history": [
+        28958.7,
+        28957.5,
+        29273.4,
+        29651.4,
+        29813.2,
+        29402.5,
+        28384.8
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7580.1,
+      "unit": "Pkt.",
+      "change_pct": -1.82,
+      "history": [
+        7663.4,
+        7623.7,
+        7676.8,
+        7722.6,
+        7744.0,
+        7720.4,
+        7580.1
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 117.6,
+      "unit": "$",
+      "change_pct": 2.35,
+      "history": [
+        113.2,
+        116.7,
+        115.8,
+        113.9,
+        115.3,
+        114.9,
+        117.6
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3898.9,
+      "unit": "$",
+      "change_pct": -3.29,
+      "history": [
+        4060.4,
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1183,
+      "unit": "",
+      "change_pct": 0.24,
+      "history": [
+        1.1235,
+        1.1221,
+        1.1218,
+        1.1174,
+        1.113,
+        1.1156,
+        1.1183
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
+    "text": "Die bundesweit angekündigten Proteste junger Menschen werfen die Frage auf: Tut die Politik zu wenig für Jugendliche? Fragen an zwei junge Abgeordnete mit Blick auf Rente, Wehrdienst und Bildung. Von Sarah Beham.",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
+        "text": "Die bundesweit angekündigten Proteste junger Menschen werfen die Frage auf: Tut die Politik zu wenig für Jugendliche? Fragen an zwei junge Abgeordnete mit Blick auf Rente, Wehrdienst und Bildung. Von Sarah Beham.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
+        "text": "Was lange wie Science-Fiction klang, ist inzwischen Realität: Chips im Gehirn helfen gelähmten Menschen, Computer mit ihren Gedanken zu steuern. Forscher hoffen auf neue Therapien, Ethiker warnen vor Risiken. Von Katharina Bruns.",
+        "link": "https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
+        "text": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
+        "text": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
+        "text": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
+        "text": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte.",
+        "link": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Arabische Parteien in Israel stecken in einem Dilemma",
+        "text": "Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein. Von Julia Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
+        "text": "Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
+        "text": "In Atlanta beraten die G20-Außenminister über internationale Krisen und die Folgen für die Weltwirtschaft. Doch die Gräben zwischen den Teilnehmenden sind tief. Vor allem Russlands Außenminister Lawrow sparte nicht mit Kritik.",
+        "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
+        "text": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
+        "text": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Von R. Spiegelhauer.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Steinmeier in China: Handelsüberschuss im Fokus",
+        "text": "Bundespräsident Steinmeier hat China zum Abbau seines hohen Handelsdefizits mit Deutschland aufgefordert. Bei einem Treffen mit Präsident Xi betonte er zudem die Verantwortung beider Länder, die internationale Ordnung aufrechtzuerhalten.",
+        "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Canada Summit 2026: Leaders mark a historic moment in bilateral relations",
+        "text": "European Commission News Brussels, 31 Oct 2026 \nCommission President Ursula von der Leyen, along with European Council President António Costa, took part in the EU-Canada Summit hosted by Canadian Prime Mini...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2318"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Joint Statement: The European Union and Canada building together an Alliance for the future",
+        "text": "European Commission Statement Montreal, 30 Oct 2026 1. Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2313"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen auf dem Gipfeltreffen EU-Kanada",
+        "text": "European Commission Erklärung Montreal, 30 Oct 2026 Lieber Mark,\nlieber António,\nguten Tag allerseits. Und Bonjour, da wir in Québec sind.\nWir sind ganz selbstverständlich hier in Montréal zusammengekommen, um üb...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2312"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Eröffnungserklärung von Präsidentin von der Leyen auf dem Gipfeltreffen EU-Kanada",
+        "text": "European Commission Erklärung Montreal, 30 Oct 2026 Lieber Mark,\nich freue mich sehr, hier in Montréal zu sein und diese Stadt näher kennenzulernen, die sich zum Atlantik hin öffnet – dieser Ozean der uns verbind...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2310"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU und Kanada intensivieren Zusammenarbeit im Bereich medizinischer Gegenmaßnahmen zur Vorsorge und Reaktion bei gesundheitlichen Notlagen",
+        "text": "European Commission Gemeinsame Pressemitteilung Ottawa, 30 Oct 2026 Am Montag, dem 26. Oktober, trafen sich Hadja Lahbib, EU-Kommissarin für Krisenvorsorge und Krisenmanagement, und die Frau Mélanie Joly, Ministerin für Industrie und Ministerin für die wirtschaftliche Entwicklung",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/jp_26_2309"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 30 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 30 Oct 2026 EU kündigt Einsetzung und Zusammensetzung der PreparEU-Beratergruppe für europäische Katastrophenvorsorge anDie Europäische Kommission richtet heute die PreparE...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2307"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
+        "text": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
+        "text": "Die hohe Inflation in Deutschland ‌hat sich im Oktober spürbar abgeschwächt. Dafür sorgen vor allem die fallenden Preise an den Zapfsäulen. Doch Ökonomen geben noch keine Entwarnung.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 44: Die Woche, als uns noch 200 Brandschutzhelfer*innen fehlten",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 44. Kalenderwoche geht zu Ende. Wir haben 9 neue Texte mit insgesamt 74.470 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-44-die-woche-als-uns-noch-200-brandschutzhelferinnen-fehlten/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Transparenzbericht 3. Quartal 2026: Unsere Einnahmen und Ausgaben und Druck im Kessel",
+      "text": "La Gare Saint-Lazare, le train de Normandie (1877)    –   Gemeinfrei: Claude MonetAuf dem politischen Druckanzeiger klettert der Zeiger stetig nach oben. Druck erzeugt bekanntlich Gegendruck. Vor allem junge Menschen wollen eine Wende. Wir stehen an der Seite der Zivilgesellschaf",
+      "link": "https://netzpolitik.org/2026/transparenzbericht-3-quartal-2026-unsere-einnahmen-und-ausgaben-und-steigender-druck-im-kessel/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
+      "text": "Die US-Regierung will vor allem Zugriff auf Daten von Reisenden. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO/ Marc Bremer; Bearbeitung: netzpolitik.orgDer Europäische Datenschutzbeauftragte fordert schärfere Grenzen für einen Austausch von heiklen Polizeidaten mit US-Behör",
+      "link": "https://netzpolitik.org/2026/grenzpartnerschaft-auch-der-eu-datenschuetzer-ruegt-geplantes-polizeiabkommen-mit-den-usa/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Volksentscheid: Tech-Milliardäre mobilisieren gegen kalifornische Reichensteuer",
+      "text": "Google-Mitgründer Sergey Brin steht an der Spitze im Kampf gegen eine Reichensteuer in Kalifornien. (Archivbild)    –   Alle Rechte vorbehalten: AFLOKalifornien stimmt nächste Woche über eine Reichensteuer ab. Erstmals könnten Vermögen von über einer Milliarde US-Dollar mit einer",
+      "link": "https://netzpolitik.org/2026/volksentscheid-tech-milliardaere-mobilisieren-gegen-kalifornische-reichensteuer/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Folgenabschätzung zum Kids Act: EU-Kommission spielt Gefahren für Grundrechte herunter",
+      "text": "Eine Folgenabschätzung soll kommende Regulierung genau vermessen. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO/wolterfoto, Bearbeitung: netzpolitik.orgMit dem Kids Act plant die EU-Kommission flächendeckende Alterskontrollen im Netz. Eine Folgenabschätzung soll Bedenken zer",
+      "link": "https://netzpolitik.org/2026/folgenabschaetzung-zum-kids-act-eu-kommission-spielt-gefahren-fuer-grundrechte-herunter/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "EU-Kommission: Frontex soll zur Abschiebeagentur werden",
+      "text": "Frontex soll mehr Macht und mehr Personal bekommen.    –   Alle Rechte vorbehalten: IMAGO / ANPMit zwei Gesetzentwürfen will die EU-Kommission die Grenzagentur Frontex zur zentralen Abschiebeagentur aufrüsten. Dabei spielt auch Social-Media-Monitoring eine Rolle. Ein EU-Abgeordne",
+      "link": "https://netzpolitik.org/2026/eu-kommission-frontex-soll-zur-abschiebeagentur-werden/"
+    }
+  ]
+}
