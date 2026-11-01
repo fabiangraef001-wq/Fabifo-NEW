@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:48+00:00",
+  "updated": "2026-11-01T11:45+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
@@ -48,17 +48,16 @@
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 117.6,
+      "value": 113.4,
       "unit": "$",
-      "change_pct": 2.35,
+      "change_pct": -1.31,
       "history": [
-        113.2,
         116.7,
         115.8,
         113.9,
         115.3,
         114.9,
-        117.6
+        113.4
       ]
     },
     "gold": {
@@ -67,7 +66,6 @@
       "unit": "$",
       "change_pct": -3.29,
       "history": [
-        4060.4,
         4007.9,
         4038.4,
         4074.6,
@@ -112,85 +110,85 @@
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
-    "text": "Die bundesweit angekündigten Proteste junger Menschen werfen die Frage auf: Tut die Politik zu wenig für Jugendliche? Fragen an zwei junge Abgeordnete mit Blick auf Rente, Wehrdienst und Bildung. Von Sarah Beham.",
-    "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html"
+    "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+    "text": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Gen-Z-Proteste: Was die Bundesregierung für die Jugend macht",
-        "text": "Die bundesweit angekündigten Proteste junger Menschen werfen die Frage auf: Tut die Politik zu wenig für Jugendliche? Fragen an zwei junge Abgeordnete mit Blick auf Rente, Wehrdienst und Bildung. Von Sarah Beham.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-bundesregierung-100.html"
+        "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+        "text": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Chip im Kopf: Wenn Computer Gedanken verstehen lernen",
-        "text": "Was lange wie Science-Fiction klang, ist inzwischen Realität: Chips im Gehirn helfen gelähmten Menschen, Computer mit ihren Gedanken zu steuern. Forscher hoffen auf neue Therapien, Ethiker warnen vor Risiken. Von Katharina Bruns.",
-        "link": "https://www.tagesschau.de/wissen/computer-chip-gehirn-100.html"
+        "title": "Vor 40 Jahren: Als eine Chemiewolke über Basel zog",
+        "text": "Vor 40 Jahren brannte bei Basel eine Lagerhalle, in der große Mengen gefährlicher Chemikalien gelagert waren. Ein Giftwolke zog über die Stadt, verseuchtes Löschwasser floss in den Rhein. Was hat sich durch die Katastrophe verändert? Von S. Biegger.",
+        "link": "https://www.tagesschau.de/ausland/europa/schweiz-40-jahre-chemieunfall-sandoz-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Evakuierungsaktion im ukrainischen Oleschky abgeschlossen",
-        "text": "Es war die größte gemeinsame Aktion von Ukrainern und Russen seit Kriegsbeginn: Mit 25 Bussen wurden Menschen aus der Frontstadt Oleschky gebracht. Ein Teil von ihnen ist bereits in Belarus angekommen, um in die Ukraine weiterzureisen.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-evakuierung-oleschky-100.html"
+        "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+        "text": "In vielen europäischen Ländern gehen momentan junge Menschen auf die Straße - auch in Portugal. Dort richten sich die Demonstrationen vor allem gegen die Wohnungsnot. Die Polizei ging hart gegen ein Protestcamp in Lissabon vor.",
+        "link": "https://www.tagesschau.de/ausland/portugal-protest-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "KI bei der Geldanlage: Wie sicher sind ChatGPT-Anlagetipps?",
-        "text": "Immer mehr Menschen holen sich bei der Geldanlage Rat von ChatGPT oder Claude. Experten sehen in den KI-Anlagetipps durchaus Potenzial, warnen aber auch vor Fehlern und Risiken. Von Angela Göpfert.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/ki-geldanlage-chatgpt-anlagetipps-risiken-100.html"
+        "title": "Microcars boomen - aber wie sicher sind sie?",
+        "text": "Sie sehen aus wie Kleinwagen, sind aber keine: Microcars sind maximal 45 km/h schnell und dürfen in Deutschland schon ab 15 Jahren gefahren werden. Wie sicher sind die beliebten Mini-Autos? Von Hermann Scholz.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Die Linke in Berlin: Aus dem Trubel in die Koalition?",
-        "text": "Die Berliner Linke entscheidet heute über den Start von Koalitionsverhandlungen mit SPD und Grünen. Überschattet wird der Parteitag von Antisemitismusvorwürfen und einem Spiegel-Bericht. Von Frank Aischmann.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/linke-berlin-parteitag-eralp-100.html"
+        "title": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+        "text": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Einigung bei der UN-Biodiversitätskonferenz erzielt",
-        "text": "Wie kann die Artenvielfalt geschützt werden? Darüber wurde bei der UN-Biodiversitätskonferenz intensiv verhandelt. Am Ende gab es in Armenien eine Einigung - wenn auch keine besonders ambitionierte.",
-        "link": "https://www.tagesschau.de/ausland/asien/biodiversitaet-cop-armenien-100.html"
+        "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+        "text": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
+        "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Arabische Parteien in Israel stecken in einem Dilemma",
-        "text": "Die arabischen Listen in Israel haben bei der Parlamentswahl große Erfolge erzielt. Sie traten gemeinsam an, unterscheiden sich aber inhaltlich. Vor allem wollen sie nicht nur Mehrheitsbeschaffer sein. Von Julia Segador.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-arabische-parteien-100.html"
+        "title": "Israel: Demos für Einbindung der arabischen Parteien",
+        "text": "Sie demonstrierten für Veränderung - und die Ablösung von Premier Netanjahu: In Israel haben Hunderte die Opposition dazu aufgerufen, die arabischen Parteien an der Regierungsbildung zu beteiligen.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Frust bei US-Farmern könnte Trump Stimmen bei den Midterms kosten",
-        "text": "Landwirte gelten als wichtige Wählergruppe der US-Republikaner. Doch steigende Kosten und eine unberechenbare Zollpolitik sorgen für Frust. Das könnte bei den Zwischenwahlen zum Stresstest für die Trump-Regierung werden. Von S. Jackisch.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-landwirtschaft-100.html"
+        "title": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+        "text": "In den ukrainischen Karpaten versuchen Soldatinnen und Soldaten, für ein paar Tage Abstand vom Krieg zu gewinnen. Doch die Erinnerungen lassen sich nicht einfach abschütteln. Von Susanne Petersohn.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "G20-Außenministertreffen in Atlanta: Russland bleibt auf Distanz",
-        "text": "In Atlanta beraten die G20-Außenminister über internationale Krisen und die Folgen für die Weltwirtschaft. Doch die Gräben zwischen den Teilnehmenden sind tief. Vor allem Russlands Außenminister Lawrow sparte nicht mit Kritik.",
-        "link": "https://www.tagesschau.de/ausland/amerika/g20-aussenminister-102.html"
+        "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+        "text": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "US-Regierung genehmigt \"Patriot\"-Lieferungen an Ukraine",
-        "text": "Um sich gegen russische Angriffe zur Wehr zu setzen, ist die Ukraine vor allem auf US-Waffenlieferungen angewiesen. Diese kamen zuletzt ins Stocken. Bei einer Lieferung hat das US-Außenministerium nun grünes Licht gegeben.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-ukraine-patriot-100.html"
+        "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+        "text": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.",
+        "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "USA: Bereitet Newsom eine Präsidentschaftskandidatur vor?",
-        "text": "Der Wahlkampf in den USA ist für Politiker auch eine Gelegenheit, sich zu positionieren - für die Präsidentschaftswahl 2028. Kaliforniens Gouverneur Newsom werden Ambitionen nachgesagt - doch es gibt viele Vorbehalte. Von R. Spiegelhauer.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-newsom-ambitionen-100.html"
+        "title": "Erneut Proteste und Zusammenstöße in Frankreich",
+        "text": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
+        "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Steinmeier in China: Handelsüberschuss im Fokus",
-        "text": "Bundespräsident Steinmeier hat China zum Abbau seines hohen Handelsdefizits mit Deutschland aufgefordert. Bei einem Treffen mit Präsident Xi betonte er zudem die Verantwortung beider Länder, die internationale Ordnung aufrechtzuerhalten.",
-        "link": "https://www.tagesschau.de/ausland/asien/steinmeiner-xi-treffen-100.html"
+        "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
+        "text": "In Texas könnte bei den Zwischenwahlen am Dienstag ein Demokrat das Rennen um den Sitz im US-Senat für sich entscheiden. Dabei gewinnen in dem Bundesstaat seit Jahrzehnten verlässlich die Republikaner. Welche Themen beschäftigen die Wähler? Von S. Schmidt.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html"
       }
     ],
     "eu": [
@@ -249,6 +247,24 @@
   "independent": [
     {
       "source": "netzpolitik.org",
+      "title": "Trugbild: Männer, die auf Frauen starren",
+      "text": "Frauen sind nirgendwo sicher, auch nicht beim Baden    –   Gemeinfrei: Artemisia GentileschiSmartphones und Smartglasses bringen einen im Internet geformten Blick auf die Straße. Das erschwert die Bewegung im öffentlichen Raum.",
+      "link": "https://netzpolitik.org/2026/trugbild-maenner-die-auf-frauen-starren/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Datentausch und Strafverfolgung: Trump findet ersten EU-Partner zur Jagd auf Antifa-Gruppen",
+      "text": "Marco Rubio und Anita Orbán geben sich die Hand.    –   Alle Rechte vorbehalten: IMAGO / Agencia EFEWashington und Budapest wollen Informationen über linke Gruppen austauschen und sie gemeinsam verfolgen. Im besonderen Fokus steht eine deutsche „Antifa Ost“. Die Bundesregierung b",
+      "link": "https://netzpolitik.org/2026/datentausch-und-strafverfolgung-trump-findet-ersten-eu-partner-zur-jagd-auf-antifa-gruppen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Verhaltensscanner in Berlin: Kreisverkehr der Kontrolle",
+      "text": "Der Mann im Bild pinkelt gerade. Sobald er sich wieder auf seine Matratze legt, muss die automatisierte Überwachung ihn erfassen.    –   CC-BY-NC-SA 4.0: netzpolitik.orgEin Lebensraum, 30 Kameras. Und eine Software, die permanent prüft, ob alle Anwesenden sich verhalten wie erwün",
+      "link": "https://netzpolitik.org/2026/verhaltensscanner-in-berlin-kreisverkehr-der-kontrolle/"
+    },
+    {
+      "source": "netzpolitik.org",
       "title": "KW 44: Die Woche, als uns noch 200 Brandschutzhelfer*innen fehlten",
       "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 44. Kalenderwoche geht zu Ende. Wir haben 9 neue Texte mit insgesamt 74.470 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
       "link": "https://netzpolitik.org/2026/kw-44-die-woche-als-uns-noch-200-brandschutzhelferinnen-fehlten/"
@@ -264,24 +280,6 @@
       "title": "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
       "text": "Die US-Regierung will vor allem Zugriff auf Daten von Reisenden. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO/ Marc Bremer; Bearbeitung: netzpolitik.orgDer Europäische Datenschutzbeauftragte fordert schärfere Grenzen für einen Austausch von heiklen Polizeidaten mit US-Behör",
       "link": "https://netzpolitik.org/2026/grenzpartnerschaft-auch-der-eu-datenschuetzer-ruegt-geplantes-polizeiabkommen-mit-den-usa/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Volksentscheid: Tech-Milliardäre mobilisieren gegen kalifornische Reichensteuer",
-      "text": "Google-Mitgründer Sergey Brin steht an der Spitze im Kampf gegen eine Reichensteuer in Kalifornien. (Archivbild)    –   Alle Rechte vorbehalten: AFLOKalifornien stimmt nächste Woche über eine Reichensteuer ab. Erstmals könnten Vermögen von über einer Milliarde US-Dollar mit einer",
-      "link": "https://netzpolitik.org/2026/volksentscheid-tech-milliardaere-mobilisieren-gegen-kalifornische-reichensteuer/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Folgenabschätzung zum Kids Act: EU-Kommission spielt Gefahren für Grundrechte herunter",
-      "text": "Eine Folgenabschätzung soll kommende Regulierung genau vermessen. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO/wolterfoto, Bearbeitung: netzpolitik.orgMit dem Kids Act plant die EU-Kommission flächendeckende Alterskontrollen im Netz. Eine Folgenabschätzung soll Bedenken zer",
-      "link": "https://netzpolitik.org/2026/folgenabschaetzung-zum-kids-act-eu-kommission-spielt-gefahren-fuer-grundrechte-herunter/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "EU-Kommission: Frontex soll zur Abschiebeagentur werden",
-      "text": "Frontex soll mehr Macht und mehr Personal bekommen.    –   Alle Rechte vorbehalten: IMAGO / ANPMit zwei Gesetzentwürfen will die EU-Kommission die Grenzagentur Frontex zur zentralen Abschiebeagentur aufrüsten. Dabei spielt auch Social-Media-Monitoring eine Rolle. Ein EU-Abgeordne",
-      "link": "https://netzpolitik.org/2026/eu-kommission-frontex-soll-zur-abschiebeagentur-werden/"
     }
   ]
 }

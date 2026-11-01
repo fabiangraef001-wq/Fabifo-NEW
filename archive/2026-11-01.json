@@ -1,0 +1,285 @@
+{
+  "updated": "2026-11-01T11:45+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25818.2,
+      "unit": "Pkt.",
+      "change_pct": -0.85,
+      "history": [
+        25371.8,
+        25181.7,
+        25410.8,
+        25590.8,
+        25704.0,
+        26039.7,
+        25818.2
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 28384.8,
+      "unit": "Pkt.",
+      "change_pct": -3.46,
+      "history": [
+        28958.7,
+        28957.5,
+        29273.4,
+        29651.4,
+        29813.2,
+        29402.5,
+        28384.8
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7580.1,
+      "unit": "Pkt.",
+      "change_pct": -1.82,
+      "history": [
+        7663.4,
+        7623.7,
+        7676.8,
+        7722.6,
+        7744.0,
+        7720.4,
+        7580.1
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 113.4,
+      "unit": "$",
+      "change_pct": -1.31,
+      "history": [
+        116.7,
+        115.8,
+        113.9,
+        115.3,
+        114.9,
+        113.4
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3898.9,
+      "unit": "$",
+      "change_pct": -3.29,
+      "history": [
+        4007.9,
+        4038.4,
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1183,
+      "unit": "",
+      "change_pct": 0.24,
+      "history": [
+        1.1235,
+        1.1221,
+        1.1218,
+        1.1174,
+        1.113,
+        1.1156,
+        1.1183
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+    "text": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
+        "text": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Vor 40 Jahren: Als eine Chemiewolke über Basel zog",
+        "text": "Vor 40 Jahren brannte bei Basel eine Lagerhalle, in der große Mengen gefährlicher Chemikalien gelagert waren. Ein Giftwolke zog über die Stadt, verseuchtes Löschwasser floss in den Rhein. Was hat sich durch die Katastrophe verändert? Von S. Biegger.",
+        "link": "https://www.tagesschau.de/ausland/europa/schweiz-40-jahre-chemieunfall-sandoz-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
+        "text": "In vielen europäischen Ländern gehen momentan junge Menschen auf die Straße - auch in Portugal. Dort richten sich die Demonstrationen vor allem gegen die Wohnungsnot. Die Polizei ging hart gegen ein Protestcamp in Lissabon vor.",
+        "link": "https://www.tagesschau.de/ausland/portugal-protest-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Microcars boomen - aber wie sicher sind sie?",
+        "text": "Sie sehen aus wie Kleinwagen, sind aber keine: Microcars sind maximal 45 km/h schnell und dürfen in Deutschland schon ab 15 Jahren gefahren werden. Wie sicher sind die beliebten Mini-Autos? Von Hermann Scholz.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
+        "text": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
+        "text": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
+        "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Israel: Demos für Einbindung der arabischen Parteien",
+        "text": "Sie demonstrierten für Veränderung - und die Ablösung von Premier Netanjahu: In Israel haben Hunderte die Opposition dazu aufgerufen, die arabischen Parteien an der Regierungsbildung zu beteiligen.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
+        "text": "In den ukrainischen Karpaten versuchen Soldatinnen und Soldaten, für ein paar Tage Abstand vom Krieg zu gewinnen. Doch die Erinnerungen lassen sich nicht einfach abschütteln. Von Susanne Petersohn.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
+        "text": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
+        "text": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.",
+        "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Erneut Proteste und Zusammenstöße in Frankreich",
+        "text": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
+        "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
+        "text": "In Texas könnte bei den Zwischenwahlen am Dienstag ein Demokrat das Rennen um den Sitz im US-Senat für sich entscheiden. Dabei gewinnen in dem Bundesstaat seit Jahrzehnten verlässlich die Republikaner. Welche Themen beschäftigen die Wähler? Von S. Schmidt.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Canada Summit 2026: Leaders mark a historic moment in bilateral relations",
+        "text": "European Commission News Brussels, 31 Oct 2026 \nCommission President Ursula von der Leyen, along with European Council President António Costa, took part in the EU-Canada Summit hosted by Canadian Prime Mini...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2318"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Joint Statement: The European Union and Canada building together an Alliance for the future",
+        "text": "European Commission Statement Montreal, 30 Oct 2026 1. Today we, the Leaders of the European Union (EU) and Canada, at our 21st Summit in Montréal, launch the EU-Canada Alliance for the Future to create a common ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2313"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen auf dem Gipfeltreffen EU-Kanada",
+        "text": "European Commission Erklärung Montreal, 30 Oct 2026 Lieber Mark,\nlieber António,\nguten Tag allerseits. Und Bonjour, da wir in Québec sind.\nWir sind ganz selbstverständlich hier in Montréal zusammengekommen, um üb...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2312"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Eröffnungserklärung von Präsidentin von der Leyen auf dem Gipfeltreffen EU-Kanada",
+        "text": "European Commission Erklärung Montreal, 30 Oct 2026 Lieber Mark,\nich freue mich sehr, hier in Montréal zu sein und diese Stadt näher kennenzulernen, die sich zum Atlantik hin öffnet – dieser Ozean der uns verbind...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2310"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU und Kanada intensivieren Zusammenarbeit im Bereich medizinischer Gegenmaßnahmen zur Vorsorge und Reaktion bei gesundheitlichen Notlagen",
+        "text": "European Commission Gemeinsame Pressemitteilung Ottawa, 30 Oct 2026 Am Montag, dem 26. Oktober, trafen sich Hadja Lahbib, EU-Kommissarin für Krisenvorsorge und Krisenmanagement, und die Frau Mélanie Joly, Ministerin für Industrie und Ministerin für die wirtschaftliche Entwicklung",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/jp_26_2309"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 30 / 10 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 30 Oct 2026 EU kündigt Einsetzung und Zusammensetzung der PreparEU-Beratergruppe für europäische Katastrophenvorsorge anDie Europäische Kommission richtet heute die PreparE...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2307"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
+        "text": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
+        "text": "Die hohe Inflation in Deutschland ‌hat sich im Oktober spürbar abgeschwächt. Dafür sorgen vor allem die fallenden Preise an den Zapfsäulen. Doch Ökonomen geben noch keine Entwarnung.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Trugbild: Männer, die auf Frauen starren",
+      "text": "Frauen sind nirgendwo sicher, auch nicht beim Baden    –   Gemeinfrei: Artemisia GentileschiSmartphones und Smartglasses bringen einen im Internet geformten Blick auf die Straße. Das erschwert die Bewegung im öffentlichen Raum.",
+      "link": "https://netzpolitik.org/2026/trugbild-maenner-die-auf-frauen-starren/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Datentausch und Strafverfolgung: Trump findet ersten EU-Partner zur Jagd auf Antifa-Gruppen",
+      "text": "Marco Rubio und Anita Orbán geben sich die Hand.    –   Alle Rechte vorbehalten: IMAGO / Agencia EFEWashington und Budapest wollen Informationen über linke Gruppen austauschen und sie gemeinsam verfolgen. Im besonderen Fokus steht eine deutsche „Antifa Ost“. Die Bundesregierung b",
+      "link": "https://netzpolitik.org/2026/datentausch-und-strafverfolgung-trump-findet-ersten-eu-partner-zur-jagd-auf-antifa-gruppen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Verhaltensscanner in Berlin: Kreisverkehr der Kontrolle",
+      "text": "Der Mann im Bild pinkelt gerade. Sobald er sich wieder auf seine Matratze legt, muss die automatisierte Überwachung ihn erfassen.    –   CC-BY-NC-SA 4.0: netzpolitik.orgEin Lebensraum, 30 Kameras. Und eine Software, die permanent prüft, ob alle Anwesenden sich verhalten wie erwün",
+      "link": "https://netzpolitik.org/2026/verhaltensscanner-in-berlin-kreisverkehr-der-kontrolle/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 44: Die Woche, als uns noch 200 Brandschutzhelfer*innen fehlten",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 44. Kalenderwoche geht zu Ende. Wir haben 9 neue Texte mit insgesamt 74.470 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-44-die-woche-als-uns-noch-200-brandschutzhelferinnen-fehlten/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Transparenzbericht 3. Quartal 2026: Unsere Einnahmen und Ausgaben und Druck im Kessel",
+      "text": "La Gare Saint-Lazare, le train de Normandie (1877)    –   Gemeinfrei: Claude MonetAuf dem politischen Druckanzeiger klettert der Zeiger stetig nach oben. Druck erzeugt bekanntlich Gegendruck. Vor allem junge Menschen wollen eine Wende. Wir stehen an der Seite der Zivilgesellschaf",
+      "link": "https://netzpolitik.org/2026/transparenzbericht-3-quartal-2026-unsere-einnahmen-und-ausgaben-und-steigender-druck-im-kessel/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
+      "text": "Die US-Regierung will vor allem Zugriff auf Daten von Reisenden. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO/ Marc Bremer; Bearbeitung: netzpolitik.orgDer Europäische Datenschutzbeauftragte fordert schärfere Grenzen für einen Austausch von heiklen Polizeidaten mit US-Behör",
+      "link": "https://netzpolitik.org/2026/grenzpartnerschaft-auch-der-eu-datenschuetzer-ruegt-geplantes-polizeiabkommen-mit-den-usa/"
+    }
+  ]
+}
