@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-01T11:45+00:00",
+  "updated": "2026-11-02T13:17+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25818.2,
+      "value": 25781.6,
       "unit": "Pkt.",
-      "change_pct": -0.85,
+      "change_pct": -0.14,
       "history": [
-        25371.8,
         25181.7,
         25410.8,
         25590.8,
         25704.0,
         26039.7,
-        25818.2
+        25818.2,
+        25781.6
       ]
     },
     "nasdaq100": {
@@ -48,45 +48,45 @@
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 113.4,
+      "value": 108.6,
       "unit": "$",
-      "change_pct": -1.31,
+      "change_pct": -7.65,
       "history": [
-        116.7,
         115.8,
         113.9,
         115.3,
         114.9,
-        113.4
+        117.6,
+        108.6
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 3898.9,
+      "value": 3909.5,
       "unit": "$",
-      "change_pct": -3.29,
+      "change_pct": 0.27,
       "history": [
-        4007.9,
         4038.4,
         4074.6,
         4051.6,
         4031.4,
-        3898.9
+        3898.9,
+        3909.5
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1183,
+      "value": 1.1218,
       "unit": "",
-      "change_pct": 0.24,
+      "change_pct": 0.31,
       "history": [
-        1.1235,
         1.1221,
         1.1218,
         1.1174,
         1.113,
         1.1156,
-        1.1183
+        1.1183,
+        1.1218
       ]
     },
     "fed_rate": {
@@ -110,88 +110,94 @@
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
-    "text": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
-    "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html"
+    "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
+    "text": "Der Mangel an Wohnraum und die hohen Mieten verhindern die berufliche Mobilität und erschweren Unternehmen die Suche nach Fachkräften. Experten fordern deshalb mehr Anreize für den Wohnungsbau.",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "FAQ: Wie lief der \"Gen Z regelt\"-Protest? Wie geht es weiter?",
-        "text": "Mehr als 180.000 Menschen hatten sich zum bundesweiten \"Gen Z regelt\"-Protesttag angemeldet. Es kamen deutlich weniger. Woran könnte es gelegen haben? Wie reagiert die Politik und welche neuen Aktionen sind geplant?",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/demonstration-protest-genz-100.html"
+        "title": "Angeklagter räumt in Prozess um Misshandlung in Soest Beteiligung ein",
+        "text": "Im Prozess um die Misshandlung einer Frau in Soest hat der Hauptangeklagte sein Schweigen gebrochen. Bisher hatte er bestritten, an der Tat beteiligt gewesen zu sein. Jetzt räumte der 29-jährige Soester ein, bei einem Teil der Taten mitgemacht zu haben.",
+        "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/soest-misshandlung-prozess-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Vor 40 Jahren: Als eine Chemiewolke über Basel zog",
-        "text": "Vor 40 Jahren brannte bei Basel eine Lagerhalle, in der große Mengen gefährlicher Chemikalien gelagert waren. Ein Giftwolke zog über die Stadt, verseuchtes Löschwasser floss in den Rhein. Was hat sich durch die Katastrophe verändert? Von S. Biegger.",
-        "link": "https://www.tagesschau.de/ausland/europa/schweiz-40-jahre-chemieunfall-sandoz-100.html"
+        "title": "Nadeln und Nägel in Halloween-Süßigkeiten entdeckt",
+        "text": "Bundesweit häufen sich die Fälle gefundener Fremdkörper in Halloween-Süßigkeiten. Die Polizei bittet Eltern, die gesammelten Naschereien ihrer Kinder sorgfältig zu überprüfen. Die Ermittlungen laufen.",
+        "link": "https://www.tagesschau.de/inland/nadeln-suessigkeiten-halloween-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Demos gegen Wohnungsnot in Portugal - Protestcamps geräumt",
-        "text": "In vielen europäischen Ländern gehen momentan junge Menschen auf die Straße - auch in Portugal. Dort richten sich die Demonstrationen vor allem gegen die Wohnungsnot. Die Polizei ging hart gegen ein Protestcamp in Lissabon vor.",
-        "link": "https://www.tagesschau.de/ausland/portugal-protest-100.html"
+        "title": "Bas beklagt im ARD-Interview mangelnde Menschlichkeit im Politikbetrieb",
+        "text": "Nach einem Schicksalsschlag hat sich SPD-Politikerin Bas aus der ersten Reihe der Politik zurückgezogen. Ihr Rücktritt löste in der Koalition eine Krise aus. Im ARD-Interview spricht sie nun über Menschlichkeit und das \"harte politische Geschäft\".",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bas-ruecktritt-feldenkirchen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Microcars boomen - aber wie sicher sind sie?",
-        "text": "Sie sehen aus wie Kleinwagen, sind aber keine: Microcars sind maximal 45 km/h schnell und dürfen in Deutschland schon ab 15 Jahren gefahren werden. Wie sicher sind die beliebten Mini-Autos? Von Hermann Scholz.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/microcars-sicherheit-100.html"
+        "title": "Kreuzfahrt-Weltreise endet vorzeitig in Kambodscha",
+        "text": "Für manche sollte es eine Kreuzfahrt bis ans Lebensende werden - doch jetzt endete die Reise der \"MV Odyssey\" vorzeitig in Kambodscha. Grund sind laut Reederei die stark gestiegenen Treibstoffpreise. Von Angelika Henkel.",
+        "link": "https://www.tagesschau.de/ausland/asien/kambodscha-kreuzfahrt-odyssey-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Steinmeier zu KI: \"Nicht das Ob steht zur Frage, sondern das Wie\"",
-        "text": "Zum Abschluss seiner China-Reise hat Bundespräsident Steinmeier vor den Risiken Künstlicher Intelligenz für die Demokratie gewarnt. Über Fortschritte im Handelskonflikt zwischen Europa und China äußerte er sich vorsichtig optimistisch. Von D. Hebestreit und M. Deiß.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/steinmeier-ki-100.html"
+        "title": "Bildungsministerin Prien: Gewalt nach Jugenddemos wirft Integrationsfragen auf",
+        "text": "Frankfurt, Köln, Hamburg: In mehreren Städten eskalierte am Wochenende die Lage nach den \"Gen Z regelt\"-Protesten. Wer waren die Gewalttäter? Darüber gibt es eine Debatte. Für Bildungsministerin Prien geht es auch um Fragen der Integration.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/jugendprotest-ausschreitungen-prien-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie KI Entwicklung und Alltag verändert - kreativ auf Knopfdruck?",
-        "text": "Ob bei der Entwicklung neuer Produkte, in der Werbung oder bei der Gestaltung des eigenen Zuhauses: KI ist im Alltag angekommen. Sie spart oft Zeit, wirft aber auch Fragen nach Kreativität, Arbeitsplätzen und Vertrauen auf. Von Anke Heinhaus.",
-        "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-veraenderung-wirtschaft-alltag-100.html"
+        "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
+        "text": "Vor den US-Zwischenwahlen halten sich die Anleger lieber zurück. Zum Wochenstart gibt der DAX etwas nach. Mit Spannung warten die Investoren auch auf die heutigen Apple-Zahlen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-168.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Israel: Demos für Einbindung der arabischen Parteien",
-        "text": "Sie demonstrierten für Veränderung - und die Ablösung von Premier Netanjahu: In Israel haben Hunderte die Opposition dazu aufgerufen, die arabischen Parteien an der Regierungsbildung zu beteiligen.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-demo-arabische-parteien-100.html"
+        "title": "11KM-Podcast: Verliert Trump bei den Midterms die Stimmen der Farmer?",
+        "text": "In den USA stehen die Midterms bevor. Donald Trumps Politik sorgt derzeit unter anderem bei Farmern für viel Unmut. Die Gründe: hohe Preise für Sprit und Dünger. 11KM fragt: Verliert er seine treuesten Wähler?",
+        "link": "https://www.tagesschau.de/podcast-11km-3998.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Ukraine: Zehn Tage gegen den Krieg im Kopf",
-        "text": "In den ukrainischen Karpaten versuchen Soldatinnen und Soldaten, für ein paar Tage Abstand vom Krieg zu gewinnen. Doch die Erinnerungen lassen sich nicht einfach abschütteln. Von Susanne Petersohn.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-erholung-soldaten-100.html"
+        "title": "Kritik an Ammoniak-Importen: Die EU, Russland und die Sprengstoffindustrie",
+        "text": "Trotz aller Sanktionen importiert die EU russisches Ammoniak - aufgrund eines \"EU-Sonderkontingents\" legal. Nach SWR-Recherchen haben die beteiligten Firmen Verbindungen zu Putin-nahen Oligarchen und zur Sprengstoffindustrie. Von Nick Schader.",
+        "link": "https://www.tagesschau.de/investigativ/swr/ammoniak-eu-russland-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Trump lädt Flávio Bolsonaro zum Bleiben ein",
-        "text": "Nach seiner Wahlniederlage setzte sich der brasilianische Präsidentschaftskandidat Flávio Bolsonaro in die USA ab. Dort darf er bleiben - \"so lange, wie er will\", sagte Präsident Trump. Treffen will er Bolsonaro vorerst nicht.",
-        "link": "https://www.tagesschau.de/ausland/amerika/trump-bolsonaro-usa-100.html"
+        "title": "Ukraine: Feuerpause in Oleschky ausgelaufen",
+        "text": "Die Feuerpause in Oleschky ist vorbei. Vor ihrem Ende nutzte das ukrainische Militär noch die Gelegenheit, weitere Menschen aus der Region in Sicherheit zu bringen. Unterdessen melden Ukraine und Russland Cyberattacken auf ihre Warn-Apps.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "FBI macht Nordkorea für Hackerangriff auf Binance verantwortlich",
-        "text": "Laut Experten war es der bisher größte Hackerangriff auf eine Börse für Digitalwährungen. Am Donnerstag war er bekannt geworden - und schnell geriet Nordkorea ins Visier. Nun macht auch das FBI nordkoreanische Hacker dafür verantwortlich.",
-        "link": "https://www.tagesschau.de/ausland/asien/hack-binance-100.html"
+        "title": "FAQ: Was die neue Gebühr auf Sendungen aus Nicht-EU-Ländern bedeutet",
+        "text": "Jährlich erreichen mehrere Milliarden Kleinpakete die EU. Um diese Flut einzudämmen, wird jetzt eine Gebühr von mindestens zwei Euro pro Sendung fällig. Warum wird die Paketgebühr eingeführt? Werden Produkte jetzt teurer?",
+        "link": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Erneut Proteste und Zusammenstöße in Frankreich",
-        "text": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta.",
-        "link": "https://www.tagesschau.de/ausland/frankreich-proteste-242.html"
+        "title": "Iran-Krieg: Golfstaaten bereiten sich auf neue Eskalation vor",
+        "text": "Die Sorge vor einer erneuten Eskalation im Iran-Krieg wächst - vor allem in den Golfstaaten. Eine Folge: Aufrüstung. Auf einer Konferenz beraten Politiker aus der Region mit Experten. Auch Deutschland ist vertreten. Von M. Behrendt.",
+        "link": "https://www.tagesschau.de/ausland/golfstaaten-midterms-usa-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Midterms in den USA: Kippt ausgerechnet Texas?",
-        "text": "In Texas könnte bei den Zwischenwahlen am Dienstag ein Demokrat das Rennen um den Sitz im US-Senat für sich entscheiden. Dabei gewinnen in dem Bundesstaat seit Jahrzehnten verlässlich die Republikaner. Welche Themen beschäftigen die Wähler? Von S. Schmidt.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-midterms-wahlkampf-texas-100.html"
+        "title": "Streit über Verfassungsgericht: Unterstützung für Tusk aus Brüssel",
+        "text": "In Polen stehen sich die Regierung von Tusk und das rechtskonservative Lager um Staatspräsident Nawrocki anscheinend unversöhnlich gegenüber. Nun schaltet sich die EU-Kommission in den Streit über das Verfassungsgericht ein.",
+        "link": "https://www.tagesschau.de/ausland/polen-verfassungsgericht-eu-kommission-102.html"
       }
     ],
     "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Gemeinsame Erklärung von Exekutiv-Vizepräsidentin Virkkunen, der Hohen Vertreterin Kallas und Kommissionsmitglied McGrath im Vorfeld des Internationalen Tages zur Beendigung der Straflosigkeit für Verbrechen gegen Journalisten",
+        "text": "European Commission Erklärung Brussels, 01 Nov 2026 Gewalt gegen Journalisten untergräbt die Grundlagen offener, freier und demokratischer Gesellschaften. Doch auf der ganzen Welt werden Journalisten weiterhin getötet, gefoltert, belästigt, inhaftiert und ins Exil gezwungen, nur ",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2317"
+      },
       {
         "source": "EU-Kommission",
         "title": "EU-Canada Summit 2026: Leaders mark a historic moment in bilateral relations",
@@ -221,30 +227,30 @@
         "title": "EU und Kanada intensivieren Zusammenarbeit im Bereich medizinischer Gegenmaßnahmen zur Vorsorge und Reaktion bei gesundheitlichen Notlagen",
         "text": "European Commission Gemeinsame Pressemitteilung Ottawa, 30 Oct 2026 Am Montag, dem 26. Oktober, trafen sich Hadja Lahbib, EU-Kommissarin für Krisenvorsorge und Krisenmanagement, und die Frau Mélanie Joly, Ministerin für Industrie und Ministerin für die wirtschaftliche Entwicklung",
         "link": "https://ec.europa.eu/commission/presscorner/detail/de/jp_26_2309"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Tägliche Nachrichten 30 / 10 / 2026",
-        "text": "European Commission Nachrichten des Tages Brussels, 30 Oct 2026 EU kündigt Einsetzung und Zusammensetzung der PreparEU-Beratergruppe für europäische Katastrophenvorsorge anDie Europäische Kommission richtet heute die PreparE...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2307"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: Schwaches Ende einer starken Börsenwoche",
-        "text": "Zum Wochenschluss schwächelt der DAX, nachdem er zuvor viermal in Folge gestiegen war. Auslöser sind der hohe Ölpreis, aber auch schwache Tech-Vorgaben aus Übersee.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-geldanlage-amazon-100.html"
+        "title": "Marktbericht: Teurer Wohnraum bremst Deutschlands Wirtschaft",
+        "text": "Der Mangel an Wohnraum und die hohen Mieten verhindern die berufliche Mobilität und erschweren Unternehmen die Suche nach Fachkräften. Experten fordern deshalb mehr Anreize für den Wohnungsbau.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Inflationsrate geht im Oktober auf 2,8 Prozent zurück",
-        "text": "Die hohe Inflation in Deutschland ‌hat sich im Oktober spürbar abgeschwächt. Dafür sorgen vor allem die fallenden Preise an den Zapfsäulen. Doch Ökonomen geben noch keine Entwarnung.",
-        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/inflationsrate-deutschland-oktober-100.html"
+        "title": "Vor den US-Zwischenwahlen: Wie ist Trumps Wirtschaftsbilanz?",
+        "text": "Die Wirtschaft wächst, doch viele Amerikaner leiden unter hohen Lebenshaltungskosten. Der US-Arbeitsmarkt verliert an Schwung, die Staatsverschuldung steigt. Wie steht es um die Wirtschaft der Vereinigten Staaten? Von Michelle Goddemeier.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/zwischenstand-us-wirtschaft-entwicklung-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Verhaltensscanner in Berlin: Verdrängung der Schwächsten",
+      "text": "KI-gestützte Videoüberwachung in Berlin wird von verschiedenen Seiten verschieden gut angenommen.    –   CC-BY-NC-SA 4.0: netzpolitik.orgJetzt läuft die Videoüberwachung mit Verhaltensanalyse in Berlin dauerhaft. Ein Datenschützer, ein Süchtiger, zwei Sozialarbeiter*innen und zwe",
+      "link": "https://netzpolitik.org/2026/verhaltensscanner-in-berlin-verdraengung-der-schwaechsten/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Trugbild: Männer, die auf Frauen starren",
@@ -274,12 +280,6 @@
       "title": "Transparenzbericht 3. Quartal 2026: Unsere Einnahmen und Ausgaben und Druck im Kessel",
       "text": "La Gare Saint-Lazare, le train de Normandie (1877)    –   Gemeinfrei: Claude MonetAuf dem politischen Druckanzeiger klettert der Zeiger stetig nach oben. Druck erzeugt bekanntlich Gegendruck. Vor allem junge Menschen wollen eine Wende. Wir stehen an der Seite der Zivilgesellschaf",
       "link": "https://netzpolitik.org/2026/transparenzbericht-3-quartal-2026-unsere-einnahmen-und-ausgaben-und-steigender-druck-im-kessel/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "„Grenzpartnerschaft“: Auch der EU-Datenschützer rügt geplantes Polizeiabkommen mit den USA",
-      "text": "Die US-Regierung will vor allem Zugriff auf Daten von Reisenden. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO/ Marc Bremer; Bearbeitung: netzpolitik.orgDer Europäische Datenschutzbeauftragte fordert schärfere Grenzen für einen Austausch von heiklen Polizeidaten mit US-Behör",
-      "link": "https://netzpolitik.org/2026/grenzpartnerschaft-auch-der-eu-datenschuetzer-ruegt-geplantes-polizeiabkommen-mit-den-usa/"
     }
   ]
 }
