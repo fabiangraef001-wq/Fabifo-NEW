@@ -1,0 +1,304 @@
+{
+  "updated": "2026-11-04T12:51+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 26243.8,
+      "unit": "Pkt.",
+      "change_pct": 1.47,
+      "history": [
+        25590.8,
+        25704.0,
+        26039.7,
+        25818.2,
+        25981.1,
+        25864.6,
+        26243.8
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 28180.3,
+      "unit": "Pkt.",
+      "change_pct": 0.68,
+      "history": [
+        29273.4,
+        29651.4,
+        29813.2,
+        29402.5,
+        28384.8,
+        27989.8,
+        28180.3
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7568.9,
+      "unit": "Pkt.",
+      "change_pct": 0.36,
+      "history": [
+        7676.8,
+        7722.6,
+        7744.0,
+        7720.4,
+        7580.1,
+        7541.4,
+        7568.9
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 101.9,
+      "unit": "$",
+      "change_pct": -1.64,
+      "history": [
+        113.9,
+        115.3,
+        114.9,
+        117.6,
+        104.8,
+        103.6,
+        101.9
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4047.4,
+      "unit": "$",
+      "change_pct": 2.72,
+      "history": [
+        4074.6,
+        4051.6,
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4047.4
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1265,
+      "unit": "",
+      "change_pct": 0.65,
+      "history": [
+        1.1174,
+        1.113,
+        1.1156,
+        1.1183,
+        1.1157,
+        1.1192,
+        1.1265
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Wo die Menschen in Deutschland am längsten leben",
+    "text": "Die Lebenserwartung steigt - allerdings nicht überall gleichermaßen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders groß. Und mancherorts sinkt die Lebenserwartung von Frauen sogar.",
+    "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Wo die Menschen in Deutschland am längsten leben",
+        "text": "Die Lebenserwartung steigt - allerdings nicht überall gleichermaßen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders groß. Und mancherorts sinkt die Lebenserwartung von Frauen sogar.",
+        "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wohngeldreform könnte Bedürftige doppelt treffen",
+        "text": "Die Bundesregierung plant eine Reform des Wohngelds, um mehrere Milliarden einzusparen. Ein Drittel der bisher Wohngeldberechtigten könnte den Anspruch auf Wohngeld verlieren. Von Teresa Peters.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "15 Jahre danach bleiben Schmerz und offene Fragen",
+        "text": "Als im November 2011 die Taten des NSU ans Licht kommen, enden für die Familien der Mordopfer Jahre der Ungewissheit. Trotzdem hält ihr Schmerz bis heute an - weil die Ermittlungsakten weiter viele Leerstellen haben. Von Carolyn Wißing.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Midterms: Eine historische Wahl mit vielen Premieren",
+        "text": "Die erste schwarze Gouverneurin, eine indigene Senatorin und demokratische Siege in republikanischen Hochburgen wie Kansas oder Texas: Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.",
+        "link": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
+        "text": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Zum Tod des Illustrators Janosch: Vom Glück, ein bisschen anders zu sein",
+        "text": "Er erschuf den kleinen Tiger und den kleinen Bären, ließ Onkel Popov fliegen und lehrte Millionen Kindern Schnuddelbuddels Lebensweisheit: \"Wer das hier liest, braucht sich vor nichts mehr zu fürchten.\" Nun ist Janosch gestorben. Von J. Rieger.",
+        "link": "https://www.tagesschau.de/kultur/illustrator-janosch-tod-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
+        "text": "In Israel starten heute die entscheidenden Konsultationen über die Bildung einer neuen Regierung. Nach der Parlamentswahl steckt das Land in einer Blockade. Staatspräsident Herzog ruft zu historischen Kompromissen auf. Von Julio Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump zu Midterms: \"Herzlichen Glückwunsch an die Demokraten!\"",
+        "text": "Entgegen mancher Befürchtungen hat US-Präsident Trump den Midterm-Sieg der Demokraten anerkannt. Diese hätten \"gute Arbeit geleistet\", nun werde man eben kooperieren. An ihm habe die Pleite aber nicht gelegen - im Gegenteil.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Politikexperte: \"Es ist eine Wahl gegen Donald Trump\"",
+        "text": "Mehrheiten in beiden Kammern - der Sieg der Demokraten bei den Midterms ist deutlich. Politikexperte Michael Werz sagt, US-Präsident Trump habe seine Gegner zusammengeschweißt. Der Blick richte sich nun auf die nächste Präsidentenwahl 2028.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Die US-Midterms - die nächste wichtige Wahl für Israel",
+        "text": "Ein Sieg der Demokraten bei den US-Zwischenwahlen könnte enorme Folgen für die Sicherheitspolitik Israels haben. Doch auch aus einem anderen Grund schauen die Menschen im Nahen Osten auf die Tage nach den Midterms. Von Tim Aßmann.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
+        "text": "Was Trump entscheidet, hat Auswirkungen auf Europa und seine Bürger. Würde eine Niederlage bei den Midterms die USA berechenbarer für die Europäische Union machen - oder vielleicht gar das Gegenteil bewirken? Von Jean-Marie Magro.",
+        "link": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
+        "text": "Russische Angriffe auf die Energie-Infrastruktur, Raketeneinschläge in den Städten: Der Ukraine droht ein harter Kriegswinter. Kanzler Merz sagt Unterstützung zu - fordert aber auch mehr Engagement der europäischen Partner.",
+        "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 04 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 04 Nov 2026 Commission greenlights Latvia's fifth and final payment request for €504 million under NextGenerationEU \nYesterday, the European Commission greenlighted Latvia'...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2341"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Albuquerque (by video message) for the 13th Joint ESAs Consumer Protection Day, Rome",
+        "text": "European Commission Speech Online, 04 Nov 2026 Good morning, ladies and gentlemen.\nI had hoped to join you in Rome today. Unfortunately, other commitments require me to remain in Brussels, but I was determin...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2336"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission stärkt Position Europas als weltweit führende Tourismusdestination",
+        "text": "European Commission Pressemitteilung Brussels, 04 Nov 2026 Die Europäische Kommission hat heute eine neue EU-Strategie für nachhaltigen Tourismus vorgelegt, um die Wettbewerbsfähigkeit, Nachhaltigkeit und Resilienz des Sektors zu erhöhen.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2281"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Factsheet - EU Sustainable Tourism Strategy",
+        "text": "European Commission Factsheet Brussels, 04 Nov 2026   Factsheet - EU Sustainable Tourism Strategy Factsheet - EU Sustainable Tourism Strategy",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2283"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission legt Arbeitsprogramm 2027 für ein stärkeres und souveränes Europa vor und berichtet über Vereinfachungsbemühungen",
+        "text": "European Commission Pressemitteilung Brussels, 04 Nov 2026 Die Kommission hat heute ihr Arbeitsprogramm 2027 angenommen, in dem sie ihre wichtigsten legislativen und nichtlegislativen Initiativen für das kommende Jahr darlegt. Dem Bericht ist der jährliche Fortschrittsbericht 202",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2321"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Fragen und Antworten zum Jahresbericht 2026 über Vereinfachung, Umsetzung und Durchsetzung",
+        "text": "European Commission Fragen und Antworten Brussels, 04 Nov 2026 1. Was ist das Hauptziel dieses Übersichtsberichts – und was zeigt er?Dieser zweite jährliche Überblicksbericht deckt den Zeitraum vom 1. August 2025 bis zum 31...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2331"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Liveblog zu den Midterms: ++ Iran erwartet keinen Kurswechsel der US-Politik ++",
+        "text": "Nach der Niederlage von Trumps Republikanern äußert sich die iranische Staatsspitze und gibt sich kämpferisch. Der EU-Parlamentarier Lange befürchtet, dass der US-Präsident noch unberechenbarer agieren könnte. Die Entwicklungen im Liveblog.",
+        "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Inflation im Euroraum steigt auf 4,0 Prozent",
+        "text": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX-Anleger reagieren gelassen",
+        "text": "Nach dem Wahlsieg der Demokraten in den USA gehen die Anleger schnell zur Tagesordnung über. Der DAX holt vorbörsliche Verluste wieder auf. Im Fokus steht dabei der Fortgang der Berichtssaison.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "BMW erwirtschaftet noch weniger Gewinn",
+        "text": "Die Absatzkrise in China lässt den Gewinn von BMW im dritten Quartal weiter einbrechen. Auch teure Abfindungen und das vorgezogene Aus älterer Modelle verhageln dem Münchner Autobauer die Bilanz.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
+        "text": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Bezahlkarte für Asylsuchende: Berlin setzt Bargeld-Obergrenze aus",
+      "text": "Nicht überall lässt sich mit Karte zahlen.    –   Alle Rechte vorbehalten: IMAGO / Christian OhdeIn Berlin soll es vorerst keine Bargeld-Obergrenze für Geflüchtete mehr geben, die eine Bezahlkarte nutzen müssen. Der Flüchtlingsrat Berlin nennt das einen „Teilerfolg auf einem läng",
+      "link": "https://netzpolitik.org/2026/bezahlkarte-fuer-asylsuchende-berlin-setzt-bargeld-obergrenze-aus/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digitalgipfel: KI-Torschlusspanik",
+      "text": "Nicht nur Digitalminister Karsten Wildberger, sondern auch Thomas Jarzombek, Gitta Connemann und Markus Richter (v. l. n. r.) vom BMDS waren auf dem Gipfel präsent.    –   Alle Rechte vorbehalten: Jens OellermannKünstliche Intelligenz als Treiber für die Wirtschaft: Das war das b",
+      "link": "https://netzpolitik.org/2026/digitalgipfel-ki-torschlusspanik/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digitalpolitik in Armenien: Transparenz in Krisenzeiten",
+      "text": "Jerewan ist Hauptstadt und politisches Zentrum von Armenien.    –   CC0: David CastorArmenien erlebte in den vergangenen Jahren Krieg, Krisen und Revolution. Währenddessen blieben Gesetze zur Informationsfreiheit bestehen. Bei einem Ortsbesuch berichten Aktivist:innen und Mediens",
+      "link": "https://netzpolitik.org/2026/digitalpolitik-in-armenien-transparenz-in-krisenzeiten/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "„Medienspiegel“-Sonderpreis: Off-the-Record-Podcast erhält Auszeichnung für transparenten Journalismus",
+      "text": "Danke für die Auszeichnung!Unser Podcast „Off the Record“ wurde ausgezeichnet! Einmal im Monat nehmen wir euch mit hinter die Kulissen, das wurde nun mit einem Preis für transparenten Journalismus gekürt.",
+      "link": "https://netzpolitik.org/2026/medienspiegel-sonderpreis-off-the-record-podcast-erhaelt-auszeichnung-fuer-transparenten-journalismus/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digitalgipfel: Im Takt der Wirtschaft",
+      "text": "Bundeskanzler Friedrich Merz und Digitalminister Karsten Wildberger auf dem Digitalgipfel 2026.    –   Alle Rechte vorbehalten: BMDS/Jens OellermannAuf ihrem Digitalgipfel vergab die Bundesregierung die Chance, über die gesellschaftliche Regulierung von KI zu sprechen. Stattdesse",
+      "link": "https://netzpolitik.org/2026/digitalgipfel-im-takt-der-wirtschaft/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "\"Handy-Blitzer\": Verkehrsminister möchte in alle Autos filmen",
+      "text": "Das Kamerasystem \"Monocam\" ist ein als \"Handy-Blitzer\" eingesetztes System.    –   Alle Rechte vorbehalten: Imago / Einsatz-Report24Eine neue Form der anlasslosen Massenüberwachung steht bundesweit vor der Tür. Mit KI-gestützter Videoüberwachung sollen Handy-Sünder am Steuer über",
+      "link": "https://netzpolitik.org/2026/handy-blitzer-verkehrsminister-moechte-in-alle-autos-filmen/"
+    }
+  ]
+}
