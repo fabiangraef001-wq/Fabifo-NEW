@@ -1,94 +1,94 @@
 {
-  "updated": "2026-11-04T12:51+00:00",
+  "updated": "2026-11-05T12:59+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 26243.8,
+      "value": 26539.6,
       "unit": "Pkt.",
-      "change_pct": 1.47,
+      "change_pct": 0.39,
       "history": [
-        25590.8,
         25704.0,
         26039.7,
         25818.2,
         25981.1,
         25864.6,
-        26243.8
+        26437.7,
+        26539.6
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 28180.3,
+      "value": 28437.2,
       "unit": "Pkt.",
-      "change_pct": 0.68,
+      "change_pct": 0.91,
       "history": [
-        29273.4,
         29651.4,
         29813.2,
         29402.5,
         28384.8,
         27989.8,
-        28180.3
+        28180.3,
+        28437.2
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7568.9,
+      "value": 7688.6,
       "unit": "Pkt.",
-      "change_pct": 0.36,
+      "change_pct": 1.58,
       "history": [
-        7676.8,
         7722.6,
         7744.0,
         7720.4,
         7580.1,
         7541.4,
-        7568.9
+        7568.9,
+        7688.6
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 101.9,
+      "value": 97.0,
       "unit": "$",
-      "change_pct": -1.64,
+      "change_pct": 2.54,
       "history": [
-        113.9,
         115.3,
         114.9,
         117.6,
         104.8,
         103.6,
-        101.9
+        94.6,
+        97.0
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4047.4,
+      "value": 4129.6,
       "unit": "$",
-      "change_pct": 2.72,
+      "change_pct": 1.39,
       "history": [
-        4074.6,
         4051.6,
         4031.4,
         3898.9,
         3969.6,
         3940.4,
-        4047.4
+        4073.0,
+        4129.6
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1265,
+      "value": 1.1228,
       "unit": "",
-      "change_pct": 0.65,
+      "change_pct": 0.19,
       "history": [
-        1.1174,
         1.113,
         1.1156,
         1.1183,
         1.1157,
         1.1192,
-        1.1265
+        1.1207,
+        1.1228
       ]
     },
     "fed_rate": {
@@ -107,163 +107,183 @@
     }
   },
   "ticker_relevant": [
-    "dax"
+    "dax",
+    "brent",
+    "ecb_rate"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Wo die Menschen in Deutschland am längsten leben",
-    "text": "Die Lebenserwartung steigt - allerdings nicht überall gleichermaßen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders groß. Und mancherorts sinkt die Lebenserwartung von Frauen sogar.",
-    "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html"
+    "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+    "text": "Nach dem plötzlichen Tod von Hubert Aiwanger ist die Bestürzung über Bayerns Grenzen hinaus groß. Die Freien Wähler müssen sich jetzt neu aufstellen - denn Aiwanger war die zentrale Figur seiner Partei.",
+    "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Wo die Menschen in Deutschland am längsten leben",
-        "text": "Die Lebenserwartung steigt - allerdings nicht überall gleichermaßen. Baden-Württemberg liegt vorn. Im Osten Deutschlands ist der Abstand zwischen Frauen und Männern besonders groß. Und mancherorts sinkt die Lebenserwartung von Frauen sogar.",
-        "link": "https://www.tagesschau.de/wissen/gesundheit/lebenserwartung-maenner-frauen-102.html"
+        "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
+        "text": "Nach dem plötzlichen Tod von Hubert Aiwanger ist die Bestürzung über Bayerns Grenzen hinaus groß. Die Freien Wähler müssen sich jetzt neu aufstellen - denn Aiwanger war die zentrale Figur seiner Partei.",
+        "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wohngeldreform könnte Bedürftige doppelt treffen",
-        "text": "Die Bundesregierung plant eine Reform des Wohngelds, um mehrere Milliarden einzusparen. Ein Drittel der bisher Wohngeldberechtigten könnte den Anspruch auf Wohngeld verlieren. Von Teresa Peters.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/wohngeld-reform-sozialkaufhaus-100.html"
+        "title": "Schäden an Unterseekabeln in der Ostsee: Urteil gegen russischen Kapitän",
+        "text": "Zehn Monate nach der Sabotage an zwei Kabeln in der Ostsee sind ein russischer Kapitän und ein Crewmitglied in Finnland zu mehrjährigen Haftstrafen verurteilt worden. Sie sollen die Unterseekabel vorsätzlich mit einem Anker beschädigt haben.",
+        "link": "https://www.tagesschau.de/ausland/europa/kapitaen-sabotage-urteil-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "15 Jahre danach bleiben Schmerz und offene Fragen",
-        "text": "Als im November 2011 die Taten des NSU ans Licht kommen, enden für die Familien der Mordopfer Jahre der Ungewissheit. Trotzdem hält ihr Schmerz bis heute an - weil die Ermittlungsakten weiter viele Leerstellen haben. Von Carolyn Wißing.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/nsu-enttarnung-102.html"
+        "title": "Mehrere Bombendrohungen gegen Passagierflüge in Europa",
+        "text": "Wieder gibt es Bombendrohungen gegen mehrere Flugzeuge im europäischen Luftraum. Unter anderem eine irische Maschine musste außerplanmäßig auf einem französischen Luftwaffenstützpunkt landen. Die Hintergründe sind bisher nicht bekannt.",
+        "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Midterms: Eine historische Wahl mit vielen Premieren",
-        "text": "Die erste schwarze Gouverneurin, eine indigene Senatorin und demokratische Siege in republikanischen Hochburgen wie Kansas oder Texas: Den Demokraten gelang bei den Midterms vielerorts Historisches - eine Auswahl.",
-        "link": "https://www.tagesschau.de/ausland/amerika/midterms-historische-siege-100.html"
+        "title": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
+        "text": "Teheran blockiert die Straße von Hormus seit Beginn des Iran-Krieges weitgehend. Doch immer wieder riskieren Öltanker die Passage durch die Meerenge. Nun sind laut Iran zwei Schiffe in Brand geraten.",
+        "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Deutsche Reaktionen auf Midterms: Gratulation und gedämpfte Erwartungen",
-        "text": "Deutsche Politiker haben die Niederlage der Republikaner bei den US-Midterms begrüßt, dämpfen aber die Erwartung an eine andere Außenpolitik von Präsident Trump. Eine SPD-Politikerin warnt vor einer \"wütenden Ente\" im Weißen Haus.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/reaktionen-deutschland-midterms-100.html"
+        "title": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
+        "text": "Der Bundestag berät für einen besseren Tierschutz über verpflichtende Videoüberwachung in großen Schlachthöfen. Doch Ausnahmen für kleine Betriebe und Fragen zur Umsetzung sorgen für Diskussionen. Von Eva Huber.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Zum Tod des Illustrators Janosch: Vom Glück, ein bisschen anders zu sein",
-        "text": "Er erschuf den kleinen Tiger und den kleinen Bären, ließ Onkel Popov fliegen und lehrte Millionen Kindern Schnuddelbuddels Lebensweisheit: \"Wer das hier liest, braucht sich vor nichts mehr zu fürchten.\" Nun ist Janosch gestorben. Von J. Rieger.",
-        "link": "https://www.tagesschau.de/kultur/illustrator-janosch-tod-100.html"
+        "title": "Hongkongs Demokratie-Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
+        "text": "Einst führte Joshua Wong in Hongkong Proteste für mehr Demokratie an. Nun wurde der ehemalige Studentenführer zu weiteren zehn Jahren Haft verurteilt. Grundlage ist das von China auferlegte \"Sicherheitsgesetz\". Von C. Kober.",
+        "link": "https://www.tagesschau.de/ausland/hong-kong-wong-urteil-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Israels Präsident Herzog startet Konsultationen zur Regierungsbildung",
-        "text": "In Israel starten heute die entscheidenden Konsultationen über die Bildung einer neuen Regierung. Nach der Parlamentswahl steckt das Land in einer Blockade. Staatspräsident Herzog ruft zu historischen Kompromissen auf. Von Julio Segador.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-wahl-konsultationen-herzog-100.html"
+        "title": "USA und Israel nach den Wahlen: Beziehungsstatus kompliziert",
+        "text": "Sowohl die USA als auch Israel haben wichtige Wahlen hinter sich. Die Ergebnisse werden die Beziehungen beider Staaten nachhaltig bestimmen - und könnten für Premier Netanjahu zum Problem werden. Von Jan-Christoph Kitzler.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-usa-wahlen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Trump zu Midterms: \"Herzlichen Glückwunsch an die Demokraten!\"",
-        "text": "Entgegen mancher Befürchtungen hat US-Präsident Trump den Midterm-Sieg der Demokraten anerkannt. Diese hätten \"gute Arbeit geleistet\", nun werde man eben kooperieren. An ihm habe die Pleite aber nicht gelegen - im Gegenteil.",
-        "link": "https://www.tagesschau.de/ausland/amerika/trump-reaktion-midterms-100.html"
+        "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
+        "text": "Die Wahlschlappe von Trumps Republikanern lässt viele in der Ukraine auf einen Kurswechsel der USA hoffen. Doch ob es tatsächlich so schnell zu Veränderungen kommt, daran zweifelt man. Von F. Kellermann.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Politikexperte: \"Es ist eine Wahl gegen Donald Trump\"",
-        "text": "Mehrheiten in beiden Kammern - der Sieg der Demokraten bei den Midterms ist deutlich. Politikexperte Michael Werz sagt, US-Präsident Trump habe seine Gegner zusammengeschweißt. Der Blick richte sich nun auf die nächste Präsidentenwahl 2028.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-2026-100.html"
+        "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
+        "text": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
+        "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Die US-Midterms - die nächste wichtige Wahl für Israel",
-        "text": "Ein Sieg der Demokraten bei den US-Zwischenwahlen könnte enorme Folgen für die Sicherheitspolitik Israels haben. Doch auch aus einem anderen Grund schauen die Menschen im Nahen Osten auf die Tage nach den Midterms. Von Tim Aßmann.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-usa-midterms-100.html"
+        "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
+        "text": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuß.",
+        "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Was eine Niederlage Trumps bei den Midterms für die EU bedeuten würde",
-        "text": "Was Trump entscheidet, hat Auswirkungen auf Europa und seine Bürger. Würde eine Niederlage bei den Midterms die USA berechenbarer für die Europäische Union machen - oder vielleicht gar das Gegenteil bewirken? Von Jean-Marie Magro.",
-        "link": "https://www.tagesschau.de/ausland/europa/us-midterms-europa-100.html"
+        "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
+        "text": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Merz verspricht mehr Hilfe für die Ukraine und appelliert an Europäer",
-        "text": "Russische Angriffe auf die Energie-Infrastruktur, Raketeneinschläge in den Städten: Der Ukraine droht ein harter Kriegswinter. Kanzler Merz sagt Unterstützung zu - fordert aber auch mehr Engagement der europäischen Partner.",
-        "link": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
+        "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
+        "text": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten von E. Aretz und C. Schwanitz.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Daily News 04 / 11 / 2026",
-        "text": "European Commission Daily news Brussels, 04 Nov 2026 Commission greenlights Latvia's fifth and final payment request for €504 million under NextGenerationEU \nYesterday, the European Commission greenlighted Latvia'...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2341"
+        "title": "Remarks by Commissioner Serafin during the Budget Committee meeting at the European Parliament",
+        "text": "European Commission Speech Brussels, 05 Nov 2026 OPENING REMARKS\nDear Chair,\nHonourable Members,\nI am very pleased to join you today to discuss the state of play on the next multi-annual EU budget.\nOur common ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2358"
       },
       {
         "source": "EU-Kommission",
-        "title": "Speech by Commissioner Albuquerque (by video message) for the 13th Joint ESAs Consumer Protection Day, Rome",
-        "text": "European Commission Speech Online, 04 Nov 2026 Good morning, ladies and gentlemen.\nI had hoped to join you in Rome today. Unfortunately, other commitments require me to remain in Brussels, but I was determin...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2336"
+        "title": "Speech by Commissioner Dombrovskis presenting report on Simplification, Implementation and Enforcement at CEPS",
+        "text": "European Commission Speech Brussels, 05 Nov 2026 Good afternoon, ladies and gentlemen.\nIt is a pleasure to return to CEPS.\nLet me start with a clear message: EU rules must be simpler to comply with, easier to ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2357"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission stärkt Position Europas als weltweit führende Tourismusdestination",
-        "text": "European Commission Pressemitteilung Brussels, 04 Nov 2026 Die Europäische Kommission hat heute eine neue EU-Strategie für nachhaltigen Tourismus vorgelegt, um die Wettbewerbsfähigkeit, Nachhaltigkeit und Resilienz des Sektors zu erhöhen.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2281"
+        "title": "Tägliche Nachrichten 05 / 11 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 05 Nov 2026 Europäischer Innovationsrat stellt 1,8 Mrd. EUR für 2027 bereitDie Europäische Kommission hat das Arbeitsprogramm 2027 des Europäischen Innovationsrats (EIC) an...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2355"
       },
       {
         "source": "EU-Kommission",
-        "title": "Factsheet - EU Sustainable Tourism Strategy",
-        "text": "European Commission Factsheet Brussels, 04 Nov 2026   Factsheet - EU Sustainable Tourism Strategy Factsheet - EU Sustainable Tourism Strategy",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2283"
+        "title": "Questions and Answers on the 2027 fishing opportunities in the Atlantic, Kattegat and Skagerrak",
+        "text": "European Commission Questions and answers Brussels, 05 Nov 2026 Why is the Commission proposing fishing opportunities for EU-managed fish stocks in the Atlantic and Skagerrak-Kattegat? \nFishing opportunities, known as Total ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2354"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission legt Arbeitsprogramm 2027 für ein stärkeres und souveränes Europa vor und berichtet über Vereinfachungsbemühungen",
-        "text": "European Commission Pressemitteilung Brussels, 04 Nov 2026 Die Kommission hat heute ihr Arbeitsprogramm 2027 angenommen, in dem sie ihre wichtigsten legislativen und nichtlegislativen Initiativen für das kommende Jahr darlegt. Dem Bericht ist der jährliche Fortschrittsbericht 202",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2321"
+        "title": "Kommission schlägt Fangmöglichkeiten für Fischbestände im Atlantik, Kattegat und Skagerrak für 2027 vor",
+        "text": "European Commission Pressemitteilung Brussels, 05 Nov 2026 Die Europäische Kommission hat heute ihren Vorschlag für die Fangmöglichkeiten 2027 für elf von der EU bewirtschaftete Fischbestände im Atlantik, im Kattegat und im Skagerrak angenommen.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2353"
       },
       {
         "source": "EU-Kommission",
-        "title": "Fragen und Antworten zum Jahresbericht 2026 über Vereinfachung, Umsetzung und Durchsetzung",
-        "text": "European Commission Fragen und Antworten Brussels, 04 Nov 2026 1. Was ist das Hauptziel dieses Übersichtsberichts – und was zeigt er?Dieser zweite jährliche Überblicksbericht deckt den Zeitraum vom 1. August 2025 bis zum 31...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2331"
+        "title": "Europäischer Innovationsrat stellt 1,8 Mrd. EUR für 2027 bereit",
+        "text": "European Commission Pressemitteilung Brussels, 05 Nov 2026 Die Europäische Kommission hat das Arbeitsprogramm 2027 des Europäischen Innovationsrats (EIC) angenommen, mit dem 1,8 Mrd. EUR zur Unterstützung der vielversprechendsten technologieintensiven Unternehmer und Forscher in ",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2352"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Liveblog zu den Midterms: ++ Iran erwartet keinen Kurswechsel der US-Politik ++",
-        "text": "Nach der Niederlage von Trumps Republikanern äußert sich die iranische Staatsspitze und gibt sich kämpferisch. Der EU-Parlamentarier Lange befürchtet, dass der US-Präsident noch unberechenbarer agieren könnte. Die Entwicklungen im Liveblog.",
-        "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+        "title": "Marktbericht: DAX springt auf Rekordhoch",
+        "text": "Die Euphorie an den Börsen nach den US-Zwischenwahlen hält an: Der DAX klettert im frühen Handel auf ein neues Rekordhoch. Der sinkende Ölpreis und erfreuliche Industriedaten treiben den Markt zusätzlich an.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Inflation im Euroraum steigt auf 4,0 Prozent",
-        "text": "Die Teuerung in der Eurozone ist im Oktober auf 4,0 Prozent gestiegen. Das ist die höchste Inflationsrate seit September 2023. Besonders die hohen Energiepreise sind Treiber der aktuellen Entwicklung.",
-        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-eurozone-oktober-102.html"
+        "title": "US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge",
+        "text": "Nach den Midterms sieht sich der linke Parteiflügel der Demokraten gestärkt, doch Top-Demokraten im Kongress setzen auf einen gemäßigten Kurs. Auch Experten sagen: Das hilft in einem \"Mitte-Rechts-Land\". Von C. Kühntopp.",
+        "link": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX-Anleger reagieren gelassen",
-        "text": "Nach dem Wahlsieg der Demokraten in den USA gehen die Anleger schnell zur Tagesordnung über. Der DAX holt vorbörsliche Verluste wieder auf. Im Fokus steht dabei der Fortgang der Berichtssaison.",
+        "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
+        "text": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX-Anleger in Kauflaune",
+        "text": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html"
       },
       {
         "source": "Tagesschau",
-        "title": "BMW erwirtschaftet noch weniger Gewinn",
-        "text": "Die Absatzkrise in China lässt den Gewinn von BMW im dritten Quartal weiter einbrechen. Auch teure Abfindungen und das vorgezogene Aus älterer Modelle verhageln dem Münchner Autobauer die Bilanz.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/bmw-gewinnwarnung-100.html"
+        "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
+        "text": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Anspannung am Wahltag: Was die Midterms für die Börse bedeuten",
-        "text": "Die Zwischenwahlen in den USA leiten oft eine starke Börsenphase ein. Diesmal bergen sie aber eine Reihe von Stolpersteinen. Von Detlev Landmesser.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-midterms-boerse-100.html"
+        "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
+        "text": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "London, Paris, Berlin: Action Against Data Centers Goes Europe-Wide This Weekend",
+      "text": "Protest gegen ein Google-Rechenzentrum im österreichischen Kronstorf im August 2026    –   Alle Rechte vorbehalten: IMAGO / Wolfgang SimlingerCivil society groups are calling for an immediate moratorium on large data centers in Europe. The initiative „Stop Dirty Data Centres” is ",
+      "link": "https://netzpolitik.org/2026/london-paris-berlin-action-against-data-centers-goes-europe-wide-this-weekend/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "London, Paris, Berlin: Europaweite Proteste gegen Rechenzentren am Wochenende",
+      "text": "Protest gegen ein Google-Rechenzentrum im österreichischen Kronstorf im August 2026    –   Alle Rechte vorbehalten: IMAGO / Wolfgang SimlingerZivilgesellschaftliche Gruppen fordern ein sofortiges Moratorium für große Rechenzentren in Europa. Die Initiative „Stop Dirty Data Centre",
+      "link": "https://netzpolitik.org/2026/london-paris-berlin-europaweite-proteste-gegen-rechenzentren-am-wochenende/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Bezahlkarte für Asylsuchende: Berlin setzt Bargeld-Obergrenze aus",
@@ -287,18 +307,6 @@
       "title": "„Medienspiegel“-Sonderpreis: Off-the-Record-Podcast erhält Auszeichnung für transparenten Journalismus",
       "text": "Danke für die Auszeichnung!Unser Podcast „Off the Record“ wurde ausgezeichnet! Einmal im Monat nehmen wir euch mit hinter die Kulissen, das wurde nun mit einem Preis für transparenten Journalismus gekürt.",
       "link": "https://netzpolitik.org/2026/medienspiegel-sonderpreis-off-the-record-podcast-erhaelt-auszeichnung-fuer-transparenten-journalismus/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Digitalgipfel: Im Takt der Wirtschaft",
-      "text": "Bundeskanzler Friedrich Merz und Digitalminister Karsten Wildberger auf dem Digitalgipfel 2026.    –   Alle Rechte vorbehalten: BMDS/Jens OellermannAuf ihrem Digitalgipfel vergab die Bundesregierung die Chance, über die gesellschaftliche Regulierung von KI zu sprechen. Stattdesse",
-      "link": "https://netzpolitik.org/2026/digitalgipfel-im-takt-der-wirtschaft/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "\"Handy-Blitzer\": Verkehrsminister möchte in alle Autos filmen",
-      "text": "Das Kamerasystem \"Monocam\" ist ein als \"Handy-Blitzer\" eingesetztes System.    –   Alle Rechte vorbehalten: Imago / Einsatz-Report24Eine neue Form der anlasslosen Massenüberwachung steht bundesweit vor der Tür. Mit KI-gestützter Videoüberwachung sollen Handy-Sünder am Steuer über",
-      "link": "https://netzpolitik.org/2026/handy-blitzer-verkehrsminister-moechte-in-alle-autos-filmen/"
     }
   ]
 }
