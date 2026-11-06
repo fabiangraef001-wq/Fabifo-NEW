@@ -1,94 +1,94 @@
 {
-  "updated": "2026-11-05T12:59+00:00",
+  "updated": "2026-11-06T12:48+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 26539.6,
+      "value": 25727.9,
       "unit": "Pkt.",
-      "change_pct": 0.39,
+      "change_pct": -2.27,
       "history": [
-        25704.0,
         26039.7,
         25818.2,
         25981.1,
         25864.6,
         26437.7,
-        26539.6
+        26325.0,
+        25727.9
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 28437.2,
+      "value": 26629.8,
       "unit": "Pkt.",
-      "change_pct": 0.91,
+      "change_pct": -6.36,
       "history": [
-        29651.4,
         29813.2,
         29402.5,
         28384.8,
         27989.8,
         28180.3,
-        28437.2
+        28437.2,
+        26629.8
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7688.6,
+      "value": 7353.7,
       "unit": "Pkt.",
-      "change_pct": 1.58,
+      "change_pct": -4.36,
       "history": [
-        7722.6,
         7744.0,
         7720.4,
         7580.1,
         7541.4,
         7568.9,
-        7688.6
+        7688.6,
+        7353.7
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 97.0,
+      "value": 98.0,
       "unit": "$",
-      "change_pct": 2.54,
+      "change_pct": -0.31,
       "history": [
-        115.3,
         114.9,
         117.6,
         104.8,
         103.6,
         94.6,
-        97.0
+        98.3,
+        98.0
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4129.6,
+      "value": 4075.0,
       "unit": "$",
-      "change_pct": 1.39,
+      "change_pct": -0.94,
       "history": [
-        4051.6,
         4031.4,
         3898.9,
         3969.6,
         3940.4,
         4073.0,
-        4129.6
+        4113.5,
+        4075.0
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1228,
+      "value": 1.1172,
       "unit": "",
-      "change_pct": 0.19,
+      "change_pct": -0.56,
       "history": [
-        1.113,
         1.1156,
         1.1183,
         1.1157,
         1.1192,
         1.1207,
-        1.1228
+        1.1235,
+        1.1172
       ]
     },
     "fed_rate": {
@@ -197,39 +197,39 @@
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Serafin during the Budget Committee meeting at the European Parliament",
-        "text": "European Commission Speech Brussels, 05 Nov 2026 OPENING REMARKS\nDear Chair,\nHonourable Members,\nI am very pleased to join you today to discuss the state of play on the next multi-annual EU budget.\nOur common ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2358"
+        "title": "Speech by Commissioner Lahbib at the InvestFrontier Conference",
+        "text": "European Commission Speech Brussels, 06 Nov 2026 I love the word “frontier”. On a map, it is just a line. But for explorers, it was always the place where the known world ended, and new possibilities began. I ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2369"
       },
       {
         "source": "EU-Kommission",
-        "title": "Speech by Commissioner Dombrovskis presenting report on Simplification, Implementation and Enforcement at CEPS",
-        "text": "European Commission Speech Brussels, 05 Nov 2026 Good afternoon, ladies and gentlemen.\nIt is a pleasure to return to CEPS.\nLet me start with a clear message: EU rules must be simpler to comply with, easier to ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2357"
+        "title": "Remarks by Commissioner Brunner on the second Annual Migration Management Cycle",
+        "text": "European Commission Speech Brussels, 06 Nov 2026 Ladies and gentlemen,\nToday, we are delivering on a core component of the Pact on Migration and Asylum.\nWe are launching the second Annual Migration Management ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2368"
       },
       {
         "source": "EU-Kommission",
-        "title": "Tägliche Nachrichten 05 / 11 / 2026",
-        "text": "European Commission Nachrichten des Tages Brussels, 05 Nov 2026 Europäischer Innovationsrat stellt 1,8 Mrd. EUR für 2027 bereitDie Europäische Kommission hat das Arbeitsprogramm 2027 des Europäischen Innovationsrats (EIC) an...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2355"
+        "title": "Keynote speech by Commissioner Síkela at the International Partnership Conference",
+        "text": "European Commission Speech Vilnius, 06 Nov 2026 KEYNOTE SPEECH\nDistinguished Guests,\nLadies and gentlemen,\nLithuania brings a clear understanding of what is at stake when we discuss resilience.\nThe freedom to...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2367"
       },
       {
         "source": "EU-Kommission",
-        "title": "Questions and Answers on the 2027 fishing opportunities in the Atlantic, Kattegat and Skagerrak",
-        "text": "European Commission Questions and answers Brussels, 05 Nov 2026 Why is the Commission proposing fishing opportunities for EU-managed fish stocks in the Atlantic and Skagerrak-Kattegat? \nFishing opportunities, known as Total ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2354"
+        "title": "Fragen und Antworten zum zweiten jährlichen Migrationsmanagementzyklus",
+        "text": "European Commission Fragen und Antworten Brussels, 06 Nov 2026 Was ist der jährliche Migrationsmanagementbericht?Im Rahmen des Migrations- und Asylpakets verfügt die EU über einen dauerhaften obligatorischen Solidaritätsmec...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2366"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission schlägt Fangmöglichkeiten für Fischbestände im Atlantik, Kattegat und Skagerrak für 2027 vor",
-        "text": "European Commission Pressemitteilung Brussels, 05 Nov 2026 Die Europäische Kommission hat heute ihren Vorschlag für die Fangmöglichkeiten 2027 für elf von der EU bewirtschaftete Fischbestände im Atlantik, im Kattegat und im Skagerrak angenommen.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2353"
+        "title": "Kommission startet zweiten jährlichen Migrationsmanagementzyklus im Rahmen des Migrations- und Asylpakets",
+        "text": "European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Kommission leitet heute den zweiten jährlichen Migrationsmanagementzyklus ein, mit dem eine Kernkomponente des Migrations- und Asylpakets umgesetzt wird.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2365"
       },
       {
         "source": "EU-Kommission",
-        "title": "Europäischer Innovationsrat stellt 1,8 Mrd. EUR für 2027 bereit",
-        "text": "European Commission Pressemitteilung Brussels, 05 Nov 2026 Die Europäische Kommission hat das Arbeitsprogramm 2027 des Europäischen Innovationsrats (EIC) angenommen, mit dem 1,8 Mrd. EUR zur Unterstützung der vielversprechendsten technologieintensiven Unternehmer und Forscher in ",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2352"
+        "title": "Daily News 06 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 06 Nov 2026 Commission preliminarily finds TikTok's ‘For You' feed in breach of Digital Services Act for harmful ‘rabbit holes' effect\nToday, the European Commission has pr...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2364"
       }
     ],
     "markt": [
@@ -274,6 +274,30 @@
   "independent": [
     {
       "source": "netzpolitik.org",
+      "title": "Analyse zu den Midterms: Wie sich Elon Musk in beide Knie schoss",
+      "text": "Musk mit anderen Vertretern der Tech-Oligarchie bei einem Treffen mit Trump im September.    –   Alle Rechte vorbehalten: Imago / ZUMA Press WireMit fast 500 Millionen Dollar Wahlkampfunterstützung und seiner Propagandaplattform X wollte Elon Musk die Wahlergebnisse beeinflussen.",
+      "link": "https://netzpolitik.org/2026/analyse-zu-den-midterms-wie-sich-elon-musk-in-beide-knie-schoss/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Breitbandausbau: Die schwierigen letzten Meter",
+      "text": "Bilder wie dieses werden sich in den nächsten Jahren überall in Deutschland wiederfinden. Über die Bedingungen des Ausbaus herrscht jedoch Streit.    –   Alle Rechte vorbehalten: RechImmer mehr moderne Glasfaserleitungen liegen bereits im Boden, enden aber bei der Bordsteinkante.",
+      "link": "https://netzpolitik.org/2026/breitbandausbau-die-schwierigen-letzten-meter/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Greenpeace-Studie: Bau von Riesen-Rechenzentren könnte Wasserverbrauch mehr als verdoppeln",
+      "text": "Baustelle eines Rechenzentrums in Lübbenau, Spreewald, in dem 100.000 KI-Chips mit einer Anschlussleistung von rund 200 Megawatt verbaut werden sollen.    –   Alle Rechte vorbehalten: IMAGO / Jochen HeckelNeben Strom verbrauchen Rechenzentren große Mengen Wasser. Die Bundesregier",
+      "link": "https://netzpolitik.org/2026/greenpeace-studie-bau-von-riesen-rechenzentren-koennte-wasserverbrauch-mehr-als-verdoppeln/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Staatliche Transparenz: Innenminister will Informationsfreiheit durch die Hintertür einschränken",
+      "text": "FragDenStaat übergibt mehr als 680.000 Unterschriften vor dem  Bundestag an die SPD-Fraktion.    –   Alle Rechte vorbehalten: CampactDer Protest gegen die Pläne der Bundesregierung, die Informationsfreiheit einzuschränken, ist unerwartet groß. Nun versucht das Innenministerium, d",
+      "link": "https://netzpolitik.org/2026/staatliche-transparenz-innenminister-will-informationsfreiheit-durch-die-hintertuer-einschraenken/"
+    },
+    {
+      "source": "netzpolitik.org",
       "title": "London, Paris, Berlin: Action Against Data Centers Goes Europe-Wide This Weekend",
       "text": "Protest gegen ein Google-Rechenzentrum im österreichischen Kronstorf im August 2026    –   Alle Rechte vorbehalten: IMAGO / Wolfgang SimlingerCivil society groups are calling for an immediate moratorium on large data centers in Europe. The initiative „Stop Dirty Data Centres” is ",
       "link": "https://netzpolitik.org/2026/london-paris-berlin-action-against-data-centers-goes-europe-wide-this-weekend/"
@@ -283,30 +307,6 @@
       "title": "London, Paris, Berlin: Europaweite Proteste gegen Rechenzentren am Wochenende",
       "text": "Protest gegen ein Google-Rechenzentrum im österreichischen Kronstorf im August 2026    –   Alle Rechte vorbehalten: IMAGO / Wolfgang SimlingerZivilgesellschaftliche Gruppen fordern ein sofortiges Moratorium für große Rechenzentren in Europa. Die Initiative „Stop Dirty Data Centre",
       "link": "https://netzpolitik.org/2026/london-paris-berlin-europaweite-proteste-gegen-rechenzentren-am-wochenende/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Bezahlkarte für Asylsuchende: Berlin setzt Bargeld-Obergrenze aus",
-      "text": "Nicht überall lässt sich mit Karte zahlen.    –   Alle Rechte vorbehalten: IMAGO / Christian OhdeIn Berlin soll es vorerst keine Bargeld-Obergrenze für Geflüchtete mehr geben, die eine Bezahlkarte nutzen müssen. Der Flüchtlingsrat Berlin nennt das einen „Teilerfolg auf einem läng",
-      "link": "https://netzpolitik.org/2026/bezahlkarte-fuer-asylsuchende-berlin-setzt-bargeld-obergrenze-aus/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Digitalgipfel: KI-Torschlusspanik",
-      "text": "Nicht nur Digitalminister Karsten Wildberger, sondern auch Thomas Jarzombek, Gitta Connemann und Markus Richter (v. l. n. r.) vom BMDS waren auf dem Gipfel präsent.    –   Alle Rechte vorbehalten: Jens OellermannKünstliche Intelligenz als Treiber für die Wirtschaft: Das war das b",
-      "link": "https://netzpolitik.org/2026/digitalgipfel-ki-torschlusspanik/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Digitalpolitik in Armenien: Transparenz in Krisenzeiten",
-      "text": "Jerewan ist Hauptstadt und politisches Zentrum von Armenien.    –   CC0: David CastorArmenien erlebte in den vergangenen Jahren Krieg, Krisen und Revolution. Währenddessen blieben Gesetze zur Informationsfreiheit bestehen. Bei einem Ortsbesuch berichten Aktivist:innen und Mediens",
-      "link": "https://netzpolitik.org/2026/digitalpolitik-in-armenien-transparenz-in-krisenzeiten/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "„Medienspiegel“-Sonderpreis: Off-the-Record-Podcast erhält Auszeichnung für transparenten Journalismus",
-      "text": "Danke für die Auszeichnung!Unser Podcast „Off the Record“ wurde ausgezeichnet! Einmal im Monat nehmen wir euch mit hinter die Kulissen, das wurde nun mit einem Preis für transparenten Journalismus gekürt.",
-      "link": "https://netzpolitik.org/2026/medienspiegel-sonderpreis-off-the-record-podcast-erhaelt-auszeichnung-fuer-transparenten-journalismus/"
     }
   ]
 }
