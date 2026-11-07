@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-06T12:48+00:00",
+  "updated": "2026-11-07T11:36+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25727.9,
+      "value": 25820.4,
       "unit": "Pkt.",
-      "change_pct": -2.27,
+      "change_pct": -1.92,
       "history": [
         26039.7,
         25818.2,
@@ -13,44 +13,44 @@
         25864.6,
         26437.7,
         26325.0,
-        25727.9
+        25820.4
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 26629.8,
+      "value": 26990.0,
       "unit": "Pkt.",
-      "change_pct": -6.36,
+      "change_pct": 1.35,
       "history": [
-        29813.2,
         29402.5,
         28384.8,
         27989.8,
         28180.3,
         28437.2,
-        26629.8
+        26629.8,
+        26990.0
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7353.7,
+      "value": 7376.9,
       "unit": "Pkt.",
-      "change_pct": -4.36,
+      "change_pct": 0.32,
       "history": [
-        7744.0,
         7720.4,
         7580.1,
         7541.4,
         7568.9,
         7688.6,
-        7353.7
+        7353.7,
+        7376.9
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 98.0,
+      "value": 98.3,
       "unit": "$",
-      "change_pct": -0.31,
+      "change_pct": 0.0,
       "history": [
         114.9,
         117.6,
@@ -58,12 +58,12 @@
         103.6,
         94.6,
         98.3,
-        98.0
+        98.3
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4075.0,
+      "value": 4074.9,
       "unit": "$",
       "change_pct": -0.94,
       "history": [
@@ -73,14 +73,14 @@
         3940.4,
         4073.0,
         4113.5,
-        4075.0
+        4074.9
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1172,
+      "value": 1.1228,
       "unit": "",
-      "change_pct": -0.56,
+      "change_pct": -0.06,
       "history": [
         1.1156,
         1.1183,
@@ -88,7 +88,7 @@
         1.1192,
         1.1207,
         1.1235,
-        1.1172
+        1.1228
       ]
     },
     "fed_rate": {
@@ -107,94 +107,98 @@
     }
   },
   "ticker_relevant": [
-    "dax",
-    "brent",
-    "ecb_rate"
+    "dax"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
-    "text": "Nach dem plötzlichen Tod von Hubert Aiwanger ist die Bestürzung über Bayerns Grenzen hinaus groß. Die Freien Wähler müssen sich jetzt neu aufstellen - denn Aiwanger war die zentrale Figur seiner Partei.",
-    "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
+    "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+    "text": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+    "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Freie Wähler beraten nach Aiwangers Tod über weiteres Vorgehen",
-        "text": "Nach dem plötzlichen Tod von Hubert Aiwanger ist die Bestürzung über Bayerns Grenzen hinaus groß. Die Freien Wähler müssen sich jetzt neu aufstellen - denn Aiwanger war die zentrale Figur seiner Partei.",
-        "link": "https://www.tagesschau.de/inland/freie-waehler-beraten-naechste-schritte-nach-aiwangers-tod-100.html"
+        "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+        "text": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+        "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Schäden an Unterseekabeln in der Ostsee: Urteil gegen russischen Kapitän",
-        "text": "Zehn Monate nach der Sabotage an zwei Kabeln in der Ostsee sind ein russischer Kapitän und ein Crewmitglied in Finnland zu mehrjährigen Haftstrafen verurteilt worden. Sie sollen die Unterseekabel vorsätzlich mit einem Anker beschädigt haben.",
-        "link": "https://www.tagesschau.de/ausland/europa/kapitaen-sabotage-urteil-100.html"
+        "title": "Bandenchef bittet UN um Vermittlung in Haiti",
+        "text": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer.",
+        "link": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Mehrere Bombendrohungen gegen Passagierflüge in Europa",
-        "text": "Wieder gibt es Bombendrohungen gegen mehrere Flugzeuge im europäischen Luftraum. Unter anderem eine irische Maschine musste außerplanmäßig auf einem französischen Luftwaffenstützpunkt landen. Die Hintergründe sind bisher nicht bekannt.",
-        "link": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html"
+        "title": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
+        "text": "Jahrelang kaum Regen in Deutschland, heiße Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll. Von P. Sonnenberg.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Straße von Hormus: Zwei Öltanker offenbar in Brand geraten",
-        "text": "Teheran blockiert die Straße von Hormus seit Beginn des Iran-Krieges weitgehend. Doch immer wieder riskieren Öltanker die Passage durch die Meerenge. Nun sind laut Iran zwei Schiffe in Brand geraten.",
-        "link": "https://www.tagesschau.de/ausland/asien/iran-hormus-oeltanker-100.html"
+        "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+        "text": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Kameras in Schlachthöfen: Mehr Überwachung für den Tierschutz",
-        "text": "Der Bundestag berät für einen besseren Tierschutz über verpflichtende Videoüberwachung in großen Schlachthöfen. Doch Ausnahmen für kleine Betriebe und Fragen zur Umsetzung sorgen für Diskussionen. Von Eva Huber.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html"
+        "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
+        "text": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
+        "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Hongkongs Demokratie-Aktivist Wong zu weiteren zehn Jahren Haft verurteilt",
-        "text": "Einst führte Joshua Wong in Hongkong Proteste für mehr Demokratie an. Nun wurde der ehemalige Studentenführer zu weiteren zehn Jahren Haft verurteilt. Grundlage ist das von China auferlegte \"Sicherheitsgesetz\". Von C. Kober.",
-        "link": "https://www.tagesschau.de/ausland/hong-kong-wong-urteil-100.html"
+        "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+        "text": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
+        "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "USA und Israel nach den Wahlen: Beziehungsstatus kompliziert",
-        "text": "Sowohl die USA als auch Israel haben wichtige Wahlen hinter sich. Die Ergebnisse werden die Beziehungen beider Staaten nachhaltig bestimmen - und könnten für Premier Netanjahu zum Problem werden. Von Jan-Christoph Kitzler.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-usa-wahlen-100.html"
+        "title": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+        "text": "Die USA erleben laut der Gesundheitsbehörde CDC den größten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Midterms in den USA: Verhaltener Optimismus in der Ukraine nach US-Wahl",
-        "text": "Die Wahlschlappe von Trumps Republikanern lässt viele in der Ukraine auf einen Kurswechsel der USA hoffen. Doch ob es tatsächlich so schnell zu Veränderungen kommt, daran zweifelt man. Von F. Kellermann.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-zwischenwahl-100.html"
+        "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+        "text": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Liveblog zu den Midterms: ++ Trump verteidigt Iran-Krieg ++",
-        "text": "US-Präsident Trump hat trotz des Wahldebakels betont, am Kurs im Iran-Krieg festhalten zu wollen. Außenminister Wadephul erwartet weiterhin eine konstruktive Zusammenarbeit mit der US-Regierung.",
-        "link": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html"
+        "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+        "text": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
+        "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Vance zu den Midterms: \"Der Grund für unsere Niederlage ist der Krieg\"",
-        "text": "Nach der Wahlschlappe der Republikaner geht in der Partei die Spurensuche los, warum sie solche herben Verluste gegen die Demokraten einstecken musste. Für Vizepräsident Vance ist klar: Der Iran-Krieg ist schuld. Von K. Fuß.",
-        "link": "https://www.tagesschau.de/ausland/amerika/midterms-vance-irankrieg-100.html"
+        "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+        "text": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Montenegro könnte EU-Mitgliedsland Nummer 28 werden",
-        "text": "Viele Länder möchten EU-Mitglied werden - für Montenegro läuft es am besten. Die EU hält einen Beitritt des kleinen Balkan-Landes schon 2028 für möglich. Für andere Staaten gebe es hingegen gerade eher keine Perspektive.",
-        "link": "https://www.tagesschau.de/ausland/europa/eu-montenegro-100.html"
+        "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+        "text": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "US-Midterms: Wie Trump abgestraft wurde - und was die Folgen sind",
-        "text": "Ein Teilerfolg für die Demokraten war erwartet worden. Doch die Zwischenwahlen in den USA kommen einem Desaster für Präsident Trump gleich. Was war dafür ausschlaggebend und wie geht es jetzt weiter? Fragen und Antworten von E. Aretz und C. Schwanitz.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-ergebnisse-midterms-faq-100.html"
+        "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+        "text": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html"
       }
     ],
     "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Hoekstra at the 22nd Athens Tax Forum",
+        "text": "European Commission Speech Athens, 06 Nov 2026 Ladies and Gentlemen,\nA very good morning to all of you.\nIt's a great pleasure to be back in beautiful Greece and to be here today at the 22nd Athens Tax Forum ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2370"
+      },
       {
         "source": "EU-Kommission",
         "title": "Speech by Commissioner Lahbib at the InvestFrontier Conference",
@@ -224,54 +228,60 @@
         "title": "Kommission startet zweiten jährlichen Migrationsmanagementzyklus im Rahmen des Migrations- und Asylpakets",
         "text": "European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Kommission leitet heute den zweiten jährlichen Migrationsmanagementzyklus ein, mit dem eine Kernkomponente des Migrations- und Asylpakets umgesetzt wird.",
         "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2365"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Daily News 06 / 11 / 2026",
-        "text": "European Commission Daily news Brussels, 06 Nov 2026 Commission preliminarily finds TikTok's ‘For You' feed in breach of Digital Services Act for harmful ‘rabbit holes' effect\nToday, the European Commission has pr...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2364"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX springt auf Rekordhoch",
-        "text": "Die Euphorie an den Börsen nach den US-Zwischenwahlen hält an: Der DAX klettert im frühen Handel auf ein neues Rekordhoch. Der sinkende Ölpreis und erfreuliche Industriedaten treiben den Markt zusätzlich an.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-zwischenwahlen-100.html"
+        "title": "Welche Fakes rund um die Midterms kursieren",
+        "text": "Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen. Von C. Reveland und K. König.",
+        "link": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "US-Demokraten: Der gemäßigte Kurs verspricht weitere Erfolge",
-        "text": "Nach den Midterms sieht sich der linke Parteiflügel der Demokraten gestärkt, doch Top-Demokraten im Kongress setzen auf einen gemäßigten Kurs. Auch Experten sagen: Das hilft in einem \"Mitte-Rechts-Land\". Von C. Kühntopp.",
-        "link": "https://www.tagesschau.de/ausland/amerika/midterms-demokraten-100.html"
+        "title": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
+        "text": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
+        "link": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Bayerns Wirtschaftsminister Hubert Aiwanger ist tot",
-        "text": "Bayerns Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist tot, wie das ARD-Hauptstadtstudio aus Regierungskreisen erfuhr. Der Freie-Wähler-Chef starb demnach im Alter von 55 Jahren in einem Berliner Hotel.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/hubert-aiwanger-tot-100.html"
+        "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+        "text": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX-Anleger in Kauflaune",
-        "text": "Der DAX steigt zeitweise auf den höchsten Stand seit zwei Monaten. Neben positiven Unternehmenszahlen sorgt auch die Hoffnung auf mehr politische Berechenbarkeit in den USA für Rückenwind.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-boerse-118.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Neuer EZB-Chef: Niederlande nominieren Ex-Zentralbanker Knot",
-        "text": "Der frühere niederländische Zentralbankchef Knot ist nun offiziell für den EZB-Chefsessel nominiert. Er gilt als aussichtsreicher Kandidat für die Nachfolge der scheidenden Christine Lagarde.",
-        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/knot-nominierung-ezb-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Marktbericht: Demokraten-Sieg gibt DAX Rückenwind",
-        "text": "Der überraschende Erfolg der US-Demokraten steht bei den Märkten im Fokus und treibt etwa den DAX an. Gleichzeitig geraten Tech-Aktien unter Druck: Anleger befürchten, dass die Demokraten den KI-Sektor stärker regulieren könnten.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/reaktionen-midterms-102.html"
+        "title": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
+        "text": "Der Machtwechsel im US-Kongress könnte Unternehmen mehr Planbarkeit bringen. Zugleich befürchten Ökonomen, dass sich der Zollstreit fortsetzt. Worauf kann sich die deutsche Wirtschaft einstellen? Von Sebastian Schreiber.",
+        "link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "„Zu schnell, zu groß“: Protestierende in ganz Europa kämpfen gegen den Rechenzentrums-Boom",
+      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Wien und anderen europäischen Städten gingen Aktivist*innen auf die Straße, um gegen Rechenzentren zu protestieren. Die erste europaweite Aktion dieser Art zog auch in Berlin Demonst",
+      "link": "https://netzpolitik.org/2026/zu-schnell-zu-gross-protestierende-in-ganz-europa-kaempfen-gegen-den-rechenzentrums-boom/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "“Too Fast, Too Big”: Activists Across Europe Challenge Data Center Rush",
+      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Vienna and other European cities, activists took to the streets on Friday to protest against data centers. The first pan-European action of its kind also drew protesters in Berlin. D",
+      "link": "https://netzpolitik.org/2026/too-fast-too-big-activists-across-europe-challenge-data-center-rush/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Rabbit-Hole-Effekt: EU-Kommission hält TikTok-Feed für schädlich",
+      "text": "Ein trauriges Video führt zum nächsten – so kann es auf TikTok schnell abwärts gehen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Benoit BeaumatinTikToks Empfehlungssystem kann Nutzer:innen schaden, hat die EU-Kommission heute vorläufig festgestellt. Der personalisi",
+      "link": "https://netzpolitik.org/2026/rabbit-hole-effekt-eu-kommission-haelt-tiktok-feed-fuer-schaedlich/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Analyse zu den Midterms: Wie sich Elon Musk in beide Knie schoss",
@@ -283,30 +293,6 @@
       "title": "Breitbandausbau: Die schwierigen letzten Meter",
       "text": "Bilder wie dieses werden sich in den nächsten Jahren überall in Deutschland wiederfinden. Über die Bedingungen des Ausbaus herrscht jedoch Streit.    –   Alle Rechte vorbehalten: RechImmer mehr moderne Glasfaserleitungen liegen bereits im Boden, enden aber bei der Bordsteinkante.",
       "link": "https://netzpolitik.org/2026/breitbandausbau-die-schwierigen-letzten-meter/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Greenpeace-Studie: Bau von Riesen-Rechenzentren könnte Wasserverbrauch mehr als verdoppeln",
-      "text": "Baustelle eines Rechenzentrums in Lübbenau, Spreewald, in dem 100.000 KI-Chips mit einer Anschlussleistung von rund 200 Megawatt verbaut werden sollen.    –   Alle Rechte vorbehalten: IMAGO / Jochen HeckelNeben Strom verbrauchen Rechenzentren große Mengen Wasser. Die Bundesregier",
-      "link": "https://netzpolitik.org/2026/greenpeace-studie-bau-von-riesen-rechenzentren-koennte-wasserverbrauch-mehr-als-verdoppeln/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Staatliche Transparenz: Innenminister will Informationsfreiheit durch die Hintertür einschränken",
-      "text": "FragDenStaat übergibt mehr als 680.000 Unterschriften vor dem  Bundestag an die SPD-Fraktion.    –   Alle Rechte vorbehalten: CampactDer Protest gegen die Pläne der Bundesregierung, die Informationsfreiheit einzuschränken, ist unerwartet groß. Nun versucht das Innenministerium, d",
-      "link": "https://netzpolitik.org/2026/staatliche-transparenz-innenminister-will-informationsfreiheit-durch-die-hintertuer-einschraenken/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "London, Paris, Berlin: Action Against Data Centers Goes Europe-Wide This Weekend",
-      "text": "Protest gegen ein Google-Rechenzentrum im österreichischen Kronstorf im August 2026    –   Alle Rechte vorbehalten: IMAGO / Wolfgang SimlingerCivil society groups are calling for an immediate moratorium on large data centers in Europe. The initiative „Stop Dirty Data Centres” is ",
-      "link": "https://netzpolitik.org/2026/london-paris-berlin-action-against-data-centers-goes-europe-wide-this-weekend/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "London, Paris, Berlin: Europaweite Proteste gegen Rechenzentren am Wochenende",
-      "text": "Protest gegen ein Google-Rechenzentrum im österreichischen Kronstorf im August 2026    –   Alle Rechte vorbehalten: IMAGO / Wolfgang SimlingerZivilgesellschaftliche Gruppen fordern ein sofortiges Moratorium für große Rechenzentren in Europa. Die Initiative „Stop Dirty Data Centre",
-      "link": "https://netzpolitik.org/2026/london-paris-berlin-europaweite-proteste-gegen-rechenzentren-am-wochenende/"
     }
   ]
 }

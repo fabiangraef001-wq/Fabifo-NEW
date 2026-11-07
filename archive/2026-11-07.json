@@ -1,0 +1,298 @@
+{
+  "updated": "2026-11-07T11:36+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25820.4,
+      "unit": "Pkt.",
+      "change_pct": -1.92,
+      "history": [
+        26039.7,
+        25818.2,
+        25981.1,
+        25864.6,
+        26437.7,
+        26325.0,
+        25820.4
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 26990.0,
+      "unit": "Pkt.",
+      "change_pct": 1.35,
+      "history": [
+        29402.5,
+        28384.8,
+        27989.8,
+        28180.3,
+        28437.2,
+        26629.8,
+        26990.0
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7376.9,
+      "unit": "Pkt.",
+      "change_pct": 0.32,
+      "history": [
+        7720.4,
+        7580.1,
+        7541.4,
+        7568.9,
+        7688.6,
+        7353.7,
+        7376.9
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 98.3,
+      "unit": "$",
+      "change_pct": 0.0,
+      "history": [
+        114.9,
+        117.6,
+        104.8,
+        103.6,
+        94.6,
+        98.3,
+        98.3
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4074.9,
+      "unit": "$",
+      "change_pct": -0.94,
+      "history": [
+        4031.4,
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1228,
+      "unit": "",
+      "change_pct": -0.06,
+      "history": [
+        1.1156,
+        1.1183,
+        1.1157,
+        1.1192,
+        1.1207,
+        1.1235,
+        1.1228
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+    "text": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+    "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Ilse Aigner im Porträt: Krisenerprobt, bürgernah - und bald Staatsoberhaupt?",
+        "text": "Ilse Aigner hat beste Chancen, die erste Bundespräsidentin Deutschlands zu werden. Obwohl sie bereits hohe Ämter auf Bundes- und Landesebene innehatte, stand sie nie in allererster Reihe. Ein Porträt von Anita Fünffinger.",
+        "link": "https://www.tagesschau.de/inland/ilse-aigner-portraet-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Bandenchef bittet UN um Vermittlung in Haiti",
+        "text": "In Haiti werden nach einem Bandenangriff vier salvadorianische Militärangehörige vermisst. Um sie zu retten, schickt Präsident Bukele weitere Soldaten ins Land und droht den Gangs. Ein Bandenchef reagiert nun mit einem Brief an die UN. Von A. Demmer.",
+        "link": "https://www.tagesschau.de/ausland/amerika/haiti-banden-vereinte-nationen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Katastrophenübung: Was wäre, wenn eine Dürre Deutschland lahmlegt?",
+        "text": "Jahrelang kaum Regen in Deutschland, heiße Sommer und dann seit Wochen eine extreme Hitzewelle. Das ist das Szenario von LÜKEX, einer Übung, die das Krisenmanagement von 180 beteiligten Organisationen verbessern soll. Von P. Sonnenberg.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/hitze-duerre-ausnahmezustand-krisenmanagement-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Hubig will geleakte E-Mails zur Prüfung von AfD-Verbotsverfahren nutzen",
+        "text": "Justizministerin Hubig wirbt dafür, ein AfD-Verbotsverfahren zu prüfen - gegebenenfalls auch mithilfe der von Hackern veröffentlichten Mails aus den Reihen der Partei. In der schwarz-roten Koalition ist ein Verbotsverfahren jedoch umstritten.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/hubig-afd-verbotsverfahren-leak-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Was passiert bei einer Bombendrohung im Flugzeug?",
+        "text": "Die Bombendrohungen im europäischen Luftverkehr alarmieren Behörden - und verunsichern Passagiere. Gibt es solche Vorfälle öfter? Und was passiert bei einer Bombendrohung an Bord? Ein Überblick über die wichtigsten Fragen.",
+        "link": "https://www.tagesschau.de/ausland/bombendrohungen-faq-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Schwere Schäden nach Raketenangriffen auf Kiew",
+        "text": "Erneut haben russische Raketen die ukrainische Hauptstadt Kiew und das Umland getroffen. Es gab zahlreiche Explosionen, so Bürgermeister Klitschko. Die Strom- und Wasserversorgung seien stark beeinträchtigt.",
+        "link": "https://www.tagesschau.de/ausland/ukraine-angriffe-kiew-138.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Gesundheitsbehörde: Größter Masernausbruch in den USA seit 35 Jahren",
+        "text": "Die USA erleben laut der Gesundheitsbehörde CDC den größten Masernausbruch seit 1991. Im Laufe des Jahres wurden bereits 5.182 Krankheitsfälle registriert. In Wisconsin starb erstmals seit mehr als dreieinhalb Jahrzehnten ein Baby.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trumps neuer Stabschef Miller: \"Ein Warnschuss in Richtung des künftigen Kongresses\"",
+        "text": "Auf Stabschefin Wiles folgt Hardliner Miller: Mit dieser Entscheidung reagiert Trump auf das Wahldebakel seiner Partei - und geht auf Konfrontationskurs zu den Demokraten. Doch auch Republikanern stößt die Personalie auf. Von C. Kühntopp.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Paraguay: Peña als Präsident abgesetzt und unter Hausarrest",
+        "text": "Plötzlich ging es ganz schnell: Infolge der Bankenkrise in Paraguay hat das Parlament den bisherigen Präsidenten Peña des Amtes enthoben - kurz darauf wurde er unter Hausarrest gestellt. Ein Nachfolger ist bereits vereidigt.",
+        "link": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trumps Stabschefin Wiles verlässt das Weiße Haus",
+        "text": "Seit der Wahlniederlage der Republikaner bei den Midterms wird spekuliert, ob und wie US-Präsident Trump seinen Machtzirkel umbaut. Nun steht fest: Die Strippenzieherin Wiles geht, ihr Vize Miller übernimmt.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-wiles-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Russland bei Eishockey-WM? Deutschlands sportpolitisches Dilemma",
+        "text": "Die Eishockey-WM in Deutschland steht wegen der möglichen Teilnahme Russlands vor einem Boykott mehrerer Nationen und Sponsoren. Die Bundesregierung bringt das in ein Dilemma. Von Felix Jakobs.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/eishockey-wm-wie-umgehen-mit-russland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Verhaltene Reaktionen auf Trumps Ankündigung eines Ukraine-Abkommens",
+        "text": "Nach einem Treffen mit Kreml-Unterhändler Dmitrijew kündigte US-Präsident Trump ein \"großes\" Ukraine-Abkommen an. Alle würden begeistert sein, behauptete er. Doch Moskau und Brüssel dämpfen die Erwartungen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-ukraine-reaktionen-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Hoekstra at the 22nd Athens Tax Forum",
+        "text": "European Commission Speech Athens, 06 Nov 2026 Ladies and Gentlemen,\nA very good morning to all of you.\nIt's a great pleasure to be back in beautiful Greece and to be here today at the 22nd Athens Tax Forum ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2370"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Lahbib at the InvestFrontier Conference",
+        "text": "European Commission Speech Brussels, 06 Nov 2026 I love the word “frontier”. On a map, it is just a line. But for explorers, it was always the place where the known world ended, and new possibilities began. I ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2369"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Brunner on the second Annual Migration Management Cycle",
+        "text": "European Commission Speech Brussels, 06 Nov 2026 Ladies and gentlemen,\nToday, we are delivering on a core component of the Pact on Migration and Asylum.\nWe are launching the second Annual Migration Management ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2368"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Keynote speech by Commissioner Síkela at the International Partnership Conference",
+        "text": "European Commission Speech Vilnius, 06 Nov 2026 KEYNOTE SPEECH\nDistinguished Guests,\nLadies and gentlemen,\nLithuania brings a clear understanding of what is at stake when we discuss resilience.\nThe freedom to...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2367"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Fragen und Antworten zum zweiten jährlichen Migrationsmanagementzyklus",
+        "text": "European Commission Fragen und Antworten Brussels, 06 Nov 2026 Was ist der jährliche Migrationsmanagementbericht?Im Rahmen des Migrations- und Asylpakets verfügt die EU über einen dauerhaften obligatorischen Solidaritätsmec...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2366"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission startet zweiten jährlichen Migrationsmanagementzyklus im Rahmen des Migrations- und Asylpakets",
+        "text": "European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Kommission leitet heute den zweiten jährlichen Migrationsmanagementzyklus ein, mit dem eine Kernkomponente des Migrations- und Asylpakets umgesetzt wird.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2365"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Welche Fakes rund um die Midterms kursieren",
+        "text": "Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen. Von C. Reveland und K. König.",
+        "link": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
+        "text": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
+        "link": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Weltweiter KI-Ausverkauf: DAX rutscht nach Rekordhoch ab",
+        "text": "Sorgen um KI- und Halbleiterwerte lösen weltweit Verkäufe aus - und setzen auch den deutschen Aktienmarkt unter Druck. Die US-Börsen konnten sich inzwischen wieder berappeln.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-ki-nasdaq-wall-street-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Welche Folgen die US-Midterms für die deutsche Wirtschaft haben",
+        "text": "Der Machtwechsel im US-Kongress könnte Unternehmen mehr Planbarkeit bringen. Zugleich befürchten Ökonomen, dass sich der Zollstreit fortsetzt. Worauf kann sich die deutsche Wirtschaft einstellen? Von Sebastian Schreiber.",
+        "link": "https://www.tagesschau.de/wirtschaft/midterms-wirtschaft-handelspolitik-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "„Zu schnell, zu groß“: Protestierende in ganz Europa kämpfen gegen den Rechenzentrums-Boom",
+      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Wien und anderen europäischen Städten gingen Aktivist*innen auf die Straße, um gegen Rechenzentren zu protestieren. Die erste europaweite Aktion dieser Art zog auch in Berlin Demonst",
+      "link": "https://netzpolitik.org/2026/zu-schnell-zu-gross-protestierende-in-ganz-europa-kaempfen-gegen-den-rechenzentrums-boom/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "“Too Fast, Too Big”: Activists Across Europe Challenge Data Center Rush",
+      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Vienna and other European cities, activists took to the streets on Friday to protest against data centers. The first pan-European action of its kind also drew protesters in Berlin. D",
+      "link": "https://netzpolitik.org/2026/too-fast-too-big-activists-across-europe-challenge-data-center-rush/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Rabbit-Hole-Effekt: EU-Kommission hält TikTok-Feed für schädlich",
+      "text": "Ein trauriges Video führt zum nächsten – so kann es auf TikTok schnell abwärts gehen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Benoit BeaumatinTikToks Empfehlungssystem kann Nutzer:innen schaden, hat die EU-Kommission heute vorläufig festgestellt. Der personalisi",
+      "link": "https://netzpolitik.org/2026/rabbit-hole-effekt-eu-kommission-haelt-tiktok-feed-fuer-schaedlich/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Analyse zu den Midterms: Wie sich Elon Musk in beide Knie schoss",
+      "text": "Musk mit anderen Vertretern der Tech-Oligarchie bei einem Treffen mit Trump im September.    –   Alle Rechte vorbehalten: Imago / ZUMA Press WireMit fast 500 Millionen Dollar Wahlkampfunterstützung und seiner Propagandaplattform X wollte Elon Musk die Wahlergebnisse beeinflussen.",
+      "link": "https://netzpolitik.org/2026/analyse-zu-den-midterms-wie-sich-elon-musk-in-beide-knie-schoss/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Breitbandausbau: Die schwierigen letzten Meter",
+      "text": "Bilder wie dieses werden sich in den nächsten Jahren überall in Deutschland wiederfinden. Über die Bedingungen des Ausbaus herrscht jedoch Streit.    –   Alle Rechte vorbehalten: RechImmer mehr moderne Glasfaserleitungen liegen bereits im Boden, enden aber bei der Bordsteinkante.",
+      "link": "https://netzpolitik.org/2026/breitbandausbau-die-schwierigen-letzten-meter/"
+    }
+  ]
+}
