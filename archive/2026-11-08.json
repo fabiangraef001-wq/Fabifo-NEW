@@ -1,0 +1,290 @@
+{
+  "updated": "2026-11-08T11:48+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25820.4,
+      "unit": "Pkt.",
+      "change_pct": -1.92,
+      "history": [
+        26039.7,
+        25818.2,
+        25981.1,
+        25864.6,
+        26437.7,
+        26325.0,
+        25820.4
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 26990.0,
+      "unit": "Pkt.",
+      "change_pct": 1.35,
+      "history": [
+        29402.5,
+        28384.8,
+        27989.8,
+        28180.3,
+        28437.2,
+        26629.8,
+        26990.0
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7376.9,
+      "unit": "Pkt.",
+      "change_pct": 0.32,
+      "history": [
+        7720.4,
+        7580.1,
+        7541.4,
+        7568.9,
+        7688.6,
+        7353.7,
+        7376.9
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 98.3,
+      "unit": "$",
+      "change_pct": 0.0,
+      "history": [
+        117.6,
+        104.8,
+        103.6,
+        94.6,
+        98.3,
+        98.3
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4074.9,
+      "unit": "$",
+      "change_pct": -0.94,
+      "history": [
+        3898.9,
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1228,
+      "unit": "",
+      "change_pct": -0.06,
+      "history": [
+        1.1156,
+        1.1183,
+        1.1157,
+        1.1192,
+        1.1207,
+        1.1235,
+        1.1228
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+    "text": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
+    "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
+        "text": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
+        "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
+        "text": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken.",
+        "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Familienmitglieder des Schützen ebenfalls getötet",
+        "text": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
+        "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
+        "text": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
+        "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
+        "text": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer.",
+        "link": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
+        "text": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
+        "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
+        "text": "Nordkorea stellt nicht nur Soldaten für den Krieg gegen die Ukraine. In Russland sind auch Zehntausende Leiharbeiter tätig. Sie hoffen auf einen besseren Verdienst als in ihrer Heimat - erfüllt sich dieser Wunsch? Von Norbert Hahn.",
+        "link": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
+        "text": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Oder gibt es ein Missverständnis?",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
+        "text": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
+        "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
+        "text": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
+        "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wofür Trumps neuer Stabschef Miller steht",
+        "text": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
+        "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
+        "text": "Der iranische Oppositionelle Pahlavi hat stellvertretend für das iranische Volk den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen. Während der Verleihung gab es auch Demonstrationen.",
+        "link": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Hoekstra at the 22nd Athens Tax Forum",
+        "text": "European Commission Speech Athens, 06 Nov 2026 Ladies and Gentlemen,\nA very good morning to all of you.\nIt's a great pleasure to be back in beautiful Greece and to be here today at the 22nd Athens Tax Forum ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2370"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Lahbib at the InvestFrontier Conference",
+        "text": "European Commission Speech Brussels, 06 Nov 2026 I love the word “frontier”. On a map, it is just a line. But for explorers, it was always the place where the known world ended, and new possibilities began. I ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2369"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Brunner on the second Annual Migration Management Cycle",
+        "text": "European Commission Speech Brussels, 06 Nov 2026 Ladies and gentlemen,\nToday, we are delivering on a core component of the Pact on Migration and Asylum.\nWe are launching the second Annual Migration Management ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2368"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Keynote speech by Commissioner Síkela at the International Partnership Conference",
+        "text": "European Commission Speech Vilnius, 06 Nov 2026 KEYNOTE SPEECH\nDistinguished Guests,\nLadies and gentlemen,\nLithuania brings a clear understanding of what is at stake when we discuss resilience.\nThe freedom to...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2367"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Fragen und Antworten zum zweiten jährlichen Migrationsmanagementzyklus",
+        "text": "European Commission Fragen und Antworten Brussels, 06 Nov 2026 Was ist der jährliche Migrationsmanagementbericht?Im Rahmen des Migrations- und Asylpakets verfügt die EU über einen dauerhaften obligatorischen Solidaritätsmec...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2366"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission startet zweiten jährlichen Migrationsmanagementzyklus im Rahmen des Migrations- und Asylpakets",
+        "text": "European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Kommission leitet heute den zweiten jährlichen Migrationsmanagementzyklus ein, mit dem eine Kernkomponente des Migrations- und Asylpakets umgesetzt wird.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2365"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
+        "text": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Welche Fakes rund um die Midterms kursieren",
+        "text": "Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen. Von C. Reveland und K. König.",
+        "link": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
+        "text": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
+        "link": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Degitalisierung: Agilität",
+      "text": "\"Hauptsache schnell\" ist das Motto aktueller KI-Entwicklung.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jorgen HendriksenDeutschland soll beim KI-Ausbau schneller werden, dafür braucht es angeblich Deregulierung und agiles Vorgehen. Derartige Agilität haben 17 Soft",
+      "link": "https://netzpolitik.org/2026/degitalisierung-agilitaet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "„Zu schnell, zu groß“: Protestierende in ganz Europa kämpfen gegen den Rechenzentrums-Boom",
+      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Wien und anderen europäischen Städten gingen Aktivist*innen auf die Straße, um gegen Rechenzentren zu protestieren. Die erste europaweite Aktion dieser Art zog auch in Berlin Demonst",
+      "link": "https://netzpolitik.org/2026/zu-schnell-zu-gross-protestierende-in-ganz-europa-kaempfen-gegen-den-rechenzentrums-boom/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "“Too Fast, Too Big”: Activists Across Europe Challenge Data Center Rush",
+      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Vienna and other European cities, activists took to the streets on Friday to protest against data centers. The first pan-European action of its kind also drew protesters in Berlin. D",
+      "link": "https://netzpolitik.org/2026/too-fast-too-big-activists-across-europe-challenge-data-center-rush/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Rabbit-Hole-Effekt: EU-Kommission hält TikTok-Feed für schädlich",
+      "text": "Ein trauriges Video führt zum nächsten – so kann es auf TikTok schnell abwärts gehen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Benoit BeaumatinTikToks Empfehlungssystem kann Nutzer:innen schaden, hat die EU-Kommission heute vorläufig festgestellt. Der personalisi",
+      "link": "https://netzpolitik.org/2026/rabbit-hole-effekt-eu-kommission-haelt-tiktok-feed-fuer-schaedlich/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Analyse zu den Midterms: Wie sich Elon Musk in beide Knie schoss",
+      "text": "Musk mit anderen Vertretern der Tech-Oligarchie bei einem Treffen mit Trump im September.    –   Alle Rechte vorbehalten: Imago / ZUMA Press WireMit fast 500 Millionen Dollar Wahlkampfunterstützung und seiner Propagandaplattform X wollte Elon Musk die Wahlergebnisse beeinflussen.",
+      "link": "https://netzpolitik.org/2026/analyse-zu-den-midterms-wie-sich-elon-musk-in-beide-knie-schoss/"
+    }
+  ]
+}
