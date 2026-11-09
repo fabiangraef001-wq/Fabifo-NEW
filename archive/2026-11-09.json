@@ -1,0 +1,279 @@
+{
+  "updated": "2026-11-09T13:43+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 26093.7,
+      "unit": "Pkt.",
+      "change_pct": 1.06,
+      "history": [
+        25818.2,
+        25981.1,
+        25864.6,
+        26437.7,
+        26325.0,
+        25820.4,
+        26093.7
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 26990.0,
+      "unit": "Pkt.",
+      "change_pct": 1.35,
+      "history": [
+        29402.5,
+        28384.8,
+        27989.8,
+        28180.3,
+        28437.2,
+        26629.8,
+        26990.0
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7376.9,
+      "unit": "Pkt.",
+      "change_pct": 0.32,
+      "history": [
+        7720.4,
+        7580.1,
+        7541.4,
+        7568.9,
+        7688.6,
+        7353.7,
+        7376.9
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 94.4,
+      "unit": "$",
+      "change_pct": -3.97,
+      "history": [
+        104.8,
+        103.6,
+        94.6,
+        98.3,
+        98.3,
+        94.4
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4133.7,
+      "unit": "$",
+      "change_pct": 1.44,
+      "history": [
+        3969.6,
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4133.7
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1196,
+      "unit": "",
+      "change_pct": -0.29,
+      "history": [
+        1.1183,
+        1.1157,
+        1.1192,
+        1.1207,
+        1.1235,
+        1.1228,
+        1.1196
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
+    "text": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
+        "text": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+        "text": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Das ist der Weg zum neuen Staatsoberhaupt",
+        "text": "Es soll eine Frau werden - und sie kommt aus der CSU: Ilse Aigner wäre in mehrfacher Hinsicht eine Premiere für Deutschland. Aber gewählt ist das neue Staatsoberhaupt noch nicht. Wer wählt da überhaupt und könnte es noch weitere Kandidaten geben?",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
+        "text": "Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.",
+        "link": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
+        "text": "Der DAX macht zwar einen Teil der Kursverluste vom Freitag wieder wett, aber noch scheuen die Investoren das Risiko. Unterstützung kommt von Konjunkturseite, die Exporte fallen unerwartet stark aus.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Schneider fordert Alternative zur Plastiksteuer",
+        "text": "\"Die Plastiksteuer machen wir nicht.\" Die Ansage von Unionsfraktionschef Frei war klar und deutlich - doch mit den Einnahmen daraus wird schon geplant. Umweltminister Schneider sieht jetzt die Union in der Pflicht.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Erste Übung der multinationalen Truppe für die Ukraine startet",
+        "text": "Etwa 2.800 Soldaten aus elf Ländern üben nicht weit von der ukrainischen Grenze entfernt. Eines Tages könnte die multinationale Truppe in der Ukraine einen Frieden sichern. Deutschland unterstützt das Manöver mit Transportflugzeugen.",
+        "link": "https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+        "text": "US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem \"Scherz\".",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "G7-Außenminister sprechen über Ukraine und Iran",
+        "text": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau.",
+        "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+        "text": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+        "text": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
+        "link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+        "text": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+        "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Kos at the first High-Level Connectivity Platform Meeting on Digital",
+        "text": "European Commission Speech Chișinău, 09 Nov 2026 Speech by Commissioner Kos at the first High-Level Connectivity Platform Meeting on Digital to advances digital connectivity along the Middle Corridor",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2380"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 09 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 09 Nov 2026 Annual renewal 2027 for EU-accredited media professionals\nThe renewal of the annual accreditations is open. All media representatives who are based in Belgium a...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2378"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
+        "text": "European Commission Statement Brussels, 09 Nov 2026 Thank you, Kyriakos. Good afternoon, everyone.\nLet me begin on the economic outlook.\nWhile growth data has been more positive this year than previously expected...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2375"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen im Anschluss ihr Telefonat mit Präsident Selenskyj und im Vorfeld ihres Besuchs im Schwarzmeerraum in Rumänien und Bulgarien",
+        "text": "European Commission Erklärung Brussels, 09 Nov 2026 Heute beginne ich eine Reise in den Schwarzmeerraum, wo die Sicherheitslage immer bedrohlicher wird, die Angriffe zunehmen und unschuldige Menschen ihr Leben ve...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2374"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Emissionen sinken weiter, da saubere Energie an Boden gewinnt",
+        "text": "European Commission Pressemitteilung Brussels, 09 Nov 2026 Die Europäische Kommission hat heute den Fortschrittsbericht 2026 über die Klimapolitik der EU und den Bericht über den CO2-Markt veröffentlicht, aus denen hervorgeht, dass die Treibhausgasemissionen in der EU weiter zurü",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2343"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Hoekstra at the 22nd Athens Tax Forum",
+        "text": "European Commission Speech Athens, 06 Nov 2026 Ladies and Gentlemen,\nA very good morning to all of you.\nIt's a great pleasure to be back in beautiful Greece and to be here today at the 22nd Athens Tax Forum ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2370"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
+        "text": "Noch ist kein Abkommen unterzeichnet - doch Anleger glauben an ein Ende des US-Iran-Krieges. Das zeigt sich an den Ölpreisen. Und auch an der Tankstelle sinken die Spritpreise weiter.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Trainingsvideos für Verhaltensanalyse: Für die Überwachungs-KI gibt es nie genug Gewalt",
+      "text": "Anhand von solchen Bildern soll die Überwachungssoftware lernen, wie Gewalt aussieht.    –   Gemeinfrei: KI-generiert, Screenshot von staige.comDer Berliner Verhaltensscanner wird mit KI-Videos trainiert. Für die Qualität der Software ist das eine Herausforderung. Um sie zu verbe",
+      "link": "https://netzpolitik.org/2026/trainingsvideos-fuer-verhaltensanalyse-fuer-die-ueberwachungs-ki-gibt-es-nie-genug-gewalt/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Degitalisierung: Agilität",
+      "text": "\"Hauptsache schnell\" ist das Motto aktueller KI-Entwicklung.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jorgen HendriksenDeutschland soll beim KI-Ausbau schneller werden, dafür braucht es angeblich Deregulierung und agiles Vorgehen. Derartige Agilität haben 17 Soft",
+      "link": "https://netzpolitik.org/2026/degitalisierung-agilitaet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "„Zu schnell, zu groß“: Protestierende in ganz Europa kämpfen gegen den Rechenzentrums-Boom",
+      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Wien und anderen europäischen Städten gingen Aktivist*innen auf die Straße, um gegen Rechenzentren zu protestieren. Die erste europaweite Aktion dieser Art zog auch in Berlin Demonst",
+      "link": "https://netzpolitik.org/2026/zu-schnell-zu-gross-protestierende-in-ganz-europa-kaempfen-gegen-den-rechenzentrums-boom/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "“Too Fast, Too Big”: Activists Across Europe Challenge Data Center Rush",
+      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Vienna and other European cities, activists took to the streets on Friday to protest against data centers. The first pan-European action of its kind also drew protesters in Berlin. D",
+      "link": "https://netzpolitik.org/2026/too-fast-too-big-activists-across-europe-challenge-data-center-rush/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Rabbit-Hole-Effekt: EU-Kommission hält TikTok-Feed für schädlich",
+      "text": "Ein trauriges Video führt zum nächsten – so kann es auf TikTok schnell abwärts gehen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Benoit BeaumatinTikToks Empfehlungssystem kann Nutzer:innen schaden, hat die EU-Kommission heute vorläufig festgestellt. Der personalisi",
+      "link": "https://netzpolitik.org/2026/rabbit-hole-effekt-eu-kommission-haelt-tiktok-feed-fuer-schaedlich/"
+    }
+  ]
+}

@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-08T11:48+00:00",
+  "updated": "2026-11-09T13:43+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25820.4,
+      "value": 26093.7,
       "unit": "Pkt.",
-      "change_pct": -1.92,
+      "change_pct": 1.06,
       "history": [
-        26039.7,
         25818.2,
         25981.1,
         25864.6,
         26437.7,
         26325.0,
-        25820.4
+        25820.4,
+        26093.7
       ]
     },
     "nasdaq100": {
@@ -48,45 +48,45 @@
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 98.3,
+      "value": 94.4,
       "unit": "$",
-      "change_pct": 0.0,
+      "change_pct": -3.97,
       "history": [
-        117.6,
         104.8,
         103.6,
         94.6,
         98.3,
-        98.3
+        98.3,
+        94.4
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4074.9,
+      "value": 4133.7,
       "unit": "$",
-      "change_pct": -0.94,
+      "change_pct": 1.44,
       "history": [
-        3898.9,
         3969.6,
         3940.4,
         4073.0,
         4113.5,
-        4074.9
+        4074.9,
+        4133.7
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1228,
+      "value": 1.1196,
       "unit": "",
-      "change_pct": -0.06,
+      "change_pct": -0.29,
       "history": [
-        1.1156,
         1.1183,
         1.1157,
         1.1192,
         1.1207,
         1.1235,
-        1.1228
+        1.1228,
+        1.1196
       ]
     },
     "fed_rate": {
@@ -105,151 +105,146 @@
     }
   },
   "ticker_relevant": [
-    "dax"
+    "dax",
+    "brent"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
-    "text": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
-    "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
+    "title": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
+    "text": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Schüsse in Krakau: Staatsanwaltschaft geht Terrorismusverdacht nach",
-        "text": "Nach den Schüssen in Krakau geht die Staatsanwaltschaft von Terrorismus aus. Sechs Menschen starben. Es gibt Hinweise auf eine \"sehr radikale\" Gesinnung des Schützen. Auch drei Familienmitglieder wurden erschossen.",
-        "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
+        "title": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
+        "text": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Berliner Linken-Politikerin Emde lehnt Mandatsverzicht ab",
-        "text": "Die Berliner Linken-Abgeordnete Emde hat der Forderung des Parteivorstands, ihr Mandat niederzulegen, eine klare Absage erteilt. Auch von ihrer umstrittenen Haltung zu Israel scheint die Politikerin nicht abzurücken.",
-        "link": "https://www.tagesschau.de/inland/regional/berlin/berlin-linke-emde-ablehnung-mandatsverzicht-100.html"
+        "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
+        "text": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Familienmitglieder des Schützen ebenfalls getötet",
-        "text": "Landesweit gilt in Polen nach den tödlichen Schüssen auf Passanten auf einem Marktplatz in Krakau Staatstrauer. Das Motiv des Schützen bleibt unklar. Er steht im Verdacht, auch seine Eltern und Schwester getötet zu haben.",
-        "link": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-100.html"
+        "title": "Das ist der Weg zum neuen Staatsoberhaupt",
+        "text": "Es soll eine Frau werden - und sie kommt aus der CSU: Ilse Aigner wäre in mehrfacher Hinsicht eine Premiere für Deutschland. Aber gewählt ist das neue Staatsoberhaupt noch nicht. Wer wählt da überhaupt und könnte es noch weitere Kandidaten geben?",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Papst Leo XIV. setzt Südamerika-Reise fort",
-        "text": "Zum Auftakt seiner Südamerika-Reise traf Papst Leo XIV. in Uruguay auf Armut und Gläubige in einer meist säkularen Gesellschaft. Nun geht es nach Argentinien, dessen Staatschef den Pontifex bisher eher als Kritiker kennt. Von Tilmann Kleinjung.",
-        "link": "https://www.tagesschau.de/ausland/amerika/papst-leo-suedamerika-uruguay-100.html"
+        "title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
+        "text": "Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.",
+        "link": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Guatemalas Korruptionsbekämpfer riskieren ihr Leben",
-        "text": "Guatemalas Präsident Arévalo versucht, die Korruption im Land zu bekämpfen. Doch der Widerstand einflussreicher Kreise ist massiv. Der Mord an einem der bekanntesten Anwälte des Landes zeigt, wie entschlossen sie sind. Von A. Demmer.",
-        "link": "https://www.tagesschau.de/ausland/amerika/guatemala-kampf-korruption-100.html"
+        "title": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
+        "text": "Der DAX macht zwar einen Teil der Kursverluste vom Freitag wieder wett, aber noch scheuen die Investoren das Risiko. Unterstützung kommt von Konjunkturseite, die Exporte fallen unerwartet stark aus.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Mehr als 20 Verletzte nach Erdbeben in Zentraljapan",
-        "text": "Mehrere Regionen in Japan wurden in der Nacht von einem Erdbeben der Stärke 5,7 erschüttert. Am stärksten betroffen war die Präfektur Aichi. Medien berichten über mehr als 20 Verletzte. Laut Behörden könnten weitere Beben folgen.",
-        "link": "https://www.tagesschau.de/ausland/asien/japan-erdbeben-aichi-100.html"
+        "title": "Schneider fordert Alternative zur Plastiksteuer",
+        "text": "\"Die Plastiksteuer machen wir nicht.\" Die Ansage von Unionsfraktionschef Frei war klar und deutlich - doch mit den Einnahmen daraus wird schon geplant. Umweltminister Schneider sieht jetzt die Union in der Pflicht.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Leiharbeiter: Nordkoreas Geldquelle in Russland",
-        "text": "Nordkorea stellt nicht nur Soldaten für den Krieg gegen die Ukraine. In Russland sind auch Zehntausende Leiharbeiter tätig. Sie hoffen auf einen besseren Verdienst als in ihrer Heimat - erfüllt sich dieser Wunsch? Von Norbert Hahn.",
-        "link": "https://www.tagesschau.de/ausland/europa/russland-nordkorea-104.html"
+        "title": "Erste Übung der multinationalen Truppe für die Ukraine startet",
+        "text": "Etwa 2.800 Soldaten aus elf Ländern üben nicht weit von der ukrainischen Grenze entfernt. Eines Tages könnte die multinationale Truppe in der Ukraine einen Frieden sichern. Deutschland unterstützt das Manöver mit Transportflugzeugen.",
+        "link": "https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Trump will Kampfsportunternehmer White als Pressesprecher",
-        "text": "\"Ein gewalttätiger Kämpfer und Krieger\": Mit einem unkonventionellen Vorschlag löst US-Präsident Trump Rätselraten aus: Der Chef der Kampfsportliga UFC soll Pressesprecher werden. Oder gibt es ein Missverständnis?",
-        "link": "https://www.tagesschau.de/ausland/amerika/trump-sprecher-white-ufc-kampfsport-spekulationen-100.html"
+        "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
+        "text": "US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem \"Scherz\".",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Französischer Präsidentschaftskandidat Mélenchon fordert NATO-Austritt",
-        "text": "Bei der französischen Präsidentschaftswahl im kommenden April könnte er stark abschneiden: der linke Kandidat Mélenchon. Jetzt hat er sein Programm vorgestellt - und sich dabei nicht nur gegen die NATO positioniert.",
-        "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html"
+        "title": "G7-Außenminister sprechen über Ukraine und Iran",
+        "text": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau.",
+        "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Oppositionsführer Eisenkot soll Israels neue Regierung bilden",
-        "text": "Endet die Ära Netanjahu in Israel? Staatspräsident Herzog beauftragt den Oppositionspolitiker Eisenkot mit der Regierungsbildung. In den kommenden 28 Tagen soll er versuchen, eine Koalition zu schmieden.",
-        "link": "https://www.tagesschau.de/ausland/asien/regierungsbildung-israel-eisenkot-100.html"
+        "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
+        "text": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wofür Trumps neuer Stabschef Miller steht",
-        "text": "Seit Freitag ist Stephen Miller neuer Stabschef von Präsident Trump. Der 41-Jährige gilt als rechter Hardliner und Kopf hinter der strikten Einwanderungspolitik. Welches Signal sendet Trump mit der Personalie an Republikaner und Demokraten?",
-        "link": "https://www.tagesschau.de/ausland/amerika/trump-stabschef-miller-100.html"
+        "title": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
+        "text": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
+        "link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Pahlavi nimmt Freiheitspreis für iranisches Volk entgegen",
-        "text": "Der iranische Oppositionelle Pahlavi hat stellvertretend für das iranische Volk den Freiheitspreis der FDP-nahen Friedrich-Naumann-Stiftung entgegengenommen. Während der Verleihung gab es auch Demonstrationen.",
-        "link": "https://www.tagesschau.de/inland/regional/hessen/pahlavi-friedenspreis-frankfurt-100.html"
+        "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
+        "text": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
+        "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
+        "title": "Speech by Commissioner Kos at the first High-Level Connectivity Platform Meeting on Digital",
+        "text": "European Commission Speech Chișinău, 09 Nov 2026 Speech by Commissioner Kos at the first High-Level Connectivity Platform Meeting on Digital to advances digital connectivity along the Middle Corridor",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2380"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 09 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 09 Nov 2026 Annual renewal 2027 for EU-accredited media professionals\nThe renewal of the annual accreditations is open. All media representatives who are based in Belgium a...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2378"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
+        "text": "European Commission Statement Brussels, 09 Nov 2026 Thank you, Kyriakos. Good afternoon, everyone.\nLet me begin on the economic outlook.\nWhile growth data has been more positive this year than previously expected...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2375"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen im Anschluss ihr Telefonat mit Präsident Selenskyj und im Vorfeld ihres Besuchs im Schwarzmeerraum in Rumänien und Bulgarien",
+        "text": "European Commission Erklärung Brussels, 09 Nov 2026 Heute beginne ich eine Reise in den Schwarzmeerraum, wo die Sicherheitslage immer bedrohlicher wird, die Angriffe zunehmen und unschuldige Menschen ihr Leben ve...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2374"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU-Emissionen sinken weiter, da saubere Energie an Boden gewinnt",
+        "text": "European Commission Pressemitteilung Brussels, 09 Nov 2026 Die Europäische Kommission hat heute den Fortschrittsbericht 2026 über die Klimapolitik der EU und den Bericht über den CO2-Markt veröffentlicht, aus denen hervorgeht, dass die Treibhausgasemissionen in der EU weiter zurü",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2343"
+      },
+      {
+        "source": "EU-Kommission",
         "title": "Speech by Commissioner Hoekstra at the 22nd Athens Tax Forum",
         "text": "European Commission Speech Athens, 06 Nov 2026 Ladies and Gentlemen,\nA very good morning to all of you.\nIt's a great pleasure to be back in beautiful Greece and to be here today at the 22nd Athens Tax Forum ...",
         "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2370"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Speech by Commissioner Lahbib at the InvestFrontier Conference",
-        "text": "European Commission Speech Brussels, 06 Nov 2026 I love the word “frontier”. On a map, it is just a line. But for explorers, it was always the place where the known world ended, and new possibilities began. I ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2369"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Brunner on the second Annual Migration Management Cycle",
-        "text": "European Commission Speech Brussels, 06 Nov 2026 Ladies and gentlemen,\nToday, we are delivering on a core component of the Pact on Migration and Asylum.\nWe are launching the second Annual Migration Management ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2368"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Keynote speech by Commissioner Síkela at the International Partnership Conference",
-        "text": "European Commission Speech Vilnius, 06 Nov 2026 KEYNOTE SPEECH\nDistinguished Guests,\nLadies and gentlemen,\nLithuania brings a clear understanding of what is at stake when we discuss resilience.\nThe freedom to...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2367"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Fragen und Antworten zum zweiten jährlichen Migrationsmanagementzyklus",
-        "text": "European Commission Fragen und Antworten Brussels, 06 Nov 2026 Was ist der jährliche Migrationsmanagementbericht?Im Rahmen des Migrations- und Asylpakets verfügt die EU über einen dauerhaften obligatorischen Solidaritätsmec...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2366"
-      },
-      {
-        "source": "EU-Kommission",
-        "title": "Kommission startet zweiten jährlichen Migrationsmanagementzyklus im Rahmen des Migrations- und Asylpakets",
-        "text": "European Commission Pressemitteilung Brussels, 06 Nov 2026 Die Europäische Kommission leitet heute den zweiten jährlichen Migrationsmanagementzyklus ein, mit dem eine Kernkomponente des Migrations- und Asylpakets umgesetzt wird.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2365"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Wie der Aktienkauf rund um die Uhr funktionieren soll",
-        "text": "Die Deutsche Börse in Frankfurt ermöglicht ab sofort den Handel mit DAX-Werten auch nachts oder am Wochenende. Noch gibt es allerdings eine wichtige Hürde. Was Anleger wissen sollten. Von Alina Leimbach.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/aktien-kauf-nachts-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Welche Fakes rund um die Midterms kursieren",
-        "text": "Gefälschte Nachrichtenbeiträge, manipulierte Wahlmaschinen und erfundene Vorwürfe gegen Kandidaten: Rund um die US-Midterms verbreiten sich zahlreiche Falschbehauptungen. Dahinter stehen zum Teil russische Einflusskampagnen. Von C. Reveland und K. König.",
-        "link": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Gerät Tschechiens Wasserwirtschaft in Gefahr?",
-        "text": "Seit zwei Jahren gibt es in Tschechien zu wenig Schnee und Regen - der wasserreichste Stausee ist mittlerweile halb leer. Sollte auch dieser Winter die Pegelstände nicht anheben, wäre die Versorgung im ganzen Land gefährdet. Von André Berthold.",
-        "link": "https://www.tagesschau.de/ausland/europa/tschechien-wasserknappheit-100.html"
+        "title": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
+        "text": "Noch ist kein Abkommen unterzeichnet - doch Anleger glauben an ein Ende des US-Iran-Krieges. Das zeigt sich an den Ölpreisen. Und auch an der Tankstelle sinken die Spritpreise weiter.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Trainingsvideos für Verhaltensanalyse: Für die Überwachungs-KI gibt es nie genug Gewalt",
+      "text": "Anhand von solchen Bildern soll die Überwachungssoftware lernen, wie Gewalt aussieht.    –   Gemeinfrei: KI-generiert, Screenshot von staige.comDer Berliner Verhaltensscanner wird mit KI-Videos trainiert. Für die Qualität der Software ist das eine Herausforderung. Um sie zu verbe",
+      "link": "https://netzpolitik.org/2026/trainingsvideos-fuer-verhaltensanalyse-fuer-die-ueberwachungs-ki-gibt-es-nie-genug-gewalt/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Degitalisierung: Agilität",
@@ -279,12 +274,6 @@
       "title": "Rabbit-Hole-Effekt: EU-Kommission hält TikTok-Feed für schädlich",
       "text": "Ein trauriges Video führt zum nächsten – so kann es auf TikTok schnell abwärts gehen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Benoit BeaumatinTikToks Empfehlungssystem kann Nutzer:innen schaden, hat die EU-Kommission heute vorläufig festgestellt. Der personalisi",
       "link": "https://netzpolitik.org/2026/rabbit-hole-effekt-eu-kommission-haelt-tiktok-feed-fuer-schaedlich/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Analyse zu den Midterms: Wie sich Elon Musk in beide Knie schoss",
-      "text": "Musk mit anderen Vertretern der Tech-Oligarchie bei einem Treffen mit Trump im September.    –   Alle Rechte vorbehalten: Imago / ZUMA Press WireMit fast 500 Millionen Dollar Wahlkampfunterstützung und seiner Propagandaplattform X wollte Elon Musk die Wahlergebnisse beeinflussen.",
-      "link": "https://netzpolitik.org/2026/analyse-zu-den-midterms-wie-sich-elon-musk-in-beide-knie-schoss/"
     }
   ]
 }
