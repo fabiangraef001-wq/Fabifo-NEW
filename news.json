@@ -1,92 +1,94 @@
 {
-  "updated": "2026-11-09T13:43+00:00",
+  "updated": "2026-11-10T13:21+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 26093.7,
+      "value": 26579.3,
       "unit": "Pkt.",
-      "change_pct": 1.06,
+      "change_pct": 1.19,
       "history": [
-        25818.2,
         25981.1,
         25864.6,
         26437.7,
         26325.0,
         25820.4,
-        26093.7
+        26267.2,
+        26579.3
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 26990.0,
+      "value": 27907.6,
       "unit": "Pkt.",
-      "change_pct": 1.35,
+      "change_pct": 3.4,
       "history": [
-        29402.5,
         28384.8,
         27989.8,
         28180.3,
         28437.2,
         26629.8,
-        26990.0
+        26990.0,
+        27907.6
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7376.9,
+      "value": 7549.9,
       "unit": "Pkt.",
-      "change_pct": 0.32,
+      "change_pct": 2.35,
       "history": [
-        7720.4,
         7580.1,
         7541.4,
         7568.9,
         7688.6,
         7353.7,
-        7376.9
+        7376.9,
+        7549.9
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 94.4,
+      "value": 89.9,
       "unit": "$",
-      "change_pct": -3.97,
+      "change_pct": -2.92,
       "history": [
         104.8,
         103.6,
         94.6,
         98.3,
         98.3,
-        94.4
+        92.6,
+        89.9
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4133.7,
+      "value": 4085.2,
       "unit": "$",
-      "change_pct": 1.44,
+      "change_pct": -0.71,
       "history": [
         3969.6,
         3940.4,
         4073.0,
         4113.5,
         4074.9,
-        4133.7
+        4114.5,
+        4085.2
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1196,
+      "value": 1.1213,
       "unit": "",
-      "change_pct": -0.29,
+      "change_pct": 0.59,
       "history": [
-        1.1183,
         1.1157,
         1.1192,
         1.1207,
         1.1235,
         1.1228,
-        1.1196
+        1.1147,
+        1.1213
       ]
     },
     "fed_rate": {
@@ -106,139 +108,164 @@
   },
   "ticker_relevant": [
     "dax",
-    "brent"
+    "brent",
+    "eurusd"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
-    "text": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html"
+    "title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
+    "text": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
+    "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Commerzbank-Übernahme soll Anfang 2027 durch sein",
-        "text": "Noch diesen Monat könnte die UniCredit die letzten Genehmigungen für die Commerzbank-Übernahme erhalten. Auch die Fusion von Commerzbank und der HypoVereinsbank läuft wohl schneller als gedacht.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html"
+        "title": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
+        "text": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Aigner soll Bundespräsidentin werden: \"Meine Sprache wird klar sein und verständlich\"",
-        "text": "Eine Bundespräsidentin \"mit Würde und Herz\": Kanzler Merz sieht Ilse Aigner als genau richtige Kandidatin. Die 61-Jährige zeigte sich bewegt von der Nominierung - und machte klar, wofür sie steht: eine Politik der Mitte.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html"
+        "title": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
+        "text": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
+        "link": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Das ist der Weg zum neuen Staatsoberhaupt",
-        "text": "Es soll eine Frau werden - und sie kommt aus der CSU: Ilse Aigner wäre in mehrfacher Hinsicht eine Premiere für Deutschland. Aber gewählt ist das neue Staatsoberhaupt noch nicht. Wer wählt da überhaupt und könnte es noch weitere Kandidaten geben?",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html"
+        "title": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
+        "text": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz. Von A. John.",
+        "link": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Mindestens 20 Tote bei Schiffsunglücken vor Kreta",
-        "text": "Sie brachen in Libyen auf und zahlten Tausende Euro für die Überfahrt Richtung EU: Bei mehreren Bootsunglücken sind in den vergangenen Tagen mindestens 20 Menschen ums Leben gekommen.",
-        "link": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html"
+        "title": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
+        "text": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
+        "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: Anleger nach KI-Crash weiter verunsichert",
-        "text": "Der DAX macht zwar einen Teil der Kursverluste vom Freitag wieder wett, aber noch scheuen die Investoren das Risiko. Unterstützung kommt von Konjunkturseite, die Exporte fallen unerwartet stark aus.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html"
+        "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
+        "text": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Schneider fordert Alternative zur Plastiksteuer",
-        "text": "\"Die Plastiksteuer machen wir nicht.\" Die Ansage von Unionsfraktionschef Frei war klar und deutlich - doch mit den Einnahmen daraus wird schon geplant. Umweltminister Schneider sieht jetzt die Union in der Pflicht.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html"
+        "title": "Neun Männer in Manchester angeklagt - Auslöser sind NDR-Recherchen",
+        "text": "Gegen neun Männer läuft in Manchester ein großer Gerichtsprozess. Sie sollen Sexualstraftaten an einer bewusstlosen Frau begangen haben. Ausgelöst wurden die Ermittlungen durch noch unveröffentlichte NDR-Recherchen. Von I. Ströh und I. Beer.",
+        "link": "https://www.tagesschau.de/ausland/europa/manchester-prozess-sexualstraftaten-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Erste Übung der multinationalen Truppe für die Ukraine startet",
-        "text": "Etwa 2.800 Soldaten aus elf Ländern üben nicht weit von der ukrainischen Grenze entfernt. Eines Tages könnte die multinationale Truppe in der Ukraine einen Frieden sichern. Deutschland unterstützt das Manöver mit Transportflugzeugen.",
-        "link": "https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html"
+        "title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
+        "text": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Trump bezeichnet Sprecher-Angebot an Dana White als \"Scherz\"",
-        "text": "US-Präsident Trump ist weiter auf der Suche nach einem Pressesprecher. Mit dem Boss der Kampfsportliga UFC hatte er einen ungewöhnlichen Kandidaten genannt - jetzt spricht er von einem \"Scherz\".",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html"
+        "title": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
+        "text": "Unterhändler Russlands und der Ukraine haben ihre Gespräche unter US-Vermittlung in Abu Dhabi aufgenommen. Was wollen die Kriegsparteien? Welche Interessen haben die USA? Und welche Rolle haben die Europäer?",
+        "link": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html"
       },
       {
         "source": "Tagesschau",
-        "title": "G7-Außenminister sprechen über Ukraine und Iran",
-        "text": "Welche Rolle spielt Europa bei der Lösung des Ukraine-Kriegs? Wie geht es mit Iran weiter? Diese Fragen stehen im Zentrum der G7-Gespräche in Paris. Außenminister Wadephul mahnt Washington und Moskau.",
-        "link": "https://www.tagesschau.de/ausland/europa/g7-paris-100.html"
+        "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
+        "text": "Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Untersuchung gegen Nvidia-Chef Huang wegen möglicher Spionin aus China",
-        "text": "Der KI-Chip-Gigant Nvidia hat nach Berichten über einen Spionageverdacht eine Untersuchung gegen seinen Gründer und Konzernchef Jensen Huang eingeleitet. Er soll eine Affäre mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-spionage-pruefung-100.html"
+        "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
+        "text": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
+        "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Überschwemmungen in Gaza schüren Sorge vor neuer Katastrophe",
-        "text": "Starker Regen hat Teile des Gazastreifens überschwemmt. Laut dem Gesundheitsminister haben eine Million Vertriebene kein Dach mehr über dem Kopf. Hilfsorganisationen befürchten eine humanitäre Katastrophe. Von J.-C. Kitzler.",
-        "link": "https://www.tagesschau.de/ausland/asien/gaza-regenfaelle-humanitaere-lage-100.html"
+        "title": "Israels neu gewähltes Parlament kommt erstmals zusammen",
+        "text": "Nach der Wahl tritt Israels neues Parlament heute erstmals zusammen - inmitten der schwierigen Regierungsbildung. Netanjahu-Rivale Eisenkot hat dafür den Auftrag erhalten. Er hält auch eine Minderheitsregierung für möglich.",
+        "link": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Amsterdam: Zehntausende demonstrieren gegen Israels Gaza-Politik",
-        "text": "Amsterdam ist erneut Schauplatz einer Großdemonstration gegen das israelische Vorgehen im Gazastreifen geworden. Der Protest verlief laut Polizei friedlich. Ministerpräsident Jetten war dieses Mal nicht dabei.",
-        "link": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html"
+        "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
+        "text": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Speech by Commissioner Kos at the first High-Level Connectivity Platform Meeting on Digital",
-        "text": "European Commission Speech Chișinău, 09 Nov 2026 Speech by Commissioner Kos at the first High-Level Connectivity Platform Meeting on Digital to advances digital connectivity along the Middle Corridor",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2380"
+        "title": "Daily News 10 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 10 Nov 2026 Commission greenlights final payment requests from Estonia and Luxembourg under NextGenerationEU for €190.6 million and €59 million respectively\nToday, the Euro...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2394"
       },
       {
         "source": "EU-Kommission",
-        "title": "Daily News 09 / 11 / 2026",
-        "text": "European Commission Daily news Brussels, 09 Nov 2026 Annual renewal 2027 for EU-accredited media professionals\nThe renewal of the annual accreditations is open. All media representatives who are based in Belgium a...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2378"
+        "title": "Statement by President von der Leyen with Bulgarian Prime Minister Radev",
+        "text": "European Commission Statement Varna, 10 Nov 2026 Dear Prime Minister,\nDear Rumen,\nI also want to express my deepest condolences to the victims of the multiple cars crash, the wounded, their families, but also ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2392"
       },
       {
         "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
-        "text": "European Commission Statement Brussels, 09 Nov 2026 Thank you, Kyriakos. Good afternoon, everyone.\nLet me begin on the economic outlook.\nWhile growth data has been more positive this year than previously expected...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2375"
+        "title": "Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean",
+        "text": "European Commission Press release Brussels, 10 Nov 2026 One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2391"
       },
       {
         "source": "EU-Kommission",
-        "title": "Erklärung von Präsidentin von der Leyen im Anschluss ihr Telefonat mit Präsident Selenskyj und im Vorfeld ihres Besuchs im Schwarzmeerraum in Rumänien und Bulgarien",
-        "text": "European Commission Erklärung Brussels, 09 Nov 2026 Heute beginne ich eine Reise in den Schwarzmeerraum, wo die Sicherheitslage immer bedrohlicher wird, die Angriffe zunehmen und unschuldige Menschen ihr Leben ve...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2374"
+        "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+        "text": "European Commission Statement Abu Dhabi, 10 Nov 2026 Ahead of the upcoming trilateral discussions with Russia, representatives of the European partners, Ukraine and the United States met to continue their close co...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390"
       },
       {
         "source": "EU-Kommission",
-        "title": "EU-Emissionen sinken weiter, da saubere Energie an Boden gewinnt",
-        "text": "European Commission Pressemitteilung Brussels, 09 Nov 2026 Die Europäische Kommission hat heute den Fortschrittsbericht 2026 über die Klimapolitik der EU und den Bericht über den CO2-Markt veröffentlicht, aus denen hervorgeht, dass die Treibhausgasemissionen in der EU weiter zurü",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2343"
+        "title": "Kommission gibt grünes Licht für Abschlusszahlungsantrag Luxemburgs in Höhe von 59 Mio. EUR im Rahmen von NextGenerationEU",
+        "text": "European Commission Pressemitteilung Brussels, 10 Nov 2026 Die Europäische Kommission hat heute den vierten und letzten Zahlungsantrag Luxemburgs in Höhe von 59 Mio. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, positiv bewertet.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2388"
       },
       {
         "source": "EU-Kommission",
-        "title": "Speech by Commissioner Hoekstra at the 22nd Athens Tax Forum",
-        "text": "European Commission Speech Athens, 06 Nov 2026 Ladies and Gentlemen,\nA very good morning to all of you.\nIt's a great pleasure to be back in beautiful Greece and to be here today at the 22nd Athens Tax Forum ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2370"
+        "title": "Kommission gibt grünes Licht für Estlands Antrag auf Abschlusszahlung in Höhe von 190,6 Mio. EUR im Rahmen von NextGenerationEU",
+        "text": "European Commission Pressemitteilung Brussels, 10 Nov 2026 Die Europäische Kommission hat heute den fünften und letzten Zahlungsantrag Estlands in Höhe von 190,6 Mio. EUR im Rahmen der Aufbau- und Resilienzfazilität (ARF), dem Kernstück von NextGenerationEU, grünes Licht gegeben.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2387"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Hoffen auf Ende des Iran-Krieges: Ölpreise deutlich gesunken",
-        "text": "Noch ist kein Abkommen unterzeichnet - doch Anleger glauben an ein Ende des US-Iran-Krieges. Das zeigt sich an den Ölpreisen. Und auch an der Tankstelle sinken die Spritpreise weiter.",
-        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html"
+        "title": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
+        "text": "Die Kauflaune der Anleger hält an: Die Erholungsrally treibt den DAX wieder zurück in die Nähe seines Rekords. Die sinkenden Ölpreise locken die Investoren in den Markt, auch die Zahlen von Infineon gefallen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
+        "text": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX erholt sich kräftig",
+        "text": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nvidia-Affäre lässt Aktie einbrechen",
+        "text": "Die mutmaßliche Spionageaffäre um Nvidia-Chef Huang trifft den Chiphersteller und die gesamte KI-Branche zu einem äußerst ungünstigen Zeitpunkt. Wie es weitergeht, müssen nun Fakten entscheiden. Von D. Landmesser.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Weniger staatliche Transparenz: Dobrindts Pläne sind „Angriff auf die Pressefreiheit“",
+      "text": "Alexander Dobrindt (CSU) im Bierzelt in Gillamoos bei der Arbeit.    –   Alle Rechte vorbehalten: IMAGO / Wolfgang Maria WeberEs gibt breiten Widerstand zu den Plänen des Innenministers, die Informationsfreiheit zu beschneiden. Die Journalismus-Gewerkschaft dju spricht von einem ",
+      "link": "https://netzpolitik.org/2026/weniger-staatliche-transparenz-dobrindts-plaene-sind-angriff-auf-die-pressefreiheit/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Trainingsvideos für Verhaltensanalyse: Für die Überwachungs-KI gibt es nie genug Gewalt",
@@ -268,12 +295,6 @@
       "title": "“Too Fast, Too Big”: Activists Across Europe Challenge Data Center Rush",
       "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Vienna and other European cities, activists took to the streets on Friday to protest against data centers. The first pan-European action of its kind also drew protesters in Berlin. D",
       "link": "https://netzpolitik.org/2026/too-fast-too-big-activists-across-europe-challenge-data-center-rush/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Rabbit-Hole-Effekt: EU-Kommission hält TikTok-Feed für schädlich",
-      "text": "Ein trauriges Video führt zum nächsten – so kann es auf TikTok schnell abwärts gehen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Benoit BeaumatinTikToks Empfehlungssystem kann Nutzer:innen schaden, hat die EU-Kommission heute vorläufig festgestellt. Der personalisi",
-      "link": "https://netzpolitik.org/2026/rabbit-hole-effekt-eu-kommission-haelt-tiktok-feed-fuer-schaedlich/"
     }
   ]
 }
