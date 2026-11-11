@@ -1,0 +1,300 @@
+{
+  "updated": "2026-11-11T12:33+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 26530.8,
+      "unit": "Pkt.",
+      "change_pct": 0.7,
+      "history": [
+        25864.6,
+        26437.7,
+        26325.0,
+        25820.4,
+        26267.2,
+        26347.4,
+        26530.8
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 27740.8,
+      "unit": "Pkt.",
+      "change_pct": -0.6,
+      "history": [
+        27989.8,
+        28180.3,
+        28437.2,
+        26629.8,
+        26990.0,
+        27907.6,
+        27740.8
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7520.9,
+      "unit": "Pkt.",
+      "change_pct": -0.38,
+      "history": [
+        7541.4,
+        7568.9,
+        7688.6,
+        7353.7,
+        7376.9,
+        7549.9,
+        7520.9
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 93.2,
+      "unit": "$",
+      "change_pct": 1.86,
+      "history": [
+        103.6,
+        94.6,
+        98.3,
+        98.3,
+        92.6,
+        91.5,
+        93.2
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 4052.6,
+      "unit": "$",
+      "change_pct": 0.56,
+      "history": [
+        3940.4,
+        4073.0,
+        4113.5,
+        4074.9,
+        4114.5,
+        4030.2,
+        4052.6
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1137,
+      "unit": "",
+      "change_pct": -0.76,
+      "history": [
+        1.1192,
+        1.1207,
+        1.1235,
+        1.1228,
+        1.1147,
+        1.1222,
+        1.1137
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent",
+    "eurusd"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+    "text": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+        "text": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wenn Klimaschutz überfordert",
+        "text": "Vielen Menschen ist das Thema Klimaschutz wichtig - das zumindest zeigen Umfragen. Doch häufig werden Maßnahmen, die die Umwelt schützen sollen, abgelehnt. Wie passt das zusammen? Von Magdalena Schmude.",
+        "link": "https://www.tagesschau.de/wissen/klima/klimaschutz-212.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+        "text": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Dunkelfeldstudie bei der Bundeswehr - Viele Fälle von sexualisiertem Fehlverhalten",
+        "text": "Einer Untersuchung zufolge ist sexualisiertes Fehlverhalten in der Bundeswehr weiter verbreitet als bislang bekannt - am häufigsten betroffen sind Soldatinnen. Recherchen von WDR, NDR und SZ geben Einblick in konkrete Fälle.",
+        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-sexuelle-belaestigung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Profite von Rüstungskonzernen - Linke will Übergewinne besteuern",
+        "text": "Die Linke fordert eine Übergewinnsteuer für Rüstungskonzerne angesichts stark gestiegener Gewinne durch höhere Verteidigungsausgaben. Wie wirksam wäre das? Von Alexander Budweg.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/linke-uebergewinne-ruestungskonzerne-steuer-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
+        "text": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
+        "text": "In Abu Dhabi gehen die von den USA vermittelten Gespräche über ein Ende des Kriegs gegen die Ukraine weiter. Auch die Europäer sind vor Ort, doch die russische Delegation zeigt wenig Interesse an einem Austausch.",
+        "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+        "text": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmid.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+        "text": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+        "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+        "text": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+        "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wadephul warnt Iran vor hybriden Angriffen",
+        "text": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
+        "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
+        "text": "Russland und die Ukraine stehen unter großem Zeitdruck, sagt der Militärexperte Markus Reisner. Doch ohne Zugeständnisse werde es keinen Erfolg bei den Verhandlungen geben. Wichtig seien auch mögliche Gespräche über eine neue Sicherheitsordnung.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Executive Vice-President Virkkunen and Commissioner McGrath on the Digital Fairness Act and a Consumer enforcement initiative",
+        "text": "European Commission Speech Brussels, 11 Nov 2026 Executive Vice-President Virkkunen\nGood morning, and welcome to the college readout. Today we present the Consumer Package.\nThis package has two proposals: the ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2412"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 11 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 11 Nov 2026 Commission to advance Ukraine's recovery, reconstruction, and modernisation at EU-Ukraine Investment Conference\nOn 12 and 13 November, the European Commission, ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2411"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission stärkt Verbraucherschutzgesetze und macht sie fit für das digitale Zeitalter",
+        "text": "European Commission Pressemitteilung Brussels, 11 Nov 2026 Die Europäische Kommission hat heute ihren Vorschlag für ein Gesetz über digitale Fairness vorgelegt – eine umfassende Aktualisierung der EU-Verbraucherschutzvorschriften, um sicherzustellen, dass die Verbraucher in der E",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2407"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Fragen und Antworten zum Verbraucherpaket",
+        "text": "European Commission Fragen und Antworten Brussels, 11 Nov 2026 Wie werden die Vorschläge den Unternehmen zugutekommen und mit der Vereinfachungsagenda in Einklang stehen?Die vorgeschlagenen Maßnahmen werden EU-weit für klar...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2408"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Bringing the current MFF to a successful close: agreement on the final Annual Budget *",
+        "text": "European Commission Press release Brussels, 11 Nov 2026 The Commission welcomes the agreement reached last evening between the European Parliament and the Council of the European Union on the annual EU budget 2027.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2385"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Questions and answers on the agreement on the EU Annual Budget 2027",
+        "text": "European Commission Questions and answers Brussels, 11 Nov 2026 Full overview of the Annual Budget 2027:\nIn the Annual Budget 2027 the following amounts will be allocated to the various EU priorities (in commitments):\n\n€53.8...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2386"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "\"Tankrabatt\" drückt Inflation im Oktober",
+        "text": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der \"Tankrabatt\" zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder mehr.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX macht sich wieder nach oben auf",
+        "text": "Zur Wochenmitte hat der DAX seine Rekordjagd wieder aufgenommen. Neue Zuversicht im Technologiesektor stützt die Kurse. Besonders gut kommen die Zahlen von Siemens Energy an.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Der DAX wird zurückgepfiffen",
+        "text": "Zeitweise hatte der DAX heute die Verluste wegen des KI-Crashs am Freitag vollständig aufgeholt. Unter anderem neue Details zur Nvidia-Affäre bremsten den Aufwärtsdrang dann aber empfindlich.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+        "text": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "GovTech Deutschland: Gut vernetzt, schlecht durchleuchtet",
+      "text": "Ammar Alkassar, im Vorstand von GovTech Deutschland, will Deutschlandplattform groß machen.    –   Alle Rechte vorbehalten: IMAGO / BeckerBredelSchon lange ist GovTech Deutschland gut für Gossip: Öffentliche Aufträge werden ohne Ausschreibung vergeben und mit der Deutschlandplatt",
+      "link": "https://netzpolitik.org/2026/govtech-deutschland-gut-vernetzt-schlecht-durchleuchtet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI-Infrastruktur und Politik: Die neuen Powerplayer bei Meta",
+      "text": "Die neue Meta-Präsidentin Dina Powell McCormick hat beste Kontakte zu Republikanern: Im September war sie beim Friedensinstitut von Donald Trump zu Gast.    –   Alle Rechte vorbehalten: UPI PhotoIm Wettrennen um KI-Infrastruktur will der Tech-Konzern Meta keine Zeit verlieren. Do",
+      "link": "https://netzpolitik.org/2026/ki-infrastruktur-und-politik-die-neuen-powerplayer-bei-meta/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "EU-Studie: Bei Online-Werbung versagt die europäische Tech-Regulierung",
+      "text": "Auf dem Markt der Online-Werbung gewinnen nur die Mittelsmänner.    –   Alle Rechte vorbehalten: Erik McleanDer Milliardenmarkt der Online-Werbung schadet nicht nur Verbraucher:innen, sondern auch Werbetreibenden und Publishern. Europäische Digitalgesetze bekommen die Probleme ni",
+      "link": "https://netzpolitik.org/2026/eu-studie-bei-online-werbung-versagt-die-europaeische-tech-regulierung/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Racial Profiling: Polizei durchsucht in Frankfurt migrantisch gelesene Personen",
+      "text": "Schon am 1. November kontrollierte die Polizei zahlreiche Personen. Diese Kontrollen setzt sie nun seit Tagen fort.    –   Alle Rechte vorbehalten: IMAGO / 7aktuell - Verpixelung: netzpolitik.orgDie Frankfurter Polizei kontrolliert offenbar gezielt migrantisch gelesene junge Männ",
+      "link": "https://netzpolitik.org/2026/racial-profiling-polizei-durchsucht-in-frankfurt-migrantisch-gelesene-personen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Kurz vor Bundestagsabstimmung: An welchen Stellen Union und SPD die Geheimdienstreform ausbauen",
+      "text": "Der Bundesnachrichtendienst in Berlin: Nicht so transparent wie er scheint.    –   Alle Rechte vorbehalten: Sabine Gudath / ImagoDie Regierungsfraktionen legen bei der Geheimdienstreform nach. So soll der Verfassungsschutz die organisierte Kriminalität ins Visier nehmen können, w",
+      "link": "https://netzpolitik.org/2026/kurz-vor-bundestagsabstimmung-an-welchen-stellen-union-und-spd-die-geheimdienstreform-ausbauen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Aktionstage zu Rechenzentren: Gegen KI, Kapitalismus und Umweltzerstörung",
+      "text": "Protestierende klettern auf das Dach eines im Bau befindlichen Microsoft-Rechenzentrums in Amsterdam.    –   Alle Rechte vorbehalten: Stop Dirty Data CentresAm vergangenen Wochenende protestierten Aktivist:innen in ganz Europa gegen den Rechenzentrums-Boom. Die beteiligten Gruppe",
+      "link": "https://netzpolitik.org/2026/aktionstage-zu-rechenzentren-gegen-ki-kapitalismus-und-umweltzerstoerung/"
+    }
+  ]
+}

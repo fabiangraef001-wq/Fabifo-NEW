@@ -1,94 +1,94 @@
 {
-  "updated": "2026-11-10T13:21+00:00",
+  "updated": "2026-11-11T12:33+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 26579.3,
+      "value": 26530.8,
       "unit": "Pkt.",
-      "change_pct": 1.19,
+      "change_pct": 0.7,
       "history": [
-        25981.1,
         25864.6,
         26437.7,
         26325.0,
         25820.4,
         26267.2,
-        26579.3
+        26347.4,
+        26530.8
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 27907.6,
+      "value": 27740.8,
       "unit": "Pkt.",
-      "change_pct": 3.4,
+      "change_pct": -0.6,
       "history": [
-        28384.8,
         27989.8,
         28180.3,
         28437.2,
         26629.8,
         26990.0,
-        27907.6
+        27907.6,
+        27740.8
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7549.9,
+      "value": 7520.9,
       "unit": "Pkt.",
-      "change_pct": 2.35,
+      "change_pct": -0.38,
       "history": [
-        7580.1,
         7541.4,
         7568.9,
         7688.6,
         7353.7,
         7376.9,
-        7549.9
+        7549.9,
+        7520.9
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 89.9,
+      "value": 93.2,
       "unit": "$",
-      "change_pct": -2.92,
+      "change_pct": 1.86,
       "history": [
-        104.8,
         103.6,
         94.6,
         98.3,
         98.3,
         92.6,
-        89.9
+        91.5,
+        93.2
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 4085.2,
+      "value": 4052.6,
       "unit": "$",
-      "change_pct": -0.71,
+      "change_pct": 0.56,
       "history": [
-        3969.6,
         3940.4,
         4073.0,
         4113.5,
         4074.9,
         4114.5,
-        4085.2
+        4030.2,
+        4052.6
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.1213,
+      "value": 1.1137,
       "unit": "",
-      "change_pct": 0.59,
+      "change_pct": -0.76,
       "history": [
-        1.1157,
         1.1192,
         1.1207,
         1.1235,
         1.1228,
         1.1147,
-        1.1213
+        1.1222,
+        1.1137
       ]
     },
     "fed_rate": {
@@ -113,188 +113,188 @@
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-    "text": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
-    "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html"
+    "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+    "text": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Bund will offenbar E-Auto-Prämie um 917 Millionen Euro aufstocken",
-        "text": "Sie soll Menschen mit niedrigem oder mittlerem Einkommen den Umstieg erleichtern: Und tatsächlich ist die E-Auto-Prämie des Bundes ein voller Erfolg. Daher soll sie im kommenden Jahr noch mal um mehr als 900 Millionen aufgestockt werden.",
-        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html"
+        "title": "EKD-Synode in Würzburg: Wie die Kirche Demokratie stärken will",
+        "text": "Gegen Menschenfeindlichkeit: Die evangelische Kirche will die Demokratie stärken, mit Bildungsarbeit und Begegnungsräumen, vor allem auf dem Land. Das hat die Synode in Würzburg beschlossen. Doch Geld und Personal werden knapper. Von C. Wölfel.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/ekd-synode-122.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Australien will nach Hackerangriff strengere Regeln für KI-Firmen",
-        "text": "Ein KI-Sicherheitsvorfall hat kürzlich einen Schock in Australien ausgelöst - jetzt reagiert die Regierung: Die Regeln für KI-Entwickler sollen verschärft werden. Auch im Strafrecht werden Änderungen geprüft.",
-        "link": "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html"
+        "title": "Wenn Klimaschutz überfordert",
+        "text": "Vielen Menschen ist das Thema Klimaschutz wichtig - das zumindest zeigen Umfragen. Doch häufig werden Maßnahmen, die die Umwelt schützen sollen, abgelehnt. Wie passt das zusammen? Von Magdalena Schmude.",
+        "link": "https://www.tagesschau.de/wissen/klima/klimaschutz-212.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Maschinenbau will mit Künstlicher Intelligenz aus der Krise",
-        "text": "Der deutsche Maschinenbau steckt in seinem vierten Krisenjahr. Die Branche leidet unter hohen Energiekosten und zu viel Bürokratie. Beim Maschinenbaugipfel gibt es aber auch Hoffnungssignale - etwa die Künstliche Intelligenz. Von A. John.",
-        "link": "https://www.tagesschau.de/wirtschaft/technologie/maschinenbauer-boom-kuenstliche-intelligenz-100.html"
+        "title": "Pistorius pocht auf \"null Toleranz\" gegenüber sexualisiertem Fehlverhalten in Bundeswehr",
+        "text": "Angesichts der hohen Zahl an Fällen von sexualisiertem Fehlverhalten bei der Bundeswehr will Verteidigungsminister Pistorius mit \"null Toleranz\" dagegen vorgehen. Unter anderem durch bessere Prävention und eine externe Anlaufstelle für Betroffene.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-dunkelfeldstudie-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Viele deutsche Unternehmen bauen die KI-Infrastruktur mit auf",
-        "text": "US-Tech-Giganten investieren Milliarden in Künstliche Intelligenz. Anleger werden vorsichtiger mit Blick auf die Kosten. Warum deutsche und europäische Unternehmen davon profitieren könnten. Von Bianca von der Au.",
-        "link": "https://www.tagesschau.de/wirtschaft/technologie/ki-milliarden-investitionen-profiteure-100.html"
+        "title": "Dunkelfeldstudie bei der Bundeswehr - Viele Fälle von sexualisiertem Fehlverhalten",
+        "text": "Einer Untersuchung zufolge ist sexualisiertes Fehlverhalten in der Bundeswehr weiter verbreitet als bislang bekannt - am häufigsten betroffen sind Soldatinnen. Recherchen von WDR, NDR und SZ geben Einblick in konkrete Fälle.",
+        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/bundeswehr-sexuelle-belaestigung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Sportvereine in Deutschland haben so viele Mitglieder wie noch nie",
-        "text": "Die deutschen Sportvereine haben so viele Mitglieder wie noch nie. In allen Bundesländern sind die Zahlen nach oben gegangen. Fußball bleibt unangefochten an der Spitze - andere Sportarten haben Mitglieder verloren.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/sportvereine-mitglieder-102.html"
+        "title": "Profite von Rüstungskonzernen - Linke will Übergewinne besteuern",
+        "text": "Die Linke fordert eine Übergewinnsteuer für Rüstungskonzerne angesichts stark gestiegener Gewinne durch höhere Verteidigungsausgaben. Wie wirksam wäre das? Von Alexander Budweg.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/linke-uebergewinne-ruestungskonzerne-steuer-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Neun Männer in Manchester angeklagt - Auslöser sind NDR-Recherchen",
-        "text": "Gegen neun Männer läuft in Manchester ein großer Gerichtsprozess. Sie sollen Sexualstraftaten an einer bewusstlosen Frau begangen haben. Ausgelöst wurden die Ermittlungen durch noch unveröffentlichte NDR-Recherchen. Von I. Ströh und I. Beer.",
-        "link": "https://www.tagesschau.de/ausland/europa/manchester-prozess-sexualstraftaten-100.html"
+        "title": "Boom bei Windkraft und Rechenzentren beschert Siemens Energy Rekordjahr",
+        "text": "Der Hype um Künstliche Intelligenz, E-Mobilität und Digitalisierung beschert Siemens Energy ein Rekordjahr. Und das soll nach Prognose des Energietechnik-Konzerns so weitergehen.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Masernkrise in den USA: Mehr Verunsicherung, mehr Infektionen",
-        "text": "Die USA erleben den größten Masernausbruch seit Jahrzehnten - auch weil der Gesundheitsminister widersprüchliche Botschaften zur Impfung verbreitet. Noch in dieser Woche könnte das Land den Status \"masernfrei\" verlieren. Von Anne Schneider.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html"
+        "title": "Ukraine-Verhandlungen: Russland plant kein Treffen mit Europäern",
+        "text": "In Abu Dhabi gehen die von den USA vermittelten Gespräche über ein Ende des Kriegs gegen die Ukraine weiter. Auch die Europäer sind vor Ort, doch die russische Delegation zeigt wenig Interesse an einem Austausch.",
+        "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-abu-dhabi-eu-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Was von den Ukraine-Gesprächen in Abu Dhabi zu erwarten ist",
-        "text": "Unterhändler Russlands und der Ukraine haben ihre Gespräche unter US-Vermittlung in Abu Dhabi aufgenommen. Was wollen die Kriegsparteien? Welche Interessen haben die USA? Und welche Rolle haben die Europäer?",
-        "link": "https://www.tagesschau.de/ausland/asien/ukraine-verhandlungen-abu-dhabi-104.html"
+        "title": "\"Digital Fairness Act\": Neue EU-Regeln für Influencer und Onlineshops?",
+        "text": "Die EU-Kommission legt heute einen Vorschlag für mehr Verbraucherschutz im Netz vor. Das Gesetz soll die Regeln für Werbung sowie Algorithmen verschärfen und nimmt Influencer, Onlineshops und Ticketverkäufer ins Visier. Von K. Schmid.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Chinas Handelsüberschuss überschreitet erneut die Billionenmarke",
-        "text": "Peking setzt weiter voll auf Export - und knackt auch dank umstrittener Subventionen erneut eine Rekordmarke: Der Handelsüberschuss von mehr als einer Billion Dollar wurde vor allem durch Technologiegüter und Elektroautos erzielt.",
-        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-export-handel-100.html"
+        "title": "Zahl der Kriegsdienstverweigerer steigt weiter deutlich",
+        "text": "Der Wehrdienst bleibt weiterhin freiwillig. Die Musterung bei Männern ist allerdings verpflichtend. Die Zahl der Kriegsdienstverweigerungen steigt in diesem Jahr deutlich an.",
+        "link": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Verhandlungen in Abu Dhabi über Ende des Ukraine-Krieges haben begonnen",
-        "text": "In Abu Dhabi haben die Gespräche über ein Ende des Krieges in der Ukraine begonnen. Zuletzt hatte US-Präsident Trump eine \"große Übereinkunft\" versprochen. Aber was meinte er damit? Und was hieße das für Europa? Von Carsten Kühntopp.",
-        "link": "https://www.tagesschau.de/ausland/amerika/dreiergespraeche-usa-russland-ukraine-100.html"
+        "title": "Erster Tag der Ukraine-Gespräche: Keine Ergebnisse, aber Hoffnung für Gefangene",
+        "text": "Der erste Tag der Gespräche zwischen Russland und der Ukraine in Abu Dhabi ist ohne offizielles Ergebnis zu Ende gegangen. Medien berichten aber von einem geplanten Gefangenenaustausch. Eine Waffenruhe scheint dagegen in weiter Ferne.",
+        "link": "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Israels neu gewähltes Parlament kommt erstmals zusammen",
-        "text": "Nach der Wahl tritt Israels neues Parlament heute erstmals zusammen - inmitten der schwierigen Regierungsbildung. Netanjahu-Rivale Eisenkot hat dafür den Auftrag erhalten. Er hält auch eine Minderheitsregierung für möglich.",
-        "link": "https://www.tagesschau.de/ausland/asien/knesset-eisenkot-regierung-100.html"
+        "title": "Wadephul warnt Iran vor hybriden Angriffen",
+        "text": "Frankreich sieht Iran hinter den Cyberangriffen auf Kühlanlagen - doch das Land dementiert. Die deutschen Behörden haben sich noch nicht festgelegt, Außenminister Wadephul warnte Teheran nun aber vor hybriden Attacken.",
+        "link": "https://www.tagesschau.de/ausland/wadephul-iran-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Gespräche in Abu Dhabi: Gedämpfte Erwartungen der Ukraine",
-        "text": "Heute beginnen trilaterale Verhandlungen in Abu Dhabi. Können die Gespräche mit den USA und Russland einen echten Frieden bringen - oder führen sie zu einer Schwächung der Ukraine? Die Erwartungen in der Ukraine sind gering. Von F. Kellermann.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html"
+        "title": "Ukraine-Verhandlungen: \"Beide Seiten stehen unter enormem Zugzwang\"",
+        "text": "Russland und die Ukraine stehen unter großem Zeitdruck, sagt der Militärexperte Markus Reisner. Doch ohne Zugeständnisse werde es keinen Erfolg bei den Verhandlungen geben. Wichtig seien auch mögliche Gespräche über eine neue Sicherheitsordnung.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Daily News 10 / 11 / 2026",
-        "text": "European Commission Daily news Brussels, 10 Nov 2026 Commission greenlights final payment requests from Estonia and Luxembourg under NextGenerationEU for €190.6 million and €59 million respectively\nToday, the Euro...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2394"
+        "title": "Remarks by Executive Vice-President Virkkunen and Commissioner McGrath on the Digital Fairness Act and a Consumer enforcement initiative",
+        "text": "European Commission Speech Brussels, 11 Nov 2026 Executive Vice-President Virkkunen\nGood morning, and welcome to the college readout. Today we present the Consumer Package.\nThis package has two proposals: the ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2412"
       },
       {
         "source": "EU-Kommission",
-        "title": "Statement by President von der Leyen with Bulgarian Prime Minister Radev",
-        "text": "European Commission Statement Varna, 10 Nov 2026 Dear Prime Minister,\nDear Rumen,\nI also want to express my deepest condolences to the victims of the multiple cars crash, the wounded, their families, but also ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2392"
+        "title": "Daily News 11 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 11 Nov 2026 Commission to advance Ukraine's recovery, reconstruction, and modernisation at EU-Ukraine Investment Conference\nOn 12 and 13 November, the European Commission, ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2411"
       },
       {
         "source": "EU-Kommission",
-        "title": "Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean",
-        "text": "European Commission Press release Brussels, 10 Nov 2026 One year after its launch, the Pact for the Mediterranean is delivering concrete benefits and new opportunities for citizens, businesses and communities on all shores of our shared sea.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2391"
+        "title": "Kommission stärkt Verbraucherschutzgesetze und macht sie fit für das digitale Zeitalter",
+        "text": "European Commission Pressemitteilung Brussels, 11 Nov 2026 Die Europäische Kommission hat heute ihren Vorschlag für ein Gesetz über digitale Fairness vorgelegt – eine umfassende Aktualisierung der EU-Verbraucherschutzvorschriften, um sicherzustellen, dass die Verbraucher in der E",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2407"
       },
       {
         "source": "EU-Kommission",
-        "title": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
-        "text": "European Commission Statement Abu Dhabi, 10 Nov 2026 Ahead of the upcoming trilateral discussions with Russia, representatives of the European partners, Ukraine and the United States met to continue their close co...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2390"
+        "title": "Fragen und Antworten zum Verbraucherpaket",
+        "text": "European Commission Fragen und Antworten Brussels, 11 Nov 2026 Wie werden die Vorschläge den Unternehmen zugutekommen und mit der Vereinfachungsagenda in Einklang stehen?Die vorgeschlagenen Maßnahmen werden EU-weit für klar...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/qanda_26_2408"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission gibt grünes Licht für Abschlusszahlungsantrag Luxemburgs in Höhe von 59 Mio. EUR im Rahmen von NextGenerationEU",
-        "text": "European Commission Pressemitteilung Brussels, 10 Nov 2026 Die Europäische Kommission hat heute den vierten und letzten Zahlungsantrag Luxemburgs in Höhe von 59 Mio. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, positiv bewertet.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2388"
+        "title": "Bringing the current MFF to a successful close: agreement on the final Annual Budget *",
+        "text": "European Commission Press release Brussels, 11 Nov 2026 The Commission welcomes the agreement reached last evening between the European Parliament and the Council of the European Union on the annual EU budget 2027.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2385"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission gibt grünes Licht für Estlands Antrag auf Abschlusszahlung in Höhe von 190,6 Mio. EUR im Rahmen von NextGenerationEU",
-        "text": "European Commission Pressemitteilung Brussels, 10 Nov 2026 Die Europäische Kommission hat heute den fünften und letzten Zahlungsantrag Estlands in Höhe von 190,6 Mio. EUR im Rahmen der Aufbau- und Resilienzfazilität (ARF), dem Kernstück von NextGenerationEU, grünes Licht gegeben.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2387"
+        "title": "Questions and answers on the agreement on the EU Annual Budget 2027",
+        "text": "European Commission Questions and answers Brussels, 11 Nov 2026 Full overview of the Annual Budget 2027:\nIn the Annual Budget 2027 the following amounts will be allocated to the various EU priorities (in commitments):\n\n€53.8...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2386"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: Kursverluste nach KI-Crash fast aufgeholt",
-        "text": "Die Kauflaune der Anleger hält an: Die Erholungsrally treibt den DAX wieder zurück in die Nähe seines Rekords. Die sinkenden Ölpreise locken die Investoren in den Markt, auch die Zahlen von Infineon gefallen.",
+        "title": "\"Tankrabatt\" drückt Inflation im Oktober",
+        "text": "Die Teuerungsrate ist im Oktober in Deutschland zurückgegangen. Der \"Tankrabatt\" zeigt offenbar Wirkung. Energie - vor allem Heizöl - bleibt aber teuer. Und auch einige Lebensmittel kosten wieder mehr.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/inflation-tankrabatt-spritpreise-oktober-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX macht sich wieder nach oben auf",
+        "text": "Zur Wochenmitte hat der DAX seine Rekordjagd wieder aufgenommen. Neue Zuversicht im Technologiesektor stützt die Kurse. Besonders gut kommen die Zahlen von Siemens Energy an.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Der DAX wird zurückgepfiffen",
+        "text": "Zeitweise hatte der DAX heute die Verluste wegen des KI-Crashs am Freitag vollständig aufgeholt. Unter anderem neue Details zur Nvidia-Affäre bremsten den Aufwärtsdrang dann aber empfindlich.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Gesetz gegen überhöhte Preise: Deckel für Ticketbörsen in der Planung",
-        "text": "Extreme Preisaufschläge beim Weiterverkauf von Tickets - das möchte Justiz- und Verbraucherschutzministerin Hubig in Zukunft unterbinden. Dafür ist ein Gesetz nun in der internen Abstimmung.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Marktbericht: DAX erholt sich kräftig",
-        "text": "Der deutsche Aktienmarkt ist stark in die neue Woche gestartet. Während große Fragezeichen über der Technologiebranche bleiben, kam heute Entlastung von anderer Seite.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Nvidia-Affäre lässt Aktie einbrechen",
-        "text": "Die mutmaßliche Spionageaffäre um Nvidia-Chef Huang trifft den Chiphersteller und die gesamte KI-Branche zu einem äußerst ungünstigen Zeitpunkt. Wie es weitergeht, müssen nun Fakten entscheiden. Von D. Landmesser.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html"
+        "title": "Anthropic peilt Börsen-Bewertung von über einer Billion Dollar an",
+        "text": "Das KI-Unternehmen Anthropic hat Details seiner Börsenpläne veröffentlicht. Was die Aktien kosten sollen und wie viel Geld der US-Konzern damit erlösen will - trotz wachsender Zweifel an der Rentabilität der Branche.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html"
       }
     ]
   },
   "independent": [
     {
       "source": "netzpolitik.org",
-      "title": "Weniger staatliche Transparenz: Dobrindts Pläne sind „Angriff auf die Pressefreiheit“",
-      "text": "Alexander Dobrindt (CSU) im Bierzelt in Gillamoos bei der Arbeit.    –   Alle Rechte vorbehalten: IMAGO / Wolfgang Maria WeberEs gibt breiten Widerstand zu den Plänen des Innenministers, die Informationsfreiheit zu beschneiden. Die Journalismus-Gewerkschaft dju spricht von einem ",
-      "link": "https://netzpolitik.org/2026/weniger-staatliche-transparenz-dobrindts-plaene-sind-angriff-auf-die-pressefreiheit/"
+      "title": "GovTech Deutschland: Gut vernetzt, schlecht durchleuchtet",
+      "text": "Ammar Alkassar, im Vorstand von GovTech Deutschland, will Deutschlandplattform groß machen.    –   Alle Rechte vorbehalten: IMAGO / BeckerBredelSchon lange ist GovTech Deutschland gut für Gossip: Öffentliche Aufträge werden ohne Ausschreibung vergeben und mit der Deutschlandplatt",
+      "link": "https://netzpolitik.org/2026/govtech-deutschland-gut-vernetzt-schlecht-durchleuchtet/"
     },
     {
       "source": "netzpolitik.org",
-      "title": "Trainingsvideos für Verhaltensanalyse: Für die Überwachungs-KI gibt es nie genug Gewalt",
-      "text": "Anhand von solchen Bildern soll die Überwachungssoftware lernen, wie Gewalt aussieht.    –   Gemeinfrei: KI-generiert, Screenshot von staige.comDer Berliner Verhaltensscanner wird mit KI-Videos trainiert. Für die Qualität der Software ist das eine Herausforderung. Um sie zu verbe",
-      "link": "https://netzpolitik.org/2026/trainingsvideos-fuer-verhaltensanalyse-fuer-die-ueberwachungs-ki-gibt-es-nie-genug-gewalt/"
+      "title": "KI-Infrastruktur und Politik: Die neuen Powerplayer bei Meta",
+      "text": "Die neue Meta-Präsidentin Dina Powell McCormick hat beste Kontakte zu Republikanern: Im September war sie beim Friedensinstitut von Donald Trump zu Gast.    –   Alle Rechte vorbehalten: UPI PhotoIm Wettrennen um KI-Infrastruktur will der Tech-Konzern Meta keine Zeit verlieren. Do",
+      "link": "https://netzpolitik.org/2026/ki-infrastruktur-und-politik-die-neuen-powerplayer-bei-meta/"
     },
     {
       "source": "netzpolitik.org",
-      "title": "Degitalisierung: Agilität",
-      "text": "\"Hauptsache schnell\" ist das Motto aktueller KI-Entwicklung.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Jorgen HendriksenDeutschland soll beim KI-Ausbau schneller werden, dafür braucht es angeblich Deregulierung und agiles Vorgehen. Derartige Agilität haben 17 Soft",
-      "link": "https://netzpolitik.org/2026/degitalisierung-agilitaet/"
+      "title": "EU-Studie: Bei Online-Werbung versagt die europäische Tech-Regulierung",
+      "text": "Auf dem Markt der Online-Werbung gewinnen nur die Mittelsmänner.    –   Alle Rechte vorbehalten: Erik McleanDer Milliardenmarkt der Online-Werbung schadet nicht nur Verbraucher:innen, sondern auch Werbetreibenden und Publishern. Europäische Digitalgesetze bekommen die Probleme ni",
+      "link": "https://netzpolitik.org/2026/eu-studie-bei-online-werbung-versagt-die-europaeische-tech-regulierung/"
     },
     {
       "source": "netzpolitik.org",
-      "title": "KW 45: Die Woche, in der die Welt gegen Rechenzentren aufbegehrte",
-      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 45. Kalenderwoche geht zu Ende. Wir haben 21 neue Texte mit insgesamt 128.008 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
-      "link": "https://netzpolitik.org/2026/kw-45-die-woche-in-der-die-welt-gegen-rechenzentren-aufbegehrte/"
+      "title": "Racial Profiling: Polizei durchsucht in Frankfurt migrantisch gelesene Personen",
+      "text": "Schon am 1. November kontrollierte die Polizei zahlreiche Personen. Diese Kontrollen setzt sie nun seit Tagen fort.    –   Alle Rechte vorbehalten: IMAGO / 7aktuell - Verpixelung: netzpolitik.orgDie Frankfurter Polizei kontrolliert offenbar gezielt migrantisch gelesene junge Männ",
+      "link": "https://netzpolitik.org/2026/racial-profiling-polizei-durchsucht-in-frankfurt-migrantisch-gelesene-personen/"
     },
     {
       "source": "netzpolitik.org",
-      "title": "„Zu schnell, zu groß“: Protestierende in ganz Europa kämpfen gegen den Rechenzentrums-Boom",
-      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Wien und anderen europäischen Städten gingen Aktivist*innen auf die Straße, um gegen Rechenzentren zu protestieren. Die erste europaweite Aktion dieser Art zog auch in Berlin Demonst",
-      "link": "https://netzpolitik.org/2026/zu-schnell-zu-gross-protestierende-in-ganz-europa-kaempfen-gegen-den-rechenzentrums-boom/"
+      "title": "Kurz vor Bundestagsabstimmung: An welchen Stellen Union und SPD die Geheimdienstreform ausbauen",
+      "text": "Der Bundesnachrichtendienst in Berlin: Nicht so transparent wie er scheint.    –   Alle Rechte vorbehalten: Sabine Gudath / ImagoDie Regierungsfraktionen legen bei der Geheimdienstreform nach. So soll der Verfassungsschutz die organisierte Kriminalität ins Visier nehmen können, w",
+      "link": "https://netzpolitik.org/2026/kurz-vor-bundestagsabstimmung-an-welchen-stellen-union-und-spd-die-geheimdienstreform-ausbauen/"
     },
     {
       "source": "netzpolitik.org",
-      "title": "“Too Fast, Too Big”: Activists Across Europe Challenge Data Center Rush",
-      "text": "Protest gegen Rechenzentren in Berlin.    –   : Press release of the protestIn London, Amsterdam, Vienna and other European cities, activists took to the streets on Friday to protest against data centers. The first pan-European action of its kind also drew protesters in Berlin. D",
-      "link": "https://netzpolitik.org/2026/too-fast-too-big-activists-across-europe-challenge-data-center-rush/"
+      "title": "Aktionstage zu Rechenzentren: Gegen KI, Kapitalismus und Umweltzerstörung",
+      "text": "Protestierende klettern auf das Dach eines im Bau befindlichen Microsoft-Rechenzentrums in Amsterdam.    –   Alle Rechte vorbehalten: Stop Dirty Data CentresAm vergangenen Wochenende protestierten Aktivist:innen in ganz Europa gegen den Rechenzentrums-Boom. Die beteiligten Gruppe",
+      "link": "https://netzpolitik.org/2026/aktionstage-zu-rechenzentren-gegen-ki-kapitalismus-und-umweltzerstoerung/"
     }
   ]
 }

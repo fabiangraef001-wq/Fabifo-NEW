@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:21+00:00",
+  "updated": "2026-11-11T12:33+00:00",
   "etfs": [
     {
       "name": "L&G Gerd Kommer Multifactor",
@@ -10,16 +10,16 @@
       "category": "Welt (Multifaktor)",
       "distribution": "thesaurierend",
       "key": "gerd",
-      "price": 15.1,
-      "change_pct": 0.27,
+      "price": 15.24,
+      "change_pct": 1.6,
       "history": [
-        15.13,
         15.0,
         15.17,
         14.93,
         14.89,
         15.06,
-        15.1
+        15.0,
+        15.24
       ]
     },
     {
@@ -31,16 +31,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "vwce",
-      "price": 167.98,
-      "change_pct": 0.33,
+      "price": 169.88,
+      "change_pct": 1.35,
       "history": [
-        169.38,
         168.06,
         169.86,
         165.98,
         165.84,
         167.42,
-        167.98
+        167.62,
+        169.88
       ]
     },
     {
@@ -52,16 +52,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "eunl",
-      "price": 128.96,
-      "change_pct": 0.4,
+      "price": 130.15,
+      "change_pct": 1.17,
       "history": [
-        129.93,
         128.98,
         130.48,
         127.79,
         127.32,
         128.45,
-        128.96
+        128.65,
+        130.15
       ]
     },
     {
@@ -73,16 +73,16 @@
       "category": "Welt",
       "distribution": "thesaurierend",
       "key": "xmwo",
-      "price": 141.2,
-      "change_pct": 0.36,
+      "price": 142.49,
+      "change_pct": 1.19,
       "history": [
-        142.2,
         141.2,
         142.79,
         139.78,
         139.3,
         140.7,
-        141.2
+        140.82,
+        142.49
       ]
     },
     {
@@ -94,16 +94,16 @@
       "category": "Thema (Tech)",
       "distribution": "thesaurierend",
       "key": "xaix",
-      "price": 197.74,
-      "change_pct": 0.23,
+      "price": 202.1,
+      "change_pct": 2.32,
       "history": [
-        204.75,
         201.6,
         203.45,
         194.4,
         194.82,
         197.28,
-        197.74
+        197.52,
+        202.1
       ]
     },
     {
@@ -115,16 +115,16 @@
       "category": "USA",
       "distribution": "thesaurierend",
       "key": "sxr8",
-      "price": 727.26,
-      "change_pct": 0.38,
+      "price": 735.56,
+      "change_pct": 1.31,
       "history": [
-        735.36,
         730.28,
         738.44,
         719.88,
         719.16,
         724.52,
-        727.26
+        726.06,
+        735.56
       ]
     },
     {
@@ -136,16 +136,16 @@
       "category": "Schwellenländer",
       "distribution": "thesaurierend",
       "key": "is3n",
-      "price": 44.5,
-      "change_pct": 0.11,
+      "price": 45.71,
+      "change_pct": 2.6,
       "history": [
-        45.39,
         44.72,
         45.06,
         43.35,
         43.85,
         44.45,
-        44.5
+        44.55,
+        45.71
       ]
     },
     {
@@ -157,16 +157,16 @@
       "category": "USA Tech",
       "distribution": "ausschüttend",
       "key": "eqqq",
-      "price": 606.4,
-      "change_pct": 0.18,
+      "price": 620.5,
+      "change_pct": 2.27,
       "history": [
-        623.4,
         615.4,
         619.8,
         592.7,
         596.1,
         605.3,
-        606.4
+        606.7,
+        620.5
       ]
     },
     {
@@ -178,16 +178,16 @@
       "category": "Rohstoffe",
       "distribution": "-",
       "key": "gold",
-      "price": 116.9,
-      "change_pct": -1.09,
+      "price": 116.83,
+      "change_pct": 0.66,
       "history": [
-        113.92,
         112.9,
         116.0,
         117.92,
         117.1,
         118.19,
-        116.9
+        116.06,
+        116.83
       ]
     }
   ],
@@ -197,13 +197,14 @@
       "ticker": "BTCE.DE",
       "category": "Krypto",
       "key": "bitcoin",
-      "price": 58.0,
-      "change_pct": -1.26,
+      "price": 58.25,
+      "change_pct": 1.55,
       "history": [
         60.06,
         59.69,
         58.74,
-        58.0
+        57.36,
+        58.25
       ]
     },
     {
@@ -211,16 +212,16 @@
       "ticker": "RHM.DE",
       "category": "Aktie",
       "key": "rheinmetall",
-      "price": 866.8,
-      "change_pct": 2.53,
+      "price": 823.6,
+      "change_pct": -3.48,
       "history": [
-        1000.0,
         1004.8,
         1003.4,
         841.5,
         812.7,
         845.4,
-        866.8
+        853.3,
+        823.6
       ]
     },
     {
@@ -229,16 +230,16 @@
       "category": "Aktie",
       "currency": "$",
       "key": "nvidia",
-      "price": 178.67,
-      "change_pct": -4.27,
+      "price": 168.89,
+      "change_pct": -5.47,
       "history": [
-        204.64,
         202.06,
         206.69,
         200.13,
         181.6,
         186.64,
-        178.67
+        178.67,
+        168.89
       ]
     }
   ]
