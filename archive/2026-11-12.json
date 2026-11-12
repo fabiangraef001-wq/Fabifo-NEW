@@ -1,0 +1,292 @@
+{
+  "updated": "2026-11-12T13:37+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 26735.6,
+      "unit": "Pkt.",
+      "change_pct": 0.27,
+      "history": [
+        26437.7,
+        26325.0,
+        25820.4,
+        26267.2,
+        26347.4,
+        26662.8,
+        26735.6
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 28374.2,
+      "unit": "Pkt.",
+      "change_pct": 2.28,
+      "history": [
+        28180.3,
+        28437.2,
+        26629.8,
+        26990.0,
+        27907.6,
+        27740.8,
+        28374.2
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7619.4,
+      "unit": "Pkt.",
+      "change_pct": 1.31,
+      "history": [
+        7568.9,
+        7688.6,
+        7353.7,
+        7376.9,
+        7549.9,
+        7520.9,
+        7619.4
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 93.8,
+      "unit": "$",
+      "change_pct": 1.08,
+      "history": [
+        94.6,
+        98.3,
+        98.3,
+        92.6,
+        91.5,
+        92.8,
+        93.8
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3916.1,
+      "unit": "$",
+      "change_pct": -2.11,
+      "history": [
+        4073.0,
+        4113.5,
+        4074.9,
+        4114.5,
+        4030.2,
+        4000.5,
+        3916.1
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1086,
+      "unit": "",
+      "change_pct": -0.74,
+      "history": [
+        1.1207,
+        1.1235,
+        1.1228,
+        1.1147,
+        1.1222,
+        1.1169,
+        1.1086
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "DAX auf Rekordhoch - Anleger vertrauen deutscher Wachstumsstory",
+    "text": "Die Hoffnung auf Frieden im Nahen Osten und gute Geschäftsaussichten der deutschen Unternehmen überzeugen viele Anleger. Manche Analysten sehen das als Nährboden für eine Jahresend-Rally beim DAX.",
+    "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "EPG-Treffen in Irland: Europa will mit an den Tisch",
+        "text": "Kurze Gespräche und viel Diplomatie: Beim Treffen der Europäischen Politischen Gemeinschaft geht es heute um die Nachbereitung der Ukraine-Gespräche in Abu Dhabi und Moskau. Mit dabei: Selenskyj und der US-Sondergesandte Witkoff. Von S. López.",
+        "link": "https://www.tagesschau.de/ausland/europa/irland-europaeische-gemeinschaft-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Neuausrichtung der Bundeszentrale für politische Bildung sorgt für Streit",
+        "text": "Die Bundeszentrale für politische Bildung ist bekannt für den Wahl-O-Mat, Bildungsveranstaltungen und Info-Broschüren. Auf Weisung des Innenministeriums richtet sie sich neu aus. Doch darüber ist jetzt ein Streit ausgebrochen. Von D. K. Mäurer.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bundeszentrale-fuer-politische-bildung-ausrichtung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Keine Senkung der Stromsteuer: Bei der Union \"hat es ordentlich geknallt\"",
+        "text": "Die Senkung der Stromsteuer wird nun vermutlich doch nicht kommen - trotz anderslautender Versprechen. Bei der Union will man das noch nicht akzeptieren. Und die Opposition nimmt sich Kanzler Merz vor.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-kompromisse-stromsteuer-reaktionen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Warum immer mehr Menschen in die Schuldenfalle rutschen",
+        "text": "Die Zahl überschuldeter Menschen in Deutschland steigt im zweiten Jahr in Folge. Auslöser einer finanziellen Notlage sind häufig Krankheit, Sucht, Unfälle oder Arbeitslosigkeit. Betroffen sind vor allem Jüngere.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Jugendlicher überlebt sechs Tage im australischen Outback",
+        "text": "Fast eine Woche haben 100 Einsatzkräfte im australischen Busch nach einem vermissten Teenager gesucht. Jetzt wurde er aus der Luft entdeckt - lebend, nur mit ein paar Kratzern und Sonnenbrand.",
+        "link": "https://www.tagesschau.de/ausland/australien-teenager-wildnis-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Warum Minister beim Haushalt lieber pünktlich sind",
+        "text": "Beim Haushalt 2027 sind noch viele Baustellen offen. Meist bis in die frühen Morgenstunden feilt der Haushaltsausschuss am Etat. Für die Minister gilt: Pünktlichkeit ist essenziell, sonst drohen Abzüge, sagt Ausschussvorsitzende Paus. Von P. Eckstein.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-bereinigungssitzung-finanzen-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Polen scheitert vor EuGH mit Klagen gegen EU-Klimapaket",
+        "text": "Die \"Fit for 55\" genannten Klimaregeln sollen Europa bis Mitte des Jahrhunderts klimaneutral machen. Polen war gegen das Gesetzespaket aus dem Jahr 2023 mit sieben Klagen vorgegangen - alle wurden nun vom Europäischen Gerichtshof abgewiesen.",
+        "link": "https://www.tagesschau.de/ausland/europa/eugh-polen-klage-eu-klimapaket-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Warum Filme aus Südkorea in Europa und den USA so gut ankommen",
+        "text": "Der südkoreanische Kinomarkt ist der fünftgrößte der Welt - und die Filme aus dem Land werden meist auch in Europa oder und den USA gefeiert. Jüngstes Beispiel: \"Possible Love\" gilt als einer der besten des Jahres. Von Ferdinand Meyen.",
+        "link": "https://www.tagesschau.de/kultur/suedkorea-kino-erfolge-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Angriff auf Krankenhaus mit sechs Toten galt laut Israel Hamas",
+        "text": "Bei einem Angriff Israels auf eine Klinik in Gaza sind nach Behördenangaben sechs Menschen gestorben. Laut Israel nutzte die Hamas die Gebäude als Kommando- und Folterzentrum. Ein Mitglied der Terrororganisation sei Ziel des Angriffs gewesen.",
+        "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-krankenhaus-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Trumps Unterhändler fordern von Putin Beteiligung Europas",
+        "text": "Bei den Gesprächen über die Zukunft der Ukraine in Abu Dhabi saßen die Europäer nicht mit am Tisch. Nun besuchen die US-Gesandten Moskau - nach eigenen Worten, um Putin von einer Beteiligung Europas zu überzeugen.",
+        "link": "https://www.tagesschau.de/ausland/europa/witkoff-kushner-putin-ukraine-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "11KM-Podcast: Israel und das Westjordanland - weitere Gewalt oder neue Hoffnung?",
+        "text": "Während in Israel Oppositionsführer Eisenkot eine neue Regierung bilden soll, hält die Gewalt im Westjordanland weiter an. 11KM fragt, ob sich daran bald etwas ändern könnte.",
+        "link": "https://www.tagesschau.de/podcast-11km-israel-westjordanland-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "\"Sicherheitsordnung\": Warum übernehmen die USA Russlands Forderung?",
+        "text": "Russland sieht Gespräche über eine \"Sicherheitsordnung\" für Europa vor allem als Mittel, seinen Einfluss über den Kontinent auszuweiten, sagt die Politikexpertin Jana Puglierin. Nun hätten sich die USA auf diese Logik eingelassen.",
+        "link": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Doorstep by President von der Leyen at the meeting of the European Political Community in Dublin",
+        "text": "European Commission Statement Dublin, 12 Nov 2026 I am very much looking forward to the EPC and the informal European Council here in Dublin. We will discuss many topics, but we will also on the sidelines discu...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2421"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 12 / 11 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 12 Nov 2026 Kommission prüft Europäische Bürgerinitiative zur Aussetzung des Assoziierungsabkommens EU-IsraelDie Europäische Bürgerinitiative (EBI) mit dem Titel „Forderung...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2420"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU und Australien vertiefen Wissenschafts- und Innovationsbeziehungen zum Horizont-Europa-Abkommen",
+        "text": "European Commission Pressemitteilung Brussels, 12 Nov 2026 Die Europäische Union und Australien haben ein Abkommen unterzeichnet, das australischen Forschern und Organisationen den Weg ebnet, sich an Projekten im Rahmen von Horizont Europa, dem Vorzeigeprogramm der EU für Forschu",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2418"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Kadis at the Plenary Session of the Organisation of African, Caribbean and Pacific States-European Union",
+        "text": "European Commission Speech Brussels, 11 Nov 2026 Ladies and Gentlemen,\nIt is an honour to join you for closing this session of the Organisation of African, Caribbean and Pacific States and EU Joint Parliamenta...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2417"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "President von der Leyen travels to Black Sea region and reaffirms EU's solidarity with Romania and Bulgaria in ‘testing times'",
+        "text": "European Commission News Brussels, 11 Nov 2026 \nPresident of the Commission Ursula von der Leyen was in Romania and Bulgaria on 9 and 10 November on a visit to the Black Sea region to reiterate the Commissio...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ac_26_2416"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Albuquerque at the Latvijas Banka's Economic Conference 2026: From policy to Impact",
+        "text": "European Commission Speech Riga, 11 Nov 2026 Good morning, ladies and gentlemen.\nLet me begin with a word of thanks to our hosts at Latvijas Banka and to Mārtiņš for inviting me to speak here today.\nI'd al...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2414"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "DAX auf Rekordhoch - Anleger vertrauen deutscher Wachstumsstory",
+        "text": "Die Hoffnung auf Frieden im Nahen Osten und gute Geschäftsaussichten der deutschen Unternehmen überzeugen viele Anleger. Manche Analysten sehen das als Nährboden für eine Jahresend-Rally beim DAX.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-rekord-siemens-ki-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX knackt 27.000 Punkte-Marke",
+        "text": "An der Börse kann sich die Stimmung schnell drehen: Nach dem KI-Crash von vergangener Woche springt der DAX heute gleich zum Handelsstart wieder auf ein Rekordhoch. Zeitweise erreicht er sogar die Marke von 27.000 Punkten.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX pirscht sich ans Rekordhoch heran",
+        "text": "Im Handelsverlauf hatte es ausgesehen, als würde dem DAX die Luft ausgehen. Doch dann endet der Handelstag mit einem Index nahe am Rekordhoch. Die Wirtschaftsweisen schüren Optimismus, zudem treten die KI-Sorgen in den Hintergrund.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Psychisch-Kranken-Gesetz in Schleswig-Holstein: Polizei soll bei angenommener Fremdgefährdung informiert werden",
+      "text": "Wer erfährt, wenn jemand aus einer Klinik entlassen wird?    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: ArphyNach Hessen will auch Schleswig-Holstein die Polizei darüber informieren, wenn bestimmte Patient:innen die Psychiatrie verlassen – über den Umweg der Kreise. E",
+      "link": "https://netzpolitik.org/2026/psychisch-kranken-gesetz-in-schleswig-holstein-polizei-soll-bei-angenommener-fremdgefaehrdung-informiert-werden/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digital Fairness Act: Eine verpasste Chance",
+      "text": "Um ein paar mehr Schuhe und Diätdrinks zu verkaufen, hat die Online-Werbe-Industrie den größten Überwachungsapparat der Geschichte erbaut.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Ali Khanian / Bearbeitung: netzpolitik.orgStatt mit dem Gesetz für digitale Fairnes",
+      "link": "https://netzpolitik.org/2026/digital-fairness-act-eine-verpasste-chance/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Gesetz zur digitalen Fairness: Wie die EU Verbraucher im Internet schützen will",
+      "text": "Alle Lücken geschlossen? Mit dem neuen Gesetz will die Kommission ihr \"Sicherheitsnetz\" anpassen.    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Wyxina TresseDas Ende von Abo-Fallen und anderen manipulativen Tricks in der Online-Welt verspricht die EU-Kommission mit ih",
+      "link": "https://netzpolitik.org/2026/gesetz-zur-digitalen-fairness-wie-die-eu-verbraucher-im-internet-schuetzen-will/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "GovTech Deutschland: Gut vernetzt, schlecht durchleuchtet",
+      "text": "Ammar Alkassar, im Vorstand von GovTech Deutschland, will Deutschlandplattform groß machen.    –   Alle Rechte vorbehalten: IMAGO / BeckerBredelSchon lange ist GovTech Deutschland gut für Gossip: Öffentliche Aufträge werden ohne Ausschreibung vergeben und mit der Deutschlandplatt",
+      "link": "https://netzpolitik.org/2026/govtech-deutschland-gut-vernetzt-schlecht-durchleuchtet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI-Infrastruktur und Politik: Die neuen Powerplayer bei Meta",
+      "text": "Die neue Meta-Präsidentin Dina Powell McCormick hat beste Kontakte zu Republikanern: Im September war sie beim Friedensinstitut von Donald Trump zu Gast.    –   Alle Rechte vorbehalten: UPI PhotoIm Wettrennen um KI-Infrastruktur will der Tech-Konzern Meta keine Zeit verlieren. Do",
+      "link": "https://netzpolitik.org/2026/ki-infrastruktur-und-politik-die-neuen-powerplayer-bei-meta/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "EU-Studie: Bei Online-Werbung versagt die europäische Tech-Regulierung",
+      "text": "Auf dem Markt der Online-Werbung gewinnen nur die Mittelsmänner.    –   Alle Rechte vorbehalten: Erik McleanDer Milliardenmarkt der Online-Werbung schadet nicht nur Verbraucher:innen, sondern auch Werbetreibenden und Publishern. Europäische Digitalgesetze bekommen die Probleme ni",
+      "link": "https://netzpolitik.org/2026/eu-studie-bei-online-werbung-versagt-die-europaeische-tech-regulierung/"
+    }
+  ]
+}
