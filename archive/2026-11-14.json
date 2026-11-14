@@ -1,0 +1,280 @@
+{
+  "updated": "2026-11-14T11:59+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 26749.9,
+      "unit": "Pkt.",
+      "change_pct": -0.08,
+      "history": [
+        26325.0,
+        25820.4,
+        26267.2,
+        26347.4,
+        26662.8,
+        26771.9,
+        26749.9
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 27943.7,
+      "unit": "Pkt.",
+      "change_pct": -1.22,
+      "history": [
+        26629.8,
+        26990.0,
+        27907.6,
+        27740.8,
+        28374.2,
+        28289.2,
+        27943.7
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7561.7,
+      "unit": "Pkt.",
+      "change_pct": -0.4,
+      "history": [
+        7353.7,
+        7376.9,
+        7549.9,
+        7520.9,
+        7619.4,
+        7592.4,
+        7561.7
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 95.8,
+      "unit": "$",
+      "change_pct": 0.0,
+      "history": [
+        98.3,
+        98.3,
+        92.6,
+        91.5,
+        92.8,
+        95.8,
+        95.8
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3886.3,
+      "unit": "$",
+      "change_pct": 0.03,
+      "history": [
+        4113.5,
+        4074.9,
+        4114.5,
+        4030.2,
+        4000.5,
+        3885.3,
+        3886.3
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.105,
+      "unit": "",
+      "change_pct": -0.41,
+      "history": [
+        1.1235,
+        1.1228,
+        1.1147,
+        1.1222,
+        1.1169,
+        1.1095,
+        1.105
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+    "text": "In München haben zahlreiche Menschen am Trauerakt für den bayerischen Vize-Ministerpräsidenten und Freie-Wähler-Chef Aiwanger teilgenommen. Kardinal Marx sprach von einem \"Schock\". Er würdigte Aiwanger als \"außergewöhnliche Persönlichkeit\".",
+    "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Trauerakt in München: Große Anteilnahme bei Abschied von Aiwanger",
+        "text": "In München haben zahlreiche Menschen am Trauerakt für den bayerischen Vize-Ministerpräsidenten und Freie-Wähler-Chef Aiwanger teilgenommen. Kardinal Marx sprach von einem \"Schock\". Er würdigte Aiwanger als \"außergewöhnliche Persönlichkeit\".",
+        "link": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Microsoft: Systeme nach Störung komplett wiederhergestellt",
+        "text": "Probleme bei Microsoft hatten zentrale Cloud-Dienste stundenlang lahmgelegt - Unternehmen und Verbraucher weltweit waren betroffen. Laut Microsoft laufen nun alle Systeme wieder. Hinweise auf böswillige Aktivitäten gebe es nicht.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Bahn zieht positive Bilanz zu Alkoholverbot an Bahnhöfen",
+        "text": "Seit einem Monat ist bundesweit der Konsum von Alkohol an Bahnhöfen untersagt. Die Deutsche Bahn zeigt sich in einer ersten Bilanz zufrieden. Weniger Müll, weniger Konflikte - die Situation habe sich für Reisende und Mitarbeitende verbessert.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Kassenärzte-Chef erwartet mehr Selbstzahler-Termine für gesetzlich Versicherte",
+        "text": "Wer längere Wartezeiten als gesetzlich Versicherter vermeiden will, muss künftig Behandlungen auch aus der eigenen Tasche zahlen - so die Einschätzung des Kassenärzte-Chefs. Grund seien die kürzlich beschlossenen Honorarkürzungen.",
+        "link": "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Warum in Polen schneller gebaut wird als in Deutschland",
+        "text": "Wird in Polen eine neue Straße oder Brücke errichtet, geht es deutlich schneller als westlich der Oder in Deutschland. Fachleuten zufolge gibt es dafür mehrere Gründe. Von Andre Kartschall und Jakub Paczkowski.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Keine Priorität für Klimaschutz in der Koalition",
+        "text": "Deutschland wird die selbst gesteckten Klimaziele für 2030 und 2040 verfehlen. Umwelt- und Naturschutzverbände werfen vor allem Kanzler Merz und Wirtschaftsministerin Reiche einen Rollback beim Klimaschutz vor. Von Susanne Henn.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
+        "text": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.",
+        "link": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Vorübergehendes Startverbot in den USA: \"Unglaublich veraltetes Flugsicherungssystem\"",
+        "text": "Stundenlang durften in den USA keine Flugzeuge starten. Die Regierung macht veraltete Technik verantwortlich. Mittlerweile ist das Verbot wieder aufgehoben - doch wann sich der Flugverkehr normalisieren wird, ist unklar. Von Nina Barth.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Die USA sind bei der COP31 nicht dabei - aber dennoch präsent",
+        "text": "Die US-Regierung fehlt nach dem Ausstieg aus dem Pariser Klimaabkommen erneut auf dem Klimagipfel. Dennoch sind viele Politiker aus den USA in Antalya. Sie setzen weiter auf das Geschäft mit erneuerbaren Energien. Von Jakob Mayr.",
+        "link": "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Putin und Xi an",
+        "text": "Es wäre das erste Dreiertreffen der Staatschefs der USA, Russlands und Chinas. Laut Weißem Haus soll es beim kommenden Apec-Gipfel in Shenzhen stattfinden. Hauptthema: der Abbau von Atomwaffen. Auch der Iran-Krieg könnte zur Sprache kommen.",
+        "link": "https://www.tagesschau.de/ausland/amerika/treffen-trump-putin-xi-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "US-Flusskreuzfahrtschiff kentert nach Zusammenprall in New Orleans",
+        "text": "Das Flusskreuzfahrtschiff \"American Heritage\" ist im Hafen der US-Stadt New Orleans gekentert. Zuvor war es von einem Tanker gerammt worden. An Bord des Schiffes befanden sich mehr als 130 Menschen. Vermisst wird niemand.",
+        "link": "https://www.tagesschau.de/ausland/kreuzfahrtschiff-unfall-new-orleans-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU einigt sich auf europäisches Team für Ukraine-Verhandlungen",
+        "text": "Lange wurde diskutiert, wer Europa bei Gesprächen mit Russland über ein Ende des Kriegs gegen die Ukraine vertreten soll. Nun gibt es eine Einigung: Das Team bilden Vertreter der EU-Institutionen und aus fünf Ländern - darunter auch Deutschland.",
+        "link": "https://www.tagesschau.de/ausland/eu-vertreter-ukraine-gespraeche-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen auf der gemeinsamen Pressekonferenz mit Präsident Costa im Anschluss an die informelle Tagung des Europäischen Rates im November 2026",
+        "text": "European Commission Erklärung Dublin, 13 Nov 2026 Zunächst möchte ich Ihnen, sehr geehrter Taoiseach, lieber Micheál, für die großartige Gastfreundschaft und die wunderbare Atmosphäre danken, in der wir die ver...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2441"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Kos at the opening of 30 Years of Transparency International Switzerland",
+        "text": "European Commission Rede Brussels, 13 Nov 2026 „Helping the good guys win“ – Wie der EU-Beitrittsprozess Gesellschaften stärkt \nIm Juni war ich mit meinem Team auf dem Weg nach Moldau und in die Ukraine.\nBei...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2439"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commissioner Roswall's address at the Circular Valley Forum",
+        "text": "European Commission Speech Düsseldorf, 13 Nov 2026 Ministers, Mayor, Ladies and gentlemen, dear guests,\nGuten morgen to you all.\nI am delighted to be here in Wuppertal.\nThis city – and this region – have long be...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2437"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 13 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 13 Nov 2026 COP31 enters second week with the EU driving global climate action\nThe EU continues pushing for accelerated global climate action at the COP31 UN Climate Change...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2434"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Doorstep by President von der Leyen ahead of the informal meeting of the European Council of 13 November",
+        "text": "European Commission Statement Dublin, 13 Nov 2026 Today, we are going to discuss AI. It is going to be very interesting. Of course, we are going to discuss the risks, like, for example, runaway AI, but also the...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2431"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission übermittelt PPC ergänzende Mitteilung der Beschwerdepunkte wegen Verdrängungspreisen auf dem griechischen Stromgroßhandelsmarkt",
+        "text": "European Commission Pressemitteilung Brussels, 13 Nov 2026 Die Europäische Kommission hat heute eine ergänzende Mitteilung der Beschwerdepunkte an den griechischen Stromversorger Public Power Corporation S.A. (PPC) gerichtet.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2422"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
+        "text": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 46: Die Woche, in der wir Richtung Geheimpolizei gehen",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 46. Kalenderwoche geht zu Ende. Wir haben 19 neue Texte mit insgesamt 136.513 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-46-die-woche-in-der-wir-richtung-geheimpolizei-gehen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Amazon Ring rüstet auf: Endlich autonome Drohnen für die Heimüberwachung!",
+      "text": "Ist sie nicht schön?  Die neue autonome Überwachungsdrohne von Amazon.    –   Alle Rechte vorbehalten: AmazonAutonome Drohnen fliegen nicht nur für das Militär. Sie sind jetzt sogar für den Heimgebrauch zur Überwachung verfügbar. Das ist leider keine Meldung zum 1. April, sondern",
+      "link": "https://netzpolitik.org/2026/amazon-ring-ruestet-auf-endlich-autonome-drohnen-fuer-die-heimueberwachung/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Geheimdienstreform: Das ist keine Sicherheit",
+      "text": "Wir dürfen uns von dieser Sicherheitspolitik nicht blenden lassen (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Chris Emil JanßenBND und Verfassungsschutz haben künftig mehr Befugnisse. Aber um uns sicherer zu machen, reicht das nicht aus – ganz im Gegenteil. Ein Kommentar",
+      "link": "https://netzpolitik.org/2026/geheimdienstreform-das-ist-keine-sicherheit/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Bundeshaushalt: Bund verschleiert KI-Ausgaben",
+      "text": "Die Ausgaben für Künstliche Intelligenz im Haushalt sind intransparent, ähnlich wie die KI-Strategie von Digitalminister Wildberger.    –   Alle Rechte vorbehalten: Jens Oellermann / BMDSDie KI-Taskforce des Bundes soll Deutschland bis 2030 zur KI-Nation machen. Wie Digitalminist",
+      "link": "https://netzpolitik.org/2026/bundeshaushalt-bund-verschleiert-ki-ausgaben/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Analyse des Koalitionsvertrages: Automatisierte Datenanalyse kommt auch in Mecklenburg-Vorpommern",
+      "text": "Sehr viel SPD, wenig links und grün im Koalitionsvertrag. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Wolfgang Maria WeberDer Koalitionsvertrag der rot-rot-grünen Regierung in MV enthält viel Digitales und Netzpolitisches. Trotz der Absage an den Palantir-Konzern und der",
+      "link": "https://netzpolitik.org/2026/analyse-des-koalitionsvertrages-automatisierte-datenanalyse-kommt-auch-in-mecklenburg-vorpommern/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Brief an Abgeordnete: 28 Organisationen wehren sich gegen Geheimdienstreform",
+      "text": "Hauptquartier des Bundesnachrichtendienstes. Er soll mehr Macht bekommen, auch im Inland.    –   Alle Rechte vorbehalten: IMAGO / Jürgen RitterBürgerrechtsorganisationen warnen, dass die Geheimdienstreform das Trennungsgebot schleift, die Überwachungsbefugnisse ausweitet und die ",
+      "link": "https://netzpolitik.org/2026/brief-an-abgeordnete-28-organisationen-wehren-sich-gegen-geheimdienstreform/"
+    }
+  ]
+}
