@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:59+00:00",
+  "updated": "2026-11-15T12:35+00:00",
   "etfs": [
     {
       "name": "L&G Gerd Kommer Multifactor",
@@ -197,14 +197,16 @@
       "ticker": "BTCE.DE",
       "category": "Krypto",
       "key": "bitcoin",
-      "price": 58.77,
-      "change_pct": 2.46,
+      "price": 54.69,
+      "change_pct": -3.99,
       "history": [
         60.06,
         59.69,
         58.74,
         57.36,
-        58.77
+        58.77,
+        56.96,
+        54.69
       ]
     },
     {

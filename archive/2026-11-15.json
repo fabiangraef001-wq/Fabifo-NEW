@@ -1,0 +1,278 @@
+{
+  "updated": "2026-11-15T12:35+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 26749.9,
+      "unit": "Pkt.",
+      "change_pct": -0.08,
+      "history": [
+        26325.0,
+        25820.4,
+        26267.2,
+        26347.4,
+        26662.8,
+        26771.9,
+        26749.9
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 27943.7,
+      "unit": "Pkt.",
+      "change_pct": -1.22,
+      "history": [
+        26629.8,
+        26990.0,
+        27907.6,
+        27740.8,
+        28374.2,
+        28289.2,
+        27943.7
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7561.7,
+      "unit": "Pkt.",
+      "change_pct": -0.4,
+      "history": [
+        7353.7,
+        7376.9,
+        7549.9,
+        7520.9,
+        7619.4,
+        7592.4,
+        7561.7
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 95.8,
+      "unit": "$",
+      "change_pct": 0.0,
+      "history": [
+        98.3,
+        92.6,
+        91.5,
+        92.8,
+        95.8,
+        95.8
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3886.3,
+      "unit": "$",
+      "change_pct": 0.03,
+      "history": [
+        4074.9,
+        4114.5,
+        4030.2,
+        4000.5,
+        3885.3,
+        3886.3
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.105,
+      "unit": "",
+      "change_pct": -0.41,
+      "history": [
+        1.1235,
+        1.1228,
+        1.1147,
+        1.1222,
+        1.1169,
+        1.1095,
+        1.105
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
+    "text": "Iran hat nach eigenen Angaben einen US-Stützpunkt in Bahrain angegriffen. Die Revolutionsgarde habe eine Radaranlage attackiert, meldeten Staatsmedien. Bahrain wehrte offenbar auch mehrere Angriffe ab.",
+    "link": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
+        "text": "Weniger Aufträge, steigende Kosten: Handwerkspräsident Dittrich warnt davor, dass die Branche bis zu 80.000 Arbeitsplätze pro Jahr verlieren könnte - wenn nicht gegengesteuert wird.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
+        "text": "In rund einem Monat will sich der AfD-Politiker Siegmund in Sachsen-Anhalt zum Ministerpräsidenten wählen lassen. Viele Migranten überlegen, wegzuziehen. Doch was gilt für Asylsuchende bei einer Wohnsitzauflage? Von L. Pfeuffer-Rooschüz.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
+        "text": "Stromausfälle, Treibstoffmangel, steigende Preise: Die verschärften US-Sanktionen treffen die Menschen in Kuba hart. In Havanna versuchen sie, der Krise etwas entgegenzusetzen. Mit Musik, Unternehmergeist und Improvisation. Von Marie-Kristin Boese.",
+        "link": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
+        "text": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
+        "text": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
+        "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wolf Biermann wird 90: Zwei Wunden als Auftrag fürs Leben",
+        "text": "In Hamburg geboren, in die DDR ausgewandert - und von ihr 1976 spektakulär ausgebürgert: Heute wird Wolf Biermann 90 Jahre alt. Geprägt wird er vor allem von Erfahrungen aus seiner frühen Kindheit. Von Alexander Solloch.",
+        "link": "https://www.tagesschau.de/kultur/wolf-biermann-portraet-neunzig-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
+        "text": "Iran hat nach eigenen Angaben einen US-Stützpunkt in Bahrain angegriffen. Die Revolutionsgarde habe eine Radaranlage attackiert, meldeten Staatsmedien. Bahrain wehrte offenbar auch mehrere Angriffe ab.",
+        "link": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
+        "text": "Erneut hat Russland mehrere Ziele in der Ukraine angegriffen. Dabei wurden am Abend drei Menschen getötet, allein aus Saporischschja wurden zuvor 22 Verletzte gemeldet, darunter Kinder. Russland meldete einen Toten durch ukrainische Angriffe.",
+        "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
+        "text": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
+        "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
+        "text": "Es war der längste Ausfall des US-Flugbetriebs seit Jahrzehnten. Vier Stunden lang galt ein Startverbot. Warum - und mit welchen Folgen? Könnte in Deutschland Ähnliches geschehen? Ein Überblick.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
+        "text": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
+        "text": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.",
+        "link": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen auf der gemeinsamen Pressekonferenz mit Präsident Costa im Anschluss an die informelle Tagung des Europäischen Rates im November 2026",
+        "text": "European Commission Erklärung Dublin, 13 Nov 2026 Zunächst möchte ich Ihnen, sehr geehrter Taoiseach, lieber Micheál, für die großartige Gastfreundschaft und die wunderbare Atmosphäre danken, in der wir die ver...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2441"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Kos at the opening of 30 Years of Transparency International Switzerland",
+        "text": "European Commission Rede Brussels, 13 Nov 2026 „Helping the good guys win“ – Wie der EU-Beitrittsprozess Gesellschaften stärkt \nIm Juni war ich mit meinem Team auf dem Weg nach Moldau und in die Ukraine.\nBei...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2439"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commissioner Roswall's address at the Circular Valley Forum",
+        "text": "European Commission Speech Düsseldorf, 13 Nov 2026 Ministers, Mayor, Ladies and gentlemen, dear guests,\nGuten morgen to you all.\nI am delighted to be here in Wuppertal.\nThis city – and this region – have long be...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2437"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 13 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 13 Nov 2026 COP31 enters second week with the EU driving global climate action\nThe EU continues pushing for accelerated global climate action at the COP31 UN Climate Change...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2434"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Doorstep by President von der Leyen ahead of the informal meeting of the European Council of 13 November",
+        "text": "European Commission Statement Dublin, 13 Nov 2026 Today, we are going to discuss AI. It is going to be very interesting. Of course, we are going to discuss the risks, like, for example, runaway AI, but also the...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2431"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission übermittelt PPC ergänzende Mitteilung der Beschwerdepunkte wegen Verdrängungspreisen auf dem griechischen Stromgroßhandelsmarkt",
+        "text": "European Commission Pressemitteilung Brussels, 13 Nov 2026 Die Europäische Kommission hat heute eine ergänzende Mitteilung der Beschwerdepunkte an den griechischen Stromversorger Public Power Corporation S.A. (PPC) gerichtet.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2422"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
+        "text": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 46: Die Woche, in der wir Richtung Geheimpolizei gehen",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 46. Kalenderwoche geht zu Ende. Wir haben 19 neue Texte mit insgesamt 136.513 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-46-die-woche-in-der-wir-richtung-geheimpolizei-gehen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Amazon Ring rüstet auf: Endlich autonome Drohnen für die Heimüberwachung!",
+      "text": "Ist sie nicht schön?  Die neue autonome Überwachungsdrohne von Amazon.    –   Alle Rechte vorbehalten: AmazonAutonome Drohnen fliegen nicht nur für das Militär. Sie sind jetzt sogar für den Heimgebrauch zur Überwachung verfügbar. Das ist leider keine Meldung zum 1. April, sondern",
+      "link": "https://netzpolitik.org/2026/amazon-ring-ruestet-auf-endlich-autonome-drohnen-fuer-die-heimueberwachung/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Geheimdienstreform: Das ist keine Sicherheit",
+      "text": "Wir dürfen uns von dieser Sicherheitspolitik nicht blenden lassen (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Chris Emil JanßenBND und Verfassungsschutz haben künftig mehr Befugnisse. Aber um uns sicherer zu machen, reicht das nicht aus – ganz im Gegenteil. Ein Kommentar",
+      "link": "https://netzpolitik.org/2026/geheimdienstreform-das-ist-keine-sicherheit/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Bundeshaushalt: Bund verschleiert KI-Ausgaben",
+      "text": "Die Ausgaben für Künstliche Intelligenz im Haushalt sind intransparent, ähnlich wie die KI-Strategie von Digitalminister Wildberger.    –   Alle Rechte vorbehalten: Jens Oellermann / BMDSDie KI-Taskforce des Bundes soll Deutschland bis 2030 zur KI-Nation machen. Wie Digitalminist",
+      "link": "https://netzpolitik.org/2026/bundeshaushalt-bund-verschleiert-ki-ausgaben/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Analyse des Koalitionsvertrages: Automatisierte Datenanalyse kommt auch in Mecklenburg-Vorpommern",
+      "text": "Sehr viel SPD, wenig links und grün im Koalitionsvertrag. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Wolfgang Maria WeberDer Koalitionsvertrag der rot-rot-grünen Regierung in MV enthält viel Digitales und Netzpolitisches. Trotz der Absage an den Palantir-Konzern und der",
+      "link": "https://netzpolitik.org/2026/analyse-des-koalitionsvertrages-automatisierte-datenanalyse-kommt-auch-in-mecklenburg-vorpommern/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Brief an Abgeordnete: 28 Organisationen wehren sich gegen Geheimdienstreform",
+      "text": "Hauptquartier des Bundesnachrichtendienstes. Er soll mehr Macht bekommen, auch im Inland.    –   Alle Rechte vorbehalten: IMAGO / Jürgen RitterBürgerrechtsorganisationen warnen, dass die Geheimdienstreform das Trennungsgebot schleift, die Überwachungsbefugnisse ausweitet und die ",
+      "link": "https://netzpolitik.org/2026/brief-an-abgeordnete-28-organisationen-wehren-sich-gegen-geheimdienstreform/"
+    }
+  ]
+}
