@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-15T12:35+00:00",
+  "updated": "2026-11-16T13:27+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 26749.9,
+      "value": 26713.5,
       "unit": "Pkt.",
-      "change_pct": -0.08,
+      "change_pct": -0.14,
       "history": [
-        26325.0,
         25820.4,
         26267.2,
         26347.4,
         26662.8,
         26771.9,
-        26749.9
+        26749.9,
+        26713.5
       ]
     },
     "nasdaq100": {
@@ -48,45 +48,45 @@
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 95.8,
+      "value": 94.8,
       "unit": "$",
-      "change_pct": 0.0,
+      "change_pct": -1.04,
       "history": [
-        98.3,
         92.6,
         91.5,
         92.8,
         95.8,
-        95.8
+        95.8,
+        94.8
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 3886.3,
+      "value": 3868.9,
       "unit": "$",
-      "change_pct": 0.03,
+      "change_pct": -0.45,
       "history": [
-        4074.9,
         4114.5,
         4030.2,
         4000.5,
         3885.3,
-        3886.3
+        3886.3,
+        3868.9
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.105,
+      "value": 1.1014,
       "unit": "",
-      "change_pct": -0.41,
+      "change_pct": -0.33,
       "history": [
-        1.1235,
         1.1228,
         1.1147,
         1.1222,
         1.1169,
         1.1095,
-        1.105
+        1.105,
+        1.1014
       ]
     },
     "fed_rate": {
@@ -105,139 +105,145 @@
     }
   },
   "ticker_relevant": [
-    "dax"
+    "gold"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
-    "text": "Iran hat nach eigenen Angaben einen US-Stützpunkt in Bahrain angegriffen. Die Revolutionsgarde habe eine Radaranlage attackiert, meldeten Staatsmedien. Bahrain wehrte offenbar auch mehrere Angriffe ab.",
-    "link": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html"
+    "title": "Vor 30 Jahren ging der Kult-Messenger ICQ online",
+    "text": "Vor 30 Jahren ging ICQ an den Start. Der Instant-Messenger prägte eine ganze Generation - und tut das bis heute. Doch Soziale Netzwerke, WhatsApp und KI haben das Chatten grundlegend verändert.",
+    "link": "https://www.tagesschau.de/kultur/30-jahre-icq-messenger-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Krise im Handwerk: \"Stilles Sterben der Betriebe\"",
-        "text": "Weniger Aufträge, steigende Kosten: Handwerkspräsident Dittrich warnt davor, dass die Branche bis zu 80.000 Arbeitsplätze pro Jahr verlieren könnte - wenn nicht gegengesteuert wird.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/handwerk-krise-100.html"
+        "title": "Vor 30 Jahren ging der Kult-Messenger ICQ online",
+        "text": "Vor 30 Jahren ging ICQ an den Start. Der Instant-Messenger prägte eine ganze Generation - und tut das bis heute. Doch Soziale Netzwerke, WhatsApp und KI haben das Chatten grundlegend verändert.",
+        "link": "https://www.tagesschau.de/kultur/30-jahre-icq-messenger-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Sachsen-Anhalt: Weggehen dürfen, wenn es gefährlich wird",
-        "text": "In rund einem Monat will sich der AfD-Politiker Siegmund in Sachsen-Anhalt zum Ministerpräsidenten wählen lassen. Viele Migranten überlegen, wegzuziehen. Doch was gilt für Asylsuchende bei einer Wohnsitzauflage? Von L. Pfeuffer-Rooschüz.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/sachsen-anhalt-afd-migranten-residenzpflicht-100.html"
+        "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+        "text": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Treibstoffmangel: Wie die Kubaner mit der Krise zurechtkommen",
-        "text": "Stromausfälle, Treibstoffmangel, steigende Preise: Die verschärften US-Sanktionen treffen die Menschen in Kuba hart. In Havanna versuchen sie, der Krise etwas entgegenzusetzen. Mit Musik, Unternehmergeist und Improvisation. Von Marie-Kristin Boese.",
-        "link": "https://www.tagesschau.de/ausland/amerika/kuba-energiekrise-alltag-100.html"
+        "title": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
+        "text": "Der Schweriner Landtag hat Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wiedergewählt. Das Parlament bestätigte die SPD-Politikerin für weitere fünf Jahre im Amt. Schwesig führt MV bereits seit 2017.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/eilmeldung-schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Heils Kandidatur für SPD-Vorsitz aktiviert Klingbeils Fürsprecher",
-        "text": "Der Erste wagt sich aus der Deckung: Ex-Arbeitsminister Heil will die SPD führen. Was macht Parteichef Klingbeil? Tritt er beim Parteitag im Januar erneut für den Vorsitz an? Nun sprachen sich weitere namhafte SPD-Politiker für ihn aus.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/spd-spitze-klingbeil-heil-100.html"
+        "title": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
+        "text": "Die Experten der WHO warnen vor einem gefährlichen Trend: Immer mehr Medikamente verlieren aufgrund von Resistenzen ihre Wirkkraft. Zudem sieht die Weltgesundheitsorganisation Nachholbedarf beim Infektionsschutz.",
+        "link": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Papst Leo in Südamerika: Empfangen wie ein lang vermisster alter Freund",
-        "text": "Auf seiner bisher längsten Auslandsreise als Papst wird Leo XIV. vor allem in Peru und Argentinien begeistert empfangen. Welche Akzente hat er in seiner \"zweiten Heimat\" gesetzt? Eine erste Bilanz des Südamerika-Besuchs. Von Tilmann Kleinjung.",
-        "link": "https://www.tagesschau.de/ausland/amerika/papst-reise-suedamerika-bilanz-100.html"
+        "title": "Offshore-Windparks: Bundesregierung macht millionenschweres Angebot",
+        "text": "In der Offshore-Branche stehen viele Projekte auf der Kippe. Nun hat das Wirtschaftsministerium der Energiebranche ein Angebot vorgelegt. Dem NDR liegt das Eckpunktepapier vor. Von Verena von Ondarza.",
+        "link": "https://www.tagesschau.de/investigativ/ndr/offshore-bundesregierung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wolf Biermann wird 90: Zwei Wunden als Auftrag fürs Leben",
-        "text": "In Hamburg geboren, in die DDR ausgewandert - und von ihr 1976 spektakulär ausgebürgert: Heute wird Wolf Biermann 90 Jahre alt. Geprägt wird er vor allem von Erfahrungen aus seiner frühen Kindheit. Von Alexander Solloch.",
-        "link": "https://www.tagesschau.de/kultur/wolf-biermann-portraet-neunzig-100.html"
+        "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
+        "text": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Iran greift erneut US-Stützpunkt in Bahrain an",
-        "text": "Iran hat nach eigenen Angaben einen US-Stützpunkt in Bahrain angegriffen. Die Revolutionsgarde habe eine Radaranlage attackiert, meldeten Staatsmedien. Bahrain wehrte offenbar auch mehrere Angriffe ab.",
-        "link": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html"
+        "title": "EU-Außenminister wollen Ukraine-Strategie ausarbeiten",
+        "text": "Erstmals könnten EU-Staaten die Chance haben, aktiv über ein Kriegsende in der Ukraine mit zu verhandeln. Doch auch eine andere Region verlieren die EU-Außenminister nicht aus dem Blick: den Gazastreifen. Von Sabrina Fritz.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-ukraine-nahost-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Angriffe auf beiden Seiten: Ukraine und Russland melden Tote und Verletzte",
-        "text": "Erneut hat Russland mehrere Ziele in der Ukraine angegriffen. Dabei wurden am Abend drei Menschen getötet, allein aus Saporischschja wurden zuvor 22 Verletzte gemeldet, darunter Kinder. Russland meldete einen Toten durch ukrainische Angriffe.",
-        "link": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-210.html"
+        "title": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
+        "text": "In Estland ist der Ärger groß: Ab Dezember sollen deswegen Grenzübergänge zu Russland dichtgemacht werden. Anlass ist ein versuchter Anschlag auf eine Rüstungsfirma - das war nicht der erste Vorfall dieser Art. Von C. Stichler.",
+        "link": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "EU: Israel soll Zugang für Helfer in den Gazastreifen gewähren",
-        "text": "Die EU fordert Israel auf, sofort Helfer in den Gazastreifen zu lassen. Dort hatte heftiger Regen die Zelte von Zehntausenden Vertriebenen überschwemmt. Auch die Kälte wird zunehmend zur Gefahr.",
-        "link": "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html"
+        "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+        "text": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen. Von B. Meier.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Was über das Startverbot für Flugzeuge in den USA bekannt ist",
-        "text": "Es war der längste Ausfall des US-Flugbetriebs seit Jahrzehnten. Vier Stunden lang galt ein Startverbot. Warum - und mit welchen Folgen? Könnte in Deutschland Ähnliches geschehen? Ein Überblick.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html"
+        "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+        "text": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
+        "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "USA bieten Ukraine laut Selenskyj NATO-Beitritt bei Gebietsverzicht",
-        "text": "Ein Rückzug aus dem Donbass im Tausch für einen NATO-Beitritt - das haben die USA der Ukraine nach Angaben Selenskyjs nahegelegt. Unter bestimmten Bedingungen würde er diese Frage in einem Referendum zur Abstimmung stellen, so der Präsident.",
-        "link": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
+        "title": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
+        "text": "Mit Bildern von einem Wolf im Schafspelz hatte der Verfassungsschutz vor Islamisten gewarnt. Bremens Innensenatorin sagt nun: Das Ziel der Kampagne war richtig, die Umsetzung aber nicht.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Nach US-Zwischenwahlen: Migranten auf dem Weg Richtung USA",
-        "text": "Der Sieg der Demokraten bei den US-Midterms weckt in Mittelamerika neue Hoffnungen auf eine liberalere US-Einwanderungspolitik. Davon angetrieben haben sich in Mexiko mehr als 1.000 Migranten auf den Weg gemacht. Von J. Barke.",
-        "link": "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html"
+        "title": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
+        "text": "Die israelische Armee hat im Gazastreifen einen ranghohen Kommandeur der Hamas getötet. Samir Abu Junis soll einer der wichtigsten Köpfe bei der Planung der Attacke auf Israel am 7. Oktober 2023 gewesen sein. Die Hamas bestätigte seinen Tod.",
+        "link": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Erklärung von Präsidentin von der Leyen auf der gemeinsamen Pressekonferenz mit Präsident Costa im Anschluss an die informelle Tagung des Europäischen Rates im November 2026",
-        "text": "European Commission Erklärung Dublin, 13 Nov 2026 Zunächst möchte ich Ihnen, sehr geehrter Taoiseach, lieber Micheál, für die großartige Gastfreundschaft und die wunderbare Atmosphäre danken, in der wir die ver...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2441"
+        "title": "Opening remarks by Executive Vice-President Teresa Ribera on the Commission decision to approve UniCredit's acquisition of Commerzbank",
+        "text": "European Commission Speech Brussels, 16 Nov 2026 Thank you. Thank you so much and thanks for being here.\nIt's a relevant merger decision that we have taken today. We have approved the acquisition of Commerzban...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2453"
       },
       {
         "source": "EU-Kommission",
-        "title": "Speech by Commissioner Kos at the opening of 30 Years of Transparency International Switzerland",
-        "text": "European Commission Rede Brussels, 13 Nov 2026 „Helping the good guys win“ – Wie der EU-Beitrittsprozess Gesellschaften stärkt \nIm Juni war ich mit meinem Team auf dem Weg nach Moldau und in die Ukraine.\nBei...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/speech_26_2439"
+        "title": "Commission disburses another €1.71 billion to Ukraine for drones, ammunition and air defence systems",
+        "text": "European Commission Press release Brussels, 16 Nov 2026 Today, the European Commission disbursed €1.71 billion to Ukraine under the €90 billion Ukraine Support Loan.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2452"
       },
       {
         "source": "EU-Kommission",
-        "title": "Commissioner Roswall's address at the Circular Valley Forum",
-        "text": "European Commission Speech Düsseldorf, 13 Nov 2026 Ministers, Mayor, Ladies and gentlemen, dear guests,\nGuten morgen to you all.\nI am delighted to be here in Wuppertal.\nThis city – and this region – have long be...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2437"
+        "title": "Tägliche Nachrichten 16 / 11 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 16 Nov 2026 Kommission zahlt weitere 1,71 Mrd. EUR für Drohnen, Munition und Luftverteidigungssysteme an die Ukraine  ausDie Europäische Kommission hat heute im Rahmen des ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2449"
       },
       {
         "source": "EU-Kommission",
-        "title": "Daily News 13 / 11 / 2026",
-        "text": "European Commission Daily news Brussels, 13 Nov 2026 COP31 enters second week with the EU driving global climate action\nThe EU continues pushing for accelerated global climate action at the COP31 UN Climate Change...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2434"
+        "title": "Kommission gibt grünes Licht für den achten Zahlungsantrag der Slowakei in Höhe von 548 Mio. EUR im Rahmen von NextGenerationEU",
+        "text": "European Commission Pressemitteilung Brussels, 16 Nov 2026 Die Europäische Kommission hat heute den achten Zahlungsantrag der Slowakei in Höhe von 548 Mio. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, teilweise grünes Licht gegeben.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2448"
       },
       {
         "source": "EU-Kommission",
-        "title": "Doorstep by President von der Leyen ahead of the informal meeting of the European Council of 13 November",
-        "text": "European Commission Statement Dublin, 13 Nov 2026 Today, we are going to discuss AI. It is going to be very interesting. Of course, we are going to discuss the risks, like, for example, runaway AI, but also the...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2431"
+        "title": "Kommission gibt Rumäniens fünftem Zahlungsantrag über 2,67 Mrd. EUR im Rahmen von NextGenerationEU teilweise grünes Licht",
+        "text": "European Commission Pressemitteilung Brussels, 16 Nov 2026 Die Europäische Kommission hat heute den fünften Zahlungsantrag Rumäniens in Höhe von 2,67 Mrd. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, teilweise grünes Licht gegeben.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2444"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission übermittelt PPC ergänzende Mitteilung der Beschwerdepunkte wegen Verdrängungspreisen auf dem griechischen Stromgroßhandelsmarkt",
-        "text": "European Commission Pressemitteilung Brussels, 13 Nov 2026 Die Europäische Kommission hat heute eine ergänzende Mitteilung der Beschwerdepunkte an den griechischen Stromversorger Public Power Corporation S.A. (PPC) gerichtet.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2422"
+        "title": "Keynote speech by Commissioner Albuquerque at the 2nd International Conference on Decarbonisation and Sustainable Finance, Lusíada University",
+        "text": "European Commission Speech Lisbon, 16 Nov 2026 Good morning, ladies and gentlemen.\nIt is a particular pleasure to return to Universidade Lusíada, where I studied Economics. Coming back to my alma mater as Eu...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2443"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: DAX schwächelt nach Allzeithoch",
-        "text": "Nach seinem Allzeithoch vom Donnerstag ist der Deutsche Aktienindex heute auf der Stelle getreten - allerdings auf hohem Niveau. Im Wochenvergleich gewinnt das Börsenbarometer mehr als vier Prozent.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html"
+        "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
+        "text": "Der Goldpreis und die Kryptowährung Bitcoin fallen zum Wochenauftakt überdurchschnittlich. Gold ist so günstig wie seit gut einem Jahr nicht und der Bitcoin hat in diesem Jahr rund ein Drittel an Wert verloren.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "UN-Konferenz zu autonomen Waffen: Maschine am Abzug",
+      "text": "Die Auswahl von Zielen wird immer weiter automatisiert.    –   CC-BY 4.0: Kathryn Conrad / betterimagesofai.orgIn Genf diskutieren Staaten über die UN-Waffenkonvention. Es geht um die vielleicht letzte Chance, automatisiertes Töten zu verbieten.",
+      "link": "https://netzpolitik.org/2026/un-konferenz-zu-autonomen-waffen-maschine-am-abzug/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "KW 46: Die Woche, in der wir Richtung Geheimpolizei gehen",
@@ -267,12 +273,6 @@
       "title": "Analyse des Koalitionsvertrages: Automatisierte Datenanalyse kommt auch in Mecklenburg-Vorpommern",
       "text": "Sehr viel SPD, wenig links und grün im Koalitionsvertrag. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Wolfgang Maria WeberDer Koalitionsvertrag der rot-rot-grünen Regierung in MV enthält viel Digitales und Netzpolitisches. Trotz der Absage an den Palantir-Konzern und der",
       "link": "https://netzpolitik.org/2026/analyse-des-koalitionsvertrages-automatisierte-datenanalyse-kommt-auch-in-mecklenburg-vorpommern/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Brief an Abgeordnete: 28 Organisationen wehren sich gegen Geheimdienstreform",
-      "text": "Hauptquartier des Bundesnachrichtendienstes. Er soll mehr Macht bekommen, auch im Inland.    –   Alle Rechte vorbehalten: IMAGO / Jürgen RitterBürgerrechtsorganisationen warnen, dass die Geheimdienstreform das Trennungsgebot schleift, die Überwachungsbefugnisse ausweitet und die ",
-      "link": "https://netzpolitik.org/2026/brief-an-abgeordnete-28-organisationen-wehren-sich-gegen-geheimdienstreform/"
     }
   ]
 }

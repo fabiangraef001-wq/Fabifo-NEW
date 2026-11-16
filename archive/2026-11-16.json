@@ -1,0 +1,278 @@
+{
+  "updated": "2026-11-16T13:27+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 26713.5,
+      "unit": "Pkt.",
+      "change_pct": -0.14,
+      "history": [
+        25820.4,
+        26267.2,
+        26347.4,
+        26662.8,
+        26771.9,
+        26749.9,
+        26713.5
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 27943.7,
+      "unit": "Pkt.",
+      "change_pct": -1.22,
+      "history": [
+        26629.8,
+        26990.0,
+        27907.6,
+        27740.8,
+        28374.2,
+        28289.2,
+        27943.7
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7561.7,
+      "unit": "Pkt.",
+      "change_pct": -0.4,
+      "history": [
+        7353.7,
+        7376.9,
+        7549.9,
+        7520.9,
+        7619.4,
+        7592.4,
+        7561.7
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 94.8,
+      "unit": "$",
+      "change_pct": -1.04,
+      "history": [
+        92.6,
+        91.5,
+        92.8,
+        95.8,
+        95.8,
+        94.8
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3868.9,
+      "unit": "$",
+      "change_pct": -0.45,
+      "history": [
+        4114.5,
+        4030.2,
+        4000.5,
+        3885.3,
+        3886.3,
+        3868.9
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.1014,
+      "unit": "",
+      "change_pct": -0.33,
+      "history": [
+        1.1228,
+        1.1147,
+        1.1222,
+        1.1169,
+        1.1095,
+        1.105,
+        1.1014
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "gold"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Vor 30 Jahren ging der Kult-Messenger ICQ online",
+    "text": "Vor 30 Jahren ging ICQ an den Start. Der Instant-Messenger prägte eine ganze Generation - und tut das bis heute. Doch Soziale Netzwerke, WhatsApp und KI haben das Chatten grundlegend verändert.",
+    "link": "https://www.tagesschau.de/kultur/30-jahre-icq-messenger-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Vor 30 Jahren ging der Kult-Messenger ICQ online",
+        "text": "Vor 30 Jahren ging ICQ an den Start. Der Instant-Messenger prägte eine ganze Generation - und tut das bis heute. Doch Soziale Netzwerke, WhatsApp und KI haben das Chatten grundlegend verändert.",
+        "link": "https://www.tagesschau.de/kultur/30-jahre-icq-messenger-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Merz erwartet Einigung zur Stromsteuer im Koalitionsausschuss",
+        "text": "Die Bundesregierung will die Stromsteuer senken - bislang war jedoch unklar, wie das gegenfinanziert werden soll. Jetzt gibt es offenbar eine Möglichkeit: Kanzler Merz zeigte sich sicher, dass sich SPD und Union morgen einigen.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/merz-stromsteuer-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "SPD-Politikerin Schwesig erneut zur Ministerpräsidentin gewählt",
+        "text": "Der Schweriner Landtag hat Mecklenburg-Vorpommerns Ministerpräsidentin Schwesig wiedergewählt. Das Parlament bestätigte die SPD-Politikerin für weitere fünf Jahre im Amt. Schwesig führt MV bereits seit 2017.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/eilmeldung-schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
+        "text": "Die Experten der WHO warnen vor einem gefährlichen Trend: Immer mehr Medikamente verlieren aufgrund von Resistenzen ihre Wirkkraft. Zudem sieht die Weltgesundheitsorganisation Nachholbedarf beim Infektionsschutz.",
+        "link": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Offshore-Windparks: Bundesregierung macht millionenschweres Angebot",
+        "text": "In der Offshore-Branche stehen viele Projekte auf der Kippe. Nun hat das Wirtschaftsministerium der Energiebranche ein Angebot vorgelegt. Dem NDR liegt das Eckpunktepapier vor. Von Verena von Ondarza.",
+        "link": "https://www.tagesschau.de/investigativ/ndr/offshore-bundesregierung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU gibt UniCredit grünes Licht für Commerzbank-Übernahme",
+        "text": "Die EU hat ihr Go für die umstrittene Übernahme der Commerzbank durch die italienische Großbank UniCredit gegeben. Die Kommission sieht \"keine wettbewerbsrechtlichen Bedenken\". Die Fusion rückt näher.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "EU-Außenminister wollen Ukraine-Strategie ausarbeiten",
+        "text": "Erstmals könnten EU-Staaten die Chance haben, aktiv über ein Kriegsende in der Ukraine mit zu verhandeln. Doch auch eine andere Region verlieren die EU-Außenminister nicht aus dem Blick: den Gazastreifen. Von Sabrina Fritz.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-aussenminister-ukraine-nahost-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Grenzschließung zu Russland soll Estlands Sicherheit schützen",
+        "text": "In Estland ist der Ärger groß: Ab Dezember sollen deswegen Grenzübergänge zu Russland dichtgemacht werden. Anlass ist ein versuchter Anschlag auf eine Rüstungsfirma - das war nicht der erste Vorfall dieser Art. Von C. Stichler.",
+        "link": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Israel: Netanjahu wirbt bei Eisenkot um Einheitsregierung",
+        "text": "Eisenkot oder Netanjahu? Die Parlamentswahl in Israel brachte keine eindeutige Antwort. Derzeit sucht Oppositionspolitiker Eisenkot nach Partnern für eine Koalition. Noch-Premier Netanjahu hat seine eigenen Vorstellungen. Von B. Meier.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Estland schließt ab Dezember Grenzübergänge nach Russland",
+        "text": "Estland unterstützt die Ukraine im Kampf gegen Russland - unter anderem mit Drohnen. Eine Drohnenfabrik wurde am Wochenende angegriffen, laut Estland von russischen Agenten. Nun schließt Estland seine drei Grenzübergänge zum Nachbarland.",
+        "link": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Innensenatorin: Bremen beendet Kampagne gegen Islamismus vorzeitig",
+        "text": "Mit Bildern von einem Wolf im Schafspelz hatte der Verfassungsschutz vor Islamisten gewarnt. Bremens Innensenatorin sagt nun: Das Ziel der Kampagne war richtig, die Umsetzung aber nicht.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/bremen-beendet-kampagne-gegen-islamismus-vorzeitig-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Israelischer Angriff im Gazastreifen: Ranghoher Hamas-Kommandeur tot",
+        "text": "Die israelische Armee hat im Gazastreifen einen ranghohen Kommandeur der Hamas getötet. Samir Abu Junis soll einer der wichtigsten Köpfe bei der Planung der Attacke auf Israel am 7. Oktober 2023 gewesen sein. Die Hamas bestätigte seinen Tod.",
+        "link": "https://www.tagesschau.de/ausland/asien/hamas-kommandeur-gazastreifen-getoetet-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Opening remarks by Executive Vice-President Teresa Ribera on the Commission decision to approve UniCredit's acquisition of Commerzbank",
+        "text": "European Commission Speech Brussels, 16 Nov 2026 Thank you. Thank you so much and thanks for being here.\nIt's a relevant merger decision that we have taken today. We have approved the acquisition of Commerzban...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2453"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission disburses another €1.71 billion to Ukraine for drones, ammunition and air defence systems",
+        "text": "European Commission Press release Brussels, 16 Nov 2026 Today, the European Commission disbursed €1.71 billion to Ukraine under the €90 billion Ukraine Support Loan.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2452"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Tägliche Nachrichten 16 / 11 / 2026",
+        "text": "European Commission Nachrichten des Tages Brussels, 16 Nov 2026 Kommission zahlt weitere 1,71 Mrd. EUR für Drohnen, Munition und Luftverteidigungssysteme an die Ukraine  ausDie Europäische Kommission hat heute im Rahmen des ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2449"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission gibt grünes Licht für den achten Zahlungsantrag der Slowakei in Höhe von 548 Mio. EUR im Rahmen von NextGenerationEU",
+        "text": "European Commission Pressemitteilung Brussels, 16 Nov 2026 Die Europäische Kommission hat heute den achten Zahlungsantrag der Slowakei in Höhe von 548 Mio. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, teilweise grünes Licht gegeben.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2448"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission gibt Rumäniens fünftem Zahlungsantrag über 2,67 Mrd. EUR im Rahmen von NextGenerationEU teilweise grünes Licht",
+        "text": "European Commission Pressemitteilung Brussels, 16 Nov 2026 Die Europäische Kommission hat heute den fünften Zahlungsantrag Rumäniens in Höhe von 2,67 Mrd. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, teilweise grünes Licht gegeben.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2444"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Keynote speech by Commissioner Albuquerque at the 2nd International Conference on Decarbonisation and Sustainable Finance, Lusíada University",
+        "text": "European Commission Speech Lisbon, 16 Nov 2026 Good morning, ladies and gentlemen.\nIt is a particular pleasure to return to Universidade Lusíada, where I studied Economics. Coming back to my alma mater as Eu...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2443"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Zinsängste belasten Edelmetalle und Krypto-Währungen",
+        "text": "Der Goldpreis und die Kryptowährung Bitcoin fallen zum Wochenauftakt überdurchschnittlich. Gold ist so günstig wie seit gut einem Jahr nicht und der Bitcoin hat in diesem Jahr rund ein Drittel an Wert verloren.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/gold-und-bitcoin-fallen-zinssorgen-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "UN-Konferenz zu autonomen Waffen: Maschine am Abzug",
+      "text": "Die Auswahl von Zielen wird immer weiter automatisiert.    –   CC-BY 4.0: Kathryn Conrad / betterimagesofai.orgIn Genf diskutieren Staaten über die UN-Waffenkonvention. Es geht um die vielleicht letzte Chance, automatisiertes Töten zu verbieten.",
+      "link": "https://netzpolitik.org/2026/un-konferenz-zu-autonomen-waffen-maschine-am-abzug/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 46: Die Woche, in der wir Richtung Geheimpolizei gehen",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 46. Kalenderwoche geht zu Ende. Wir haben 19 neue Texte mit insgesamt 136.513 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-46-die-woche-in-der-wir-richtung-geheimpolizei-gehen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Amazon Ring rüstet auf: Endlich autonome Drohnen für die Heimüberwachung!",
+      "text": "Ist sie nicht schön?  Die neue autonome Überwachungsdrohne von Amazon.    –   Alle Rechte vorbehalten: AmazonAutonome Drohnen fliegen nicht nur für das Militär. Sie sind jetzt sogar für den Heimgebrauch zur Überwachung verfügbar. Das ist leider keine Meldung zum 1. April, sondern",
+      "link": "https://netzpolitik.org/2026/amazon-ring-ruestet-auf-endlich-autonome-drohnen-fuer-die-heimueberwachung/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Geheimdienstreform: Das ist keine Sicherheit",
+      "text": "Wir dürfen uns von dieser Sicherheitspolitik nicht blenden lassen (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Chris Emil JanßenBND und Verfassungsschutz haben künftig mehr Befugnisse. Aber um uns sicherer zu machen, reicht das nicht aus – ganz im Gegenteil. Ein Kommentar",
+      "link": "https://netzpolitik.org/2026/geheimdienstreform-das-ist-keine-sicherheit/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Bundeshaushalt: Bund verschleiert KI-Ausgaben",
+      "text": "Die Ausgaben für Künstliche Intelligenz im Haushalt sind intransparent, ähnlich wie die KI-Strategie von Digitalminister Wildberger.    –   Alle Rechte vorbehalten: Jens Oellermann / BMDSDie KI-Taskforce des Bundes soll Deutschland bis 2030 zur KI-Nation machen. Wie Digitalminist",
+      "link": "https://netzpolitik.org/2026/bundeshaushalt-bund-verschleiert-ki-ausgaben/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Analyse des Koalitionsvertrages: Automatisierte Datenanalyse kommt auch in Mecklenburg-Vorpommern",
+      "text": "Sehr viel SPD, wenig links und grün im Koalitionsvertrag. (Symbolbild)    –   Alle Rechte vorbehalten: IMAGO / Wolfgang Maria WeberDer Koalitionsvertrag der rot-rot-grünen Regierung in MV enthält viel Digitales und Netzpolitisches. Trotz der Absage an den Palantir-Konzern und der",
+      "link": "https://netzpolitik.org/2026/analyse-des-koalitionsvertrages-automatisierte-datenanalyse-kommt-auch-in-mecklenburg-vorpommern/"
+    }
+  ]
+}
