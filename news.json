@@ -1,94 +1,94 @@
 {
-  "updated": "2026-11-18T13:44+00:00",
+  "updated": "2026-11-19T14:13+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25953.6,
+      "value": 25735.3,
       "unit": "Pkt.",
-      "change_pct": -0.35,
+      "change_pct": -0.0,
       "history": [
-        26347.4,
         26662.8,
         26771.9,
         26749.9,
         26598.6,
         26045.4,
-        25953.6
+        25736.2,
+        25735.3
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 27001.8,
+      "value": 27116.3,
       "unit": "Pkt.",
-      "change_pct": -0.72,
+      "change_pct": 0.42,
       "history": [
-        27907.6,
         27740.8,
         28374.2,
         28289.2,
         27943.7,
         27197.2,
-        27001.8
+        27001.8,
+        27116.3
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7340.5,
+      "value": 7323.6,
       "unit": "Pkt.",
-      "change_pct": -1.03,
+      "change_pct": -0.23,
       "history": [
-        7549.9,
         7520.9,
         7619.4,
         7592.4,
         7561.7,
         7416.6,
-        7340.5
+        7340.5,
+        7323.6
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 90.0,
+      "value": 90.1,
       "unit": "$",
-      "change_pct": -3.33,
+      "change_pct": -1.96,
       "history": [
-        91.5,
         92.8,
         95.8,
         95.8,
         92.4,
         93.1,
-        90.0
+        91.9,
+        90.1
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 3781.1,
+      "value": 3713.4,
       "unit": "$",
-      "change_pct": -2.15,
+      "change_pct": -0.76,
       "history": [
-        4030.2,
         4000.5,
         3885.3,
         3886.3,
         3853.0,
         3864.2,
-        3781.1
+        3741.9,
+        3713.4
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.0976,
+      "value": 1.1006,
       "unit": "",
-      "change_pct": -0.2,
+      "change_pct": 0.12,
       "history": [
-        1.1222,
         1.1169,
         1.1095,
         1.105,
         1.1025,
         1.0998,
-        1.0976
+        1.0993,
+        1.1006
       ]
     },
     "fed_rate": {
@@ -107,151 +107,179 @@
     }
   },
   "ticker_relevant": [
-    "dax"
+    "dax",
+    "brent",
+    "eurusd",
+    "fed_rate",
+    "ecb_rate"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "APEC-Gipfel in Shenzen: Xi umarmt Trump - Putin schon da",
-    "text": "Die Staatschefs der drei Großmächte China, den USA und Russland - Xi, Trump und Putin - sind zum APEC-Gipfel in Shenzen eingetroffen. Dabei stach eine besondere Geste hervor.",
-    "link": "https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html"
+    "title": "KI-gestützter Cyberangriff auf EU-Kommission",
+    "text": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
+    "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Sturm und Regen in Deutschland - viele Einsätze von Polizei und Feuerwehr",
-        "text": "Mancherorts sind bereits 50 Liter Regen binnen 24 Stunden runtergekommen - kombiniert mit heftigem Wind. Das bleibt zunächst auch so. Für fast ganz Deutschland gelten Unwetterwarnungen. Bislang war vor allem NRW betroffen.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/sturm-deutschland-106.html"
+        "title": "Firmenporträt: Anthropics halsbrecherischer Aufstieg",
+        "text": "Google schwor einst, nicht böse zu sein. OpenAI will KI fürs Gemeinwohl nutzen. Anthropic verspricht Sicherheit. Jetzt kommt der Börsengang - und mit ihm die Frage, die alle Tech-Giganten kennen: Was bleibt vom Ideal, wenn der Markt ruft? Von G. Biesinger.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-firmenportrait-claude-boersengang-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "\"Kleiner Hüpfer\", \"überfällig\", \"abenteuerlich\" - Reaktionen auf Stromsteuersenkung",
-        "text": "Sie kommt also, die vom Kanzler versprochene Stromsteuersenkung - zumindest für 2027. Die Maßnahme selbst stößt auf ein weitgehend positives Echo. Doch es gibt auch viel Kritik - daran, dass die Entlastung nicht dauerhaft ist.",
-        "link": "https://www.tagesschau.de/inland/stromsteuer-reaktionen-100.html"
+        "title": "Marktbericht: Deutsche Telekom steigt bei KI-Start-up Mistral ein",
+        "text": "Unternehmen und Behörden sollen durch eine Beteiligung der Telekom am französischen Start-up Mistral mit \"vertrauenswürdiger KI aus Europa\" versorgt werden. Der Rekord-Börsengang von Anthropic stabilisiert derweil den DAX.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "\"Keine Klimagerechtigkeit ohne Entmilitarisierung\"",
-        "text": "Militär verursacht geschätzt fünfeinhalb Prozent des globalen CO2-Ausstoßes. Auch der Wiederaufbau nach einem Krieg belastet das Klima. Experten auf der Weltklimakonferenz fordern deshalb Entmilitarisierung. Von D. K. Mäurer.",
-        "link": "https://www.tagesschau.de/ausland/asien/cop31-krieg-emissionen-100.html"
+        "title": "Internationaler Gerichtshof: Vorgehen Myanmars gegen Rohingya war Völkermord",
+        "text": "Myanmar wollte einen \"wesentlichen Teil\" der Minderheit der Rohingya vernichten: Zu dieser Einschätzung kommt der Internationale Gerichtshof. Das Land sei daher verantwortlich für einen Völkermord, urteilte das höchste UN-Gericht.",
+        "link": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Keine Neuauszählung: BSW scheitert mit Wahlprüfungsbeschwerde",
-        "text": "Zu wenige Stimmen und Belege: Das Bundesverfassungsgericht lehnt eine Klage des BSW auf Neuauszählung der Stimmen bei der Bundestagswahl ab. Nun erwägt die Union eine Reform der Wahlprüfung. Von Max Bauer.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html"
+        "title": "BSI warnt vor erhöhter Gefahrenlage durch  KI-Angriffe",
+        "text": "Sicherheitslücken lassen sich mit KI deutlich einfacher und schneller ausnutzen. Daher warnt das BSI nun vor \"Cyberangriffen in bisher ungekannten Mengen und Geschwindigkeiten\". Viele Unternehmen seien nur schlecht geschützt.",
+        "link": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie eine Zuckersteuer der Gesundheit helfen kann",
-        "text": "Weniger Zucker in Getränken, weniger Erkrankungen - das ist die Hoffnung hinter einer Zuckersteuer. Doch dabei kommt es darauf an, was tatsächlich in die Flasche kommt. Von Yasmin Appelhans.",
-        "link": "https://www.tagesschau.de/wissen/gesundheit/wie-eine-zuckersteuer-der-gesundheit-helfen-koennte-100.html"
+        "title": "Heizen wird wegen steigender Energiepreise immer teurer",
+        "text": "Ein warmes Zuhause ist bei Weitem nicht für alle Menschen selbstverständlich. Nach Berechnungen des Statistischen Bundesamts konnten im vergangenen Jahr rund 4,7 Millionen Menschen ihre Wohnung nicht richtig heizen.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Sorgerechtsreform: Kein Umgangsrecht mehr für gewalttätigen Elternteil",
-        "text": "Wie können Kinder besser geschützt werden, wenn es zwischen den Eltern zu Gewalt kommt? Die Regierung hat dafür eine Gesetzesreform auf den Weg gebracht - mit klar geregelten Sanktionen für Eltern und mehr Mitbestimmungsrechten für Kinder.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/gesetzentwurf-sorgerecht-100.html"
+        "title": "Musk bereut offenbar Wahlkampfspenden an Republikaner",
+        "text": "Die US-Zwischenwahlen hatten für Tech-Unternehmer Musk nicht den erhofften Ausgang - die Republikaner, für die er Hunderte Millionen US-Dollar gespendet hatte, fuhren eine Niederlage ein. Nun bedauert er, das Geld versenkt zu haben.",
+        "link": "https://www.tagesschau.de/ausland/amerika/musk-spenden-republikaner-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "APEC-Gipfel in Shenzen: Xi umarmt Trump - Putin schon da",
-        "text": "Die Staatschefs der drei Großmächte China, den USA und Russland - Xi, Trump und Putin - sind zum APEC-Gipfel in Shenzen eingetroffen. Dabei stach eine besondere Geste hervor.",
-        "link": "https://www.tagesschau.de/ausland/asien/apec-gipfel-shenzen-trump-xi-putin-100.html"
+        "title": "KI-gestützter Cyberangriff auf EU-Kommission",
+        "text": "Die Europäische Kommission in Brüssel ist Ziel eines KI-gestützten Hackerangriffs geworden. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, sagte die Behörde nicht. Auch die Verantwortlichen sind nicht bekannt.",
+        "link": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Treffen von Trump, Xi und Putin: Rüstung, KI - und ein heikles Thema",
-        "text": "Heute beginnt im chinesischen Shenzhen das APEC-Treffen. Erstmals wird es zu einem Dreiertreffen von Xi, Trump und Putin kommen. Um was könnte es dabei gehen? Von Christoph Kober.",
-        "link": "https://www.tagesschau.de/ausland/asien/apec-trump-putin-xi-100.html"
+        "title": "Französische Soldaten in der Ukraine - aber nicht zum Kampf",
+        "text": "Russland wirft Frankreich vor, sich mit Soldaten in der Ukraine direkt am Krieg zu beteiligen. Die französische Regierung weist das zurück, bestätigt aber die Anwesenheit von Militärpersonal. Was ist ihre Aufgabe? Von C. Rienäcker.",
+        "link": "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Israels Knesset: Eisenkot-Verbündeter als Parlamentspräsident gewählt",
-        "text": "Das israelische Parlament hat Matan Kahana zu seinem neuen Präsidenten und Sprecher gewählt - damit hat der Anti-Netanjahu-Block einen wichtigen Schritt gemacht. Von Bettina Meier.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-knesset-praesident-100.html"
+        "title": "Putin, Xi und Trump: Appelle für Weltfrieden und gegen Atomkrieg",
+        "text": "Etwa eineinhalb Stunden Zeit nahmen sich die Präsidenten Trump, Putin und Xi für ihr erstes Dreiertreffen. Sie verabredeten einen Dialog über \"atomare Risiken\". Putin sprach von einer \"gemeinsamen Verantwortung\" für den Weltfrieden.",
+        "link": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Warum die USA nicht mehr masernfrei sind",
-        "text": "Die USA erleben den schlimmsten Masern-Ausbruch seit mehr als 35 Jahren. Und haben nun auch ihren Status als masernfreies Land verloren. Das hat die Panamerikanische Gesundheitsorganisation (PAHO) offiziell bekannt gegeben. Von N. Barth.",
-        "link": "https://www.tagesschau.de/ausland/amerika/masern-usa-118.html"
+        "title": "Dänisches Parlament ratifiziert Grönland-Deal mit Trump",
+        "text": "Monatelang hatte US-Präsident Trump gedroht, die USA könnten nach Grönland greifen - bis es zum Deal kam. Nun hat auch das dänische Parlament für das Abkommen gestimmt. Es kann damit in Kraft treten. Von Anna-Lou Beckmann.",
+        "link": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Krieg gegen die Ukraine: Wie schwer ist die Krim-Brücke getroffen?",
-        "text": "Die Krim-Brücke ist nicht nur eine wichtige Verbindung zwischen Russland und der annektierten Krim. Sie ist auch ein Symbol für Russlands Herrschaft. Nun hat die Ukraine die Brücke mit einem Großangriff schwer beschädigt. Was bedeutet das?",
-        "link": "https://www.tagesschau.de/ausland/europa/krim-bruecke-152.html"
+        "title": "Verteidigungsminister Pistorius wirbt in Polen für mehr Zusammenarbeit",
+        "text": "In Sicherheitsfragen arbeiten Polen und Deutschland eng zusammen, doch die Beziehung ist historisch belastet. Mit seinem zweitägigen Besuch will Verteidigungsminister Pistorius im Nachbarland für eine starke Partnerschaft werben. Von Claudia Buckenmaier.",
+        "link": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "USA gelten nicht mehr als masernfrei",
-        "text": "Mehr als ein Vierteljahrhundert lang galten die USA als masernfreies Land. Diesen Status haben die Vereinigten Staaten jetzt verloren. Immer wieder kommt es zu großen Ausbrüchen der hochansteckenden Krankheit.",
-        "link": "https://www.tagesschau.de/ausland/amerika/usa-masern-104.html"
+        "title": "\"Koalition der Willigen\": Ukrainer fordern Einheit und Entschlossenheit",
+        "text": "In der Ukraine ist die Stimmung vor den beiden Treffen heute - in Berlin und in China - eher zurückhaltend. Risiken sehen sie insbesondere bei dem Dreigipfel in Shenzhen. Sie fordern Einheit und Entschlossenheit. Von R. Barth.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Press remarks by Commissioner Zaharieva on the Advanced Materials for Europe Initiative",
-        "text": "European Commission Speech Brussels, 18 Nov 2026 Good afternoon, and welcome to the read-out of today's College meeting.\nToday, we discussed a proposal on Advanced Materials for Europe. I will present the deta...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2505"
+        "title": "Commissioner Roswall's opening speech at the EPP Group Hearing, ‘From Stress Test to Solutions – Practical Lessons for the Birds and Habitats Directives'",
+        "text": "European Commission Speech Brussels, 19 Nov 2026 Dear Norbert, Honourable Members, ladies and gentlemen,\nI am delighted to join you today.\nLet me begin by thanking the EPP Group for organising this hearing on ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2519"
       },
       {
         "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Hoekstra at EU press conference at COP31",
-        "text": "European Commission Speech Antalya, 18 Nov 2026 Ladies and gentlemen, good to see you again.\nDear Lidia, many thanks for being on stage with me again as we do at every COP.\nI want to salute the European Parli...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2502"
+        "title": "Commissioner Roswall's address at the 2nd European Bioeconomy Conference",
+        "text": "European Commission Speech Brussels, 19 Nov 2026 Ladies and gentlemen, colleagues, friends,\nIt is a huge pleasure to welcome you all to the second European Bioeconomy Conference.\nTwelve months have passed sinc...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2518"
       },
       {
         "source": "EU-Kommission",
-        "title": "Commission sets up new EU Sanctions Office and appoints new EU Sanctions Envoy",
-        "text": "European Commission Press release Brussels, 18 Nov 2026 Today, the Commission has created the EU Sanctions Office to bring together the Commission's expertise on the entire sanctions lifecycle, from policy design to implementation, enforcement, and anti-circumvention, including o",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2499"
+        "title": "Daily News 19 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 19 Nov 2026 Commission adopts its November infringement procedures\nTo help citizens and businesses benefit fully from the European Union's legislation, the Commission maint...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2516"
       },
       {
         "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Hoekstra during the Ministerial Dialogue on Implementing The Energy Transition at COP31",
-        "text": "European Commission Speech Antalya, 18 Nov 2026 Good morning!\nLet me start by thanking the Netherlands, Tuvalu and Ireland for organising this and being excellent hosts and chairs of this conference.\nSanta Ma...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2498"
+        "title": "Remarks by Commissioner Hoekstra at press conference \"Powering the Transition: New Alliances to Replace the World's Most Potent Greenhouse Gas SF6” at COP31",
+        "text": "European Commission Speech Antalya, 19 Nov 2026 Ladies and gentlemen,\nGood morning to all of you.\nI am privileged to be here with you on the kind invitation of Minister Schneider.\nDear Carsten, really great t...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2514"
       },
       {
         "source": "EU-Kommission",
-        "title": "Tägliche Nachrichten 18 / 11 / 2026",
-        "text": "European Commission Nachrichten des Tages Brussels, 18 Nov 2026 Kommission richtet neues EU-Sanktionsbüro ein und ernennt neuen EU-Sanktionsbeauftragten Die Europäische Kommission hat heute das EU-Sanktionsbüro eingerichtet,...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2497"
+        "title": "Erklärung von Exekutiv-Vizepräsidentin Mînzatu und Kommissionsmitglied Lahbib vor dem Europäischen Tag der Lohngleichheit",
+        "text": "European Commission Erklärung Brussels, 19 Nov 2026 Gleiches Entgelt ist ein Grundrecht. Doch mehr als sechs Jahrzehnte nach der Verankerung des Grundsatzes in den Verträgen verdienen Frauen in der gesamten Europ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2503"
       },
       {
         "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Kubilius on the Instrument for Coordinated Support to Ukraine",
-        "text": "European Commission Speech Brussels, 18 Nov 2026 This year experience have shown that Ukraine support loan for Ukraine's defence, 60 billion euro for the years 2026-2027, is a real game changer; it proves succ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2495"
+        "title": "EU and Jordan advance strategic partnership backed by €3 billion to boost investment, create jobs and strengthen regional stability",
+        "text": "European Commission Press release Amman, 19 Nov 2026 Today, European Commission President Ursula von der Leyen and Commissioner for the Mediterranean Dubravka Šuica took part in the EU-Jordan Investment Conference at the Dead Sea. Alongside His Majesty King Abdullah II bin Al-Hus",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2508"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Wie riskant ist Nvidias Kurssturz für ETF-Sparer?",
-        "text": "Nach dem Rücktritt von Jensen Huang hat die Nvidia-Aktie massiv an Wert verloren. Weil sie im MSCI World gelistet ist, betrifft das viele ETF-Sparer. Wie schwer der Kursrutsch wiegt - und wo jetzt weitere Gefahren lauern. Von Angela Göpfert.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/nvidia-kurssturz-etf-sparer-risiken-100.html"
+        "title": "Marktbericht: Anthropic-Börsengang schiebt DAX an",
+        "text": "Der DAX startet nach den gestrigen Kursverlusten einen Erholungsversuch und legt im frühen Handel zu. Der Optimismus vor dem Anthropic-Börsengang in den USA macht Anleger mutiger.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wenig Bewegung beim DAX",
-        "text": "Starke Zahlen des US-Chipherstellers Nvidia bringen nicht den erhofften Befreiungsschlag. Tech-Sorgen belasten auch weiter den Aktienmarkt.",
+        "title": "Anthropic-Börsengang wird Musk-Rekord übertreffen",
+        "text": "Zum ersten Mal geht mit Anthropic ein maßgebliches KI-Unternehmen an den Markt. Der Börsengang wird der größte in der Geschichte. Ist das der Stimmungstest für die gesamte Branche? Giselle Ucar über die Ambitionen des KI-Riesen.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Deutliche Kursverluste: DAX rutscht unter 26.000er-Marke",
+        "text": "Das Rekordhoch der vergangenen Woche ist längst wieder passé. Der Leitindex DAX endet mit einem deutlichen Minus und fällt bis auf 25.736 Punkte. Da helfen auch gute Zahlen aus der Industrie nichts.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nvidia-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "\"An der Zinsschraube drehen\", um die Inflation zu bekämpfen",
-        "text": "Die Inflationssorgen sind zurück. Über einen Ausblick auf 2027, Unterschiede zur überstandenen Rekordinflation und was sich vom Nikolaus über die Preisbildung lernen lässt, spricht Bundesbankpräsident Nagel im tagesschau-Interview.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/inflation-interview-bundesbankpraesident-nagel-100.html"
+        "title": "Deutscher Ökonom Brunnermeier als EZB-Chefvolkswirt nominiert",
+        "text": "Die Bundesregierung schlägt Markus Brunnermeier als nächsten Chefvolkswirt der Europäischen Zentralbank vor. Der Posten gilt als einflussreich, wenn es um geldpolitische Entscheidungen der Notenbank geht.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Interview: Wie die Sicherheit von digitalen Gesundheitsanwendungen geprüft wird",
+      "text": "Digitale Gesundheitsanwendungen gibt es auf Rezept.    –   Alle Rechte vorbehalten: Hintergrund: IMAGO / Panthermedia, Arzt: impulsqWer seine Symptome einer digitalen Gesundheitsanwendung anvertraut, will darauf vertrauen können, dass diese sensiblen Daten sicher sind. Doch wer p",
+      "link": "https://netzpolitik.org/2026/interview-wie-die-sicherheit-von-digitalen-gesundheitsanwendungen-geprueft-wird/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Heimlicher Zugriff auf Fahrzeugdaten: Die Auto-Branche als verlängerter Arm der Geheimdienste",
+      "text": "Heutige Autos sammeln Daten in Hülle und Fülle –  nun auch für die Geheimdienste.    –   Gemeinfrei: Vladimir SrajberDie Auto-Branche ist ab jetzt verpflichtet, auf Nachfrage Telemetrie‑, Sensor- und Verhaltensdaten über Fahrer und Fahrzeug-Insassen heimlich an Geheimdienste weit",
+      "link": "https://netzpolitik.org/2026/heimlicher-zugriff-auf-fahrzeugdaten-die-auto-branche-als-verlaengerter-arm-der-geheimdienste/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Games-Branche: Arbeitskampf bei GTA VI",
+      "text": "Für die gewerkschaftliche Organisierung braucht es keine Waffen, aber Mut und einen langen Atem.    –   Alle Rechte vorbehalten: Rockstar GamesMorgen erscheint GTA VI, eines der größten Spiele aller Zeiten. Doch die Menschen, die es gebaut haben, kämpfen vor Gericht und im Untern",
+      "link": "https://netzpolitik.org/2026/games-branche-arbeitskampf-bei-gta-vi/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Unterschätzte Schufa-Urteile des Bundesgerichtshofs: Transparenz erst, wenn es wehtut",
@@ -269,24 +297,6 @@
       "title": "Proposed GDPR changes: Workplace Data Abuses Could Soon Be Harder to Uncover",
       "text": "Uber Drivers used GDPR data access requests to defend workers' rights    –   Alle Rechte vorbehalten: NurPhoto via ImagoThe EU commission has proposed the Digital Omnibus without conducting a full impact assessment. A study from the European Trade Union Institute examines its pot",
       "link": "https://netzpolitik.org/2026/proposed-gdpr-changes-workplace-data-abuses-could-soon-be-harder-to-uncover/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Wir brauchen jetzt Deine Hilfe: Uns fehlen noch 477.000 Euro!",
-      "text": "Wir machen Arbeit, die sonst keiner macht. Dafür brauchen wir deine Unterstützung! Damit wir im kommenden Jahr weiter mit voller Kraft für den Erhalt von Grundrechten und der Demokratie schreiben können.",
-      "link": "https://netzpolitik.org/2026/wir-brauchen-jetzt-deine-hilfe-uns-fehlen-noch-477-000-euro/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Pläne der Bundesregierung: Dutzende Organisationen warnen vor KI bei Migrationsverfahren",
-      "text": "Ohne Transparenz der KI-Systeme können sich Betroffene in Migrationsverfahren kaum wehren. (Symbolbild)    –   CC-BY 4.0: Reihaneh GolpayeganiWer entscheidet künftig über Asylverfahren: Beamte oder Algorithmen? Der Gesetzentwurf der schwarz-roten Koalition steht in der Kritik. Es",
-      "link": "https://netzpolitik.org/2026/plaene-der-bundesregierung-dutzende-organisationen-warnen-vor-ki-bei-migrationsverfahren/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Bundeshaushalt: Kein Moos für Open Source",
-      "text": "Nur im Schneckentempo: Wie die Bundesregierung ihre ambitionierten Ziele für Open Source erreicht.    –   CC-BY-NC-ND 2.0: slackwareKeine Strategie, wenig Geld: Beim Thema Open Source lässt die Bundesregierung ihre Versprechen aus dem Koalitionsvertrag schleifen. Laut Fachleuten ",
-      "link": "https://netzpolitik.org/2026/bundeshaushalt-kein-moos-fuer-open-source/"
     }
   ]
 }
