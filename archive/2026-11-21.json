@@ -1,0 +1,281 @@
+{
+  "updated": "2026-11-21T13:18+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 24802.8,
+      "unit": "Pkt.",
+      "change_pct": -2.6,
+      "history": [
+        26771.9,
+        26749.9,
+        26598.6,
+        26045.4,
+        25736.2,
+        25463.8,
+        24802.8
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 25029.0,
+      "unit": "Pkt.",
+      "change_pct": -5.61,
+      "history": [
+        28289.2,
+        27943.7,
+        27197.2,
+        27001.8,
+        27116.3,
+        26517.1,
+        25029.0
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 6910.4,
+      "unit": "Pkt.",
+      "change_pct": -3.7,
+      "history": [
+        7592.4,
+        7561.7,
+        7416.6,
+        7340.5,
+        7323.6,
+        7175.8,
+        6910.4
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 92.6,
+      "unit": "$",
+      "change_pct": 0.65,
+      "history": [
+        95.8,
+        95.8,
+        92.4,
+        93.1,
+        91.9,
+        92.0,
+        92.6
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3515.4,
+      "unit": "$",
+      "change_pct": -4.62,
+      "history": [
+        3885.3,
+        3886.3,
+        3853.0,
+        3864.2,
+        3741.9,
+        3685.5,
+        3515.4
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.097,
+      "unit": "",
+      "change_pct": -0.02,
+      "history": [
+        1.1095,
+        1.105,
+        1.1025,
+        1.0998,
+        1.0993,
+        1.0972,
+        1.097
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "sp500"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+    "text": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+    "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+        "text": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+        "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
+        "text": "Der im Sommer verstorbene Klaus-Michael Kühne war einer der prägendsten Unternehmer der deutschen Nachkriegsgeschichte. Sein Umgang mit der Vergangenheit seines Imperiums war umstritten. Was wird daraus? Von Sandra Biegger.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
+        "text": "Sorry, kein Impfstoff da: Wer sich dieser Tage in der Hausarztpraxis gegen Grippe impfen lassen will, könnte mancherorts vertröstet werden. Der Hausärzteverband beklagt zu wenig Impfstoff. Die Apotheker sehen das weniger dramatisch.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
+        "text": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen. Verkehrsminister Bilger knüpft daran eine klare Erwartung: Deutschland müsse starker Produktionstandort bleiben.",
+        "link": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
+        "text": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten. Von P. Sauer.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
+        "text": "Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+        "text": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
+        "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Merz: Unterstützung der Ukraine bringt uns Dividende",
+        "text": "Seit dem Angriff Russlands unterstützt Deutschland die Ukraine - insgesamt mit mehr als 100 Milliarden Euro. Ausgaben, die sich auszahlen könnten. Kanzler Merz sieht - trotz des Krieges - positive Effekte für die deutsche Wirtschaft.",
+        "link": "https://www.tagesschau.de/wirtschaft/deutsch-ukrainisches-wirtschaftsforum-104.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gespräche mit Russland ja - aber wo?",
+        "text": "Gesprächsbereit, aber nicht um jeden Preis: Verteidigungsminister Pistorius hat das Angebot Russlands für ein Treffen mit den Europäern begrüßt. Moskau käme dafür aber nicht infrage. Zudem bezweifelt er eine ehrliche Verhandlungsbereitschaft.",
+        "link": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Polen wirft Russland gezielte Provokation vor",
+        "text": "Mehrere Flugkörper sind in den polnischen Luftraum eingedrungen - nach Einschätzung der Regierung eine gezielte Provokation Russlands. Sie könnte in Zusammenhang mit einer Übung der Ukraine-Unterstützer stehen, die derzeit in Polen stattfindet.",
+        "link": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by President von der Leyen on the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement",
+        "text": "European Commission Statement Brussels, 21 Nov 2026 Ladies and Gentlemen,\nI have just spoken to President Prabowo to mark this momentous day for the European Union and Indonesia. Today we sign our Comprehensive E...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2557"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by President von der Leyen on the assassination attempt against a US-Ukrainian citizen in Denmark",
+        "text": "European Commission Statement Brussels, 21 Nov 2026 I strongly condemn the assassination attempt against a US-Ukrainian citizen in Denmark, orchestrated by Russian intelligence services.\nThis was an attack on EU ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2556"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Šefčovič at the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement",
+        "text": "European Commission Statement Brussels, 21 Nov 2026 A warm welcome, dear Ministers. I am truly pleased to host you and your delegation. Because today, we seal a friendship and open a new chapter.\nAfter nine years...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2539"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU and Indonesia sign ambitious trade and investment agreements",
+        "text": "European Commission Press release Brussels, 21 Nov 2026 The European Union and Indonesia today signed their Comprehensive Economic Partnership Agreement (CEPA), and Investment Protection Agreement (IPA).",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2532"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Factsheet EU-Indonesia - Main benefits",
+        "text": "European Commission Factsheet Brussels, 23 Sep 2025   Factsheet EU-Indonesia - Main benefits Factsheet EU-Indonesia - Main benefits",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2169"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Factsheet EU-Indonesia - Agriculture",
+        "text": "European Commission Factsheet Brussels, 23 Sep 2025   Factsheet EU-Indonesia - Agriculture Factsheet EU-Indonesia - Agriculture",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2170"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
+        "text": "An den Finanzmärkten rollt eine Verkaufswelle durch den vom Erfolg verwöhnten Technologiesektor. Der DAX folgt den Verlusten an der Wall Street und schließt mit dem höchsten Wochenminus seit Monaten.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
+        "text": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier.",
+        "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
+        "text": "Der aufsehenerregende Börsengang von Anthropic hat den Ausverkauf bei KI-Aktien nicht stoppen können. Der Deutsche Aktienindex ist sogar zwischenzeitlich unter die Marke von 25.000 Punkten gerutscht.",
+        "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 47: Die Woche, in der wir Dich brauchen",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 47. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 142.299 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Mobilfunk aus dem All: Kampf um die digitale Zukunft",
+      "text": "So einsam und verlassen geht es im Orbit nicht zu: Allein Starlink hält über 10.000 Satelliten in einer niedrigen Umlaufbahn über der Erde. (Fotomontage)    –   CC-BY 4.0: Wikideas1 / Bearbeitung: netzpolitik.orgIm Orbit wird die Zukunft digitaler Infrastruktur entschieden. Wer d",
+      "link": "https://netzpolitik.org/2026/mobilfunk-aus-dem-all-kampf-um-die-digitale-zukunft/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Kids Act: EU-Datenschutzbehörde warnt vor Alterskontrollen",
+      "text": "Wie streng, wie mild soll der Kids Act sein, um junge Menschen zu schützen? (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Julie Ricard; Bearbeitung: netzpolitik.orgNicht erforderlich, nicht ausgereift: Der Europäische Datenschutzbeauftragte kritisiert die",
+      "link": "https://netzpolitik.org/2026/kids-act-eu-datenschutzbehoerde-warnt-vor-alterskontrollen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digital levy: While Germany waits, big tech’s tax gap grows",
+      "text": "Last year, Culture and Media Minister Wolfram Weimer promised a key-points paper on digital levies leading to a draft law. The paper has yet to appear.    –   Alle Rechte vorbehalten: photothekRecord profits, ever-lower taxes: big tech’s tax gap is nearing €300 billion, a new stu",
+      "link": "https://netzpolitik.org/2026/digital-levy-while-germany-waits-big-techs-tax-gap-grows/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Bericht zur Steuerlücke: Big Tech zahlt immer weniger Steuern",
+      "text": "Im vergangenen Jahr kündigte Kulturstaatsminister Wolfram Weimer ein Eckpunktepapier an, als Vorstufe zu einem Gesetzentwurf. Das Papier liegt bis heute nicht vor.    –   Alle Rechte vorbehalten: photothekGroße Tech-Konzerne erzielen Rekordgewinne, zahlen jedoch immer weniger Ste",
+      "link": "https://netzpolitik.org/2026/bericht-zur-steuerluecke-big-tech-zahlt-immer-weniger-steuern/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Vermutlich illegal: Bundespolizei soll Online-Werbung für Überwachung nutzen",
+      "text": "Überwachung mit Werbedaten: Dem Smartphone immer auf der Spur.    –   Alle Rechte vorbehalten: Tushar GuptaEin Werkzeug, um Millionen Handys auf Schritt und Tritt zu verfolgen: Die Bundespolizei soll ein Überwachungsprogramm nutzen, das auf Daten aus der Online-Werbung basiert. D",
+      "link": "https://netzpolitik.org/2026/vermutlich-illegal-bundespolizei-soll-online-werbung-fuer-ueberwachung-nutzen/"
+    }
+  ]
+}

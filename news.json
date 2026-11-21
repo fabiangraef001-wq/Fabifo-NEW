@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-20T13:54+00:00",
+  "updated": "2026-11-21T13:18+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 24822.8,
+      "value": 24802.8,
       "unit": "Pkt.",
-      "change_pct": -2.52,
+      "change_pct": -2.6,
       "history": [
         26771.9,
         26749.9,
@@ -13,44 +13,44 @@
         26045.4,
         25736.2,
         25463.8,
-        24822.8
+        24802.8
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 26517.1,
+      "value": 25029.0,
       "unit": "Pkt.",
-      "change_pct": -2.21,
+      "change_pct": -5.61,
       "history": [
-        28374.2,
         28289.2,
         27943.7,
         27197.2,
         27001.8,
         27116.3,
-        26517.1
+        26517.1,
+        25029.0
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7175.8,
+      "value": 6910.4,
       "unit": "Pkt.",
-      "change_pct": -2.02,
+      "change_pct": -3.7,
       "history": [
-        7619.4,
         7592.4,
         7561.7,
         7416.6,
         7340.5,
         7323.6,
-        7175.8
+        7175.8,
+        6910.4
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 89.0,
+      "value": 92.6,
       "unit": "$",
-      "change_pct": -3.26,
+      "change_pct": 0.65,
       "history": [
         95.8,
         95.8,
@@ -58,14 +58,14 @@
         93.1,
         91.9,
         92.0,
-        89.0
+        92.6
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 3557.9,
+      "value": 3515.4,
       "unit": "$",
-      "change_pct": -3.46,
+      "change_pct": -4.62,
       "history": [
         3885.3,
         3886.3,
@@ -73,14 +73,14 @@
         3864.2,
         3741.9,
         3685.5,
-        3557.9
+        3515.4
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.0996,
+      "value": 1.097,
       "unit": "",
-      "change_pct": 0.22,
+      "change_pct": -0.02,
       "history": [
         1.1095,
         1.105,
@@ -88,7 +88,7 @@
         1.0998,
         1.0993,
         1.0972,
-        1.0996
+        1.097
       ]
     },
     "fed_rate": {
@@ -108,163 +108,157 @@
   },
   "ticker_relevant": [
     "dax",
-    "brent"
+    "sp500"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Polen wirft Russland gezielte Provokation vor",
-    "text": "Mehrere Flugkörper sind in den polnischen Luftraum eingedrungen - nach Einschätzung der Regierung eine gezielte Provokation Russlands. Sie könnte in Zusammenhang mit einer Übung der Ukraine-Unterstützer stehen, die derzeit in Polen stattfindet.",
-    "link": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html"
+    "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+    "text": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+    "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Bundesrat stoppt \"Startchancengesetz\" vorerst",
-        "text": "Der Bundesrat will beim \"Startchancengesetz\" nachbessern. Für andere lebensnahe Vorhaben wie die \"Frühstartrente\", die Reform der Notfallversorgung oder die digitale Brieftasche gab die Länderkammer hingegen grünes Licht.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html"
+        "title": "Italiens Ex-Polizeichef De Gennaro nimmt sich das Leben",
+        "text": "Gianni De Gennaro bekleidete lange Schlüsselpositionen im italienischen Sicherheitsapparat - sei es im Kampf gegen die Mafia, beim G8-Gipfel in Genua oder für die Geheimdienste. Kurz vor einer Gerichtsanhörung tötete er sich selbst.",
+        "link": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Junge Menschen profitieren: EU und Großbritannien nähern sich wieder an",
-        "text": "Großbritannien gehört seit Jahren nicht mehr zur Europäischen Union. Doch jetzt machen beide Seiten wieder Schritte aufeinander zu. Von einem der ersten Abkommen profitieren vor allem junge Menschen.",
-        "link": "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html"
+        "title": "Nach Kühnes Tod: Kontinuität und Aufarbeitung bei Kühne+Nagel",
+        "text": "Der im Sommer verstorbene Klaus-Michael Kühne war einer der prägendsten Unternehmer der deutschen Nachkriegsgeschichte. Sein Umgang mit der Vergangenheit seines Imperiums war umstritten. Was wird daraus? Von Sandra Biegger.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Galeria schließt drei Filialen - und noch viele mehr?",
-        "text": "Galeria trennt sich von Filialen in Berlin, Köln und München. Medienberichten zufolge ist das jedoch erst der Anfang: Von den derzeitigen Standorten könnte am Ende nur etwa die Hälfte übrig bleiben.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/galerie-schliessung-filialen-100.html"
+        "title": "Hausärzte beklagen Mangel an Grippe-Impfstoff",
+        "text": "Sorry, kein Impfstoff da: Wer sich dieser Tage in der Hausarztpraxis gegen Grippe impfen lassen will, könnte mancherorts vertröstet werden. Der Hausärzteverband beklagt zu wenig Impfstoff. Die Apotheker sehen das weniger dramatisch.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Protest von \"Gen Z regelt\": Eine zersplitterte Bewegung",
-        "text": "Die Protestbewegung \"Gen Z regelt\" fordert von der Politik, viele verschiedene Lebens- und Gerechtigkeitsfragen für die junge Generation zu lösen. Hat sie damit Erfolg? Von Jan Koch.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html"
+        "title": "Bilger fordert Bekenntnis der Autoindustrie zu Deutschland",
+        "text": "Die EU könnte Autokonzernen erlauben, auch nach 2035 neue Verbrenner und Hybride zu verkaufen. Verkehrsminister Bilger knüpft daran eine klare Erwartung: Deutschland müsse starker Produktionstandort bleiben.",
+        "link": "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Warum die Jugend der Gen Z im Dauerkrisenmodus steckt",
-        "text": "Von Kriegen bis Klimawandel - Jugendliche sehen sich stärker als frühere Generationen durch einen Mix aus Dauerkrisen bedroht. Von der Politik fühlen sie sich im Stich gelassen und fürchten um ihre Zukunft. Von Sven Kästner.",
-        "link": "https://www.tagesschau.de/wissen/forschung/jugendliche-in-der-dauerkrise-100.html"
+        "title": "\"Altersvorsorgedepot für nahezu alle Riester-Sparer interessant\"",
+        "text": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr neu auf. Die staatliche Förderung könnte beim neuen Altersvorsorgedepot für viele lukrativer sein als beim bisherigen \"Riestern\". Das sollte man beachten. Von P. Sauer.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Urteil hindert İmamoğlu an Präsidentschaftskandidatur in der Türkei",
-        "text": "Der größte Rivale von Präsident Erdoğan sitzt bereits im Gefängnis. Nun verhindert ein weiteres Gerichtsurteil, dass İmamoğlu bei der nächsten Wahl kandidieren darf. Es geht dabei um seinen Hochschulabschluss.",
-        "link": "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html"
+        "title": "Altersvorsorgedepot: Staatlich organisierter Fonds nicht startklar",
+        "text": "Zum Jahreswechsel startet das neue Modell der staatlichen Altersvorsorge, das Altersvorsorgedepot. Private Angebote gibt es längst - doch das öffentlich organisierte Basis-Fondsangebot wird dann wohl noch nicht bereit sein.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
+        "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+        "text": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
+        "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Merz: Unterstützung der Ukraine bringt uns Dividende",
+        "text": "Seit dem Angriff Russlands unterstützt Deutschland die Ukraine - insgesamt mit mehr als 100 Milliarden Euro. Ausgaben, die sich auszahlen könnten. Kanzler Merz sieht - trotz des Krieges - positive Effekte für die deutsche Wirtschaft.",
+        "link": "https://www.tagesschau.de/wirtschaft/deutsch-ukrainisches-wirtschaftsforum-104.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gespräche mit Russland ja - aber wo?",
+        "text": "Gesprächsbereit, aber nicht um jeden Preis: Verteidigungsminister Pistorius hat das Angebot Russlands für ein Treffen mit den Europäern begrüßt. Moskau käme dafür aber nicht infrage. Zudem bezweifelt er eine ehrliche Verhandlungsbereitschaft.",
+        "link": "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html"
+      },
+      {
+        "source": "Tagesschau",
         "title": "Polen wirft Russland gezielte Provokation vor",
         "text": "Mehrere Flugkörper sind in den polnischen Luftraum eingedrungen - nach Einschätzung der Regierung eine gezielte Provokation Russlands. Sie könnte in Zusammenhang mit einer Übung der Ukraine-Unterstützer stehen, die derzeit in Polen stattfindet.",
         "link": "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
-        "text": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten.",
-        "link": "https://www.tagesschau.de/wirtschaft/kalifornien-justiz-aufklaerung-nvidia-chips-china-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Neue EU-Regeln ab heute: Mehr Schutz vor Verschuldung bei Kleinkrediten",
-        "text": "Mehr Schutz für Verbraucher, mehr Kontrolle bei Krediten: Von heute an gilt die neue Verbraucherkreditrichtlinie. Selbst kleine Beträge wie bei \"Heute kaufen, später zahlen\" verlangen von Anbietern nun mehr Aufwand. Von Juri Sonnenholzner.",
-        "link": "https://www.tagesschau.de/wirtschaft/kleinkredite-neue-regeln-verschuldung-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Kritik aus den USA nach Treffen Trumps mit Xi und Putin",
-        "text": "Erstmals in der Geschichte saß ein US-Präsident allein mit dem chinesischen und dem russischen Staatschef an einem Tisch. Große Deals blieben offenbar aus, die Debatte zu Hause in den USA ist groß: War das Diplomatie - oder Inszenierung? Von S. Jackisch.",
-        "link": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Dreiergipfel in Shenzhen: Xis Choreografie - assistiert von Trump und Putin",
-        "text": "Beim Gipfel von Xi, Trump und Putin ging es um schöne Bilder und Schmeicheleien. Konkrete Politik? Fehlanzeige. Doch China gelang es, ein Thema zu setzen, das vor allem seinen Interessen und denen Russlands dient. Von Marie von Mallinckrodt.",
-        "link": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Merz will baldige Gespräche mit Russland auf neutralem Boden",
-        "text": "Die \"Koalition der Willigen\" verspricht, der Ukraine \"so lange wie nötig\" zu helfen. Nach dem Gipfel in Berlin rief Kanzler Merz Russlands Präsidenten Putin auf, die Waffen niederzulegen. Einen Frieden könne es nur mit Beteiligung Europas geben.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Commissioner Tzitzikostas delivers a video address at 50th anniversary of the Hellenic Institute of Transportation Engineers",
-        "text": "European Commission Ομιλία Brussels, 20 Nov 2026 Κύριε Πρόεδρε,\nΚυρίες και κύριοι,\nΤο Ελληνικό Ινστιτούτο Συγκοινωνιολόγων ιδρύθηκε το 1976. Τον Ιούλιο της ίδιας χρονιάς, η Ελλάδα άνοιγε στις Βρυξέλλες τις δια...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/el/speech_26_2544"
+        "title": "Statement by President von der Leyen on the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement",
+        "text": "European Commission Statement Brussels, 21 Nov 2026 Ladies and Gentlemen,\nI have just spoken to President Prabowo to mark this momentous day for the European Union and Indonesia. Today we sign our Comprehensive E...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2557"
       },
       {
         "source": "EU-Kommission",
-        "title": "Tägliche Nachrichten 20 / 11 / 2026",
-        "text": "European Commission Nachrichten des Tages Brussels, 20 Nov 2026 Kommission gibt grünes Licht für Zahlungsanträge in Höhe von über 16 Mrd. EUR für Belgien, Bulgarien, Griechenland, Slowenien und die Niederlande Die Europäisch...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/mex_26_2543"
+        "title": "Statement by President von der Leyen on the assassination attempt against a US-Ukrainian citizen in Denmark",
+        "text": "European Commission Statement Brussels, 21 Nov 2026 I strongly condemn the assassination attempt against a US-Ukrainian citizen in Denmark, orchestrated by Russian intelligence services.\nThis was an attack on EU ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2556"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission gibt grünes Licht für Sloweniens siebten und letzten Zahlungsantrag in Höhe von 271,8 Mio. EUR im Rahmen von NextGenerationEU",
-        "text": "European Commission Pressemitteilung Brussels, 20 Nov 2026 Die Europäische Kommission hat heute den siebten Zahlungsantrag Sloweniens in Höhe von 271,8 Mio. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, grünes Licht gegeben.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2535"
+        "title": "Remarks by Commissioner Šefčovič at the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement",
+        "text": "European Commission Statement Brussels, 21 Nov 2026 A warm welcome, dear Ministers. I am truly pleased to host you and your delegation. Because today, we seal a friendship and open a new chapter.\nAfter nine years...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2539"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission gibt grünes Licht für die endgültigen Zahlungsanträge Griechenlands in Höhe von 11,32 Mrd. EUR im Rahmen von NextGenerationEU",
-        "text": "European Commission Pressemitteilung Brussels, 20 Nov 2026 Die Europäische Kommission hat heute grünes Licht für die achten und neunten Zahlungsanträge Griechenlands in Höhe von 11,32 Mrd. EUR im Rahmen der Aufbau- und Resilienzfazilität (ARF), dem Kernstück von NextGenerationEU,",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2534"
+        "title": "EU and Indonesia sign ambitious trade and investment agreements",
+        "text": "European Commission Press release Brussels, 21 Nov 2026 The European Union and Indonesia today signed their Comprehensive Economic Partnership Agreement (CEPA), and Investment Protection Agreement (IPA).",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2532"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission gibt grünes Licht für Belgiens letzten Zahlungsantrag in Höhe von 1,38 Mrd. EUR im Rahmen von NextGenerationEU",
-        "text": "European Commission Pressemitteilung Brussels, 20 Nov 2026 Die Europäische Kommission hat heute den sechsten und letzten Zahlungsantrag Belgiens in Höhe von 1,38 Mrd. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, teilweise grünes Licht gege",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2533"
+        "title": "Factsheet EU-Indonesia - Main benefits",
+        "text": "European Commission Factsheet Brussels, 23 Sep 2025   Factsheet EU-Indonesia - Main benefits Factsheet EU-Indonesia - Main benefits",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2169"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission gibt grünes Licht für Abschlusszahlungsantrag Bulgariens in Höhe von 1,82 Mrd. EUR im Rahmen von NextGenerationEU",
-        "text": "European Commission Pressemitteilung Brussels, 20 Nov 2026 Die Europäische Kommission hat heute den fünften und letzten Zahlungsantrag Bulgariens in Höhe von 1,82 Mrd. EUR im Rahmen der Aufbau- und Resilienzfazilität, dem Kernstück von NextGenerationEU, teilweise grünes Licht geg",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2531"
+        "title": "Factsheet EU-Indonesia - Agriculture",
+        "text": "European Commission Factsheet Brussels, 23 Sep 2025   Factsheet EU-Indonesia - Agriculture Factsheet EU-Indonesia - Agriculture",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2170"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
-        "text": "Der aufsehenerregende Börsengang von Anthropic hat den Ausverkauf bei KI-Aktien nicht stoppen können. Der Deutsche Aktienindex ist sogar zwischenzeitlich unter die Marke von 25.000 Punkten gerutscht.",
-        "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Marktbericht: DAX-Talfahrt setzt sich fort",
-        "text": "Der DAX fällt im frühen Handel weit zurück, es droht der sechste Verlusttag in Folge. Das erfolgreiche Börsendebüt von Anthropic hat die Stimmung nicht aufgehellt, und die Inflationssorgen erhalten neue Nahrung.",
+        "title": "Marktbericht: Ausverkauf geht weiter - auch im DAX",
+        "text": "An den Finanzmärkten rollt eine Verkaufswelle durch den vom Erfolg verwöhnten Technologiesektor. Der DAX folgt den Verlusten an der Wall Street und schließt mit dem höchsten Wochenminus seit Monaten.",
         "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Deutliches Kursplus: So lief der erste Handelstag von Anthropic",
-        "text": "Den Anfangshype konnte Anthropic am ersten Börsentag nicht ganz halten. Trotzdem ist die Aktie mit einem deutlichen Kursplus aus dem Handel gegangen. Das machte viele Beschäftigte auf einen Schlag reich.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersenstart-ipo-100.html"
+        "title": "Anthropic-Aktie stürzt ab - KI-Angst an der Börse",
+        "text": "Erst legt der KI-Entwickler Anthropic einen der größten Börsengänge der Geschichte hin. Gleichzeitig geraten Technologie- und KI-Aktien weltweit unter Druck. Wie passt das zusammen? Von Michelle Goddemeier.",
+        "link": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "COP31: Deutsche Politiker auf Kurssuche bei der Weltklimakonferenz",
-        "text": "Bei der Weltklimakonferenz in Antalya wird auch am offiziell letzten Tag über Finanzierung und den Ausstieg aus Fossilen Energien gestritten. Die Zeit drängt - und viele kleinere Länder wünschen sich mehr Engagement aus Deutschland. Von D. Hebestreit.",
-        "link": "https://www.tagesschau.de/ausland/asien/cop-antalya-deutschland-100.html"
-      },
-      {
-        "source": "Tagesschau",
-        "title": "Rekord an der Börse: Lehren aus dem Anthropic-Börsengang",
-        "text": "Anthropic gelingt der größte Börsengang aller Zeiten. Nach dem Absturz von Nvidia verbindet die KI-Branche damit neue Hoffnungen. Sind die Zweifel am Boom rund um Künstliche Intelligenz nun zerstreut? Von Angela Göpfert.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/anthropic-boersengang-ki-boom-100.html"
+        "title": "Marktbericht: KI-Kater nach dem Anthropic-Börsengang",
+        "text": "Der aufsehenerregende Börsengang von Anthropic hat den Ausverkauf bei KI-Aktien nicht stoppen können. Der Deutsche Aktienindex ist sogar zwischenzeitlich unter die Marke von 25.000 Punkten gerutscht.",
+        "link": "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 47: Die Woche, in der wir Dich brauchen",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 47. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 142.299 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Mobilfunk aus dem All: Kampf um die digitale Zukunft",
+      "text": "So einsam und verlassen geht es im Orbit nicht zu: Allein Starlink hält über 10.000 Satelliten in einer niedrigen Umlaufbahn über der Erde. (Fotomontage)    –   CC-BY 4.0: Wikideas1 / Bearbeitung: netzpolitik.orgIm Orbit wird die Zukunft digitaler Infrastruktur entschieden. Wer d",
+      "link": "https://netzpolitik.org/2026/mobilfunk-aus-dem-all-kampf-um-die-digitale-zukunft/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Kids Act: EU-Datenschutzbehörde warnt vor Alterskontrollen",
+      "text": "Wie streng, wie mild soll der Kids Act sein, um junge Menschen zu schützen? (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Julie Ricard; Bearbeitung: netzpolitik.orgNicht erforderlich, nicht ausgereift: Der Europäische Datenschutzbeauftragte kritisiert die",
+      "link": "https://netzpolitik.org/2026/kids-act-eu-datenschutzbehoerde-warnt-vor-alterskontrollen/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Digital levy: While Germany waits, big tech’s tax gap grows",
@@ -282,24 +276,6 @@
       "title": "Vermutlich illegal: Bundespolizei soll Online-Werbung für Überwachung nutzen",
       "text": "Überwachung mit Werbedaten: Dem Smartphone immer auf der Spur.    –   Alle Rechte vorbehalten: Tushar GuptaEin Werkzeug, um Millionen Handys auf Schritt und Tritt zu verfolgen: Die Bundespolizei soll ein Überwachungsprogramm nutzen, das auf Daten aus der Online-Werbung basiert. D",
       "link": "https://netzpolitik.org/2026/vermutlich-illegal-bundespolizei-soll-online-werbung-fuer-ueberwachung-nutzen/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Kampagne gegen Antisemitismus: Slopaganda und das ganz große Hufeisen",
-      "text": "Ausschnitt aus dem Kampagnen-Video. Es enthält u.a. sinnlose Wortkombinationen wie \"Yalla the Infer\", die auf KI-Fehler hindeuten.    –   Alle Rechte vorbehalten: WerteInitiative e. V.Ein Chamäleon wechselt vom Skinhead-Look zum Palästinenser-Tuch: Die Kampagne der WerteInitiativ",
-      "link": "https://netzpolitik.org/2026/kampagne-gegen-antisemitismus-slopaganda-und-das-ganz-grosse-hufeisen/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Interview: Wie die Sicherheit von digitalen Gesundheitsanwendungen geprüft wird",
-      "text": "Digitale Gesundheitsanwendungen gibt es auf Rezept.    –   Alle Rechte vorbehalten: Hintergrund: IMAGO / Panthermedia, Arzt: impulsqWer seine Symptome einer digitalen Gesundheitsanwendung anvertraut, will darauf vertrauen können, dass diese sensiblen Daten sicher sind. Doch wer p",
-      "link": "https://netzpolitik.org/2026/interview-wie-die-sicherheit-von-digitalen-gesundheitsanwendungen-geprueft-wird/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Heimlicher Zugriff auf Fahrzeugdaten: Die Auto-Branche als verlängerter Arm der Geheimdienste",
-      "text": "Heutige Autos sammeln Daten in Hülle und Fülle –  nun auch für die Geheimdienste.    –   Gemeinfrei: Vladimir SrajberDie Auto-Branche ist ab jetzt verpflichtet, auf Nachfrage Telemetrie‑, Sensor- und Verhaltensdaten über Fahrer und Fahrzeug-Insassen heimlich an Geheimdienste weit",
-      "link": "https://netzpolitik.org/2026/heimlicher-zugriff-auf-fahrzeugdaten-die-auto-branche-als-verlaengerter-arm-der-geheimdienste/"
     }
   ]
 }
