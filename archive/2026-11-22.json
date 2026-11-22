@@ -1,0 +1,254 @@
+{
+  "updated": "2026-11-22T13:10+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 24802.8,
+      "unit": "Pkt.",
+      "change_pct": -2.6,
+      "history": [
+        26771.9,
+        26749.9,
+        26598.6,
+        26045.4,
+        25736.2,
+        25463.8,
+        24802.8
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 25029.0,
+      "unit": "Pkt.",
+      "change_pct": -5.61,
+      "history": [
+        28289.2,
+        27943.7,
+        27197.2,
+        27001.8,
+        27116.3,
+        26517.1,
+        25029.0
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 6910.4,
+      "unit": "Pkt.",
+      "change_pct": -3.7,
+      "history": [
+        7592.4,
+        7561.7,
+        7416.6,
+        7340.5,
+        7323.6,
+        7175.8,
+        6910.4
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 89.9,
+      "unit": "$",
+      "change_pct": -2.28,
+      "history": [
+        95.8,
+        92.4,
+        93.1,
+        91.9,
+        92.0,
+        89.9
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3515.4,
+      "unit": "$",
+      "change_pct": -4.62,
+      "history": [
+        3886.3,
+        3853.0,
+        3864.2,
+        3741.9,
+        3685.5,
+        3515.4
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.097,
+      "unit": "",
+      "change_pct": -0.02,
+      "history": [
+        1.1095,
+        1.105,
+        1.1025,
+        1.0998,
+        1.0993,
+        1.0972,
+        1.097
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "gold"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Weltklimakonferenz: Keine Einigung auf Abschlusserklärung",
+    "text": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. Zuvor hatte es am Papier unter anderem von Deutschland und der EU scharfe Kritik gegeben.",
+    "link": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Weltklimakonferenz: Keine Einigung auf Abschlusserklärung",
+        "text": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. Zuvor hatte es am Papier unter anderem von Deutschland und der EU scharfe Kritik gegeben.",
+        "link": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
+        "text": "Noch immer laufen die Löscharbeiten an dem russischen Frachter in der Ostsee vor Finnland. Was das Schiff geladen hat, ist weiterhin unklar. Es war von einer Drohne getroffen worden - vermutlich aus der Ukraine.",
+        "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
+        "text": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
+        "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+        "text": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\".",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie Armut Kinder in Deutschland krank macht",
+        "text": "Kinder aus armutsgefährdeten Familien haben ein höheres Risiko, krank zu werden - körperlich und psychisch. Dabei gibt es in Deutschland viele Hilfen. Warum kommen sie oft nicht an? Von Katharina Spreier.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
+        "text": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Israel: Warum die Stadt Bat Yam Iran verklagt",
+        "text": "Mehr als ein Jahr nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam sind viele Familien nicht in ihre Wohnungen zurückgekehrt. Nun hat die Stadt Klage gegen Iran eingereicht. Von Bettina Meier.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
+        "text": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
+        "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen zur Unterzeichnung des umfassenden Wirtschaftspartnerschaftsabkommens und des Investitionsschutzabkommens zwischen der EU und Indonesien",
+        "text": "European Commission Erklärung Brussels, 21 Nov 2026 Meine Damen und Herren,\nIch habe soeben mit Präsident Prabowo gesprochen, um diesen bedeutenden Tag für die Europäische Union und Indonesien zu feiern. Heute un...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2557"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by President von der Leyen on the assassination attempt against a US-Ukrainian citizen in Denmark",
+        "text": "European Commission Statement Brussels, 21 Nov 2026 I strongly condemn the assassination attempt against a US-Ukrainian citizen in Denmark, orchestrated by Russian intelligence services.\nThis was an attack on EU ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2556"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Šefčovič at the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement",
+        "text": "European Commission Statement Brussels, 21 Nov 2026 A warm welcome, dear Ministers. I am truly pleased to host you and your delegation. Because today, we seal a friendship and open a new chapter.\nAfter nine years...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2539"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "EU and Indonesia sign ambitious trade and investment agreements",
+        "text": "European Commission Press release Brussels, 21 Nov 2026 The European Union and Indonesia today signed their Comprehensive Economic Partnership Agreement (CEPA), and Investment Protection Agreement (IPA).",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2532"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Factsheet EU-Indonesia - Main benefits",
+        "text": "European Commission Factsheet Brussels, 23 Sep 2025   Factsheet EU-Indonesia - Main benefits Factsheet EU-Indonesia - Main benefits",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2169"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Factsheet EU-Indonesia - Agriculture",
+        "text": "European Commission Factsheet Brussels, 23 Sep 2025   Factsheet EU-Indonesia - Agriculture Factsheet EU-Indonesia - Agriculture",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2170"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
+        "text": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M. Hiltscher und J. Bartlitz.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Einsamkeit im Alter: „Aber wenigstens hören Sie mir zu“",
+      "text": "Sie kämpft dafür, dass ältere Menschen nicht einfach aus der öffentlichen Wahrnehmung verschwinden.     –   CC-BY 4.0: Gordon WeltersDas Silbernetz-Telefon ist eine Hotline für ältere Menschen, um einfach mal mit jemandem zu sprechen. Das soll Einsamkeit lindern und einen Weg aus",
+      "link": "https://netzpolitik.org/2026/einsamkeit-im-alter-aber-wenigstens-hoeren-sie-mir-zu/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 47: Die Woche, in der wir Dich brauchen",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 47. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 142.299 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Mobilfunk aus dem All: Kampf um die digitale Zukunft",
+      "text": "So einsam und verlassen geht es im Orbit nicht zu: Allein Starlink hält über 10.000 Satelliten in einer niedrigen Umlaufbahn über der Erde. (Fotomontage)    –   CC-BY 4.0: Wikideas1 / Bearbeitung: netzpolitik.orgIm Orbit wird die Zukunft digitaler Infrastruktur entschieden. Wer d",
+      "link": "https://netzpolitik.org/2026/mobilfunk-aus-dem-all-kampf-um-die-digitale-zukunft/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Kids Act: EU-Datenschutzbehörde warnt vor Alterskontrollen",
+      "text": "Wie streng, wie mild soll der Kids Act sein, um junge Menschen zu schützen? (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Julie Ricard; Bearbeitung: netzpolitik.orgNicht erforderlich, nicht ausgereift: Der Europäische Datenschutzbeauftragte kritisiert die",
+      "link": "https://netzpolitik.org/2026/kids-act-eu-datenschutzbehoerde-warnt-vor-alterskontrollen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digital levy: While Germany waits, big tech’s tax gap grows",
+      "text": "Last year, Culture and Media Minister Wolfram Weimer promised a key-points paper on digital levies leading to a draft law. The paper has yet to appear.    –   Alle Rechte vorbehalten: photothekRecord profits, ever-lower taxes: big tech’s tax gap is nearing €300 billion, a new stu",
+      "link": "https://netzpolitik.org/2026/digital-levy-while-germany-waits-big-techs-tax-gap-grows/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Bericht zur Steuerlücke: Big Tech zahlt immer weniger Steuern",
+      "text": "Im vergangenen Jahr kündigte Kulturstaatsminister Wolfram Weimer ein Eckpunktepapier an, als Vorstufe zu einem Gesetzentwurf. Das Papier liegt bis heute nicht vor.    –   Alle Rechte vorbehalten: photothekGroße Tech-Konzerne erzielen Rekordgewinne, zahlen jedoch immer weniger Ste",
+      "link": "https://netzpolitik.org/2026/bericht-zur-steuerluecke-big-tech-zahlt-immer-weniger-steuern/"
+    }
+  ]
+}
