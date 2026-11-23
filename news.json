@@ -1,92 +1,92 @@
 {
-  "updated": "2026-11-22T13:10+00:00",
+  "updated": "2026-11-23T15:47+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 24802.8,
+      "value": 25362.7,
       "unit": "Pkt.",
-      "change_pct": -2.6,
+      "change_pct": 2.26,
       "history": [
-        26771.9,
         26749.9,
         26598.6,
         26045.4,
         25736.2,
         25463.8,
-        24802.8
+        24802.8,
+        25362.7
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 25029.0,
+      "value": 26820.1,
       "unit": "Pkt.",
-      "change_pct": -5.61,
+      "change_pct": 7.16,
       "history": [
-        28289.2,
         27943.7,
         27197.2,
         27001.8,
         27116.3,
         26517.1,
-        25029.0
+        25029.0,
+        26820.1
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 6910.4,
+      "value": 7254.0,
       "unit": "Pkt.",
-      "change_pct": -3.7,
+      "change_pct": 4.97,
       "history": [
-        7592.4,
         7561.7,
         7416.6,
         7340.5,
         7323.6,
         7175.8,
-        6910.4
+        6910.4,
+        7254.0
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 89.9,
+      "value": 86.8,
       "unit": "$",
-      "change_pct": -2.28,
+      "change_pct": -6.26,
       "history": [
-        95.8,
         92.4,
         93.1,
         91.9,
         92.0,
-        89.9
+        92.6,
+        86.8
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 3515.4,
+      "value": 3675.2,
       "unit": "$",
-      "change_pct": -4.62,
+      "change_pct": 4.55,
       "history": [
-        3886.3,
         3853.0,
         3864.2,
         3741.9,
         3685.5,
-        3515.4
+        3515.4,
+        3675.2
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.097,
+      "value": 1.0912,
       "unit": "",
-      "change_pct": -0.02,
+      "change_pct": -0.53,
       "history": [
-        1.1095,
         1.105,
         1.1025,
         1.0998,
         1.0993,
         1.0972,
-        1.097
+        1.097,
+        1.0912
       ]
     },
     "fed_rate": {
@@ -105,106 +105,149 @@
     }
   },
   "ticker_relevant": [
+    "dax",
     "gold"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "Weltklimakonferenz: Keine Einigung auf Abschlusserklärung",
-    "text": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. Zuvor hatte es am Papier unter anderem von Deutschland und der EU scharfe Kritik gegeben.",
-    "link": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html"
+    "title": "OBI und Toom wollen fusionieren",
+    "text": "Die Baumarktketten OBI und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Das Bundeskartellamt muss der Fusion noch zustimmen.",
+    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "Weltklimakonferenz: Keine Einigung auf Abschlusserklärung",
-        "text": "Die Teilnehmer der Weltklimakonferenz im türkischen Antalya haben sich nicht auf eine gemeinsame Abschlusserklärung einigen können. Zuvor hatte es am Papier unter anderem von Deutschland und der EU scharfe Kritik gegeben.",
-        "link": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html"
+        "title": "OBI und Toom wollen fusionieren",
+        "text": "Die Baumarktketten OBI und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Das Bundeskartellamt muss der Fusion noch zustimmen.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Nach Drohnenangriff: Löscharbeiten an der \"Sparta II\" dauern an",
-        "text": "Noch immer laufen die Löscharbeiten an dem russischen Frachter in der Ostsee vor Finnland. Was das Schiff geladen hat, ist weiterhin unklar. Es war von einer Drohne getroffen worden - vermutlich aus der Ukraine.",
-        "link": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html"
+        "title": "KI-Pioniere streiten über die Risiken",
+        "text": "Wie groß sind die Gefahren Künstlicher Intelligenz? Eine neue ARD-Dokumentation zeigt, wie gegensätzlich die Positionen von KI-Experten sind - auch bei Wissenschaftlern, die der Technologie den Weg bereitet haben. Von Philipp Güll.",
+        "link": "https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "COP31: Beschlusstext \"für Deutschland nicht zustimmungsfähig\"",
-        "text": "Die Weltklimakonferenz in Antalya ist schon in der Verlängerung, um ein Beschlusspapier wird heftig gerungen. Nun hat Umweltminister Schneider den Entwurf scharf zurückgewiesen - und erhebt Vorwürfe gegen einige Staaten.",
-        "link": "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html"
+        "title": "Istanbuler Polizei sucht nach streunendem Löwen",
+        "text": "Ausnahmezustand in Istanbul: Ein Löwe streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das mutmaßlich weibliche Tier lokalisiert, doch woher kommt es?",
+        "link": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
-        "text": "Die Bundeswehr hat ein Problem mit sexualisiertem Fehlverhalten. Das belegt eine Studie. Der künftige Generalinspekteur der Bundeswehr, Freuding, will hier \"unerbittlich hart durchgreifen\". Die Zahlen seien \"unerträglich\".",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html"
+        "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
+        "text": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Wochen wegen eines Spionageskandals zurückgetreten.",
+        "link": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wie Armut Kinder in Deutschland krank macht",
-        "text": "Kinder aus armutsgefährdeten Familien haben ein höheres Risiko, krank zu werden - körperlich und psychisch. Dabei gibt es in Deutschland viele Hilfen. Warum kommen sie oft nicht an? Von Katharina Spreier.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html"
+        "title": "Bombendrohungen an Hunderten Schulen bundesweit",
+        "text": "Freiburg, Erfurt oder Hamburg: Hunderte Schulen im ganzen Land haben Drohschreiben bekommen. Mehrere Schulen wurden vorsorglich geräumt. Laut verschiedenen Polizeibehörden gibt es aber keine Hinweise auf eine konkrete Gefahr.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Gesetzentwurf des Justizministeriums: Femizide sollen eindeutig als Mord gelten",
-        "text": "\"Wer eine Frau tötet, weil sie sich von ihm trennen will, der muss als Mörder bestraft werden\": Justizministerin Hubig will den Mordparagrafen verschärfen und Femizide eindeutig als Mord erfassen. Ein Gesetzentwurf dazu liegt nun vor.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
+        "title": "Wer ist schuld am Scheitern des Klimagipfels?",
+        "text": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidentschaft. Von Jakob Mayr.",
+        "link": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Israel: Warum die Stadt Bat Yam Iran verklagt",
-        "text": "Mehr als ein Jahr nach dem verheerenden Raketenangriff auf ein Wohnviertel im israelischen Bat Yam sind viele Familien nicht in ihre Wohnungen zurückgekehrt. Nun hat die Stadt Klage gegen Iran eingereicht. Von Bettina Meier.",
-        "link": "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html"
+        "title": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
+        "text": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M. Behrendt.",
+        "link": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Gipfel in Brüssel: Annäherung zwischen Großbritannien und EU",
-        "text": "Sechs Jahre nach dem Brexit rücken Großbritannien und die EU wieder näher zusammen. Das war beim gemeinsamen Gipfel in Brüssel deutlich spürbar. Manche träumen sogar schon von einer Rückkehr Großbritanniens in die EU. Von Sarah López.",
-        "link": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html"
+        "title": "EU-Kommission ermittelt gegen Coca-Cola-Abfüller wegen Wettbewerbsverstößen",
+        "text": "Die EU-Kommission ermittelt wegen möglicher Wettbewerbsverstöße gegen den größten europäischen Coca-Cola-Abfüller. Das Unternehmen habe Supermärkten und Tankstellen womöglich Auflagen für Preise und Weiterverkauf gemacht.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-ermittlungen-coca-cola-abfueller-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
+        "text": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, hatte offenbar mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes. Die Chinesin steht im Mittelpunkt des Skandals um den US-Chipkonzern.",
+        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "NATO-Parlamentarier tagen zu Sicherheitspolitik in Berlin",
+        "text": "Die Parlamentarische Versammlung der NATO versteht sich als eine Art transatlantisches Parlament. Heute tagen die Delegierten in Berlin - mit prominenten Gästen und weitreichenden Forderungen. Von Oliver Neuroth.",
+        "link": "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Ukraine bekennt sich zu Zerstörung von russischem Kriegsschiff",
+        "text": "Die russische Korvette \"Merkury\" ging erst vor drei Jahren in Betrieb, nun wurde sie bei einem Angriff in einem libyschen Hafen versenkt. Präsident Selenskyj erklärte, die Ukraine habe die Attacke mit Seedrohnen durchgeführt.",
+        "link": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Geheimdienste warnen: Russland soll Atomwaffe im Weltraum vorbereiten",
+        "text": "Westliche Geheimdienste gehen nach Recherchen von WDR, NDR und SZ davon aus, dass Russland noch dieses Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will. Die Bundeswehr schlägt intern bereits Alarm.",
+        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Erklärung von Präsidentin von der Leyen zur Unterzeichnung des umfassenden Wirtschaftspartnerschaftsabkommens und des Investitionsschutzabkommens zwischen der EU und Indonesien",
-        "text": "European Commission Erklärung Brussels, 21 Nov 2026 Meine Damen und Herren,\nIch habe soeben mit Präsident Prabowo gesprochen, um diesen bedeutenden Tag für die Europäische Union und Indonesien zu feiern. Heute un...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2557"
+        "title": "Erklärung von Präsidentin von der Leyen zum 22. Sanktionspaket gegen Russland",
+        "text": "European Commission Erklärung Strasbourg, 23 Nov 2026 Guten Tag.\nHeute stellen wir unser 22. Sanktionspaket vor. Damit wollen wir den Druck auf Russland aufrechterhalten, seinen Angriffskrieg gegen die Ukraine zu b...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2563"
       },
       {
         "source": "EU-Kommission",
-        "title": "Statement by President von der Leyen on the assassination attempt against a US-Ukrainian citizen in Denmark",
-        "text": "European Commission Statement Brussels, 21 Nov 2026 I strongly condemn the assassination attempt against a US-Ukrainian citizen in Denmark, orchestrated by Russian intelligence services.\nThis was an attack on EU ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2556"
+        "title": "Daily News 23 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 23 Nov 2026 Commission welcomes European Citizens' Panel recommendations on Democratic Resilience \nThe European Citizens' Panel on Democratic Resilience concluded yesterday...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2561"
       },
       {
         "source": "EU-Kommission",
-        "title": "Remarks by Commissioner Šefčovič at the signature of the EU-Indonesia Comprehensive Economic Partnership Agreement and the Investment Protection Agreement",
-        "text": "European Commission Statement Brussels, 21 Nov 2026 A warm welcome, dear Ministers. I am truly pleased to host you and your delegation. Because today, we seal a friendship and open a new chapter.\nAfter nine years...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2539"
+        "title": "Speech by Commissioner Lahbib at HERA Industry Days",
+        "text": "European Commission Speech Brussels, 23 Nov 2026 This surgical mask only costs a few cents, but in April 2020 it was worth its weight in gold.\nPlanes full of masks that European regions had already paid for we...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2559"
       },
       {
         "source": "EU-Kommission",
-        "title": "EU and Indonesia sign ambitious trade and investment agreements",
-        "text": "European Commission Press release Brussels, 21 Nov 2026 The European Union and Indonesia today signed their Comprehensive Economic Partnership Agreement (CEPA), and Investment Protection Agreement (IPA).",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2532"
+        "title": "Keynote speech by Commissioner Albuquerque at the launch of the 6th European Retirement Week at the European Fund and Asset Management Association",
+        "text": "European Commission Speech Brussels, 23 Nov 2026 Good morning, ladies and gentlemen.\nMy thanks to Tanguy for the invitation to take part in today's event, and I would like to commend all fourteen associations ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2558"
       },
       {
         "source": "EU-Kommission",
-        "title": "Factsheet EU-Indonesia - Main benefits",
-        "text": "European Commission Factsheet Brussels, 23 Sep 2025   Factsheet EU-Indonesia - Main benefits Factsheet EU-Indonesia - Main benefits",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2169"
+        "title": "Kommission begrüßt Empfehlungen des Europäischen Bürgerforums zur demokratischen Resilienz",
+        "text": "European Commission Pressemitteilung Brussels, 23 Nov 2026 Das Europäische Bürgerforum für demokratische Resilienz hat gestern seine dritte und letzte Sitzung abgeschlossen.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2552"
       },
       {
         "source": "EU-Kommission",
-        "title": "Factsheet EU-Indonesia - Agriculture",
-        "text": "European Commission Factsheet Brussels, 23 Sep 2025   Factsheet EU-Indonesia - Agriculture Factsheet EU-Indonesia - Agriculture",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/fs_25_2170"
+        "title": "Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector",
+        "text": "European Commission Press release Brussels, 23 Nov 2026 The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules by (i) hindering the cross-border trade of carbonated soft drink",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2530"
       }
     ],
     "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
+        "text": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
+        "text": "Nach dem Kursrutsch beim DAX von 2.000 Punkten in gut einer Woche setzt eine Erholung ein. Doch sie steht auf wackligen Beinen. Viele Negativ-Faktoren begleiten Investoren weiter. Die Stimmung bleibt verhalten.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wer wird neuer Wirtschaftsminister und Vize-MP in Bayern?",
+        "text": "In Bayern müssen nach dem Tod von Hubert Aiwanger die Ämter des Wirtschaftsministers und Vize-Ministerpräsidenten neu besetzt werden. Heute wollen die Freien Wähler einen Nachfolger vorstellen.",
+        "link": "https://www.tagesschau.de/inland/regional/bayern/nachfolger-aiwanger-100.html"
+      },
       {
         "source": "Tagesschau",
         "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
@@ -214,6 +257,24 @@
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen",
+      "text": "Wenn KI-Assistenten Chats mitlesen, kann niemand mehr für die Privatsphäre dieser Chats garantieren. (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Claudio SchwarzEinmal mehr warnt der Signal Messenger vor dem Zugriff von KI-Assistenten auf eigentlich priv",
+      "link": "https://netzpolitik.org/2026/kuenstliche-intelligenz-wie-ki-assistenten-verschluesselte-messenger-unsicher-machen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Gesetz gegen digitale Gewalt: Bundesrat will strengere Regeln für Smart Glasses",
+      "text": "Weist diese Leuchte hinreichend darauf hin, dass gerade gefilmt wird? Der Bundesrat zweifelt daran.    –   Alle Rechte vorbehalten: IMAGO / Sven SimonDie Länder halten den Gesetzentwurf für die Bekämpfung von digitaler Gewalt an mehreren Stellen für zu milde. Sie fordern höhere S",
+      "link": "https://netzpolitik.org/2026/gesetz-gegen-digitale-gewalt-bundesrat-will-strengere-regeln-fuer-smart-glasses/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Vermummungsverbot: Ein Mensch muss ins Gefängnis, weil er sein Gesicht schützte",
+      "text": "Ein Polizist prügelt auf Protestierende ein. Hinter dem Banner: der vermummte Tim.    –   Alle Rechte vorbehalten: Screenshot aus einem Video von OAP RosenheimEin Student hat sich auf einer Demonstration vermummt. Er fürchtete, politische Gegner könnten ihn filmen und per Gesicht",
+      "link": "https://netzpolitik.org/2026/vermummungsverbot-ein-mensch-muss-ins-gefaengnis-weil-er-sein-gesicht-schuetzte/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Einsamkeit im Alter: „Aber wenigstens hören Sie mir zu“",
@@ -231,24 +292,6 @@
       "title": "Mobilfunk aus dem All: Kampf um die digitale Zukunft",
       "text": "So einsam und verlassen geht es im Orbit nicht zu: Allein Starlink hält über 10.000 Satelliten in einer niedrigen Umlaufbahn über der Erde. (Fotomontage)    –   CC-BY 4.0: Wikideas1 / Bearbeitung: netzpolitik.orgIm Orbit wird die Zukunft digitaler Infrastruktur entschieden. Wer d",
       "link": "https://netzpolitik.org/2026/mobilfunk-aus-dem-all-kampf-um-die-digitale-zukunft/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Kids Act: EU-Datenschutzbehörde warnt vor Alterskontrollen",
-      "text": "Wie streng, wie mild soll der Kids Act sein, um junge Menschen zu schützen? (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Julie Ricard; Bearbeitung: netzpolitik.orgNicht erforderlich, nicht ausgereift: Der Europäische Datenschutzbeauftragte kritisiert die",
-      "link": "https://netzpolitik.org/2026/kids-act-eu-datenschutzbehoerde-warnt-vor-alterskontrollen/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Digital levy: While Germany waits, big tech’s tax gap grows",
-      "text": "Last year, Culture and Media Minister Wolfram Weimer promised a key-points paper on digital levies leading to a draft law. The paper has yet to appear.    –   Alle Rechte vorbehalten: photothekRecord profits, ever-lower taxes: big tech’s tax gap is nearing €300 billion, a new stu",
-      "link": "https://netzpolitik.org/2026/digital-levy-while-germany-waits-big-techs-tax-gap-grows/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Bericht zur Steuerlücke: Big Tech zahlt immer weniger Steuern",
-      "text": "Im vergangenen Jahr kündigte Kulturstaatsminister Wolfram Weimer ein Eckpunktepapier an, als Vorstufe zu einem Gesetzentwurf. Das Papier liegt bis heute nicht vor.    –   Alle Rechte vorbehalten: photothekGroße Tech-Konzerne erzielen Rekordgewinne, zahlen jedoch immer weniger Ste",
-      "link": "https://netzpolitik.org/2026/bericht-zur-steuerluecke-big-tech-zahlt-immer-weniger-steuern/"
     }
   ]
 }
