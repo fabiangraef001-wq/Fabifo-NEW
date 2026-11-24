@@ -1,92 +1,94 @@
 {
-  "updated": "2026-11-23T15:47+00:00",
+  "updated": "2026-11-24T15:39+00:00",
   "ticker": {
     "dax": {
       "label": "DAX",
-      "value": 25362.7,
+      "value": 25085.5,
       "unit": "Pkt.",
-      "change_pct": 2.26,
+      "change_pct": -0.99,
       "history": [
-        26749.9,
         26598.6,
         26045.4,
         25736.2,
         25463.8,
         24802.8,
-        25362.7
+        25337.3,
+        25085.5
       ]
     },
     "nasdaq100": {
       "label": "Nasdaq 100",
-      "value": 26820.1,
+      "value": 26135.2,
       "unit": "Pkt.",
-      "change_pct": 7.16,
+      "change_pct": -2.28,
       "history": [
-        27943.7,
         27197.2,
         27001.8,
         27116.3,
         26517.1,
         25029.0,
-        26820.1
+        26746.1,
+        26135.2
       ]
     },
     "sp500": {
       "label": "S&P 500",
-      "value": 7254.0,
+      "value": 7174.9,
       "unit": "Pkt.",
-      "change_pct": 4.97,
+      "change_pct": -0.86,
       "history": [
-        7561.7,
         7416.6,
         7340.5,
         7323.6,
         7175.8,
         6910.4,
-        7254.0
+        7237.2,
+        7174.9
       ]
     },
     "brent": {
       "label": "Brent-Öl",
-      "value": 86.8,
+      "value": 87.4,
       "unit": "$",
-      "change_pct": -6.26,
+      "change_pct": -2.24,
       "history": [
         92.4,
         93.1,
         91.9,
         92.0,
         92.6,
-        86.8
+        89.4,
+        87.4
       ]
     },
     "gold": {
       "label": "Gold",
-      "value": 3675.2,
+      "value": 3586.1,
       "unit": "$",
-      "change_pct": 4.55,
+      "change_pct": -1.79,
       "history": [
         3853.0,
         3864.2,
         3741.9,
         3685.5,
         3515.4,
-        3675.2
+        3651.4,
+        3586.1
       ]
     },
     "eurusd": {
       "label": "EUR/USD",
-      "value": 1.0912,
+      "value": 1.0967,
       "unit": "",
-      "change_pct": -0.53,
+      "change_pct": -0.05,
       "history": [
-        1.105,
         1.1025,
         1.0998,
         1.0993,
         1.0972,
         1.097,
-        1.0912
+        1.0972,
+        1.0967
       ]
     },
     "fed_rate": {
@@ -106,157 +108,169 @@
   },
   "ticker_relevant": [
     "dax",
-    "gold"
+    "brent"
   ],
   "hero": {
     "eyebrow": "TOP-MELDUNG",
-    "title": "OBI und Toom wollen fusionieren",
-    "text": "Die Baumarktketten OBI und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Das Bundeskartellamt muss der Fusion noch zustimmen.",
-    "link": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html"
+    "title": "Weniger Hybridautos aus China - EU reguliert den Import",
+    "text": "Die EU will mit Importquoten verhindern, dass günstige chinesische Hybrid-Autos Europas Autobauern Konkurrenz machen. Die Importe hatten sich in den vergangenen zwei Jahren mehr als versechsfacht.",
+    "link": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html"
   },
   "columns": {
     "de": [
       {
         "source": "Tagesschau",
-        "title": "OBI und Toom wollen fusionieren",
-        "text": "Die Baumarktketten OBI und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einem Dach vereinen. Die Marke Toom soll wegfallen. Das Bundeskartellamt muss der Fusion noch zustimmen.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html"
+        "title": "Müssen Geflüchtete bei Taliban-Diplomaten vorsprechen?",
+        "text": "Seit 2024 gibt es Sammelabschiebungen nach Afghanistan und Absprachen mit den Taliban. Taliban-Vertreter sind in Konsulaten in Deutschland aktiv. Dort müssen Geflüchtete vorsprechen, auf Anordnung deutscher Behörden. Ist das zulässig? Von Max Bauer.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-gefluechtete-taliban-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "KI-Pioniere streiten über die Risiken",
-        "text": "Wie groß sind die Gefahren Künstlicher Intelligenz? Eine neue ARD-Dokumentation zeigt, wie gegensätzlich die Positionen von KI-Experten sind - auch bei Wissenschaftlern, die der Technologie den Weg bereitet haben. Von Philipp Güll.",
-        "link": "https://www.tagesschau.de/wissen/ki-letzte-erfindung-der-menschheit-100.html"
+        "title": "Taliban lassen Abschiebeflug verschieben",
+        "text": "Ein für heute geplanter Abschiebeflug nach Kabul wurde nach NDR-Informationen von afghanischer Seite abgesagt. Die Taliban wollen offenbar Druck machen, um die Einreise weiterer Konsularbeamte nach Deutschland zu erzwingen. Von P. Hornung.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Istanbuler Polizei sucht nach streunendem Löwen",
-        "text": "Ausnahmezustand in Istanbul: Ein Löwe streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das mutmaßlich weibliche Tier lokalisiert, doch woher kommt es?",
-        "link": "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html"
+        "title": "UN-Bericht: Partner und Verwandte Haupttäter bei Femiziden",
+        "text": "Von insgesamt 78.000 Femiziden weltweit im vergangenen Jahr gehen die meisten auf das Konto von Partnern und Angehörigen. Das geht aus einem UN-Bericht hervor. Für Frauen und Mädchen sei das eigene Zuhause der gefährlichste Ort.",
+        "link": "https://www.tagesschau.de/ausland/europa/un-bericht-femizide-unodc-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
-        "text": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Wochen wegen eines Spionageskandals zurückgetreten.",
-        "link": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html"
+        "title": "Kita-Gap-Portal: Trotz weniger Geburten fehlen Kitaplätze",
+        "text": "Obwohl in Deutschland weniger Kinder geboren werden, fehlt es weiterhin an Kitaplätzen. Vor allem ärmere und nicht Deutsch sprechende Familien sind betroffen. Große Unterschiede gibt es zwischen Ost und West.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/kitaplaetze-mangel-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Bombendrohungen an Hunderten Schulen bundesweit",
-        "text": "Freiburg, Erfurt oder Hamburg: Hunderte Schulen im ganzen Land haben Drohschreiben bekommen. Mehrere Schulen wurden vorsorglich geräumt. Laut verschiedenen Polizeibehörden gibt es aber keine Hinweise auf eine konkrete Gefahr.",
-        "link": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html"
+        "title": "Nvidia hält die Märkte in Atem",
+        "text": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wer ist schuld am Scheitern des Klimagipfels?",
-        "text": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidentschaft. Von Jakob Mayr.",
-        "link": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html"
+        "title": "\"Zutiefst schockierend\" - Weiterer Anstieg bei Fällen von Gewalt gegen Frauen",
+        "text": "Etwa 198.000 Frauen und Mädchen sowie 82.000 Männern und Jungen wurde im vergangenen Jahr häusliche Gewalt angetan - ein weiterer Anstieg, wie die Lagebilder des BKA zeigen. Besonders auffällig: Immer mehr Frauen werden zudem Opfer von digitaler Gewalt.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html"
       }
     ],
     "intl": [
       {
         "source": "Tagesschau",
-        "title": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
-        "text": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M. Behrendt.",
-        "link": "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html"
+        "title": "Weniger Hybridautos aus China - EU reguliert den Import",
+        "text": "Die EU will mit Importquoten verhindern, dass günstige chinesische Hybrid-Autos Europas Autobauern Konkurrenz machen. Die Importe hatten sich in den vergangenen zwei Jahren mehr als versechsfacht.",
+        "link": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "EU-Kommission ermittelt gegen Coca-Cola-Abfüller wegen Wettbewerbsverstößen",
-        "text": "Die EU-Kommission ermittelt wegen möglicher Wettbewerbsverstöße gegen den größten europäischen Coca-Cola-Abfüller. Das Unternehmen habe Supermärkten und Tankstellen womöglich Auflagen für Preise und Weiterverkauf gemacht.",
-        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/eu-ermittlungen-coca-cola-abfueller-100.html"
+        "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+        "text": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profiteur dessen war offenbar auch US-Präsident Donald Trump - der sich zuvor für den Huang eingesetzt hatte.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
-        "text": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, hatte offenbar mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes. Die Chinesin steht im Mittelpunkt des Skandals um den US-Chipkonzern.",
-        "link": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-skandal-kontakt-chinesischer-geheimdienst-100.html"
+        "title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+        "text": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehörden zufolge am Dienstagmorgen in Südkoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle.",
+        "link": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "NATO-Parlamentarier tagen zu Sicherheitspolitik in Berlin",
-        "text": "Die Parlamentarische Versammlung der NATO versteht sich als eine Art transatlantisches Parlament. Heute tagen die Delegierten in Berlin - mit prominenten Gästen und weitreichenden Forderungen. Von Oliver Neuroth.",
-        "link": "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html"
+        "title": "Kriegsfolgen im Gazastreifen: Verschmutztes Wasser, Asbest in den Trümmern",
+        "text": "Auf den Straßen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so die Hilfsorganisation Oxfam. Von Julio Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Ukraine bekennt sich zu Zerstörung von russischem Kriegsschiff",
-        "text": "Die russische Korvette \"Merkury\" ging erst vor drei Jahren in Betrieb, nun wurde sie bei einem Angriff in einem libyschen Hafen versenkt. Präsident Selenskyj erklärte, die Ukraine habe die Attacke mit Seedrohnen durchgeführt.",
-        "link": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html"
+        "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+        "text": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben.",
+        "link": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Geheimdienste warnen: Russland soll Atomwaffe im Weltraum vorbereiten",
-        "text": "Westliche Geheimdienste gehen nach Recherchen von WDR, NDR und SZ davon aus, dass Russland noch dieses Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will. Die Bundeswehr schlägt intern bereits Alarm.",
-        "link": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html"
+        "title": "NATO-Tagung: Warnungen an Russland - \"werden uns verteidigen\"",
+        "text": "In Berlin endet die NATO-Jahrestagung mit einer deutlichen Warnung an Russland: Man sei bereit, jeden Fuß des NATO-Gebiets zu verteidigen. Auch zu den Berichten über russische Pläne von Atomwaffen im Weltraum äußerte sich Kanzler Merz.",
+        "link": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html"
       }
     ],
     "eu": [
       {
         "source": "EU-Kommission",
-        "title": "Erklärung von Präsidentin von der Leyen zum 22. Sanktionspaket gegen Russland",
-        "text": "European Commission Erklärung Strasbourg, 23 Nov 2026 Guten Tag.\nHeute stellen wir unser 22. Sanktionspaket vor. Damit wollen wir den Druck auf Russland aufrechterhalten, seinen Angriffskrieg gegen die Ukraine zu b...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2563"
+        "title": "Daily News 24/ 11 / 2026",
+        "text": "European Commission Daily news Brussels, 24 Nov 2026 Commission calls for joint EU efforts to reduce tax gaps and boost public finances\nToday, the European Commission published its Mind the Gap 2026 Communication,...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2578"
       },
       {
         "source": "EU-Kommission",
-        "title": "Daily News 23 / 11 / 2026",
-        "text": "European Commission Daily news Brussels, 23 Nov 2026 Commission welcomes European Citizens' Panel recommendations on Democratic Resilience \nThe European Citizens' Panel on Democratic Resilience concluded yesterday...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2561"
+        "title": "Statement by Commissioner Dombrovskis presenting the European Semester Autumn Package at the European Parliament",
+        "text": "European Commission Statement Strasbourg, 24 Nov 2026 Madame Chair, honourable Members.\nThank you for the opportunity to join you today to present the main elements of the European Semester Autumn Package, adopted ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2571"
       },
       {
         "source": "EU-Kommission",
-        "title": "Speech by Commissioner Lahbib at HERA Industry Days",
-        "text": "European Commission Speech Brussels, 23 Nov 2026 This surgical mask only costs a few cents, but in April 2020 it was worth its weight in gold.\nPlanes full of masks that European regions had already paid for we...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2559"
+        "title": "Speech by Executive Vice-President Teresa Ribera at College of Europe, Natolin, Poland",
+        "text": "European Commission Speech Warsaw, 24 Nov 2026 Dear Vice-Rector, dear professors, dear students of the Johannes Gutenberg Promotion,\nThis campus opened in 1992. The Berlin Wall had just fallen, and Europe wa...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2570"
       },
       {
         "source": "EU-Kommission",
-        "title": "Keynote speech by Commissioner Albuquerque at the launch of the 6th European Retirement Week at the European Fund and Asset Management Association",
-        "text": "European Commission Speech Brussels, 23 Nov 2026 Good morning, ladies and gentlemen.\nMy thanks to Tanguy for the invitation to take part in today's event, and I would like to commend all fourteen associations ...",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2558"
+        "title": "Commission sets out key EU policy priorities for 2027 in its European Semester Autumn Package",
+        "text": "European Commission Press release Strasbourg, 24 Nov 2026 The European Commission today adopted the 2027 European Semester Autumn Package, setting out economic, social and employment policy priorities.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2553"
       },
       {
         "source": "EU-Kommission",
-        "title": "Kommission begrüßt Empfehlungen des Europäischen Bürgerforums zur demokratischen Resilienz",
-        "text": "European Commission Pressemitteilung Brussels, 23 Nov 2026 Das Europäische Bürgerforum für demokratische Resilienz hat gestern seine dritte und letzte Sitzung abgeschlossen.",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2552"
+        "title": "Commission imposes provisional import quotas on hybrid passenger vehicles",
+        "text": "European Commission Press release Brussels, 24 Nov 2026 The European Commission today published provisional safeguard measures setting import quotas for certain hybrid vehicles. These restrictions are needed to protect EU industry against a sharp recent increase in imports of suc",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2564"
       },
       {
         "source": "EU-Kommission",
-        "title": "Commission opens formal investigation into possible anticompetitive conduct by Coca-Cola Europacific Partners in the non-alcoholic drinks sector",
-        "text": "European Commission Press release Brussels, 23 Nov 2026 The European Commission has opened a formal antitrust investigation to assess whether Coca-Cola Europacific Partners (‘CCEP') has breached EU competition rules by (i) hindering the cross-border trade of carbonated soft drink",
-        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2530"
+        "title": "Commission calls for joint EU efforts to reduce tax gaps and boost public finances",
+        "text": "European Commission Press release Brussels, 24 Nov 2026 Today, the European Commission published its Mind the Gap 2026 Communication, showing how enhanced tax compliance, improved governance of tax expenditures, better tax collection and more effective tax administration can help",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2562"
       }
     ],
     "markt": [
       {
         "source": "Tagesschau",
-        "title": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
-        "text": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
-        "link": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html"
+        "title": "Ifo-Index steigt: \"Erholung der deutschen Wirtschaft kommt voran\"",
+        "text": "In der deutschen Wirtschaft nimmt der Aufschwung weiter Fahrt auf: Die Stimmung hat sich im November den siebten Monat in Folge verbessert. Der ifo-Index erreichte sogar den höchsten Stand seit dem Frühjahr 2023.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Marktbericht: Dem DAX gelingt eine Erholung - vorerst",
-        "text": "Nach dem Kursrutsch beim DAX von 2.000 Punkten in gut einer Woche setzt eine Erholung ein. Doch sie steht auf wackligen Beinen. Viele Negativ-Faktoren begleiten Investoren weiter. Die Stimmung bleibt verhalten.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html"
+        "title": "Debatte über Arzttermine: Führt der Sparkurs zur Drei-Klassen-Medizin?",
+        "text": "Der Bund kürzt den Gesundheitsetat um sechs Milliarden Euro. Doch wer gesetzlich versichert ist, wartet schon jetzt länger auf Facharzttermine. Was dahintersteckt, was erlaubt ist und was sich bald ändern könnte. Von Tina Handel.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Wer wird neuer Wirtschaftsminister und Vize-MP in Bayern?",
-        "text": "In Bayern müssen nach dem Tod von Hubert Aiwanger die Ämter des Wirtschaftsministers und Vize-Ministerpräsidenten neu besetzt werden. Heute wollen die Freien Wähler einen Nachfolger vorstellen.",
-        "link": "https://www.tagesschau.de/inland/regional/bayern/nachfolger-aiwanger-100.html"
+        "title": "Marktbericht: DAX nach Kursrausch zurück im Alltag",
+        "text": "Nach der Euphorie zum Wochenstart fällt der DAX im frühen Handel zurück. War der Nvidia-Rausch nur ein Strohfeuer? Positive Konjunktursignale kommen heute vom ifo-Geschäftsklimaindex.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html"
       },
       {
         "source": "Tagesschau",
-        "title": "Sind Einzelaktien eine Kostenfalle oder eine Goldgrube?",
-        "text": "Einzelaktien bieten etwas, was ein Welt-ETF kaum kann: Die Chance darauf, das Depot individueller zu gestalten und höhere Renditen zu erzielen. Gleichzeitig sind sie riskanter, zeitintensiver und komplexer. Von L.-M. Hiltscher und J. Bartlitz.",
-        "link": "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html"
+        "title": "Marktbericht: Aktienkurse steigen nach Huang-Rückkehr",
+        "text": "Der DAX erholt sich von seinem jüngsten Kursrutsch zunächst nur zaghaft. Doch dann sorgt die Nachricht von der Rückkehr des Nvidia-Chefs für Kurssprünge bei KI-Werten und an den Börsen weltweit.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html"
       }
     ]
   },
   "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Hamburg: Jetzt noch mehr Verhaltensscanner-Kameras",
+      "text": "Die Menschen an der Haltestelle Landungsbrücken sollen ab Anfang nächsten Jahres mit einem Verhaltensscanner beobachtet werden.    –   CC-BY-NC-SA 2.0: mwmbwlsIn Hamburg läuft im öffentlichen Nahverkehr testweise ein Projekt zur automatisierten Verhaltenserkennung. Ob die überhau",
+      "link": "https://netzpolitik.org/2026/hamburg-jetzt-noch-mehr-verhaltensscanner-kameras/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Wir schlagen Alarm: Eine Zugangskontrolle fürs Internet",
+      "text": "Die EU plant weitreichende Altersschranken im Netz. Was Kinder schützen soll, könnte für alle zur digitalen Ausweiskontrolle führen. Uns fehlen noch 430.000 Euro um auch nächstes Jahr Alarm schlagen zu können, wenn Kontrollinfrastrukturen drohen. Das geht nur mit deiner Unterstüt",
+      "link": "https://netzpolitik.org/2026/wir-schlagen-alarm-eine-zugangskontrolle-fuers-internet/"
+    },
     {
       "source": "netzpolitik.org",
       "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen",
@@ -280,18 +294,6 @@
       "title": "Einsamkeit im Alter: „Aber wenigstens hören Sie mir zu“",
       "text": "Sie kämpft dafür, dass ältere Menschen nicht einfach aus der öffentlichen Wahrnehmung verschwinden.     –   CC-BY 4.0: Gordon WeltersDas Silbernetz-Telefon ist eine Hotline für ältere Menschen, um einfach mal mit jemandem zu sprechen. Das soll Einsamkeit lindern und einen Weg aus",
       "link": "https://netzpolitik.org/2026/einsamkeit-im-alter-aber-wenigstens-hoeren-sie-mir-zu/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "KW 47: Die Woche, in der wir Dich brauchen",
-      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 47. Kalenderwoche geht zu Ende. Wir haben 16 neue Texte mit insgesamt 142.299 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
-      "link": "https://netzpolitik.org/2026/kw-47-die-woche-in-der-wir-dich-brauchen/"
-    },
-    {
-      "source": "netzpolitik.org",
-      "title": "Mobilfunk aus dem All: Kampf um die digitale Zukunft",
-      "text": "So einsam und verlassen geht es im Orbit nicht zu: Allein Starlink hält über 10.000 Satelliten in einer niedrigen Umlaufbahn über der Erde. (Fotomontage)    –   CC-BY 4.0: Wikideas1 / Bearbeitung: netzpolitik.orgIm Orbit wird die Zukunft digitaler Infrastruktur entschieden. Wer d",
-      "link": "https://netzpolitik.org/2026/mobilfunk-aus-dem-all-kampf-um-die-digitale-zukunft/"
     }
   ]
 }

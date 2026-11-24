@@ -1,0 +1,299 @@
+{
+  "updated": "2026-11-24T15:39+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25085.5,
+      "unit": "Pkt.",
+      "change_pct": -0.99,
+      "history": [
+        26598.6,
+        26045.4,
+        25736.2,
+        25463.8,
+        24802.8,
+        25337.3,
+        25085.5
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 26135.2,
+      "unit": "Pkt.",
+      "change_pct": -2.28,
+      "history": [
+        27197.2,
+        27001.8,
+        27116.3,
+        26517.1,
+        25029.0,
+        26746.1,
+        26135.2
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7174.9,
+      "unit": "Pkt.",
+      "change_pct": -0.86,
+      "history": [
+        7416.6,
+        7340.5,
+        7323.6,
+        7175.8,
+        6910.4,
+        7237.2,
+        7174.9
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 87.4,
+      "unit": "$",
+      "change_pct": -2.24,
+      "history": [
+        92.4,
+        93.1,
+        91.9,
+        92.0,
+        92.6,
+        89.4,
+        87.4
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3586.1,
+      "unit": "$",
+      "change_pct": -1.79,
+      "history": [
+        3853.0,
+        3864.2,
+        3741.9,
+        3685.5,
+        3515.4,
+        3651.4,
+        3586.1
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.0967,
+      "unit": "",
+      "change_pct": -0.05,
+      "history": [
+        1.1025,
+        1.0998,
+        1.0993,
+        1.0972,
+        1.097,
+        1.0972,
+        1.0967
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Weniger Hybridautos aus China - EU reguliert den Import",
+    "text": "Die EU will mit Importquoten verhindern, dass günstige chinesische Hybrid-Autos Europas Autobauern Konkurrenz machen. Die Importe hatten sich in den vergangenen zwei Jahren mehr als versechsfacht.",
+    "link": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Müssen Geflüchtete bei Taliban-Diplomaten vorsprechen?",
+        "text": "Seit 2024 gibt es Sammelabschiebungen nach Afghanistan und Absprachen mit den Taliban. Taliban-Vertreter sind in Konsulaten in Deutschland aktiv. Dort müssen Geflüchtete vorsprechen, auf Anordnung deutscher Behörden. Ist das zulässig? Von Max Bauer.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-gefluechtete-taliban-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Taliban lassen Abschiebeflug verschieben",
+        "text": "Ein für heute geplanter Abschiebeflug nach Kabul wurde nach NDR-Informationen von afghanischer Seite abgesagt. Die Taliban wollen offenbar Druck machen, um die Einreise weiterer Konsularbeamte nach Deutschland zu erzwingen. Von P. Hornung.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "UN-Bericht: Partner und Verwandte Haupttäter bei Femiziden",
+        "text": "Von insgesamt 78.000 Femiziden weltweit im vergangenen Jahr gehen die meisten auf das Konto von Partnern und Angehörigen. Das geht aus einem UN-Bericht hervor. Für Frauen und Mädchen sei das eigene Zuhause der gefährlichste Ort.",
+        "link": "https://www.tagesschau.de/ausland/europa/un-bericht-femizide-unodc-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Kita-Gap-Portal: Trotz weniger Geburten fehlen Kitaplätze",
+        "text": "Obwohl in Deutschland weniger Kinder geboren werden, fehlt es weiterhin an Kitaplätzen. Vor allem ärmere und nicht Deutsch sprechende Familien sind betroffen. Große Unterschiede gibt es zwischen Ost und West.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/kitaplaetze-mangel-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nvidia hält die Märkte in Atem",
+        "text": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "\"Zutiefst schockierend\" - Weiterer Anstieg bei Fällen von Gewalt gegen Frauen",
+        "text": "Etwa 198.000 Frauen und Mädchen sowie 82.000 Männern und Jungen wurde im vergangenen Jahr häusliche Gewalt angetan - ein weiterer Anstieg, wie die Lagebilder des BKA zeigen. Besonders auffällig: Immer mehr Frauen werden zudem Opfer von digitaler Gewalt.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Weniger Hybridautos aus China - EU reguliert den Import",
+        "text": "Die EU will mit Importquoten verhindern, dass günstige chinesische Hybrid-Autos Europas Autobauern Konkurrenz machen. Die Importe hatten sich in den vergangenen zwei Jahren mehr als versechsfacht.",
+        "link": "https://www.tagesschau.de/wirtschaft/hybridautos-china-europa-importe-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+        "text": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profiteur dessen war offenbar auch US-Präsident Donald Trump - der sich zuvor für den Huang eingesetzt hatte.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/trump-nvidia-aktien-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Südkorea meldet russische Militärflugzeuge vor seiner Küste",
+        "text": "Mehrere russische Militärflugzeuge sind südkoreanischen Sicherheitsbehörden zufolge am Dienstagmorgen in Südkoreas Luftverteidigungszone eingedrungen. Erst kürzlich meldeten Taiwan und Japan ähnliche Vorfälle.",
+        "link": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Kriegsfolgen im Gazastreifen: Verschmutztes Wasser, Asbest in den Trümmern",
+        "text": "Auf den Straßen sammelt sich der Müll, in den zerstörten Gebäuden steckt Asbest: Im Gazastreifen leidet die Bevölkerung. Die Folgen des Krieges könnten noch Jahrzehnte spürbar sein, so die Hilfsorganisation Oxfam. Von Julio Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-gazastreifen-162.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nvidia setzt Jensen Huang wieder als Chef ein - auf Druck Trumps?",
+        "text": "Dieser Rücktritt war von kurzer Dauer: Jensen Huang soll zurück an die Spitze des US-Konzerns Nvidia. Präsident Trump rühmt sich damit, Einfluss genommen zu haben. Doch das könnte noch Ärger geben.",
+        "link": "https://www.tagesschau.de/wirtschaft/huang-nvidia-chef-trump-demokraten-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "NATO-Tagung: Warnungen an Russland - \"werden uns verteidigen\"",
+        "text": "In Berlin endet die NATO-Jahrestagung mit einer deutlichen Warnung an Russland: Man sei bereit, jeden Fuß des NATO-Gebiets zu verteidigen. Auch zu den Berichten über russische Pläne von Atomwaffen im Weltraum äußerte sich Kanzler Merz.",
+        "link": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 24/ 11 / 2026",
+        "text": "European Commission Daily news Brussels, 24 Nov 2026 Commission calls for joint EU efforts to reduce tax gaps and boost public finances\nToday, the European Commission published its Mind the Gap 2026 Communication,...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2578"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by Commissioner Dombrovskis presenting the European Semester Autumn Package at the European Parliament",
+        "text": "European Commission Statement Strasbourg, 24 Nov 2026 Madame Chair, honourable Members.\nThank you for the opportunity to join you today to present the main elements of the European Semester Autumn Package, adopted ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2571"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Executive Vice-President Teresa Ribera at College of Europe, Natolin, Poland",
+        "text": "European Commission Speech Warsaw, 24 Nov 2026 Dear Vice-Rector, dear professors, dear students of the Johannes Gutenberg Promotion,\nThis campus opened in 1992. The Berlin Wall had just fallen, and Europe wa...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2570"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission sets out key EU policy priorities for 2027 in its European Semester Autumn Package",
+        "text": "European Commission Press release Strasbourg, 24 Nov 2026 The European Commission today adopted the 2027 European Semester Autumn Package, setting out economic, social and employment policy priorities.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2553"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission imposes provisional import quotas on hybrid passenger vehicles",
+        "text": "European Commission Press release Brussels, 24 Nov 2026 The European Commission today published provisional safeguard measures setting import quotas for certain hybrid vehicles. These restrictions are needed to protect EU industry against a sharp recent increase in imports of suc",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2564"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission calls for joint EU efforts to reduce tax gaps and boost public finances",
+        "text": "European Commission Press release Brussels, 24 Nov 2026 Today, the European Commission published its Mind the Gap 2026 Communication, showing how enhanced tax compliance, improved governance of tax expenditures, better tax collection and more effective tax administration can help",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2562"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Ifo-Index steigt: \"Erholung der deutschen Wirtschaft kommt voran\"",
+        "text": "In der deutschen Wirtschaft nimmt der Aufschwung weiter Fahrt auf: Die Stimmung hat sich im November den siebten Monat in Folge verbessert. Der ifo-Index erreichte sogar den höchsten Stand seit dem Frühjahr 2023.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Debatte über Arzttermine: Führt der Sparkurs zur Drei-Klassen-Medizin?",
+        "text": "Der Bund kürzt den Gesundheitsetat um sechs Milliarden Euro. Doch wer gesetzlich versichert ist, wartet schon jetzt länger auf Facharzttermine. Was dahintersteckt, was erlaubt ist und was sich bald ändern könnte. Von Tina Handel.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/arzt-termine-krankenkassen-patienten-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX nach Kursrausch zurück im Alltag",
+        "text": "Nach der Euphorie zum Wochenstart fällt der DAX im frühen Handel zurück. War der Nvidia-Rausch nur ein Strohfeuer? Positive Konjunktursignale kommen heute vom ifo-Geschäftsklimaindex.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Aktienkurse steigen nach Huang-Rückkehr",
+        "text": "Der DAX erholt sich von seinem jüngsten Kursrutsch zunächst nur zaghaft. Doch dann sorgt die Nachricht von der Rückkehr des Nvidia-Chefs für Kurssprünge bei KI-Werten und an den Börsen weltweit.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Hamburg: Jetzt noch mehr Verhaltensscanner-Kameras",
+      "text": "Die Menschen an der Haltestelle Landungsbrücken sollen ab Anfang nächsten Jahres mit einem Verhaltensscanner beobachtet werden.    –   CC-BY-NC-SA 2.0: mwmbwlsIn Hamburg läuft im öffentlichen Nahverkehr testweise ein Projekt zur automatisierten Verhaltenserkennung. Ob die überhau",
+      "link": "https://netzpolitik.org/2026/hamburg-jetzt-noch-mehr-verhaltensscanner-kameras/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Wir schlagen Alarm: Eine Zugangskontrolle fürs Internet",
+      "text": "Die EU plant weitreichende Altersschranken im Netz. Was Kinder schützen soll, könnte für alle zur digitalen Ausweiskontrolle führen. Uns fehlen noch 430.000 Euro um auch nächstes Jahr Alarm schlagen zu können, wenn Kontrollinfrastrukturen drohen. Das geht nur mit deiner Unterstüt",
+      "link": "https://netzpolitik.org/2026/wir-schlagen-alarm-eine-zugangskontrolle-fuers-internet/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Künstliche Intelligenz: Wie KI-Assistenten verschlüsselte Messenger unsicher machen",
+      "text": "Wenn KI-Assistenten Chats mitlesen, kann niemand mehr für die Privatsphäre dieser Chats garantieren. (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Claudio SchwarzEinmal mehr warnt der Signal Messenger vor dem Zugriff von KI-Assistenten auf eigentlich priv",
+      "link": "https://netzpolitik.org/2026/kuenstliche-intelligenz-wie-ki-assistenten-verschluesselte-messenger-unsicher-machen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Gesetz gegen digitale Gewalt: Bundesrat will strengere Regeln für Smart Glasses",
+      "text": "Weist diese Leuchte hinreichend darauf hin, dass gerade gefilmt wird? Der Bundesrat zweifelt daran.    –   Alle Rechte vorbehalten: IMAGO / Sven SimonDie Länder halten den Gesetzentwurf für die Bekämpfung von digitaler Gewalt an mehreren Stellen für zu milde. Sie fordern höhere S",
+      "link": "https://netzpolitik.org/2026/gesetz-gegen-digitale-gewalt-bundesrat-will-strengere-regeln-fuer-smart-glasses/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Vermummungsverbot: Ein Mensch muss ins Gefängnis, weil er sein Gesicht schützte",
+      "text": "Ein Polizist prügelt auf Protestierende ein. Hinter dem Banner: der vermummte Tim.    –   Alle Rechte vorbehalten: Screenshot aus einem Video von OAP RosenheimEin Student hat sich auf einer Demonstration vermummt. Er fürchtete, politische Gegner könnten ihn filmen und per Gesicht",
+      "link": "https://netzpolitik.org/2026/vermummungsverbot-ein-mensch-muss-ins-gefaengnis-weil-er-sein-gesicht-schuetzte/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Einsamkeit im Alter: „Aber wenigstens hören Sie mir zu“",
+      "text": "Sie kämpft dafür, dass ältere Menschen nicht einfach aus der öffentlichen Wahrnehmung verschwinden.     –   CC-BY 4.0: Gordon WeltersDas Silbernetz-Telefon ist eine Hotline für ältere Menschen, um einfach mal mit jemandem zu sprechen. Das soll Einsamkeit lindern und einen Weg aus",
+      "link": "https://netzpolitik.org/2026/einsamkeit-im-alter-aber-wenigstens-hoeren-sie-mir-zu/"
+    }
+  ]
+}
