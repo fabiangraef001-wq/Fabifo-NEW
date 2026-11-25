@@ -1,0 +1,293 @@
+{
+  "updated": "2026-11-25T15:23+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 24916.0,
+      "unit": "Pkt.",
+      "change_pct": -0.41,
+      "history": [
+        26045.4,
+        25736.2,
+        25463.8,
+        24802.8,
+        25337.3,
+        25017.8,
+        24916.0
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 25123.5,
+      "unit": "Pkt.",
+      "change_pct": -4.16,
+      "history": [
+        27001.8,
+        27116.3,
+        26517.1,
+        25029.0,
+        26746.1,
+        26214.2,
+        25123.5
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7006.2,
+      "unit": "Pkt.",
+      "change_pct": -2.71,
+      "history": [
+        7340.5,
+        7323.6,
+        7175.8,
+        6910.4,
+        7237.2,
+        7201.1,
+        7006.2
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 89.8,
+      "unit": "$",
+      "change_pct": -1.75,
+      "history": [
+        93.1,
+        91.9,
+        92.0,
+        92.6,
+        89.4,
+        91.4,
+        89.8
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3491.6,
+      "unit": "$",
+      "change_pct": -1.97,
+      "history": [
+        3864.2,
+        3741.9,
+        3685.5,
+        3515.4,
+        3651.4,
+        3561.9,
+        3491.6
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.0942,
+      "unit": "",
+      "change_pct": 0.31,
+      "history": [
+        1.0998,
+        1.0993,
+        1.0972,
+        1.097,
+        1.0972,
+        1.0908,
+        1.0942
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Wenn der Partner zuschlägt",
+    "text": "Alle drei Minuten erlebt eine Frau oder ein Mädchen in Deutschland häusliche Gewalt. Nur ein kleiner Teil der Taten wird angezeigt - aus Angst, Scham oder sozialer Isolation. Von Marion Försching.",
+    "link": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Wenn der Partner zuschlägt",
+        "text": "Alle drei Minuten erlebt eine Frau oder ein Mädchen in Deutschland häusliche Gewalt. Nur ein kleiner Teil der Taten wird angezeigt - aus Angst, Scham oder sozialer Isolation. Von Marion Försching.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/wenn-der-partner-zuschlaegt-gewalt-gegen-frauen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Gewalt gegen Frauen in Brasilien: Auf Streife gegen Femizide",
+        "text": "In Brasilien hat die Zahl der Frauenmorde vergangenes Jahr einen Höchststand erreicht. Eine Spezialeinheit der Polizei soll gefährdete Frauen schützen - unterwegs mit einer Patrouille in Rio de Janeiro. Von Xenia Böttcher.",
+        "link": "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Discounter senken Butterpreis unter einen Euro",
+        "text": "Die Discounter Lidl und Aldi haben den Preis für ein Stück Butter unter einen Euro gesenkt. Das liege an gesunkenen Einkaufspreisen. Der Bauernverband kritisiert die Senkung als \"Ohrfeige für Milchbauern\".",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "tagesschau in Einfacher Sprache startet WhatsApp-Kanal",
+        "text": "Langsamer gesprochen, erklärte Fachbegriffe, kaum Nebensätze - seit 2024 gibt es die tagesschau in Einfacher Sprache. Zehntausende nutzen sie jeden Tag. Nun wird das Angebot um einen WhatsApp-Kanal erweitert.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/einfache-sprache-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Kartenzahlung überholt erstmals Bargeld in Geschäften",
+        "text": "Verbraucher in der Eurozone nutzen immer häufiger Kartenzahlungen. Trotzdem bleibt Bargeld beliebt - vor allem geringe Summen werden nach wie vor oft bar bezahlt.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-zahlungsverhalten-bargeld-kartenzahlung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Was über die rechtsextremistische Gruppe \"Terror 18\" bekannt ist",
+        "text": "Sie sind fast noch Kinder und planten laut Bundesanwaltschaft schwerste Straftaten, etwa auf eine Flüchtlingsunterkunft. Nun gingen Ermittler gegen mutmaßliche Mitglieder der rechtsextremistischen Gruppe \"Terror 18\" vor. Was ist bekannt? Von Max Bauer.",
+        "link": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "USA kündigen neue Zölle an - auch gegen EU und China",
+        "text": "Die USA haben neue Sonderzölle gegen die EU und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen, auf chinesische Waren soll eine Abgabe von 20 Prozent fällig werden.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "74 Peitschenhiebe für iranische Sängerin löst Empörung aus",
+        "text": "Ein Onlinekonzert ohne Kopftuch - dafür erhielt die iranische Sängerin Parastu Ahmadi 74 Peitschenhiebe. Das löste international große Empörung aus. Die Strafe sei \"grausam und unmenschlich\" und eine Form der Folter.",
+        "link": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Umstrittener Abschiebefall: Salvadorianer Abrego García hat USA verlassen",
+        "text": "2025 war der Salvadorianer Abrego Garcia aus den USA abgeschoben worden - rechtswidrig. Er landete in einem berüchtigten Gefängnis und wurde so zum Symbol für Trumps umstrittene Politik. Nun eine neue Wendung: Abrego Garcia ist in Spanien.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU-Parlament stimmt neuen Arzneimittelregeln zu",
+        "text": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Das Parlament stimmte neuen Arzneimitteln-Regeln zu.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "11KM-Podcast: Abschiebezentren in Ruanda: Die nächste Stufe der EU-Asylpolitik",
+        "text": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Israel nach der Wahl: Schwierige Sondierungen zwischen Rivalen",
+        "text": "In Israel bleibt Gadi Eisenkot nicht mehr viel Zeit, eine Regierung zu bilden. Aktuell laufen die Gespräche mit Netanjahus Likud-Partei. Dabei gibt es große Differenzen - und kaum Alternativen. Von J. Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Executive Vice-President Virkkunen on the Quantum Act",
+        "text": "European Commission Speech Strasbourg, 25 Nov 2026 Good morning, ladies and gentlemen and welcome to this press point. I am here to present the Quantum Act just adopted by the college.\nQuantum is more than the n...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2588"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Keynote speech by Commissioner Kubilius on Defence Readiness in the EU Military Committee meeting at the level of Chiefs of Defence",
+        "text": "European Commission Speech Brussels, 25 Nov 2026 Good to be together again with all of you!\nYou asked us to elaborate on several questions. I am going to do that right away.\nMy major message: we need to intens...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2586"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Serafin during the European Parliament debate Unlocking the 2028–2034 MFF negotiations including new own resources following the revised negotiating box in Strasbourg",
+        "text": "European Commission Speech Strasbourg, 25 Nov 2026 Opening remarks\nHonourable members, dear rapporteurs,\nMany thanks for organising this debate at very timely moment.\nLet me start by stressing that the Commissio...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2585"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 25 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 25 Nov 2026 Marie Skłodowska-Curie Actions Doctoral Networks 2026 call attracts almost 2000 proposals\nThe 2026 call for Doctoral Networks under the Marie Skłodowska-Curie A...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2584"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Statement by Commissioner Dombrovskis at the European Parliament on the EU's support for Ukraine",
+        "text": "European Commission Statement Strasbourg, 25 Nov 2026 Madam Chair, Minister, honourable Members,\nAllow me to conclude on behalf of the Commission by reiterating some key points.\nAs President von der Leyen has alrea...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/statement_26_2583"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Remarks by Commissioner Dombrovskis at Eurochambres meeting",
+        "text": "European Commission Speech Strasbourg, 25 Nov 2026 Good morning. It is a pleasure to join you this morning.\nBecause Eurochambres doesn't just tell us that our rules are too complicated.\nYou come back with report...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2582"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Deutsche Wirtschaft wächst im dritten Quartal nur um 0,1 Prozent",
+        "text": "Das Wachstum der deutschen Wirtschaft ist zuletzt überraschend langsamer gewachsen als erwartet. Entgegen einer früheren Schätzung ist das BIP im dritten Quartal nur um 0,1 Prozent gestiegen.",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/bip-deutschland-wirtschaftsleistung-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX fällt zurück, Tech-Aktien sinken",
+        "text": "Ist der Kurssprung der Nvidia-Aktie wegen der Rückkehr von Konzernchef Huang schon wieder abgehakt? Heute mehren sich jedenfalls die Zweifel. Und nicht nur das Papier des US-Chipkonzerns rutscht ab.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Steinmeier appelliert an Wirtschaft: Chancen in Afrika nutzen",
+        "text": "Bisher gehen nur 1,8 Prozent der deutschen Exporte nach Afrika. Dabei leben auf dem Kontinent 1,6 Milliarden Menschen. Von \"ungenutzten wirtschaftlichen Chancen\" spricht Bundespräsident Steinmeier in Ghana.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Trump und Huang: Die Tech-Oligarchie ist außer Kontrolle",
+      "text": "Anfang November regnete es auf dem \"A New Golden Age\"-Treffen Auszeichnungen für die US-Techbranche, darunter für Nvidia-Chef Jensen Huang.    –   Alle Rechte vorbehalten: ZUMA Press WireIm Skandal um die Rückkehr des Nvidia-Chefs Jensen Huang an die Spitze des Konzerns offenbart",
+      "link": "https://netzpolitik.org/2026/trump-und-huang-die-tech-oligarchie-ist-ausser-kontrolle/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Kürzungen bei \"Demokratie leben\": „Antifeminismus kann eine Radikalisierungspipeline sein“",
+      "text": "Ein Umbau des Programms \"Demokratie leben\" sei nötig, findet Bundesfamilienministerin Karin Prien.    –   Alle Rechte vorbehalten: IMAGO / dts NachrichtenagenturDas Familienministerium streicht die Förderung für die Zentrale Anlaufstelle bei organisierter Frauenfeindlichkeit und ",
+      "link": "https://netzpolitik.org/2026/kuerzungen-bei-demokratie-leben-antifeminismus-kann-eine-radikalisierungspipeline-sein/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Überwachung von Sea-Watch-Sprecherin: „Der Angriff auf uns ist Teil eines Angriffs auf die Demokratie“",
+      "text": "Unter Beobachtung: die Sea-Watch 3 nach einem Rettungseinsatz im Oktober 2021.    –   Alle Rechte vorbehalten: IMAGO / Independent Photo Agency Int.IT-forensische Analysen haben auf dem Handy der Sea-Watch-Sprecherin Giorgia Linardi eine hochentwickelte Spionage-Software entdeckt",
+      "link": "https://netzpolitik.org/2026/ueberwachung-von-sea-watch-sprecherin-der-angriff-auf-uns-ist-teil-eines-angriffs-auf-die-demokratie/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digitale Gewalt: Die Hälfte aller gewalttätigen Partner greift auch mit Technik an",
+      "text": "Das Mobiltelefon ist für viele gewalttätige Partner eine Waffe.    –   Vereinfachte Pixabay Lizenz: Sammy-SanderStalking-Apps, Tracker, Fahrzeug-Ortung: Eine Pilotstudie zu Gewalt im sozialen Umfeld hat einen erstaunlich intensiven Technologie-Einsatz zum Vorschein gebracht.",
+      "link": "https://netzpolitik.org/2026/digitale-gewalt-die-haelfte-aller-gewalttaetigen-partner-greift-auch-mit-technik-an/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Verbraucherzentrale: Rechtmäßiger Einsatz der Meta-Brille im Alltag „kaum möglich“",
+      "text": "Überwachungsbrillen wie die von Meta sehen mittlerweile recht normal aus, aber haben eine hochauflösende Kamera und gute Mikrofone verbaut.     –   Alle Rechte vorbehalten: IMAGO / MiSMeta und Ray-Ban informieren die Käufer:innen nicht ausreichend darüber, dass die Nutzung von Sm",
+      "link": "https://netzpolitik.org/2026/verbraucherzentrale-rechtmaessiger-einsatz-der-meta-brille-im-alltag-kaum-moeglich/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Alterskontrollen, Sorgerechtsnachweise: EU-Länder haben Bedenken zum Kids Act",
+      "text": "Kein Zugang ohne Altersnachweis – die Zukunft des Internets?    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Gergana StefanovaAm von der EU-Kommission geplanten Kids Act gibt es erste Kritik der Mitgliedstaaten. Während Estland Altersgrenzen ablehnt, kritisieren gleich ",
+      "link": "https://netzpolitik.org/2026/alterskontrollen-sorgerechtsnachweise-eu-laender-haben-bedenken-zum-kids-act/"
+    }
+  ]
+}
