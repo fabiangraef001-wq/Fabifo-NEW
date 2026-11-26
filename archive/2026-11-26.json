@@ -1,0 +1,294 @@
+{
+  "updated": "2026-11-26T14:52+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25234.2,
+      "unit": "Pkt.",
+      "change_pct": 2.15,
+      "history": [
+        25736.2,
+        25463.8,
+        24802.8,
+        25337.3,
+        25017.8,
+        24702.1,
+        25234.2
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 26046.9,
+      "unit": "Pkt.",
+      "change_pct": -0.64,
+      "history": [
+        27001.8,
+        27116.3,
+        26517.1,
+        25029.0,
+        26746.1,
+        26214.2,
+        26046.9
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7182.8,
+      "unit": "Pkt.",
+      "change_pct": -0.25,
+      "history": [
+        7340.5,
+        7323.6,
+        7175.8,
+        6910.4,
+        7237.2,
+        7201.1,
+        7182.8
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 91.4,
+      "unit": "$",
+      "change_pct": -3.38,
+      "history": [
+        91.9,
+        92.0,
+        92.6,
+        89.4,
+        91.4,
+        94.6,
+        91.4
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3600.9,
+      "unit": "$",
+      "change_pct": 1.84,
+      "history": [
+        3741.9,
+        3685.5,
+        3515.4,
+        3651.4,
+        3561.9,
+        3535.8,
+        3600.9
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.0981,
+      "unit": "",
+      "change_pct": 0.17,
+      "history": [
+        1.0993,
+        1.0972,
+        1.097,
+        1.0972,
+        1.0908,
+        1.0962,
+        1.0981
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "sp500",
+    "brent"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
+    "text": "Der Onlinehändler Temu will Verbraucher in der EU besser schützen. So verzichtet das chinesische Unternehmen künftig nach eigenen Angaben auf gefälschte Bewertungen oder das Ausüben von Kaufdruck.",
+    "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
+        "text": "Der Onlinehändler Temu will Verbraucher in der EU besser schützen. So verzichtet das chinesische Unternehmen künftig nach eigenen Angaben auf gefälschte Bewertungen oder das Ausüben von Kaufdruck.",
+        "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Erzbistum Köln: Rekordschmerzensgeld für Missbrauchsopfer",
+        "text": "Das Erzbistum Köln muss einem Missbrauchsopfer 550.000 Euro Schmerzensgeld zahlen - die bisher höchste Summe in einem solchen Fall. Das Oberlandesgericht Köln sieht die Kirche in der Verantwortung.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "BGH stärkt Rechte von Mietern bei Balkonkraftwerken",
+        "text": "Mieter haben einen Anspruch darauf, Solaranlagen an ihren Balkonen anzubringen. Vermieter können das nur in Ausnahmefällen verbieten. Dass die Hürden dafür hoch sind, hat der Bundesgerichtshof jetzt klargestellt. Von Antonetta Stephany.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/mietrecht-balkonkraftwerke-bgh-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Menschen in Hongkong gedenken der Opfer von Hochhausbrand",
+        "text": "Vor einem Jahr starben 168 Menschen bei einem verheerenden Brand in einem Hochhauskomplex in Hongkong. Heute haben die Menschen dort der Opfer gedacht. Eine offizielle Gedenkveranstaltung gab es aber nicht - auch auf Druck der Regierung.",
+        "link": "https://www.tagesschau.de/ausland/asien/hongkong-gedenken-hochhausbrand-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Mitglieder von früherer AfD-Jugend dürfen Waffenschein behalten",
+        "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Waffenschein zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Black Weeks: Wie die Rabattschlacht Handel und Kunden verändert",
+        "text": "Früher war es ein einzelner Einkaufstag, heute zieht sich die Schnäppchenjagd über Wochen: Der Black Friday hat sich auf den ganzen Monat ausgedehnt. Verbraucher warten gezielt auf Rabatte, Händler müssen mitziehen. Von Anke Heinhaus.",
+        "link": "https://www.tagesschau.de/wirtschaft/verbraucher/black-friday-schnaeppchen-wahnsinn-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Russland: Sieben von zehn ermordeten Frauen Opfer häuslicher Gewalt",
+        "text": "Der Krieg gegen die Ukraine hinterlässt auch in der Statistik zu häuslicher Gewalt in Russland Spuren. Eine Studie zeigt: Viele Täter sind Kriegsteilnehmer. Und Verfahren können ausgesetzt werden, wenn Beschuldigte in den Krieg ziehen. Von L. Becker.",
+        "link": "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Israel: Staatsanwältin im Netanjahu-Prozess vor Dilemma",
+        "text": "Im Korruptionsprozess gegen Israels Premier Netanjahu haben die Richter empfohlen, den Vorwurf wegen Bestechlichkeit fallen zu lassen. Netanjahus Lager feiert das als Triumph - und die Staatsanwaltschaft steht massiv unter Zugzwang. Von J. Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-prozess-bestechungsvorwurf-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
+        "text": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
+        "text": "Beim EU-Sondergipfel geht der slowakische Regierungschef Fico auf Konfrontation. Zusammen mit Polen, Ungarn und Tschechien will er die EU-Haushaltspläne blockieren - insbesondere die Ukraine-Hilfen. Innenpolitisch könnte ihm das nutzen. Von M. Allweiss.",
+        "link": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Krieg gegen die Ukraine: Angriffe auf Kiew - Tote in Saporischschja",
+        "text": "Russland hat die Ukraine wieder massiv angegriffen. Auch bei einem ukrainischen Drohnenangriff im russisch besetzten Teil von Saporischschja gab es Tote. Beide Seiten tauschten die Leichen gefallener Soldaten aus.",
+        "link": "https://www.tagesschau.de/ausland/europa/tote-nach-russischen-angriffen-ukraine-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
+        "text": "Die Ukraine braucht viel Geld wegen der Schäden durch russische Luftangriffe. Das kommt oft von der EU. Journalisten und Politiker decken Fälle mutmaßlicher Korruption auf - und bewegen damit etwas. Von F. Kellermann.",
+        "link": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Marta Kos at the Albanian National Council for European Integration",
+        "text": "European Commission Speech Tirana, 26 Nov 2026 Dear Members of Parliament,  \nDear representatives of civil society,  \nLadies and Gentlemen,  \nIt is a pleasure and honour to be with you today.  \nThis Council ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2602"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 26/ 11/ 2026",
+        "text": "European Commission Daily news Brussels, 26 Nov 2026 EU launches Supply Chain Early Warning Network with Trans-Pacific bloc\nThe EU and the members of the Comprehensive and Progressive Agreement for Trans-Pacific P...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2595"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Temu verpflichtet sich nach Maßnahmen der nationalen Behörden zur Einhaltung der EU-Verbraucherschutzvorschriften",
+        "text": "European Commission Pressemitteilung Brussels, 26 Nov 2026 Im Anschluss an ein koordiniertes Vorgehen der Europäischen Kommission und des Netzes für die Zusammenarbeit im Verbraucherschutz (CPC-Netz) hat sich der Online-Marktplatz Temu verpflichtet, mehrere seiner Geschäftsprakti",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2594"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Hoekstra in the European Parliament's Plenary debate on the Outcome of the Antalya UN climate summit (COP 31)",
+        "text": "European Commission Speech Strasbourg, 26 Nov 2026 Ladies and gentlemen,\nGood morning to all of you.\nIn conversations and in negotiations you sometimes arrive at a moment where you simply have to say no.\nNo, bec...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2593"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen mit Präsident Costa im Anschluss an das Gipfeltreffen EU-Westbalkan",
+        "text": "European Commission Erklärung Brussels, 25 Nov 2026 Guten Abend,\nich bin davon überzeugt, dass die Erweiterung eine strategische Notwendigkeit für Europa ist. Heute ist die Dynamik greifbar. Ein Blick auf alle un...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2591"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Lahbib at the European Parliament on Combating Gender-Based Violence in the Age of Digital Technology",
+        "text": "European Commission Speech Strasbourg, 25 Nov 2026 Digital technologies are transforming every part of our lives. They are changing how we work, communicate and participate in public life. But while this digital...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2590"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
+        "text": "Nach einer massiven Talfahrt erholt sich der Aktienmarkt sprunghaft. Doch eine echte Trendwende an den Börsen ist derzeit nicht in Sicht. Chancen sind ebenso wie Risiken reichlich vorhanden.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-chancen-risiken-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX macht einen Sprung nach vorn",
+        "text": "Mit einem großen Satz überspringt der DAX wieder die Marke von 25.000 Punkten. Die Tech-Erholung an der Wall Street lockt Schnäppchenjäger an. Aber die wesentlichen Fragen zum KI-Hype bleiben offen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "KI-Ernüchterung an den Börsen greift um sich",
+        "text": "An den US-Börsen geht die Verkaufswelle bei Tech-Aktien weiter. Die alten Sorgen von Investoren wegen der Geschäfts mit Künstlicher Intelligenz bleiben - und neue sind hinzugekommen. Von Heidi Radvilas.",
+        "link": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Chatkontrolle-Verhandlungen: EU-Rat will für mehr Überwachung offenbar tricksen",
+      "text": "Um die Verhandlungen zur Chatkontrolle abzuschließen, erwägt die irische Ratspräsidentschaft ein ungewöhnliches Manöver.    –   Alle Rechte vorbehalten: BihlmayerfotografieAuf den letzten Metern stocken die EU-Verhandlungen zur Chatkontrolle. Das Parlament besteht darauf, dass Nu",
+      "link": "https://netzpolitik.org/2026/chatkontrolle-verhandlungen-eu-rat-will-fuer-mehr-ueberwachung-offenbar-tricksen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Haushalt: Baden-Württemberg will massiv beim Datenschutz kürzen",
+      "text": "Der Landesdatenschutzbeauftragte Tobias Keber kritisiert die geplanten Kürzungen (Archivbild)    –   CC-BY-SA 4.0: Stefanie Loos / re:publicaDer baden-württembergische Landesdatenschutzbeauftragte Tobias Keber kritisiert, dass er künftig 40 Prozent weniger Stellen bekommen soll. ",
+      "link": "https://netzpolitik.org/2026/haushalt-baden-wuerttemberg-will-massiv-beim-datenschutz-kuerzen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Trump und Huang: Die Tech-Oligarchie ist außer Kontrolle",
+      "text": "Anfang November regnete es auf dem \"A New Golden Age\"-Treffen Auszeichnungen für die US-Techbranche, darunter für Nvidia-Chef Jensen Huang.    –   Alle Rechte vorbehalten: ZUMA Press WireIm Skandal um die Rückkehr des Nvidia-Chefs Jensen Huang an die Spitze des Konzerns offenbart",
+      "link": "https://netzpolitik.org/2026/trump-und-huang-die-tech-oligarchie-ist-ausser-kontrolle/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Kürzungen bei \"Demokratie leben\": „Antifeminismus kann eine Radikalisierungspipeline sein“",
+      "text": "Ein Umbau des Programms \"Demokratie leben\" sei nötig, findet Bundesfamilienministerin Karin Prien.    –   Alle Rechte vorbehalten: IMAGO / dts NachrichtenagenturDas Familienministerium streicht die Förderung für die Zentrale Anlaufstelle bei organisierter Frauenfeindlichkeit und ",
+      "link": "https://netzpolitik.org/2026/kuerzungen-bei-demokratie-leben-antifeminismus-kann-eine-radikalisierungspipeline-sein/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Überwachung von Sea-Watch-Sprecherin: „Der Angriff auf uns ist Teil eines Angriffs auf die Demokratie“",
+      "text": "Unter Beobachtung: die Sea-Watch 3 nach einem Rettungseinsatz im Oktober 2021.    –   Alle Rechte vorbehalten: IMAGO / Independent Photo Agency Int.IT-forensische Analysen haben auf dem Handy der Sea-Watch-Sprecherin Giorgia Linardi eine hochentwickelte Spionage-Software entdeckt",
+      "link": "https://netzpolitik.org/2026/ueberwachung-von-sea-watch-sprecherin-der-angriff-auf-uns-ist-teil-eines-angriffs-auf-die-demokratie/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Digitale Gewalt: Die Hälfte aller gewalttätigen Partner greift auch mit Technik an",
+      "text": "Das Mobiltelefon ist für viele gewalttätige Partner eine Waffe.    –   Vereinfachte Pixabay Lizenz: Sammy-SanderStalking-Apps, Tracker, Fahrzeug-Ortung: Eine Pilotstudie zu Gewalt im sozialen Umfeld hat einen erstaunlich intensiven Technologie-Einsatz zum Vorschein gebracht.",
+      "link": "https://netzpolitik.org/2026/digitale-gewalt-die-haelfte-aller-gewalttaetigen-partner-greift-auch-mit-technik-an/"
+    }
+  ]
+}
