@@ -1,0 +1,300 @@
+{
+  "updated": "2026-11-27T14:50+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25331.8,
+      "unit": "Pkt.",
+      "change_pct": 0.46,
+      "history": [
+        25463.8,
+        24802.8,
+        25337.3,
+        25017.8,
+        24702.1,
+        25215.5,
+        25331.8
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 26238.3,
+      "unit": "Pkt.",
+      "change_pct": 0.73,
+      "history": [
+        27116.3,
+        26517.1,
+        25029.0,
+        26746.1,
+        26214.2,
+        26046.9,
+        26238.3
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7231.8,
+      "unit": "Pkt.",
+      "change_pct": 0.68,
+      "history": [
+        7323.6,
+        7175.8,
+        6910.4,
+        7237.2,
+        7201.1,
+        7182.8,
+        7231.8
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 91.2,
+      "unit": "$",
+      "change_pct": -3.59,
+      "history": [
+        91.9,
+        92.0,
+        92.6,
+        89.4,
+        91.4,
+        94.6,
+        91.2
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3652.6,
+      "unit": "$",
+      "change_pct": 3.3,
+      "history": [
+        3741.9,
+        3685.5,
+        3515.4,
+        3651.4,
+        3561.9,
+        3535.8,
+        3652.6
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.0955,
+      "unit": "",
+      "change_pct": -0.14,
+      "history": [
+        1.0972,
+        1.097,
+        1.0972,
+        1.0908,
+        1.0962,
+        1.097,
+        1.0955
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "sp500",
+    "ecb_rate"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
+    "text": "Der Zentralrat der Juden positioniert sich seit Langem klar gegen die AfD. Parteichefin Weidel warf der Organisation nun vor, sie sei von der CDU \"fremdgesteuert\". Der Präsident des Zentralrats reagierte mit deutlichen Worten.",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
+        "text": "Der Zentralrat der Juden positioniert sich seit Langem klar gegen die AfD. Parteichefin Weidel warf der Organisation nun vor, sie sei von der CDU \"fremdgesteuert\". Der Präsident des Zentralrats reagierte mit deutlichen Worten.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
+        "text": "Es ist ausreichend Schnee gefallen, es ist kalt genug und das Wetter spielt auch mit: In Deutschland hat Ski-Saison begonnen - an der Zugspitze und im Sauerland. Wintersportler müssen allerdings wieder tiefer in die Tasche greifen.",
+        "link": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Spionageverdacht: Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
+        "text": "Die Festnahme des Ex-BND-Chefs Hanning hatte im Oktober international Schlagzeilen produziert. Nun steht fest, dass der 80-Jährige vorerst in Haft bleibt. Gegen Hanning wird unter anderem wegen Spionageverdachts ermittelt.",
+        "link": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Das plant Arbeitsminister Schweitzer für die Rente",
+        "text": "Seit Monaten ringt die Koalition um einen Kompromiss bei der Rente. Arbeitsminister Schweitzer hat nun einen ersten Entwurf vorgelegt. Einer der Punkte: Die \"Rente mit 63\" soll im Kern bestehen bleiben. Von Jan-Peter Bartels und Tim Aßmann.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wer 2027 im Haushalt mehr Geld bekommt - und wer weniger",
+        "text": "Der Bundestag hat den Haushalt für 2027 beschlossen. Dabei gibt es deutliche Verschiebungen: mehr Geld für Verteidigung und Soziales, weniger für Gesundheit und Entwicklung. Wer profitiert, wer verliert?",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Serbiens Studenten nominieren Professor als Staatsoberhaupt",
+        "text": "Die Parlamentswahl im September hatte Serbiens Studentenliste überraschend gewonnen. Nun soll Ende Dezember auch ein neuer Präsident gewählt werden. Ein Universitätsprofessor soll dafür ins Rennen gehen.",
+        "link": "https://www.tagesschau.de/ausland/europa/serbien-praesidentschaftswahl-professor-100.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Westjordanland: Israelische Politiker sprechen von \"jüdischem Terror\"",
+        "text": "Die Gewalt radikaler Siedler gegen Palästinenser im Westjordanland hat massiv zugenommen. In Israel ist der Begriff \"jüdischer Terror\" kein Tabu mehr. Doch in der Regierung tobt ein Richtungsstreit. Von Julio Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/westjordanland-gewalt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Schwerer Sturm sorgt in den USA an Thanksgiving für massive Einschränkungen",
+        "text": "Gestrichene Flüge, Stromausfälle und Überschwemmungen: Ausgerechnet an Thanksgiving haben Starkregen und heftige Winde in vielen Teilen der USA für Chaos gesorgt. In einigen Bundesstaaten gilt der Notstand.",
+        "link": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
+        "text": "Die Vorstellungen unter den 27 Staats- und Regierungschefs lagen weit auseinander. So weit, dass sie laut Merz den zweiten angesetzten Tag des Gipfels ausfallen lassen. Es geht um viele Milliarden für den EU-Haushalt.",
+        "link": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Russland: Sieben von zehn ermordeten Frauen Opfer häuslicher Gewalt",
+        "text": "Der Krieg gegen die Ukraine hinterlässt auch in der Statistik zu häuslicher Gewalt in Russland Spuren. Eine Studie zeigt: Viele Täter sind Kriegsteilnehmer. Und Verfahren können ausgesetzt werden, wenn Beschuldigte in den Krieg ziehen. Von L. Becker.",
+        "link": "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Keynote speech by Commissioner Albuquerque at the Training Day' of the 10th Anniversary of the ECB Simulation Conference for University Students",
+        "text": "European Commission Speech Online, 27 Nov 2026 Good morning, everyone.\nI am delighted to join you for the opening of the 10th ECB Simulation Conference.\nLet me begin by congratulating the organisers on a dec...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2613"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 27 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 27 Nov 2026 Commission unconditionally approves Deutsche Börse's acquisition of Allfunds\nThe European Commission has unconditionally approved, under the EU Merger Regulatio...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2609"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission unconditionally approves Deutsche Börse's acquisition of Allfunds",
+        "text": "European Commission Press release Brussels, 27 Nov 2026 The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by Deutsche Börse of Allfunds.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2592"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen mit dem Präsidenten Costa nach der außerordentlichen Tagung des Europäischen Rates vom November 2026",
+        "text": "European Commission Erklärung Brussels, 27 Nov 2026 Guten Abend.\nWir hatten einen langen Tag voller informativer Gespräche. Zunächst möchte ich Ihnen, António, für Ihre Bemühungen danken, uns einer Einigung über ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2603"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Marta Kos at the Albanian National Council for European Integration",
+        "text": "European Commission Speech Tirana, 26 Nov 2026 Dear Members of Parliament,  \nDear representatives of civil society,  \nLadies and Gentlemen,  \nIt is a pleasure and honour to be with you today.  \nThis Council ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2602"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 26/ 11/ 2026",
+        "text": "European Commission Daily news Brussels, 26 Nov 2026 EU launches Supply Chain Early Warning Network with Trans-Pacific bloc\nThe EU and the members of the Comprehensive and Progressive Agreement for Trans-Pacific P...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2595"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Anthropics wilde erste Börsenwoche",
+        "text": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Was die Neubesetzung der EZB-Spitze bedeutet",
+        "text": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos gilt als pragmatische Taube. In Zeiten hoher Inflation sind Konflikte programmiert. Von Klaus-Rainer Jackisch.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Anleger nutzen günstige Kurse zum Einkauf",
+        "text": "Der DAX setzt seine Erholung schwungvoll fort, unterstützt von der Aussicht auf einen starken Handelsstart an der Wall Street. Trotz der Kursgewinne bleibt die Frage, wie nachhaltig der KI-Boom ist.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: DAX macht einen Sprung nach vorn",
+        "text": "Mit Rückenwind der Technologie-Aktien springt der DAX am Donnerstag wieder über die Marke von 25.000 Punkten. Doch das Grundvertrauen, ob und wie weit die Erholung trägt, bleibt angeschlagen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
+        "text": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?",
+        "link": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
+        "text": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen.",
+        "link": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "Staatliche Werbung: Transparenz am unteren Limit",
+      "text": "Immer wieder schalten staatliche Stellen Werbung in Zeitungen und anderen Medien, wie hier die Bundesregierung in der Bild-Zeitung. Durch ein EU-Gesetz kann man jetzt recherchieren, wie viel Geld an wen fließt.    –   Alle Rechte vorbehalten: Imago / MiSDie EU verpflichtet staatl",
+      "link": "https://netzpolitik.org/2026/staatliche-werbung-transparenz-am-unteren-limit/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Hilfe für Kranke ohne Papiere: „Da hängt vielleicht das Leben einer schwangeren Frau dran“",
+      "text": "Nicht alle, die sie brauchen, bekommen ärztliche Beratung (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Vitaly GarievGeschätzt Hunderttausende Menschen in Deutschland können nicht einfach so zum Arzt gehen. Kostenfreie und anonyme Hilfe organisiert das Ne",
+      "link": "https://netzpolitik.org/2026/hilfe-fuer-kranke-ohne-papiere-da-haengt-vielleicht-das-leben-einer-schwangeren-frau-dran/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI in der Migrationsverwaltung: Automatisiert ins Risiko",
+      "text": "KI soll tief in die Migrationsverwaltung verwoben werden.    –   CC-BY 4.0: Hanna Barakat & Archival Images of AI + AIxDESIGNDeutschland soll in Zukunft mit KI Asylbescheide, Visumsanträge und Aufenthaltsgenehmigungen bearbeiten. Fachleute kritisieren, dass die Software auch mit ",
+      "link": "https://netzpolitik.org/2026/ki-in-der-migrationsverwaltung-automatisiert-ins-risiko/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Chatkontrolle-Verhandlungen: EU-Rat will für mehr Überwachung offenbar tricksen",
+      "text": "Um die Verhandlungen zur Chatkontrolle abzuschließen, erwägt die irische Ratspräsidentschaft ein ungewöhnliches Manöver.    –   Alle Rechte vorbehalten: BihlmayerfotografieAuf den letzten Metern stocken die EU-Verhandlungen zur Chatkontrolle. Das Parlament besteht darauf, dass Nu",
+      "link": "https://netzpolitik.org/2026/chatkontrolle-verhandlungen-eu-rat-will-fuer-mehr-ueberwachung-offenbar-tricksen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Haushalt: Baden-Württemberg will massiv beim Datenschutz kürzen",
+      "text": "Der Landesdatenschutzbeauftragte Tobias Keber kritisiert die geplanten Kürzungen (Archivbild)    –   CC-BY-SA 4.0: Stefanie Loos / re:publicaDer baden-württembergische Landesdatenschutzbeauftragte Tobias Keber kritisiert, dass er künftig 40 Prozent weniger Stellen bekommen soll. ",
+      "link": "https://netzpolitik.org/2026/haushalt-baden-wuerttemberg-will-massiv-beim-datenschutz-kuerzen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Trump und Huang: Die Tech-Oligarchie ist außer Kontrolle",
+      "text": "Anfang November regnete es auf dem \"A New Golden Age\"-Treffen Auszeichnungen für die US-Techbranche, darunter für Nvidia-Chef Jensen Huang.    –   Alle Rechte vorbehalten: ZUMA Press WireIm Skandal um die Rückkehr des Nvidia-Chefs Jensen Huang an die Spitze des Konzerns offenbart",
+      "link": "https://netzpolitik.org/2026/trump-und-huang-die-tech-oligarchie-ist-ausser-kontrolle/"
+    }
+  ]
+}
