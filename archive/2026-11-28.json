@@ -1,0 +1,294 @@
+{
+  "updated": "2026-11-28T13:59+00:00",
+  "ticker": {
+    "dax": {
+      "label": "DAX",
+      "value": 25441.2,
+      "unit": "Pkt.",
+      "change_pct": 0.9,
+      "history": [
+        25463.8,
+        24802.8,
+        25337.3,
+        25017.8,
+        24702.1,
+        25215.5,
+        25441.2
+      ]
+    },
+    "nasdaq100": {
+      "label": "Nasdaq 100",
+      "value": 26726.4,
+      "unit": "Pkt.",
+      "change_pct": 2.61,
+      "history": [
+        27116.3,
+        26517.1,
+        25029.0,
+        26746.1,
+        26214.2,
+        26046.9,
+        26726.4
+      ]
+    },
+    "sp500": {
+      "label": "S&P 500",
+      "value": 7297.5,
+      "unit": "Pkt.",
+      "change_pct": 1.6,
+      "history": [
+        7323.6,
+        7175.8,
+        6910.4,
+        7237.2,
+        7201.1,
+        7182.8,
+        7297.5
+      ]
+    },
+    "brent": {
+      "label": "Brent-Öl",
+      "value": 95.4,
+      "unit": "$",
+      "change_pct": 0.85,
+      "history": [
+        91.9,
+        92.0,
+        92.6,
+        89.4,
+        91.4,
+        94.6,
+        95.4
+      ]
+    },
+    "gold": {
+      "label": "Gold",
+      "value": 3639.6,
+      "unit": "$",
+      "change_pct": 2.94,
+      "history": [
+        3741.9,
+        3685.5,
+        3515.4,
+        3651.4,
+        3561.9,
+        3535.8,
+        3639.6
+      ]
+    },
+    "eurusd": {
+      "label": "EUR/USD",
+      "value": 1.0972,
+      "unit": "",
+      "change_pct": 0.02,
+      "history": [
+        1.0972,
+        1.097,
+        1.0972,
+        1.0908,
+        1.0962,
+        1.097,
+        1.0972
+      ]
+    },
+    "fed_rate": {
+      "label": "Fed-Leitzins",
+      "value": "3,50–3,75",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    },
+    "ecb_rate": {
+      "label": "EZB-Leitzins",
+      "value": "2,40",
+      "unit": "%",
+      "change_pct": 0,
+      "history": null
+    }
+  },
+  "ticker_relevant": [
+    "dax",
+    "brent",
+    "ecb_rate"
+  ],
+  "hero": {
+    "eyebrow": "TOP-MELDUNG",
+    "title": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
+    "text": "Regieren und gleichzeitig die Partei führen: Das passt für die Jusos nicht mehr zusammen. Auf seinem Bundeskongress fordert der SPD-Nachwuchs eine klare Trennung der Ämter - und eine Frau an der Spitze.",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html"
+  },
+  "columns": {
+    "de": [
+      {
+        "source": "Tagesschau",
+        "title": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
+        "text": "Regieren und gleichzeitig die Partei führen: Das passt für die Jusos nicht mehr zusammen. Auf seinem Bundeskongress fordert der SPD-Nachwuchs eine klare Trennung der Ämter - und eine Frau an der Spitze.",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
+        "text": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit.",
+        "link": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Volksabstimmung: Darf die Schweiz bald einfacher Waffen verkaufen?",
+        "text": "Das Schweizer Recht erlaubt den Export von Rüstungsgütern nur unter engen Vorgaben. Das schwäche die Sicherheit des Landes, meint die Regierung. Sie will das ändern - und lässt die Schweizer am Sonntag darüber abstimmen. Von S. Biegger.",
+        "link": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Flugverkehr am Airport Köln/Bonn nach Drohnensichtung zeitweise gestoppt",
+        "text": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
+        "link": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Nach niedrigen Pegelständen im Sommer: Umweltminister will Rhein umbauen",
+        "text": "Niedrige Pegelstände an deutschen Flüssen führten im Sommer zu erheblichen Wirtschaftsschäden. Umweltminister Schneider fordert nun massive Investitionen in die Wasserinfrastruktur. Er will dem Rhein mehr Platz geben.",
+        "link": "https://www.tagesschau.de/inland/umweltminister-schneider-rhein-umbau-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+        "text": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
+        "link": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html"
+      }
+    ],
+    "intl": [
+      {
+        "source": "Tagesschau",
+        "title": "Datenleak zeigt Ausmaß russischer Verluste im Krieg gegen die Ukraine",
+        "text": "Russland hält die offiziellen Zahlen zu seinen Verlusten im Ukraine-Krieg unter Verschluss. Nun liefert ein Hackerangriff auf die Statistikbehörde Einblicke - und gibt Hinweise auf Hunderttausende getötete russische Soldaten. Von L. Becker.",
+        "link": "https://www.tagesschau.de/ausland/europa/russland-rosstat-datenleak-hacker-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "BSW-Chef Fabio de Masi wirbt für Zusammenarbeit mit der AfD",
+        "text": "Das BSW berät in Dresden an diesem Wochenende über seinen künftigen Kurs. Der Streit um den Umgang mit der AfD droht die Partei zu entzweien. BSW-Chef de Masi wirbt für mehr Spielraum bei der Zusammenarbeit.",
+        "link": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
+        "text": "Israel wirft der Hamas im Gazastreifen immer wieder vor, sich als humanitäre Helfer auszugeben. Nun hat das Militär bei einem Angriff zwei Wachleute von Ärzte ohne Grenzen getötet. Die Hilfsorganisation zeigt sich empört.",
+        "link": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+        "text": "Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. Hauck.",
+        "link": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
+        "text": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\".",
+        "link": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Westjordanland: Israelische Politiker sprechen von \"jüdischem Terror\"",
+        "text": "Die Gewalt radikaler Siedler gegen Palästinenser im Westjordanland hat massiv zugenommen. In Israel ist der Begriff \"jüdischer Terror\" kein Tabu mehr. Doch in der Regierung tobt ein Richtungsstreit. Von Julio Segador.",
+        "link": "https://www.tagesschau.de/ausland/asien/westjordanland-gewalt-100.html"
+      }
+    ],
+    "eu": [
+      {
+        "source": "EU-Kommission",
+        "title": "Kommission bereitet vorübergehende Flexibilität für Plug-in-Hybrid-Elektrofahrzeuge vor",
+        "text": "European Commission Pressemitteilung Brussels, 28 Nov 2026 Die Europäische Kommission konsultiert heute den Technischen Ausschuss für Kraftfahrzeuge (TCMV), der sich aus Vertretern der Mitgliedstaaten zusammensetzt, zu Änderungen der Typgenehmigungsvorschriften (Euro 6 und Euro 7",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/ip_26_2604"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Keynote speech by Commissioner Albuquerque at the Training Day' of the 10th Anniversary of the ECB Simulation Conference for University Students",
+        "text": "European Commission Speech Online, 27 Nov 2026 Good morning, everyone.\nI am delighted to join you for the opening of the 10th ECB Simulation Conference.\nLet me begin by congratulating the organisers on a dec...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2613"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Daily News 27 / 11 / 2026",
+        "text": "European Commission Daily news Brussels, 27 Nov 2026 Commission unconditionally approves Deutsche Börse's acquisition of Allfunds\nThe European Commission has unconditionally approved, under the EU Merger Regulatio...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2609"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Commission unconditionally approves Deutsche Börse's acquisition of Allfunds",
+        "text": "European Commission Press release Brussels, 27 Nov 2026 The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by Deutsche Börse of Allfunds.",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2592"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Erklärung von Präsidentin von der Leyen mit dem Präsidenten Costa nach der außerordentlichen Tagung des Europäischen Rates vom November 2026",
+        "text": "European Commission Erklärung Brussels, 27 Nov 2026 Guten Abend.\nWir hatten einen langen Tag voller informativer Gespräche. Zunächst möchte ich Ihnen, António, für Ihre Bemühungen danken, uns einer Einigung über ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/de/statement_26_2603"
+      },
+      {
+        "source": "EU-Kommission",
+        "title": "Speech by Commissioner Marta Kos at the Albanian National Council for European Integration",
+        "text": "European Commission Speech Tirana, 26 Nov 2026 Dear Members of Parliament,  \nDear representatives of civil society,  \nLadies and Gentlemen,  \nIt is a pleasure and honour to be with you today.  \nThis Council ...",
+        "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2602"
+      }
+    ],
+    "markt": [
+      {
+        "source": "Tagesschau",
+        "title": "Marktbericht: Schnäppchenjagd an der Börse",
+        "text": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Anthropics wilde erste Börsenwoche",
+        "text": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-anthropic-ipo-ki-100.html"
+      },
+      {
+        "source": "Tagesschau",
+        "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
+        "text": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos steht eher für eine lockere Geldpolitik. In Zeiten hoher Inflation sind Konflikte programmiert. Von Klaus-Rainer Jackisch.",
+        "link": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html"
+      }
+    ]
+  },
+  "independent": [
+    {
+      "source": "netzpolitik.org",
+      "title": "KW 48: Die Woche, in der zivilgesellschaftliche Projekte um ihre Existenz ringen",
+      "text": "–   : Fraktal, generiert mit MandelBrowser von Tomasz ŚmigielskiDie 48. Kalenderwoche geht zu Ende. Wir haben 19 neue Texte mit insgesamt 170.252 Zeichen veröffentlicht. Willkommen zum netzpolitischen Wochenrückblick.",
+      "link": "https://netzpolitik.org/2026/kw-48-die-woche-in-der-zivilgesellschaftliche-projekte-um-ihre-existenz-ringen/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI-Kritik für Imbiss-Flyer: Im Auge des Betrachters",
+      "text": "Breites Angebot: Ein Kiosk wirbt mit KI generierter Schaufensterwerbung in Bremen-Neustadt.     –   : Lucas FiolaSich über ästhetisch fragwürdige, KI-generierte Imbissbuden-Flyer zu echauffieren, ist leicht. Doch der Spott und die Häme treffen die Falschen. Ein Kommentar.",
+      "link": "https://netzpolitik.org/2026/ki-kritik-imbissbude-im-auge-des-betrachters/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Pariser Manifest: Promi-Wissenschaftler schlagen Alarm gegen die Oligarchie",
+      "text": "Die Prominenten warnen: „Das Überleben der Demokratien und die Lebensfähigkeit unseres Planeten stehen auf dem Spiel.“    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: fsefefs sefesfesfesfMehrere Nobelpreisträger und zahlreiche angesehene Wissenschaftler:innen aus der ga",
+      "link": "https://netzpolitik.org/2026/pariser-manifest-promi-wissenschaftler-schlagen-alarm-gegen-die-oligarchie/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Staatliche Werbung: Transparenz am unteren Limit",
+      "text": "Immer wieder schalten staatliche Stellen Werbung in Zeitungen und anderen Medien, wie hier die Bundesregierung in der Bild-Zeitung. Durch ein EU-Gesetz kann man jetzt recherchieren, wie viel Geld an wen fließt.    –   Alle Rechte vorbehalten: Imago / MiSDie EU verpflichtet staatl",
+      "link": "https://netzpolitik.org/2026/staatliche-werbung-transparenz-am-unteren-limit/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "Hilfe für Kranke ohne Papiere: „Da hängt vielleicht das Leben einer schwangeren Frau dran“",
+      "text": "Nicht alle, die sie brauchen, bekommen ärztliche Beratung (Symbolbild)    –   Gemeinfrei-ähnlich freigegeben durch unsplash.com: Vitaly GarievGeschätzt Hunderttausende Menschen in Deutschland können nicht einfach so zum Arzt gehen. Kostenfreie und anonyme Hilfe organisiert das Ne",
+      "link": "https://netzpolitik.org/2026/hilfe-fuer-kranke-ohne-papiere-da-haengt-vielleicht-das-leben-einer-schwangeren-frau-dran/"
+    },
+    {
+      "source": "netzpolitik.org",
+      "title": "KI in der Migrationsverwaltung: Automatisiert ins Risiko",
+      "text": "KI soll tief in die Migrationsverwaltung verwoben werden.    –   CC-BY 4.0: Hanna Barakat & Archival Images of AI + AIxDESIGNDeutschland soll in Zukunft mit KI Asylbescheide, Visumsanträge und Aufenthaltsgenehmigungen bearbeiten. Fachleute kritisieren, dass die Software auch mit ",
+      "link": "https://netzpolitik.org/2026/ki-in-der-migrationsverwaltung-automatisiert-ins-risiko/"
+    }
+  ]
+}
